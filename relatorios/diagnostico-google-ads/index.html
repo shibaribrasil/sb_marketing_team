@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Google Ads — Relatórios Shibari Brasil</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --carbon:  #141419;
+      --plum-dk: #1c0c18;
+      --plum:    #5b1e4b;
+      --border:  #3a1630;
+      --warm:    #f4ece7;
+      --skin:    #e6cfc3;
+      --taupe:   #8c6f68;
+      --scarlet: #d10f2f;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--carbon);
+      color: var(--warm);
+      font-family: 'Montserrat', system-ui, sans-serif;
+      font-size: 14px;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      padding: 60px 24px;
+    }
+    .logo {
+      font-size: 10px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--taupe);
+      margin-bottom: 10px;
+      font-weight: 600;
+    }
+    h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--warm);
+      margin-bottom: 6px;
+    }
+    h1 span { color: var(--scarlet); }
+    .subtitle { font-size: 12px; color: var(--taupe); margin-bottom: 48px; font-weight: 400; }
+    .list {
+      width: 100%;
+      max-width: 600px;
+    }
+    .list-header {
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--taupe);
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 10px;
+    }
+    .item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 20px;
+      border-radius: 8px;
+      text-decoration: none;
+      color: var(--skin);
+      border: 1px solid transparent;
+      margin-bottom: 6px;
+      transition: border-color 0.15s, background 0.15s;
+    }
+    .item:hover { background: var(--plum-dk); border-color: var(--border); }
+    .item.latest {
+      background: var(--plum-dk);
+      border-color: var(--scarlet);
+      border-left-width: 3px;
+    }
+    .item-left { display: flex; flex-direction: column; gap: 3px; }
+    .item-title { font-size: 14px; font-weight: 600; color: var(--warm); }
+    .item-sub { font-size: 11px; color: var(--taupe); }
+    .item-badge {
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      background: rgba(209,15,47,0.12);
+      color: var(--scarlet);
+      padding: 4px 10px;
+      border-radius: 4px;
+      white-space: nowrap;
+    }
+    .arrow { color: var(--taupe); font-size: 14px; }
+  </style>
+</head>
+<body>
+  <div class="logo">Shibari Brasil · Tráfego Pago</div>
+  <h1>Google Ads <span>—</span> Relatórios</h1>
+  <div class="subtitle">Diagnósticos gerados via BigQuery · igneous-sandbox-381622</div>
+
+  <div class="list">
+    <div class="list-header">Histórico de Relatórios</div>
+
+    <a class="item latest" href="relatorio-diagnostico.html">
+      <div class="item-left">
+        <div class="item-title">Diagnóstico — 24 Jun 2026 (v2)</div>
+        <div class="item-sub">Dados de 15/06 a 23/06 · 5 campanhas · R$ 430 investidos · ROAS 3,98× · ROI 186% · + Seção 6 Orçamento · QS 10 confirmados</div>
+      </div>
+      <span class="item-badge">Mais recente</span>
+    </a>
+
+    <a class="item" href="relatorio-2026-06-24-v2.html">
+      <div class="item-left">
+        <div class="item-title">24/06/2026 — Diagnóstico v2 (cópia datada)</div>
+        <div class="item-sub">Com Seção 6 Orçamento · QS 10 · Budget utilization · gerada em 24/06/2026</div>
+      </div>
+      <span class="arrow">→</span>
+    </a>
+
+    <a class="item" href="relatorio-2026-06-24.html">
+      <div class="item-left">
+        <div class="item-title">24/06/2026 — Primeiro diagnóstico (v1)</div>
+        <div class="item-sub">Cópia datada v1 · gerada em 24/06/2026</div>
+      </div>
+      <span class="arrow">→</span>
+    </a>
+
+  </div>
+</body>
+</html>

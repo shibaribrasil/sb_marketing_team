@@ -1,0 +1,19 @@
+# Pastas ignoradas por padrão — lidas apenas quando chamadas explicitamente
+assets/
+conteudos/
+anuncios/
+produtos/
+relatorios/
+
+# Arquivos de contexto carregados apenas quando o agente específico trabalha
+contexto/design-system.md
+
+# Skills de habilidade — carregadas apenas quando explicitamente invocadas
+.claude/skills/hab-book-to-skill/
+.claude/skills/hab-meta-ads/
+.claude/skills/hab-google-ads/
+.claude/skills/hab-criador-produto/
+.claude/skills/hab-leitor-pdf/
+
+# Arquivos de desenvolvimento (não usados em produção)
+**/*.pyc
