@@ -115,7 +115,14 @@
       "PowerShell(bq query --use_legacy_sql=false --format=json --project_id=igneous-sandbox-381622 $q5)",
       "PowerShell($q5 = \"SELECT c.campaign_name, k.ad_group_criterion_keyword_text AS keyword, k.ad_group_criterion_keyword_match_type AS match_type, k.ad_group_criterion_quality_info_quality_score AS quality_score, k.ad_group_criterion_quality_info_search_predicted_ctr AS predicted_ctr, k.ad_group_criterion_quality_info_creative_quality_score AS ad_relevance, k.ad_group_criterion_quality_info_post_click_quality_score AS lp_experience, k.ad_group_criterion_status AS status FROM ``igneous-sandbox-381622.datalake_google_ads.ads_Keyword_4241689372`` k JOIN ``igneous-sandbox-381622.datalake_google_ads.ads_Campaign_4241689372`` c ON k.campaign_id = c.campaign_id AND c._DATA_DATE = c._LATEST_DATE WHERE k._DATA_DATE = k._LATEST_DATE AND k.ad_group_criterion_negative = false ORDER BY k.ad_group_criterion_quality_info_quality_score DESC LIMIT 50\")",
       "PowerShell(bq query --use_legacy_sql=false --format=json --project_id=igneous-sandbox-381622 $q7)",
-      "PowerShell($q7 = \"SELECT c.campaign_name, AVG\\(b.metrics_search_impression_share\\) AS impression_share, AVG\\(b.metrics_search_budget_lost_impression_share\\) AS perda_budget, AVG\\(b.metrics_search_rank_lost_impression_share\\) AS perda_ranking FROM ``igneous-sandbox-381622.datalake_google_ads.ads_CampaignBasicStats_4241689372`` b JOIN ``igneous-sandbox-381622.datalake_google_ads.ads_Campaign_4241689372`` c ON b.campaign_id = c.campaign_id AND c._DATA_DATE = c._LATEST_DATE WHERE b.segments_date >= DATE_SUB\\(CURRENT_DATE\\(\\), INTERVAL 9 DAY\\) AND b.segments_date < CURRENT_DATE\\(\\) GROUP BY c.campaign_name ORDER BY impression_share DESC\")"
+      "PowerShell($q7 = \"SELECT c.campaign_name, AVG\\(b.metrics_search_impression_share\\) AS impression_share, AVG\\(b.metrics_search_budget_lost_impression_share\\) AS perda_budget, AVG\\(b.metrics_search_rank_lost_impression_share\\) AS perda_ranking FROM ``igneous-sandbox-381622.datalake_google_ads.ads_CampaignBasicStats_4241689372`` b JOIN ``igneous-sandbox-381622.datalake_google_ads.ads_Campaign_4241689372`` c ON b.campaign_id = c.campaign_id AND c._DATA_DATE = c._LATEST_DATE WHERE b.segments_date >= DATE_SUB\\(CURRENT_DATE\\(\\), INTERVAL 9 DAY\\) AND b.segments_date < CURRENT_DATE\\(\\) GROUP BY c.campaign_name ORDER BY impression_share DESC\")",
+      "Read(//c/Users/HTK1562/Documents/GitHub/sb_dw_dbt/**)",
+      "Bash(Get-ChildItem -Recurse -Force)",
+      "Bash(Select-Object -ExpandProperty FullName)",
+      "Bash(Sort-Object)",
+      "Bash(find \"C:\\\\Users\\\\HTK1562\\\\Documents\\\\GitHub\\\\sb_dw_dbt\" -type d -not -path \"*/\\\\.*\" -not -path \"*/.venv/*\" -not -path \"*/target/*\")",
+      "PowerShell(bq mk *)",
+      "WebFetch(domain:docs.cloud.google.com)"
     ]
   }
 }
