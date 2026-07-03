@@ -1,11 +1,11 @@
 ---
 name: hab-meta-ads
-description: Use esta skill quando o Gui (agente-trafego) for criar, revisar, otimizar ou analisar anúncios e campanhas no Meta Ads focados em Instagram para a Shibari Brasil. Cobre estrutura de campanhas, formatos, criativos, segmentação, orçamento, Advantage+, testes A/B, métricas, políticas do Meta e estratégias para operar no nicho sensível (fetiche/BDSM) de forma compliant.
+description: Use esta skill quando o Gui (agente-trafego) for criar, revisar ou otimizar anúncios e campanhas no Meta Ads focados em Instagram para a Shibari Brasil. Cobre estrutura de campanhas, formatos, criativos, segmentação, orçamento, Advantage+, testes A/B, políticas do Meta e estratégias para operar no nicho sensível (fetiche/BDSM) de forma compliant.
 ---
 
 # Manual de Meta Ads — Shibari Brasil
 
-> Habilidade do Gui para criar, gerenciar e analisar campanhas pagas no Meta Ads com foco em Instagram. Combina a documentação oficial do Meta com boas práticas do mercado e diretrizes específicas para o nicho sensível da Shibari Brasil.
+> Habilidade do Gui para criar e gerenciar campanhas pagas no Meta Ads com foco em Instagram. Combina a documentação oficial do Meta com boas práticas do mercado e diretrizes específicas para o nicho sensível da Shibari Brasil.
 
 ---
 
@@ -396,52 +396,9 @@ Advantage+ tem menos controle manual. Quando o objetivo é testar hipóteses esp
 
 ---
 
-## Capítulo 9 — Métricas e Análise de Performance
+## Capítulo 9 — Nicho Sensível — Comunicação da SB no Meta
 
-### 9.1 KPIs Principais
-
-| Métrica | O que mede | Meta referência |
-|---------|-----------|-----------------|
-| **CPM** | Custo por mil impressões | Varia por público; monitorar tendência |
-| **CTR** | % de cliques sobre impressões | > 1% feed; > 0,5% stories |
-| **CPC** | Custo por clique | Depende do produto e objetivo |
-| **CPL** | Custo por lead | Definir meta por campanha |
-| **CPA** | Custo por aquisição (compra) | Definir meta por produto |
-| **ROAS** | Retorno sobre gasto | Mínimo 2×; meta 3–5× |
-| **Frequência** | Quantas vezes mesmo usuário viu | Acima de 3–4×: risco de fadiga |
-
-### 9.2 Sinais de Alerta
-
-| Sinal | Possível causa | Ação |
-|-------|----------------|------|
-| CTR caindo | Fadiga de criativo | Trocar criativo |
-| CPM subindo | Público muito estreito ou leilão acirrado | Ampliar público |
-| Frequência alta | Público pequeno ou campanha muito longa | Expandir público ou pausar |
-| CPA muito alto | Criativo fraco, landing page ruim ou público errado | Revisar um por vez |
-| Anúncio rejeitado | Violação de política | Ver Capítulo 11 |
-
-### 9.3 Ferramentas de Rastreamento
-
-**Facebook Pixel:**
-- Código instalado no site da SB
-- Rastreia: visitas, eventos (AddToCart, Purchase, ViewContent), cria públicos personalizados
-- Necessário para campanhas de Vendas e Retargeting
-
-**Conversions API (CAPI):**
-- Rastreamento server-side, complementa o Pixel
-- Mais robusto contra bloqueadores de cookies e iOS 14+
-- Recomendado para qualquer loja com volume de vendas
-
-**Relatórios:**
-- Criar visualizações salvas por conjunto de métricas relevantes
-- Acompanhar diariamente para detectar quedas ou picos
-- Exportar relatórios semanais para comparação histórica
-
----
-
-## Capítulo 10 — Nicho Sensível — Comunicação da SB no Meta
-
-### 10.1 Posicionamento Correto
+### 9.1 Posicionamento Correto
 
 A Shibari Brasil é uma **curadoria de produtos para práticas fetichistas** com foco em qualidade, segurança e arte. Esse posicionamento é legítimo e comunicável no Meta — desde que a abordagem seja adequada.
 
@@ -458,7 +415,7 @@ A Shibari Brasil é uma **curadoria de produtos para práticas fetichistas** com
 - Claims que associem diretamente o produto a atividade sexual
 - Landing pages com conteúdo adulto não restrito
 
-### 10.2 Estrutura de Funil para Nicho Sensível
+### 9.2 Estrutura de Funil para Nicho Sensível
 
 Para públicos frios, a abordagem direta de produto pode ter mais rejeições. Usar funil:
 
@@ -470,7 +427,7 @@ MEIO — Conteúdo educativo ou de produto com foco em qualidade
 FUNDO — Oferta direta para público que já conhece a marca
 ```
 
-### 10.3 Checklist Anti-Bloqueio
+### 9.3 Checklist Anti-Bloqueio
 
 Antes de publicar um anúncio, verificar cada item abaixo. Qualquer "sim" exige revisão antes de publicar.
 
@@ -495,7 +452,7 @@ Antes de publicar um anúncio, verificar cada item abaixo. Qualquer "sim" exige 
 - [ ] O anúncio faz claims que não consegue provar (ex: "o melhor do Brasil")?
 - [ ] A segmentação respeita as regras de não-discriminação do Meta?
 
-### 10.4 Em Caso de Bloqueio Recorrente
+### 9.4 Em Caso de Bloqueio Recorrente
 
 1. Revisar qual elemento específico está causando a rejeição (criativo, copy ou landing page)
 2. Ajustar somente o elemento problemático
@@ -505,9 +462,9 @@ Antes de publicar um anúncio, verificar cada item abaixo. Qualquer "sim" exige 
 
 ---
 
-## Capítulo 11 — Políticas do Meta
+## Capítulo 10 — Políticas do Meta
 
-### 11.1 O que é Proibido (sem exceção)
+### 10.1 O que é Proibido (sem exceção)
 
 - Conteúdo que explore ou ponha em risco crianças
 - Discriminação por raça, religião, orientação sexual ou outras características protegidas
@@ -519,7 +476,7 @@ Antes de publicar um anúncio, verificar cada item abaixo. Qualquer "sim" exige 
 - Conteúdo violento ou chocante
 - Armas, drogas ilícitas, produtos proibidos por lei
 
-### 11.2 Bens e Serviços Restritos (Requerem Cuidado)
+### 10.2 Bens e Serviços Restritos (Requerem Cuidado)
 
 | Categoria | Regra |
 |-----------|-------|
@@ -528,7 +485,7 @@ Antes de publicar um anúncio, verificar cada item abaixo. Qualquer "sim" exige 
 | Serviços de namoro | Autorização prévia obrigatória |
 | Apostas online | Autorização prévia + segmentação 18+ |
 
-### 11.3 Processo de Revisão
+### 10.3 Processo de Revisão
 
 - Toda campanha passa por revisão automática de IA antes de ir ao ar
 - Revisão típica: até **24 horas**
@@ -541,7 +498,7 @@ Antes de publicar um anúncio, verificar cada item abaixo. Qualquer "sim" exige 
 3. Se a rejeição parecer erro, solicitar revisão humana em `meta.com/accountquality`
 4. Em casos específicos, é possível apelar ao Oversight Board
 
-### 11.4 O que o Meta Analisa nos Anúncios
+### 10.4 O que o Meta Verifica nos Anúncios
 
 - Componentes do anúncio (imagens, vídeo, texto, headline)
 - Informações de segmentação (público-alvo)
@@ -552,9 +509,9 @@ Antes de publicar um anúncio, verificar cada item abaixo. Qualquer "sim" exige 
 
 ---
 
-## Capítulo 12 — Checklist Operacional
+## Capítulo 11 — Checklist Operacional
 
-### 12.1 Pré-Campanha
+### 11.1 Pré-Campanha
 
 - [ ] Objetivo de campanha definido
 - [ ] Público mapeado (frio, morno ou quente)
@@ -566,24 +523,8 @@ Antes de publicar um anúncio, verificar cada item abaixo. Qualquer "sim" exige 
 - [ ] Pixel instalado e disparando corretamente
 - [ ] Orçamento definido (diário ou vitalício)
 - [ ] Estratégia de lance escolhida
-- [ ] Checklist anti-bloqueio do Capítulo 10.3 feito
+- [ ] Checklist anti-bloqueio do Capítulo 9.3 feito
 - [ ] A/B teste planejado se for testar hipótese
-
-### 12.2 Durante a Campanha
-
-- [ ] Acompanhar KPIs diariamente (CTR, CPA, frequência)
-- [ ] Alertar quando frequência > 3 (risco de fadiga)
-- [ ] Não editar ad sets em fase de aprendizado sem necessidade
-- [ ] Aumentar orçamento gradualmente (máximo 20–30% por vez)
-- [ ] Rodar criativos novos antes de fatiga atingir
-
-### 12.3 Pós-Campanha
-
-- [ ] Registrar resultados com métricas principais
-- [ ] Documentar aprendizados de A/B testes
-- [ ] Comparar com campanha anterior equivalente
-- [ ] Atualizar segmentações com base nos dados
-- [ ] Arquivar criativos que performaram melhor para referência futura
 
 ---
 

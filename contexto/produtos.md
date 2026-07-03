@@ -54,6 +54,51 @@ Atualizar produto: [nome do produto]
 
 ## Catálogo
 
+## Corda de Juta 6mm × 8m Tratada para Shibari e Bondage
+
+**Categoria:** corda
+**SKU / Código:** — (a confirmar com o Hugo)
+**Faixa de Preço:** — (a confirmar com o Hugo)
+
+**Descrição Curta:**
+Corda de juta 100% natural, tratada artesanalmente pela equipe da Shibari Brasil. Padrão asanawa, pronta para uso, 6mm × 8m.
+
+**Descrição Completa:**
+Chega firme, com toque uniforme e pronta para uso, sem preparação adicional. Cada unidade recebe tratamento artesanal completo: amolecimento, queima dos fiapos, limpeza e hidratação com blend de óleos vegetais. Material 100% juta natural, sem aditivos, torcida no padrão asanawa. Funciona bem tanto em amarrações simples quanto em estruturas mais elaboradas.
+
+**Diferenciais:**
+- Tratamento artesanal completo feito pela própria equipe da SB (amolecimento, queima de fiapos, hidratação com óleos vegetais)
+- Pontas com nó de overhand — não desfia, não precisa de acabamento
+- Óleo antifúngico e antialérgico — segura para uso na pele
+- 100% natural e vegana
+
+**Especificações:**
+- Espessura: 6mm
+- Comprimento: 8 metros
+- Material: 100% juta natural, sem aditivos
+- Padrão: asanawa
+- Acabamento: nó de overhand nas pontas
+- Tratamento: blend de óleos vegetais
+
+**Casos de Uso:**
+- Prática regular para quem já tem experiência em shibari/bondage
+- Primeira corda para quem está começando (dispensa preparação)
+
+**Persona que mais compra:** Thiago (praticante exigente) e Mariana (iniciante curiosa)
+
+**Argumentos de Venda:**
+- Tratamento artesanal feito pela própria equipe da Shibari Brasil — não é corda genérica revendida
+- Pronta para uso, sem etapas extras antes da primeira amarração
+
+**Gancho para Conteúdo:**
+O processo de tratamento artesanal (amolecimento, queima de fiapos, hidratação com óleos) é o ângulo mais forte — mostra cuidado e expertise técnica, não só o produto pronto.
+
+**Tags:** corda, juta, shibari, bondage, asanawa, artesanal, vegana
+
+**Descrição completa de produto (site):** `produtos/corda-de-juta-6mm-8m.md`
+
+---
+
 ## Sticker Modelo 1
 
 **Categoria:** brinde / acessório

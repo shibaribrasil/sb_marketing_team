@@ -43,7 +43,6 @@ O banco de briefings (`contexto/briefings.md`) é permanente e cresce continuame
 
 ```
 ├── CLAUDE.md                    → instruções de comportamento do agente
-├── memory.md                    → aprendizados acumulados entre sessões
 │
 ├── contexto/
 │   ├── historico-conteudos.md   → registro permanente de todos os conteúdos aprovados
@@ -259,6 +258,8 @@ Os formatos são definidos de forma incremental. Cada formato tem seu próprio a
 7. Descrição de Produto — Site → `contexto/formatos/descricao-de-produto.md` — padrão ativo desde 19/06/2026
 8. Post Desatando Mitos (Instagram) → `contexto/formatos/post-desatando-mitos.md`
 9. Post de Foto (Instagram) → `contexto/formatos/post-de-foto.md` — foto do acervo pessoal movida de `assets/arquivo/Post de Fotos - A Publicar/`; pipeline direto: Julia (legenda) → Ana (revisão) → Publicação
+10. Post de Produto (Instagram) → `contexto/formatos/post-de-produto.md` — legenda ancorada em `contexto/produtos.md`; pipeline: Pedro (dados do produto) → Julia (legenda) → Bia (visual) → Ana (revisão)
+11. Instagram Vídeo → `contexto/formatos/instagram-video.md` — legenda de apoio a vídeo demonstrativo; pipeline: Julia (legenda) → Ana (revisão)
 
 ---
 
@@ -316,28 +317,13 @@ conteudos/
 
 ---
 
-## 📊 Acesso a Dados de Tráfego Pago
-
-### Google Ads — BigQuery
-
-Os dados de performance do Google Ads estão disponíveis via BigQuery. O Gui acessa diretamente via CLI (`bq`). Antes de qualquer query, configurar o projeto:
-
-```powershell
-gcloud config set project igneous-sandbox-381622
-```
-
-| Parâmetro | Valor |
-|---|---|
-| **Conta autenticada** | `lojashibaribrasil@gmail.com` |
-| **Projeto GCP** | `igneous-sandbox-381622` |
-| **Dataset** | `datalake_google_ads` |
-| **ID da conta Ads** | `4241689372` (sufixo de todas as tabelas) |
-
-**Relatório de diagnóstico:** `relatorios/diagnostico-google-ads/relatorio-diagnostico.html` — sempre o relatório mais recente. Cada geração também cria uma cópia datada `relatorio-YYYY-MM-DD.html`. O arquivo `relatorios/diagnostico-google-ads/index.html` lista todos os relatórios gerados para comparação histórica.
+## 📊 Acesso a Plataformas de Tráfego Pago
 
 ### Meta Ads (Instagram)
 
 Acesso via MCP da Meta disponível para outras contas vinculadas, mas **ainda não liberado para a conta Shibari Brasil** (rollout gradual do lado do Meta). Não requer configuração adicional quando liberado — o Gui conecta diretamente via MCP.
+
+> **Nota:** o Gui atua exclusivamente na produção de anúncios (copy, estrutura de campanha, criativos). Análise de performance e dados de BigQuery não fazem parte do escopo deste projeto.
 
 ---
 
@@ -378,7 +364,7 @@ O arquivo `contexto/historico-conteudos.md` registra de forma permanente todos o
 
 ## 🧠 Protocolo de Registro de Memória (Obrigatório)
 
-Ao final de cada sessão de trabalho, o agente deve atualizar o arquivo `memory.md` na raiz do projeto com qualquer informação que seja útil para sessões futuras. Registrar apenas o que não é óbvio a partir dos arquivos do projeto — preferências expressas pelo usuário, correções de rota, decisões tomadas, padrões de conteúdo que funcionaram ou não. Não registrar tarefas em andamento nem resumos do que foi feito (isso fica no histórico).
+Ao final de cada sessão de trabalho, o agente deve registrar no sistema de memória entre sessões do Claude Code qualquer informação que seja útil para sessões futuras. Registrar apenas o que não é óbvio a partir dos arquivos do projeto — preferências expressas pelo usuário, correções de rota, decisões tomadas, padrões de conteúdo que funcionaram ou não. Não registrar tarefas em andamento nem resumos do que foi feito (isso fica no histórico).
 
 Exemplos do que registrar:
 - Tom de voz ou estilo que o usuário aprovou ou rejeitou

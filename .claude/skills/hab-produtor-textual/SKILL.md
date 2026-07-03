@@ -239,6 +239,21 @@ Regra: a frase de respiro deve conter ao menos um elemento que a contextualize, 
 
 ---
 
+### 5.3. Repetição de palavra dentro da mesma frase
+
+**Evitar eco de palavra no mesmo período**
+Construções que repetem a mesma palavra ou radical em frases curtas soam descuidadas — especialmente em frases de ancoragem ou fechamento, onde cada palavra tem peso maior.
+
+Regra: ao escrever frases de impacto (ancoragem, capa, fechamento), reler em voz alta antes de fechar. Repetição de substantivo ou verbo idêntico no mesmo período é sinal de revisão.
+
+**Exemplo real — Carrossel Red flags, slide 8 (fechamento):**
+
+> ~~A cena começa antes da cena. Como a negociação acontece, como a outra pessoa responde quando você coloca um limite, o que acontece quando você pede para desacelerar — tudo isso já é parte da dinâmica.~~
+
+> A cena começa antes da prática. Como a negociação acontece, como a outra pessoa responde quando você coloca um limite, o que acontece quando você pede para desacelerar — tudo isso já é parte da dinâmica.
+
+---
+
 ### 5.4. Padrões de edição do Hugo — ajustes recorrentes na revisão
 
 Esta seção registra os tipos de ajuste que o Hugo faz sistematicamente ao revisar os textos. Representam preferências de escrita que devem ser antecipadas na produção, não corrigidas depois.
@@ -300,21 +315,6 @@ Regra: ao escrever slides de red flags, pressões ou exemplos práticos, varrer 
 > ~~"O que **desaparece** quando você nomeia um limite"~~ → "O que **aparece** quando você nomeia um limite"
 
 O que APARECE (fica visível, emerge) é mais ativo e revelador — é o comportamento que se manifesta. O que desaparece seria a máscara, não o padrão.
-
----
-
-### 5.3. Repetição de palavra dentro da mesma frase
-
-**Evitar eco de palavra no mesmo período**
-Construções que repetem a mesma palavra ou radical em frases curtas soam descuidadas — especialmente em frases de ancoragem ou fechamento, onde cada palavra tem peso maior.
-
-Regra: ao escrever frases de impacto (ancoragem, capa, fechamento), reler em voz alta antes de fechar. Repetição de substantivo ou verbo idêntico no mesmo período é sinal de revisão.
-
-**Exemplo real — Carrossel Red flags, slide 8 (fechamento):**
-
-> ~~A cena começa antes da cena. Como a negociação acontece, como a outra pessoa responde quando você coloca um limite, o que acontece quando você pede para desacelerar — tudo isso já é parte da dinâmica.~~
-
-> A cena começa antes da prática. Como a negociação acontece, como a outra pessoa responde quando você coloca um limite, o que acontece quando você pede para desacelerar — tudo isso já é parte da dinâmica.
 
 ---
 

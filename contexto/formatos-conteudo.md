@@ -60,3 +60,5 @@ Quando o usuário solicitar um tipo de conteúdo ainda não registrado:
 7. [Descrição de Produto — Site](formatos/descricao-de-produto.md) — padrão ativo desde 19/06/2026
 8. [Post Desatando Mitos](formatos/post-desatando-mitos.md)
 9. [Post de Foto (Instagram)](formatos/post-de-foto.md)
+10. [Post de Produto (Instagram)](formatos/post-de-produto.md)
+11. [Instagram Vídeo](formatos/instagram-video.md)

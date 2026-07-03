@@ -1,11 +1,11 @@
 ---
 name: hab-google-ads
-description: Use esta skill quando o Gui (agente-trafego) for criar, revisar, otimizar ou analisar anúncios e campanhas no Google Ads para a Shibari Brasil. Cobre estrutura de conta, tipos de campanha (Search, Display, Performance Max, Video, Demand Gen, Shopping), palavras-chave, anúncios responsivos, lances inteligentes, rastreamento e first-party data, brand safety no YouTube, métricas e boas práticas de otimização.
+description: Use esta skill quando o Gui (agente-trafego) for criar, revisar ou otimizar anúncios e campanhas no Google Ads para a Shibari Brasil. Cobre estrutura de conta, tipos de campanha (Search, Display, Performance Max, Video, Demand Gen, Shopping), palavras-chave, anúncios responsivos, lances inteligentes, rastreamento e first-party data, brand safety no YouTube e boas práticas de produção.
 ---
 
 # Manual de Google Ads — Shibari Brasil
 
-> Habilidade do Gui para criar, gerenciar e analisar campanhas pagas no Google Ads. Combina a documentação oficial do Google com boas práticas do mercado e diretrizes específicas para o nicho da Shibari Brasil.
+> Habilidade do Gui para criar e gerenciar campanhas pagas no Google Ads. Combina a documentação oficial do Google com boas práticas do mercado e diretrizes específicas para o nicho da Shibari Brasil.
 
 ---
 
@@ -718,65 +718,20 @@ Aplicar listas de remarketing em campanhas de **Search** para personalizar lance
 
 ---
 
-## Capítulo 10 — Métricas e Análise de Performance
+## Capítulo 10 — Otimização Contínua
 
-### 10.1 KPIs Principais
-
-| Métrica | O que mede | Referência |
-|---------|-----------|-----------|
-| **CTR** | % de cliques/impressões | Search: ~6,66% (benchmark geral); > 2% aceitável; Display: > 0,5% |
-| **CPC** | Custo médio por clique | E-commerce BR: R$ 0,80–R$ 5,00 (nicho SB: R$ 1–5) |
-| **CPA** | Custo por aquisição (compra) | Definir meta por produto |
-| **ROAS** | Receita ÷ gasto em anúncios | Meta mínima: 2×; objetivo: 3–5× |
-| **ROI** | (Receita – Custo) ÷ Custo | Principal métrica de saúde geral da conta |
-| **Impression Share** | % das impressões capturadas | 90%+ em low competition; 60%+ em alta |
-| **Quality Score** | Qualidade do anúncio (1–10) | Almejar 7+ nas principais palavras |
-| **Conv. Rate** | % dos cliques que convertem | Depende do produto e landing page |
-
-### 10.2 Sinais de Alerta e Ações
-
-| Sinal | Causa provável | Ação |
-|-------|---------------|------|
-| CTR baixo | Anúncio pouco relevante ou Ad Rank baixo | Melhorar copy, aumentar Ad Strength |
-| CPA alto | Landing page fraca ou público errado | Revisar landing page + segmentação |
-| Quality Score baixo | Anúncio, keyword e LP desalinhados | Alinhar mensagem entre os três |
-| Impression Share baixo | Orçamento insuficiente ou lance baixo | Aumentar orçamento ou lance |
-| Conversões caindo | Sazonalidade ou competitor | Analisar histórico + monitorar leilão |
-| Gasto sem conversão | Palavras-chave amplas gerando tráfego irrelevante | Revisar Search Terms Report + adicionar negativas |
-
-### 10.2a Processo de Análise em 5 Passos (Google)
-
-1. **Rastreamento de conversões:** Verificar se os eventos estão disparando corretamente. Sem dados confiáveis, toda análise fica comprometida.
-2. **Medição de ROI:** `ROI = (Receita gerada – Custo dos anúncios) ÷ Custo dos anúncios`. É a métrica principal que o Google recomenda monitorar de forma consistente.
-3. **Análise de Termos de Pesquisa:** Comparar as buscas reais que ativaram os anúncios vs. as palavras-chave cadastradas — identificar oportunidades de expansão e termos a negativar.
-4. **Revisão de Quality Score:** Identificar palavras com pontuação baixa e alinhar copy do anúncio + landing page com a intenção de busca delas.
-5. **Relatórios integrados GA4 + Google Ads:** Ver o comportamento pós-clique — o usuário chegou na página, mas o que fez depois? Taxa de rejeição, tempo na página, funil de conversão.
-
-### 10.3 Frequência de Análise
-
-| Frequência | O que verificar |
-|-----------|----------------|
-| **Diária** | Gasto, conversões, CPA — alertas de anomalias |
-| **Semanal** | Search Terms Report + negativas, CTR, Quality Score |
-| **Mensal** | ROAS, tendência de CPA, ajuste de lances, expansão de palavras-chave |
-| **Trimestral** | Revisão de estrutura, novos tipos de campanha, benchmarks |
-
----
-
-## Capítulo 11 — Otimização Contínua
-
-### 11.1 Single Theme Ad Groups (STAGs)
+### 10.1 Single Theme Ad Groups (STAGs)
 
 Agrupar palavras-chave por **tema**, não por palavra individual. Isso melhora a relevância do anúncio para o grupo e alimenta o Smart Bidding com mais dados por grupo.
 
-### 11.2 Expansão de Palavras-chave
+### 10.2 Expansão de Palavras-chave
 
 1. Abrir **Search Terms Report** semanalmente
 2. Identificar termos que geraram conversões mas não estão na lista de palavras-chave
 3. Adicionar esses termos como palavras-chave
 4. Identificar termos que geraram cliques sem conversão → adicionar como negativas
 
-### 11.3 Otimização de Landing Page
+### 10.3 Otimização de Landing Page
 
 A landing page é determinante para Quality Score e conversão. Verificar:
 
@@ -787,7 +742,7 @@ A landing page é determinante para Quality Score e conversão. Verificar:
 - [ ] Formulário ou botão de compra com poucos passos
 - [ ] Prova social (avaliações, depoimentos) visível
 
-### 11.4 Testes A/B
+### 10.4 Testes A/B
 
 **Regra:** Testar uma variável por vez.
 
@@ -806,30 +761,22 @@ A landing page é determinante para Quality Score e conversão. Verificar:
 2. Usar **Experimentos de Campanha** do Google Ads para testes válidos
 3. Documentar resultado e aprendizado
 
-### 11.5 Erros Comuns a Evitar
+### 10.5 Erros Comuns a Evitar
 
 | Erro | Por que prejudica | Solução |
 |------|------------------|---------|
 | Rodar sem palavras-chave negativas | Orçamento gasto em buscas irrelevantes | Adicionar lista básica antes de ativar; revisar Search Terms semanalmente |
 | Mandar tráfego para a homepage | Alta taxa de rejeição, Quality Score baixo | Criar landing pages de produto ou categoria correspondentes |
 | Testar apenas uma variação de anúncio | Sem aprendizado, perde potencial de otimização | Criar mínimo 2 RSAs por grupo + testar ativos |
-| Ignorar a análise semanal | Problemas não detectados consomem orçamento | Reservar tempo fixo todo início de semana |
 | Concentrar todo o orçamento em uma campanha | Sem diversificação, risco alto se a campanha falhar | Distribuir entre Search + PMax desde o início |
 | Avaliar campanha nova antes de 30–60 dias | Decisões prematuras interrompem o aprendizado | Aguardar o período mínimo antes de julgar resultados |
 | Não configurar valor de conversão | Smart Bidding otimiza por volume, não por valor | Sempre enviar o valor em R$ no evento de compra |
 
-### 11.6 Análise Demográfica
-
-Verificar performance por segmento demográfico (Idade, Gênero, Renda familiar):
-
-- Identificar segmentos com CPA acima da média → reduzir lance ou excluir
-- Identificar segmentos com CPA abaixo da meta → aumentar lance
-
 ---
 
-## Capítulo 12 — Nicho SB no Google Ads
+## Capítulo 11 — Nicho SB no Google Ads
 
-### 12.1 Políticas do Google para o Nicho
+### 11.1 Políticas do Google para o Nicho
 
 Ao contrário do Meta, o Google Ads permite anunciar produtos relacionados a shibari e bondage de forma mais direta, desde que:
 
@@ -840,7 +787,7 @@ Ao contrário do Meta, o Google Ads permite anunciar produtos relacionados a shi
 
 **O vocabulário técnico do nicho (shibari, bondage, BDSM) pode ser usado em palavras-chave e anúncios.** A restrição do Google foca em conteúdo explícito, não em categorias de produto.
 
-### 12.2 Zona de Atenção
+### 11.2 Zona de Atenção
 
 Evitar criativos (em Display e PMax) que contenham:
 - Imagens com poses sexualmente explícitas
@@ -852,7 +799,7 @@ Evitar criativos (em Display e PMax) que contenham:
 - Imagens de prática artística (amarração estética, sem conotação sexual explícita)
 - Copy focado em qualidade, artesanato e especificação técnica
 
-### 12.3 Checklist Pré-Campanha — Nicho SB
+### 11.3 Checklist Pré-Campanha — Nicho SB
 
 - [ ] Produto é legal no Brasil
 - [ ] Criativo não contém nudez ou conotação sexual explícita
@@ -866,9 +813,9 @@ Evitar criativos (em Display e PMax) que contenham:
 
 ---
 
-## Capítulo 13 — Checklists Operacionais
+## Capítulo 12 — Checklists Operacionais
 
-### 13.1 Checklist — Nova Campanha Search
+### 12.1 Checklist — Nova Campanha Search
 
 - [ ] Objetivo definido (conversões, tráfego ou leads)
 - [ ] Palavras-chave mapeadas e organizadas por grupo temático
@@ -882,7 +829,7 @@ Evitar criativos (em Display e PMax) que contenham:
 - [ ] Localização: Brasil (ou estados específicos se relevante)
 - [ ] AI Max configurado (ativar após período de aprendizado inicial se aplicável)
 
-### 13.2 Checklist — Nova Campanha Display/Remarketing
+### 12.2 Checklist — Nova Campanha Display/Remarketing
 
 - [ ] Lista de remarketing configurada no Google Ads (via GA4 ou tag direta)
 - [ ] Mínimo 100 usuários na lista para ativar
@@ -892,25 +839,7 @@ Evitar criativos (em Display e PMax) que contenham:
 - [ ] Rastreamento de conversão validado
 - [ ] Exclusão de clientes que já compraram (se o objetivo for aquisição)
 
-### 13.3 Checklist — Durante a Campanha (Semanal)
-
-- [ ] Revisar Search Terms Report e adicionar negativas necessárias
-- [ ] Verificar CTR, CPA e ROAS em relação às metas
-- [ ] Conferir Ad Strength dos RSAs — criar variações se necessário
-- [ ] Verificar Budget Utilization (campanha limitada por orçamento?)
-- [ ] Analisar performance demográfica (ajustar lances se necessário)
-- [ ] Checar Impression Share — há perda por orçamento ou ranking?
-
-### 13.4 Checklist — Pós-Campanha
-
-- [ ] Registrar métricas finais (CTR, CPA, ROAS, Conversões)
-- [ ] Documentar aprendizados de palavras-chave (quais funcionaram, quais não)
-- [ ] Documentar aprendizados de criativos (RSA/RDA)
-- [ ] Registrar segmentações e lances que performaram melhor
-- [ ] Comparar com meta inicial e campanha anterior equivalente
-- [ ] Salvar relatório em `relatorios/diagnostico-google-ads/[slug-campanha]/relatorio-final.md`
-
-### 13.5 Checklist — Nova Campanha Performance Max
+### 12.3 Checklist — Nova Campanha Performance Max
 
 - [ ] Histórico mínimo: 30+ conversões/mês antes de ativar
 - [ ] Mínimo 2 grupos de ativos (por tema de produto)
@@ -922,9 +851,9 @@ Evitar criativos (em Display e PMax) que contenham:
 - [ ] New Customer Value Mode avaliado (ativar se objetivo for aquisição)
 - [ ] Estratégia de lance: Maximizar Valor de Conversão ou tROAS
 - [ ] Rastreamento com valor de conversão em R$ configurado
-- [ ] Aguardar 4–6 semanas antes de avaliar e ajustar
+- [ ] Aguardar 4–6 semanas de aprendizado antes de fazer ajustes
 
-### 13.6 Checklist — Nova Campanha Demand Gen
+### 12.4 Checklist — Nova Campanha Demand Gen
 
 - [ ] Objetivo definido: awareness, consideration ou conversão
 - [ ] Mínimo 3 imagens por orientação (vertical + quadrada + horizontal = 9 imagens total)
@@ -935,259 +864,13 @@ Evitar criativos (em Display e PMax) que contenham:
 - [ ] Rastreamento de conversão validado
 - [ ] Segmentação definida: remarketing e/ou Optimized Targeting para aquisição
 - [ ] Brand Safety: Inventory Type configurado (Standard recomendado)
-- [ ] Aguardar 4+ semanas para análise completa de performance
+- [ ] Aguardar 4+ semanas de aprendizado antes de fazer ajustes
 
 ---
 
-## Capítulo 14 — Análise de Dados
+## Capítulo 13 — Estratégia Full-Funnel
 
-> Dados são o principal ativo de uma conta de Google Ads. Sem análise estruturada e recorrente, o investimento em mídia paga vira aposta. Esta seção define o que analisar, como interpretar e quando agir.
-
-### 14.1 Princípio de Análise Baseada em Dados
-
-**Regra fundamental:** Nunca otimizar por intuição antes de verificar os dados. Nunca pausar, escalar ou mudar uma campanha sem ter ao menos uma hipótese baseada em uma métrica.
-
-**Hierarquia de decisão:**
-```
-DADO (o que está acontecendo)
-  ↓
-DIAGNÓSTICO (por que está acontecendo)
-  ↓
-HIPÓTESE (o que pode resolver)
-  ↓
-AÇÃO (uma mudança por vez)
-  ↓
-VALIDAÇÃO (medir o impacto)
-```
-
-**O que NÃO é análise:**
-- Ver que o CPA subiu e pausar a campanha sem investigar causa
-- Comparar semanas sem considerar sazonalidade
-- Avaliar PMax nova com menos de 30 dias de dados
-- Tomar decisão com menos de 50 conversões no período
-
-### 14.2 Relatórios Principais da Interface do Google Ads
-
-#### Relatório de Termos de Pesquisa
-**Onde acessar:** Campanhas → Palavras-chave → Termos de pesquisa
-
-O que revela:
-- Buscas reais que ativaram os anúncios (podem diferir das palavras-chave cadastradas)
-- Termos que convertem mas não estão na lista → adicionar como palavras-chave
-- Termos irrelevantes que geraram cliques → adicionar como negativas
-- Intenção real do usuário que a conta está capturando
-
-**Cadência:** Revisar semanalmente. É o relatório mais acionável da conta.
-
-#### Relatório de Performance de Anúncios
-**Onde acessar:** Campanhas → Anúncios
-
-O que revela:
-- CTR e taxa de conversão por anúncio individual
-- Ad Strength de cada RSA
-- Quais títulos e descrições o Google está priorizando (via relatório de combinações)
-- Anúncios com baixo desempenho que devem ser substituídos
-
-#### Relatório de Estratégia de Lances
-**Onde acessar:** Ferramentas → Estratégias de lance → selecionar estratégia → Relatório
-
-O que revela:
-- Como o Smart Bidding está se comportando
-- Se o CPA alvo está sendo atingido
-- Variações de CPA/ROAS ao longo do tempo
-- Se a campanha está em fase de aprendizado ou estável
-
-#### Relatório de Impressões (Auction Insights)
-**Onde acessar:** Campanhas → selecionar campanha → Mais → Insights do leilão
-
-O que revela:
-- Participação no leilão vs. concorrentes (Impression Share)
-- Position Above Rate (% em que o concorrente aparece acima do seu anúncio)
-- Overlap Rate (% de vezes que o concorrente aparece junto com o seu anúncio)
-- Top of Page Rate (% de vezes que aparece no topo)
-
-**Como usar:** Monitorar se concorrentes novos entraram no leilão ou se um já existente escalou investimento.
-
-#### Relatório de Canais (Demand Gen)
-**Onde acessar:** Campanhas Demand Gen → Segmentar por rede
-
-O que revela:
-- Performance separada por canal: YouTube, Google Discover, Gmail, Display Network, Maps
-- Quais canais geram mais engajamentos, views e conversões
-- Permite pausar canais com baixo ROAS individualmente
-
-#### Relatório de Ativos (Assets)
-**Onde acessar:** Campanhas → Grupos de ativos (PMax) ou Anúncios → Ativos
-
-O que revela:
-- Performance de cada ativo individual (imagem, vídeo, título, descrição)
-- Classificação: Melhor, Bom, Baixo, Em aprendizado
-- Quais ativos o Google está priorizando e quais estão sendo ignorados
-
-**Ação:** Remover ativos com classificação "Baixo" e criar novas variações.
-
-#### Relatório de Posicionamentos ("Where ads showed")
-**Onde acessar:** Campanhas Display/Video → Posicionamentos → Onde os anúncios foram exibidos
-
-O que revela:
-- Sites, apps e canais do YouTube onde os anúncios apareceram
-- CPM e taxa de conversão por posicionamento
-- Posicionamentos ineficientes que devem ser excluídos
-
-**Para SB:** Excluir apps de jogos mobile (geralmente geram cliques acidentais) e canais sem relação com o nicho.
-
-### 14.3 Métricas por Tipo de Campanha
-
-#### Search
-| Métrica | O que indica | Sinal de alerta |
-|---------|-------------|----------------|
-| CTR | Relevância do anúncio para a busca | < 2%: copy fraco ou keywords erradas |
-| CPC | Competição no leilão | Subindo sem conversões: rever relevância |
-| Quality Score | Alinhamento ad + keyword + LP | < 6: investigar componente mais fraco |
-| Conv. Rate | Eficiência da landing page | < 1%: problema na LP ou no público |
-| CPA | Custo por compra | Acima da meta: ajustar lance ou LP |
-
-#### Display e Remarketing
-| Métrica | O que indica | Sinal de alerta |
-|---------|-------------|----------------|
-| CPM | Custo de alcance | Muito alto: público muito estreito |
-| CTR | Engajamento com o criativo | < 0,3%: trocar criativo |
-| View-through Conv. | Conversões após visualização (sem clique) | Útil para medir impacto de awareness |
-| Freq. | Quantas vezes o usuário viu | > 5×: fadiga de criativo, rodar novos |
-
-#### Video / Demand Gen
-| Métrica | O que indica | Definição exata |
-|---------|-------------|----------------|
-| **Engajamentos** | Interação com o anúncio | Imagens: primeiro clique em anúncio Gmail; Vídeo: assistir 10s in-stream ou 5s em feed/Shorts, ou clicar na LP |
-| **Views** | Visualização qualificada | In-stream: 30 segundos ou clique; In-feed/Shorts: 10 segundos ou clique |
-| **VTR** (View-Through Rate) | % de impressões que viraram views | Benchmark: 15–30% in-stream |
-| **CPV** | Custo por visualização qualificada | Depende do objetivo e formato |
-| **Clicks** | Cliques diretos para LP | Navegação direta para a landing page |
-
-#### Performance Max
-| Métrica | O que indica | Sinal de alerta |
-|---------|-------------|----------------|
-| Conv. Value | Valor total gerado | Principal métrica — rastrear junto com ROAS |
-| ROAS | Eficiência do gasto | Abaixo de 2×: revisar ativos e sinais |
-| Asset Strength | Qualidade dos grupos de ativos | "Baixo": substituir ativos fracos |
-| Conversion lag | Delay entre clique e conversão | Normal: 1–7 dias dependendo do produto |
-
-### 14.4 Segmentações para Análise
-
-A interface do Google Ads permite aplicar segmentações (dimensões) em praticamente qualquer relatório. As mais úteis:
-
-| Segmentação | O que revela | Quando usar |
-|-------------|-------------|-------------|
-| **Rede** | Search vs. Display vs. YouTube | Verificar se Search ou Display performa melhor |
-| **Dispositivo** | Mobile vs. Desktop vs. Tablet | Identificar se mobile tem CPA acima do alvo |
-| **Dia da semana** | Performance por dia | Ajustar programação de anúncios |
-| **Hora do dia** | Performance por horário | Identificar picos e vales de conversão |
-| **Localização** | Estado ou cidade | Aumentar lance em regiões que convertem mais |
-| **Demográfico** | Idade e gênero | Identificar segmentos com CPA fora do alvo |
-| **Canal (Demand Gen)** | YouTube, Discover, Gmail, Display | Alocar budget para canais mais eficientes |
-
-**Como aplicar:** Em qualquer tabela de relatório, clicar em "Segmentar" e escolher a dimensão desejada.
-
-### 14.5 Tipos de Conversão — Definições e Rastreamento
-
-| Tipo | O que conta | Como configurar |
-|------|------------|----------------|
-| **Compra no site** | Checkout concluído com valor em R$ | Tag de conversão ou GA4 → Google Ads |
-| **Add to Cart** | Produto adicionado ao carrinho | Evento GA4 importado |
-| **Clique em botão** | CTA específico (ex: WhatsApp) | Tag de evento ou GTM |
-| **Chamada telefônica** | Clique em número de telefone no anúncio | Extensão de chamada com rastreamento |
-| **Conversão offline** | Vendas por WhatsApp ou telefone importadas | Upload manual ou integração CRM |
-
-**Regra crítica:** Sempre enviar o **valor em R$** junto com o evento de compra — sem isso, o tROAS não tem base para otimizar e os relatórios de ROAS ficam zerados.
-
-**Conversões primárias vs. secundárias:**
-- **Primária:** Purchase — usada para otimização pelo Smart Bidding
-- **Secundária:** Add to Cart, Begin Checkout — usadas para análise, não para lances
-
-### 14.6 Atribuição e Janela de Conversão
-
-**Modelo de atribuição recomendado:** Baseado em dados (Data-Driven Attribution) — distribui o crédito da conversão entre todos os pontos de contato com base em dados reais da conta. Disponível quando há volume mínimo de conversões.
-
-**Alternativa:** Último clique — simples, mas subestima campanhas de topo de funil.
-
-**Janela de conversão:** Período em que uma conversão é atribuída a um clique no anúncio.
-- Padrão Google Ads: 30 dias para cliques, 1 dia para visualizações
-- Para SB (produto de decisão mais rápida): 7–14 dias pode ser suficiente
-- Nunca reduzir a janela sem entender o ciclo de decisão real do cliente
-
-**Latência de conversão:** A maioria das conversões não acontece no mesmo dia do clique. Verificar o relatório de "Atraso de conversão" para entender o ciclo médio antes de julgar performance de campanhas recentes.
-
-### 14.7 Relatórios Customizados e Dashboards
-
-**Relatórios salvos:** Na aba "Relatórios" do Google Ads, é possível criar e salvar visualizações customizadas com as métricas mais relevantes. Salvar ao menos dois:
-
-1. **Visão Semanal Operacional**
-   - Colunas: Campanha | Impressões | Cliques | CTR | CPC | Conversões | CPA | Conv. Value | ROAS
-   - Período: últimos 7 dias vs. 7 dias anteriores
-
-2. **Visão Mensal Estratégica**
-   - Colunas: Campanha | Gasto | Conversões | CPA | Conv. Value | ROAS | Impression Share
-   - Período: mês atual vs. mês anterior
-
-**Google Ads × GA4 — Relatórios integrados:**
-- Ativar **auto-tagging** no Google Ads para que o GA4 capture a origem de cada sessão
-- Em GA4: Aquisição → Aquisição de tráfego → filtrar por "google / cpc" para ver comportamento pós-clique
-- Verificar: taxa de rejeição, páginas por sessão, tempo médio, funil de conversão por campanha
-
-### 14.8 BigQuery — Análise Avançada (Referência)
-
-O **BigQuery Data Transfer Service** permite exportar todos os dados do Google Ads para o BigQuery (banco de dados SQL do Google Cloud) para análises que a interface nativa não suporta.
-
-**Quando considerar:**
-- Volume alto de dados (múltiplas campanhas, muitos produtos)
-- Necessidade de cruzar dados de Google Ads com dados do CRM ou da loja
-- Análises históricas longas (a interface do Google Ads limita alguns relatórios)
-- Dashboards customizados no Looker Studio com dados brutos
-
-**O que é transferido:**
-- Dados de campanhas, grupos de anúncios, anúncios e palavras-chave
-- Dados de conversão e performance diária
-- Dados de audiência e segmentação
-
-> Para SB hoje: não é prioridade. Avaliar quando a conta atingir volume que justifique a complexidade técnica.
-
-### 14.9 Rotina de Análise da Conta
-
-#### Diária (5–10 min)
-- [ ] Verificar gasto vs. orçamento diário (campanha limitada por orçamento?)
-- [ ] Checar conversões do dia — alguma anomalia (zero ou pico?)
-- [ ] Alertas de política (anúncio reprovado?)
-
-#### Semanal (30–60 min)
-- [ ] **Search Terms Report:** identificar novos termos a adicionar ou negativar
-- [ ] Conferir CTR por campanha — queda indica fadiga ou problema de relevância
-- [ ] Verificar Ad Strength dos RSAs — criar variações se necessário
-- [ ] Checar Impression Share — há perda por orçamento ou por ranking?
-- [ ] Revisar performance demográfica — ajustar modificadores de lance
-- [ ] Conferir posicionamentos (Display/Video) — excluir ineficientes
-- [ ] Atualizar lista de Customer Match se houver novos clientes
-
-#### Mensal (2–3 horas)
-- [ ] Comparar ROAS, CPA e conversões com mês anterior
-- [ ] Análise de ativos (PMax/Demand Gen): substituir classificados como "Baixo"
-- [ ] Revisar Auction Insights — novos concorrentes no leilão?
-- [ ] Analisar relatório de atribuição — funil está funcionando?
-- [ ] Revisar estrutura de campanhas — consolidar grupos com poucos dados?
-- [ ] Verificar latência de conversão — janela está correta?
-- [ ] Documentar aprendizados no relatório mensal
-
-#### Trimestral (revisão estratégica)
-- [ ] Revisar distribuição de orçamento entre campanhas (PMax/Search/outros)
-- [ ] Avaliar novos tipos de campanha (está na hora de ativar Demand Gen? Video?)
-- [ ] Revisar palavras-chave da conta — remover inativas, expandir com novos termos
-- [ ] Comparar performance com benchmarks de mercado
-- [ ] Definir metas para o próximo trimestre (CPA, ROAS, volume de conversões)
-
----
-
-## Capítulo 15 — Estratégia Full-Funnel
-
-### 15.1 Por que Pensar em Funil
+### 13.1 Por que Pensar em Funil
 
 Um funil de vendas representa a jornada do cliente desde o primeiro contato com a marca até a compra — e além. Para o Google Ads, ignorar as etapas superiores do funil significa competir apenas com quem já está pronto para comprar, pagando CPCs mais altos por um volume menor de oportunidades.
 
@@ -1195,7 +878,7 @@ Um funil de vendas representa a jornada do cliente desde o primeiro contato com 
 
 **Para a SB:** A maioria das pessoas ainda não sabe que pode comprar cordas de shibari de alta qualidade online. Criar demanda nas etapas superiores do funil amplia o pool de clientes que chegam ao fundo.
 
-### 15.2 As Quatro Etapas do Funil
+### 13.2 As Quatro Etapas do Funil
 
 ```
 TOPO (ToFu) — Atração e Consciência
@@ -1211,7 +894,7 @@ PÓS-VENDA — Fidelização e Recompra
   Clientes → Voltam, indicam, recompram
 ```
 
-### 15.3 Campanhas por Etapa do Funil
+### 13.3 Campanhas por Etapa do Funil
 
 | Etapa | Objetivo | Tipos de Campanha | Estratégia de Lance |
 |-------|---------|------------------|-------------------|
@@ -1228,7 +911,7 @@ PÓS-VENDA — Fidelização e Recompra
 | **Meio** | Específica, comparativa | `corda de juta shibari`, `melhor corda para bondage`, `corda natural para amarração` |
 | **Fundo** | Transacional, de compra | `comprar corda shibari`, `corda juta 6mm preço`, `shibari brasil loja` |
 
-### 15.4 Full-Funnel no YouTube — Reach Planner
+### 13.4 Full-Funnel no YouTube — Reach Planner
 
 O Google oferece o **Reach Planner** para planejar estratégias full-funnel no YouTube com alocação de orçamento por etapa.
 
@@ -1244,22 +927,7 @@ O Google oferece o **Reach Planner** para planejar estratégias full-funnel no Y
 - **Conversion Creation:** ênfase em awareness e consideração para criar novos clientes e ampliar conversões futuras — ideal para fase de crescimento
 - **Conversion Generation:** foco em ação e consideração para converter quem já conhece a marca — ideal quando há base de audiência estabelecida
 
-### 15.5 Métricas por Etapa do Funil
-
-| Etapa | O que medir |
-|-------|------------|
-| **Topo** | Alcance, Impressões, CPM, Brand Lift |
-| **Meio** | CTR, Visualizações, CPV, Taxa de engajamento, Tempo no site |
-| **Fundo** | Conversões, CPA, ROAS, ROI, Taxa de conversão |
-| **Pós-venda** | Taxa de recompra, Ticket médio, CAC, LTV |
-
-**Métricas de saúde do funil (monitorar mensalmente):**
-- **Taxa de abandono de carrinho** — identifica atrito no BoFu
-- **Tempo médio entre primeira visita e compra** — indica tamanho do ciclo de decisão
-- **CAC (Custo de Aquisição de Cliente)** — total investido ÷ novos clientes adquiridos
-- **LTV (Lifetime Value)** — receita média por cliente ao longo do tempo
-
-### 15.6 Funil de Vendas da Shibari Brasil — Estratégia Recomendada
+### 13.5 Funil de Vendas da Shibari Brasil — Estratégia Recomendada
 
 **Situação atual:** A SB tem produto de nicho com intenção de compra alta (quem busca já sabe o que quer) mas mercado ainda pouco educado sobre qualidade e onde comprar.
 
@@ -1284,7 +952,7 @@ O Google oferece o **Reach Planner** para planejar estratégias full-funnel no Y
 - Customer Match com lista de clientes → campanhas de cross-sell e recompra
 - Segmentação por produto comprado → oferecer complementos (acessórios, outras cordas)
 
-### 15.7 Boas Práticas de Funil para E-commerce
+### 13.6 Boas Práticas de Funil para E-commerce
 
 - **Mandar tráfego para a página de produto, não para a homepage** — cada anúncio deve levar exatamente ao produto anunciado
 - **Simplicidade no checkout** — reduzir campos e etapas diminui abandono no BoFu

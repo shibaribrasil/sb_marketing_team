@@ -26,7 +26,7 @@ Leo → Caio → Julia → Ana → Bia → Usuário → (confirmação manual de
 
 ## Gui — Tráfego Pago (Paralelo)
 
-O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualquer momento — para criar anúncios a partir de um conteúdo aprovado, estruturar uma campanha independente ou analisar performance. O trabalho do Gui não bloqueia nem depende de nenhum status do pipeline acima.
+O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualquer momento — para criar anúncios a partir de um conteúdo aprovado, estruturar uma campanha independente ou revisar segmentação, orçamento e copy de anúncios ativos. O trabalho do Gui não bloqueia nem depende de nenhum status do pipeline acima.
 
 ---
 
@@ -136,8 +136,6 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 
 | Título | Tipo de Conteúdo | Arquivo | Aprovado em | Publicação agendada |
 |---|---|---|---|---|
-| Sticker Modelo 1 — brinde em pedidos acima de R$ 50,00 | Post de Produto (Instagram) | `conteudos/instagram-post-produto/sticker-modelo-1/` | 19/06/2026 | 30/06/2026 |
-| C-037 — Tirar um sentido para ampliar todos os outros | Post Por Trás do Desejo | `conteudos/instagram-post-por-tras-do-desejo/sensation-play/` | 26/06/2026 | 02/07/2026 |
 | C-061 — submissão não é o oposto da liberdade. é como algumas pessoas a vivem | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/submissao-e-liberdade/` | 19/06/2026 | 04/07/2026 |
 | Kit Shibari Iniciante | Post de Produto (Instagram) | `conteudos/instagram-post-produto/kit-shibari-iniciante-1/` | 27/06/2026 | 06/07/2026 |
 | C-077 — o que faz uma cena ser inesquecível | Carrossel Livre Instagram | `conteudos/instagram-carrossel-livre/cena-inesquecivel/` | 26/06/2026 | 07/07/2026 |
@@ -151,6 +149,8 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 
 | Título | Tipo de Conteúdo | Arquivo | Publicado em |
 |---|---|---|---|
+| C-037 — Tirar um sentido para ampliar todos os outros | Post Por Trás do Desejo | `conteudos/instagram-post-por-tras-do-desejo/sensation-play/` | 02/07/2026 |
+| Sticker Modelo 1 — brinde em pedidos acima de R$ 50,00 | Post de Produto (Instagram) | `conteudos/instagram-post-produto/sticker-modelo-1/` | 30/06/2026 |
 | Red flags em dinâmicas BDSM: como a linguagem revela o perigo antes de a cena começar | Carrossel Livre Instagram | `conteudos/instagram-carrossel-livre/red-flags-dinamicas-bdsm/` | 27/06/2026 |
 | A corda sai, a presença fica. | Post de Frase | `conteudos/instagram-post-de-frase/a-corda-sai-a-presenca-nao/` | 25/06/2026 |
 | Single column tie — nó quadrado | Instagram Vídeo | `conteudos/instagram-videos/single-column-tie-no-quadrado/` | 23/06/2026 |

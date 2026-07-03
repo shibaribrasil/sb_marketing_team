@@ -3,7 +3,6 @@ assets/
 conteudos/
 anuncios/
 produtos/
-relatorios/
 
 # Arquivos de contexto carregados apenas quando o agente específico trabalha
 contexto/design-system.md
@@ -14,6 +13,7 @@ contexto/design-system.md
 .claude/skills/hab-google-ads/
 .claude/skills/hab-criador-produto/
 .claude/skills/hab-leitor-pdf/
+.claude/skills/livro-essence-of-shibari/
 
 # Arquivos de desenvolvimento (não usados em produção)
 **/*.pyc

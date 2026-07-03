@@ -130,7 +130,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
 | C-036 | O que é sensation play — o jogo dos sentidos como prática BDSM | Post educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
-| C-037 | Tirar um sentido para ampliar todos os outros | Post Por Trás do Desejo | Mariana, Alex | 📅 Agendado (02/07) | `conteudos/instagram-post-por-tras-do-desejo/sensation-play/briefing.md` |
+| C-037 | Tirar um sentido para ampliar todos os outros | Post Por Trás do Desejo | Mariana, Alex | ✅ Publicado (02/07) | `conteudos/instagram-post-por-tras-do-desejo/sensation-play/briefing.md` |
 | C-038 | Sensation play: como começar com o jogo dos sentidos no BDSM | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
 
 ---
