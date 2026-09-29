@@ -168,7 +168,7 @@ Para cada característica técnica, perguntar: *"e daí? o que isso significa pa
 5. H2 de benefícios (com keyword) — 4–6 bullets, característica → benefício
 6. H2 especificações técnicas — lista objetiva
 7. H2 cuidados com o produto — 3–5 bullets
-8. H2 por que comprar na Shibari Brasil — diferenciais da loja
+8. H2 por que comprar na Shibari Brasil — quebra de objeções de confiança (fatos confirmados, sem venda cruzada; regras completas em `contexto/formatos/descricao-de-produto.md`)
 9. CTA — 1 frase com verbo de ação
 10. Bloco operacional — emoji ao final da linha, não no início
 11. Meta Title (máx. 65 chars)
@@ -217,7 +217,7 @@ Pontos a definir:
 - [ ] Benefícios em bullets (mínimo 3)
 - [ ] Especificações técnicas completas (dimensões, material, acabamento)
 - [ ] Recomendações de cuidado
-- [ ] Bloco "Por que comprar com a Shibari Brasil?"
+- [ ] Bloco "Por que comprar na Shibari Brasil": só fatos do banco aprovado, sem venda cruzada
 - [ ] 3 destaques fixos de operação ao final
 - [ ] Meta title escrito (máx. 65 caracteres)
 - [ ] Meta description escrita (140–160 caracteres, com CTA)

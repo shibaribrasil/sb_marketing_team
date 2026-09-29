@@ -49,7 +49,7 @@ Cada unidade recebe tratamento artesanal completo: amolecimento, queima dos fiap
 Adicione ao carrinho para ganhar um presente exclusivo!
 
 **Bloco operacional**
-Envio em até 7 dias úteis 📦
+Postagem em até 2 dias úteis 📦
 Rastreio e detalhes da entrega enviados por e-mail 💌
 Dúvidas? Fala com a gente no WhatsApp 🤝
 
