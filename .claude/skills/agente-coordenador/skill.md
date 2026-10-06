@@ -54,9 +54,10 @@ Só após realizar essas movimentações, ler a pauta atualizada e responder com
 Quando o usuário confirmar uma data de publicação para um conteúdo em **Pronto - Aguardando Publicação**:
 
 1. Mover o item para **Pronto - Agendado** em `contexto/pauta.md`, registrando a data confirmada.
-2. Atualizar a entrada correspondente no banco Notion ♊ **Histórico Instagram** (data source ID: `63ad0101-4eaf-4995-9c3e-f76e8fffea6c`) com a data de publicação agendada no campo `date:Data de postagem:start`. Se a entrada ainda não existir, criá-la com: Nome do conteúdo, Tipo de conteúdo, Cor do Fundo e Data de postagem.
-3. Atualizar o status da peça em `contexto/briefings.md` para **📅 Agendado (DD/MM)** (se tiver código C-XXX).
-4. Confirmar para o usuário que o item está agendado e informar a data.
+2. Atualizar o status da peça em `contexto/briefings.md` para **📅 Agendado (DD/MM)** (se tiver código C-XXX).
+3. Confirmar para o usuário que o item está agendado e informar a data.
+
+> ⚠️ Sincronização com o Notion (banco ♊ Histórico Instagram) desativada a pedido do Hugo (02/09/2026) — as informações de agendamento ficam só nos arquivos do projeto (`pauta.md`, `briefings.md`, `historico-conteudos.md`). Não criar nem atualizar páginas no Notion para isso.
 
 ## Confirmação de Postagem
 

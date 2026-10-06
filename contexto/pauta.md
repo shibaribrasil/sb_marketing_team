@@ -55,6 +55,16 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 | **Top drop e Dom drop — a queda emocional de ambos os lados** | O aftercare já está no backlog como prática de cuidado pós-cena. Esse território vai a um lugar diferente: o fenômeno emocional — o "drop" — que acontece nas horas ou dias seguintes em ambos os lados da corda. O mercado PT fala só do sub drop. A SB pode ser a primeira a tratar o Dom drop com a seriedade que merece. | 1. O que é sub drop — e por que acontece mesmo depois de uma cena ótima · 2. Dom drop: a queda emocional que ninguém fala — o que o lado dominante sente depois · 3. Como identificar um drop e o que fazer — guia prático para os dois lados | Mariana, Thiago, Alex | BDSM / Fetichista | https://www.instagram.com/words_are_a_kink/ (sem post específico mapeado) + dombarbudo.com/dicionario-bdsm | Nenhum — profundidade e diferenciação |
 | **Neurodivergência e fetiche — o que raramente se fala** | @words_are_a_kink publicou série de 2 posts sobre autismo/TDAH e BDSM — com citação de pesquisa mostrando que 30–50% de comunidades fetichistas têm traços autistas. A estrutura explícita da comunicação BDSM pode ser especialmente atrativa para neurodivergentes. Território completamente virgem em PT. *Nota: toca em identidade, não em terapia — mas Hugo pode decidir o timing.* | 1. Por que a comunicação explícita do BDSM ressoa com pessoas neurodivergentes · 2. Desafios específicos de autistas e TDAHers em cenas — o que parceiros precisam entender · 3. Shutdown vs. subspace: como diferenciar estados emocionais em cena | Mariana, Alex | BDSM / Fetichista | https://www.instagram.com/p/DWCA52lCPYl/ + https://www.instagram.com/p/DWd6SlwCIPD/ + sexualhealthalliance.com/nymphomedia-blog/kink-and-neurodivergence | Nenhum — inclusão e representatividade |
 | **Cultura Leather — o que é, de onde vem e por que importa** | Couro não é fantasia de fantasia. É subcultura com história, valores, ritual e estrutura de comunidade — nascida na cena gay dos EUA pós-guerra. O Kink Collective dedica um programa de 12 meses a isso. Em PT não existe nada equivalente. A SB pode ser a primeira a tratar Leather como identidade, não como figurino. | 1. O que é cultura Leather — história, valores e por que ainda importa · 2. Leather não é só couro: cerimônia, honra e pertencimento como pilares da subcultura · 3. De onde vem a estética Leather e o que ela comunica — da resistência queer ao fetiche contemporâneo | Thiago, Alex | BDSM / Fetichista | https://www.instagram.com/kink_collective/ (sem post específico mapeado) + kinkcollective.net/leather-unveiled | Possível — produtos em couro |
+| **Vocabulário essencial pra começar no shibari** | SB já tem glossário interno robusto, mas pouca marca BR explica os termos básicos (shibari x kinbaku x bondage) de forma acessível pra quem está chegando agora. | 1. Carrossel Livre: shibari, kinbaku e bondage — o que muda entre os termos · 2. Carrossel Livre: 5 palavras que todo iniciante ouve e não entende no shibari | Mariana | Shibari | instagram.com/p/DcsZbzWj10k (@thatropeplace — carrossel numerado "What Is Shibari?") | Nenhum — autoridade educacional |
+| **Aftercare como prática flexível, não checklist fixo** | Território de aftercare já está no backlog, mas esse ângulo específico — aftercare não é uma lista fixa de passos, é colaborativo e varia por pessoa — ainda não foi explorado. | 1. Carrossel Livre: aftercare não é uma checklist, é uma conversa · 2. Carrossel Livre: o que aftercare pode ser além de água e cobertor | Mariana, Alex | BDSM / Fetichista | instagram.com/p/DcQNBFND_UE (@thatropeplace — carrossel numerado "Aftercare After Rope") | Possível — produtos de cuidado pós-sessão |
+| **Desacelerar como parte da prática, não interrupção dela** | Conecta com semenawa/progressão no shibari — a SB pode trazer a reflexão de que pausar e reduzir intensidade é parte do avanço técnico, não recuo. | 1. Carrossel Livre: por que desacelerar também é progresso na prática · 2. Post de Frase: pausar não é recuar | Thiago | Shibari | instagram.com/p/DcVVCEvjS9B (@nawataneko) | Nenhum — autoridade técnica |
+| **Antes de julgar quem é fetichista** | Contraponto educativo pra quem vê a prática de fora — a SB pode desconstruir julgamento sem ser defensiva. | 1. Carrossel Livre: antes de julgar seu amigo fetichista, leia isso · 2. Post de Frase: curiosidade não é julgamento | Alex | BDSM / Fetichista | instagram.com/p/Db3VJmFFDuw (@loveysubby) | Nenhum |
+| **Explorar sem precisar de rótulo** | Reforça a curadoria sem exigir que a pessoa já saiba o que é ou se identifique antes de comprar/praticar — acolhe quem está testando. | 1. Carrossel Livre: você não precisa de rótulo pra ser curioso · 2. Post de Frase: curiosidade não pede permissão | Mariana, Alex | BDSM / Fetichista | instagram.com/p/DcHfHP6gISb (@kinkcompass) | Nenhum |
+| **O que significa BDSM, letra por letra** | Sigla usada por todo mundo mas pouco explicada com profundidade real — bom gancho de glossário fundamental, ainda mais básico que os territórios já mapeados. | 1. Carrossel Livre: o que cada letra de BDSM significa (e por que não é só dor) | Mariana | BDSM / Fetichista | instagram.com/p/CsCVoIVuFqK (@zerobaunilha) | Nenhum |
+| **Bandeiras verdes em quem pratica** | Complementa o território de red flags já produzido (C-057/C-060/C-079) com o lado positivo — reconhecer comportamento seguro, não só o perigoso. | 1. Carrossel Livre: sinais de que a pessoa pratica com responsabilidade · 2. Post de Frase: confiança se constrói em sinais pequenos | Mariana, Thiago | BDSM / Fetichista | instagram.com/p/DcsEHYiFjGY (@quierosangre.c0m — conta de shibari em espanhol) | Nenhum |
+| **O que as pessoas pensam que é confiança na prática x o que ela é de verdade** | Formato de comparação (expectativa vs. realidade) adaptado pro universo shibari — confiança não é só "deixar acontecer", é feita de coisas pequenas do dia a dia da prática. | 1. Carrossel Livre: o que as pessoas pensam que é confiança na prática x o que ela realmente é | Mariana, Thiago | Shibari | instagram.com/p/Db8za9EKzvK (@the.dressrehearsal) | Nenhum |
+| **Elogiar quem usa a safeword** | Reposiciona o safeword como sucesso da dinâmica, não interrupção — reforça a segurança como valor central da marca. | 1. Post de Frase: usar a safeword também merece elogio · 2. Carrossel Livre: o que o momento da safeword revela sobre a dinâmica | Thiago, Alex | BDSM / Fetichista | instagram.com/p/DcQ0esAjFYu (@dominantdiscourse) | Nenhum |
+| **BDSM não é sobre controle, é sobre consentimento** | Frase de posicionamento direta que reforça o valor central da marca (segurança/consentimento) num formato de alto impacto. | 1. Post de Frase: BDSM não é sobre controle, é sobre consentimento · 2. Post de Frase: confiança é entregar o controle, não perdê-lo | Todas | BDSM / Fetichista | instagram.com/p/DcqTcnMtfEA + instagram.com/p/DcMBV2sNiEK (@dr.k1nkaware) | Nenhum |
 
 ---
 
@@ -78,7 +88,6 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 
 | Título | Tipo de Conteúdo | Arquivo do Briefing | Ângulo / Gancho |
 |---|---|---|---|
-
 ---
 
 ## ✏️ Em Produção — Julia
@@ -88,8 +97,6 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 | Título | Tipo de Conteúdo | Arquivo | O que falta |
 |---|---|---|---|
 
-
-
 ---
 
 ## 🎨 Design em Produção — Bia
@@ -98,6 +105,13 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 
 | Título | Tipo de Conteúdo | Arquivo | Texto entregue em |
 |---|---|---|---|
+| C-003 — A curadoria de cordas da Shibari Brasil — cada uma no seu propósito | Post de Produto (Instagram) | `conteudos/instagram-post-produto/corda-de-juta-tratamento-artesanal/texto.md` | 26/08/2026 |
+| C-060 — Red flags em dinâmicas BDSM: padrões de linguagem que sinalizam uma relação insegura | Post para Blog | `conteudos/site-post-para-blog/red-flags-linguagem-bdsm/texto.md` | 26/08/2026 |
+| C-082 — por que desacelerar também é progresso na prática | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/desacelerar-e-progresso/texto.md` | 12/09/2026 |
+| C-083 — seu amigo fetichista não é o que você imagina | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/antes-de-julgar-fetichista/texto.md` | 12/09/2026 |
+| C-084 — você não precisa de rótulo pra ser curioso | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/curiosidade-sem-rotulo/texto.md` | 12/09/2026 |
+| C-086 — sinais de que a pessoa pratica com responsabilidade | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/bandeiras-verdes-praticas/texto.md` | 12/09/2026 |
+| C-088 — usar a safeword também merece elogio | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/elogiar-quem-usa-safeword/texto.md` | 12/09/2026 |
 
 ---
 
@@ -116,6 +130,7 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 
 | Título | Tipo de Conteúdo | Arquivo | Entrou em revisão |
 |---|---|---|---|
+
 ---
 
 ## ✅ Pronto - Aguardando Publicação
@@ -124,9 +139,16 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 
 | Título | Tipo de Conteúdo | Arquivo | Aprovado em |
 |---|---|---|---|
-| C-076 — cinco coisas que só a prática ensina | Carrossel Livre Instagram | `conteudos/instagram-carrossel-livre/so-a-pratica-ensina/` | 26/06/2026 |
 | Consentimento no BDSM e no shibari: o que é, por que é contínuo e como praticá-lo na cena | Post para Blog | `conteudos/site-post-para-blog/consentimento-bdsm-shibari/` | 15/06/2026 |
-| C-075 — 5 mitos sobre fetichismo | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-fetichismo/` | 22/06/2026 |
+| C-090 — falar também é parte do jogo, talvez a sua parte mais importante | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/conversa-antes-da-cena/` | 14/09/2026 |
+| C-091 — a conversa antes da cena pode ser mais importante que ela inteira | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/conversa-mais-importante-que-a-cena/` | 14/09/2026 |
+| C-092 — o que é dominação e submissão (D/s) | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/dinamica-ds/` | 15/09/2026 |
+| C-093 — o que é impact play | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/impact-play/` | 15/09/2026 |
+| C-094 — 5 mitos sobre bondage | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-bondage/` | 15/09/2026 |
+| C-080 — shibari, kinbaku e bondage não são a mesma coisa | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/vocabulario-shibari-kinbaku-bondage/` | 15/09/2026 |
+| C-081 — o que funcionou na última cena pode não servir pra essa | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/aftercare-nao-e-checklist/` | 15/09/2026 |
+| C-095 — 5 mitos sobre a cultura leather | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-cultura-leather/` | 15/09/2026 |
+| C-096 — a marca passa, mas a vontade de repetir continua | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/marca-mostra-onde-a-corda-trabalhou/` | 15/09/2026 |
 
 ---
 
@@ -136,10 +158,6 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 
 | Título | Tipo de Conteúdo | Arquivo | Aprovado em | Publicação agendada |
 |---|---|---|---|---|
-| C-061 — submissão não é o oposto da liberdade. é como algumas pessoas a vivem | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/submissao-e-liberdade/` | 19/06/2026 | 04/07/2026 |
-| Kit Shibari Iniciante | Post de Produto (Instagram) | `conteudos/instagram-post-produto/kit-shibari-iniciante-1/` | 27/06/2026 | 06/07/2026 |
-| C-077 — o que faz uma cena ser inesquecível | Carrossel Livre Instagram | `conteudos/instagram-carrossel-livre/cena-inesquecivel/` | 26/06/2026 | 07/07/2026 |
-| C-078 — 5 mitos sobre shibari | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-shibari/` | 27/06/2026 | 09/07/2026 |
 
 ---
 
@@ -149,6 +167,15 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 
 | Título | Tipo de Conteúdo | Arquivo | Publicado em |
 |---|---|---|---|
+| C-085 — o que cada letra de BDSM significa | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/significado-sigla-bdsm/` | 07/09/2026 |
+| C-075 — 5 mitos sobre fetichismo | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-fetichismo/` | 04/09/2026 |
+| C-089 — controle sem consentimento não é bdsm | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/bdsm-nao-e-controle-e-consentimento/` | 02/09/2026 |
+| C-001 — O que muda entre juta, algodão e sintético na sua primeira corda | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/primeira-corda-materiais/` | 02/09/2026 |
+| C-076 — cinco coisas que só a prática ensina | Carrossel Livre Instagram | `conteudos/instagram-carrossel-livre/so-a-pratica-ensina/` | 02/09/2026 |
+| C-078 — 5 mitos sobre shibari | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-shibari/` | 09/07/2026 |
+| C-077 — o que faz uma cena ser inesquecível | Carrossel Livre Instagram | `conteudos/instagram-carrossel-livre/cena-inesquecivel/` | 07/07/2026 |
+| Kit Shibari Iniciante | Post de Produto (Instagram) | `conteudos/instagram-post-produto/kit-shibari-iniciante-1/` | 06/07/2026 |
+| C-061 — submissão não é o oposto da liberdade. é como algumas pessoas a vivem | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/submissao-e-liberdade/` | 04/07/2026 |
 | C-037 — Tirar um sentido para ampliar todos os outros | Post Por Trás do Desejo | `conteudos/instagram-post-por-tras-do-desejo/sensation-play/` | 02/07/2026 |
 | Sticker Modelo 1 — brinde em pedidos acima de R$ 50,00 | Post de Produto (Instagram) | `conteudos/instagram-post-produto/sticker-modelo-1/` | 30/06/2026 |
 | Red flags em dinâmicas BDSM: como a linguagem revela o perigo antes de a cena começar | Carrossel Livre Instagram | `conteudos/instagram-carrossel-livre/red-flags-dinamicas-bdsm/` | 27/06/2026 |

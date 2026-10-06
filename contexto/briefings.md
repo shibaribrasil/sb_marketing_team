@@ -30,9 +30,9 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-001 | Juta, algodão ou sintético — um guia honesto para quem está começando | Carrossel Instagram | Mariana | 🗂 Backlog | — |
+| C-001 | O que muda entre juta, algodão e sintético na sua primeira corda | Carrossel Instagram | Mariana | ✅ Publicado (02/09) | `conteudos/instagram-carrossel-livre/primeira-corda-materiais/texto.md` |
 | C-002 | O que ninguém te conta sobre a primeira corda | Post único Instagram | Mariana | 🗂 Backlog | — |
-| C-003 | A curadoria de cordas da Shibari Brasil — cada uma no seu propósito | Post de produto | Mariana, Thiago | 🗂 Backlog | — |
+| C-003 | A curadoria de cordas da Shibari Brasil — cada uma no seu propósito | Post de produto | Mariana, Thiago | 🎨 Design em Produção | `conteudos/instagram-post-produto/corda-de-juta-tratamento-artesanal/texto.md` |
 | C-016 | Juta, algodão ou sintético? Guia completo para escolher a corda certa no shibari | Post para Blog | Mariana, Thiago | 🗂 Backlog | — |
 | C-017 | Primeira corda de shibari: não é sobre qual material é melhor — é sobre o seu momento de prática | Post para Blog | Mariana | 🗂 Backlog | — |
 
@@ -200,9 +200,10 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
 | C-057 | Red flags em dinâmicas BDSM: como a linguagem revela o perigo antes de a cena começar | Carrossel Livre Instagram | Mariana, Alex | ✅ Publicado (27/06) | `conteudos/instagram-carrossel-livre/red-flags-dinamicas-bdsm/texto.md` |
-| C-058 | Uma frase não é prova. Um padrão é razão para desacelerar. | Post de Frase | Todas | 🗂 Backlog | — |
+| C-058 | Uma frase não é prova. Um padrão é razão para desacelerar. | Post de Frase | Todas | 🗃 Arquivado | — |
 | C-059 | O que um Dom/Domme diz antes da cena diz mais do que parece | Post educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
-| C-060 | Red flags em dinâmicas BDSM: padrões de linguagem que sinalizam uma relação insegura | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
+| C-060 | Red flags em dinâmicas BDSM: padrões de linguagem que sinalizam uma relação insegura | Post para Blog | Mariana, Alex | 🎨 Design em Produção | `conteudos/site-post-para-blog/red-flags-linguagem-bdsm/texto.md` |
+| C-079 | Red flags em dinâmicas BDSM: padrões de linguagem que sinalizam uma relação insegura | Carrossel educativo Instagram | Mariana, Alex | ✅ Aguardando Publicação | `conteudos/instagram-carrossel-livre/red-flags-linguagem-bdsm/texto.md` |
 
 ---
 
@@ -211,7 +212,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-061 | Minha submissão é um ato de liberdade. | Post de Frase | Mariana, Alex | 📅 Agendado (04/07) | `conteudos/instagram-post-de-frase/submissao-e-liberdade/briefing.md` |
+| C-061 | Minha submissão é um ato de liberdade. | Post de Frase | Mariana, Alex | ✅ Publicado (04/07) | `conteudos/instagram-post-de-frase/submissao-e-liberdade/briefing.md` |
 | C-062 | Ser submissa me faz menos feminista? O equívoco que precisa ser desfeito | Carrossel educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
 | C-063 | A submissão que liberta e a que aprisiona — como reconhecer a diferença | Post educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
 | C-064 | Feminismo e BDSM: por que submissão e autonomia não se contradizem | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
@@ -245,8 +246,8 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Tema | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-075 | 5 mitos sobre fetichismo | Post Desatando Mitos | Mariana, Alex | ✅ Aguardando Publicação | `conteudos/instagram-post-desatando-mitos/desatando-mitos-fetichismo/texto.md` |
-| C-078 | 5 mitos sobre shibari | Post Desatando Mitos | Mariana, Thiago | 📅 Agendado (09/07) | `conteudos/instagram-post-desatando-mitos/desatando-mitos-shibari/briefing.md` |
+| C-075 | 5 mitos sobre fetichismo | Post Desatando Mitos | Mariana, Alex | ✅ Publicado (04/09) | `conteudos/instagram-post-desatando-mitos/desatando-mitos-fetichismo/texto.md` |
+| C-078 | 5 mitos sobre shibari | Post Desatando Mitos | Mariana, Thiago | ✅ Publicado (09/07) | `conteudos/instagram-post-desatando-mitos/desatando-mitos-shibari/briefing.md` |
 
 ---
 
@@ -266,5 +267,156 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-076 | cinco coisas que só a prática ensina | Carrossel Livre Instagram | Mariana, Thiago | ✅ Aguardando Publicação | `conteudos/instagram-carrossel-livre/so-a-pratica-ensina/briefing.md` |
-| C-077 | o que faz uma cena ser inesquecível | Carrossel Livre Instagram | Thiago, Alex, Mariana | 📅 Agendado (07/07) | `conteudos/instagram-carrossel-livre/cena-inesquecivel/briefing.md` |
+| C-076 | cinco coisas que só a prática ensina | Carrossel Livre Instagram | Mariana, Thiago | ✅ Publicado (02/09) | `conteudos/instagram-carrossel-livre/so-a-pratica-ensina/briefing.md` |
+| C-077 | o que faz uma cena ser inesquecível | Carrossel Livre Instagram | Thiago, Alex, Mariana | ✅ Publicado (07/07) | `conteudos/instagram-carrossel-livre/cena-inesquecivel/briefing.md` |
+
+---
+
+## Território: Vocabulário essencial pra começar no shibari
+> *Shibari · Mariana · Ref: instagram.com/p/DcsZbzWj10k (@thatropeplace, referência de formato)*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-080 | shibari, kinbaku e bondage não são a mesma coisa | Carrossel Livre Instagram | Mariana | ✅ Aguardando Publicação | `conteudos/instagram-carrossel-livre/vocabulario-shibari-kinbaku-bondage/texto.md` |
+
+---
+
+## Território: Aftercare como prática flexível, não checklist fixo
+> *BDSM / Fetichista · Mariana, Alex · Ref: instagram.com/p/DcQNBFND_UE (@thatropeplace, referência de formato)*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-081 | o que funcionou na última cena pode não servir pra essa | Carrossel Livre Instagram | Mariana, Alex | ✅ Aguardando Publicação | `conteudos/instagram-carrossel-livre/aftercare-nao-e-checklist/texto.md` |
+
+---
+
+## Território: Desacelerar como parte da prática, não interrupção dela
+> *Shibari · Thiago · Ref: instagram.com/p/DcVVCEvjS9B (@nawataneko)*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-082 | por que desacelerar também é progresso na prática | Carrossel Livre Instagram | Thiago | 🎨 Design em Produção | `conteudos/instagram-carrossel-livre/desacelerar-e-progresso/texto.md` |
+
+---
+
+## Território: Antes de julgar quem é fetichista
+> *BDSM / Fetichista · Alex · Ref: instagram.com/p/Db3VJmFFDuw (@loveysubby, referência de formato)*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-083 | seu amigo fetichista não é o que você imagina | Carrossel Livre Instagram | Alex | 🎨 Design em Produção | `conteudos/instagram-carrossel-livre/antes-de-julgar-fetichista/texto.md` |
+
+---
+
+## Território: Explorar sem precisar de rótulo
+> *BDSM / Fetichista · Mariana, Alex · Ref: instagram.com/p/DcHfHP6gISb (@kinkcompass, referência de formato)*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-084 | você não precisa de rótulo pra ser curioso | Carrossel Livre Instagram | Mariana, Alex | 🎨 Design em Produção | `conteudos/instagram-carrossel-livre/curiosidade-sem-rotulo/texto.md` |
+
+---
+
+## Território: O que significa BDSM, letra por letra
+> *BDSM / Fetichista · Mariana · Ref: instagram.com/p/CsCVoIVuFqK (@zerobaunilha, referência de formato)*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-085 | o que cada letra de BDSM significa | Carrossel Livre Instagram | Mariana | ✅ Publicado (07/09) | `conteudos/instagram-carrossel-livre/significado-sigla-bdsm/texto.md` |
+
+---
+
+## Território: Bandeiras verdes em quem pratica
+> *BDSM / Fetichista · Mariana, Thiago · Ref: instagram.com/p/DcsEHYiFjGY (@quierosangre.c0m)*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-086 | sinais de que a pessoa pratica com responsabilidade | Carrossel Livre Instagram | Mariana, Thiago | 🎨 Design em Produção | `conteudos/instagram-carrossel-livre/bandeiras-verdes-praticas/texto.md` |
+
+---
+
+## Território: O que as pessoas pensam que é confiança na prática x o que ela é de verdade
+> *Shibari · Mariana, Thiago · Ref: instagram.com/p/Db8za9EKzvK (@the.dressrehearsal, referência de formato)*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-087 | a confiança que você sente na cena foi construída bem antes dela | Carrossel Livre Instagram | Mariana, Thiago | ❌ Descartado (14/09/2026 — Hugo: tema muito repetido dentro do eixo de segurança/confiança já explorado em outras peças) | `conteudos/instagram-carrossel-livre/confianca-na-pratica-expectativa-realidade/texto.md` |
+
+---
+
+## Território: Elogiar quem usa a safeword
+> *BDSM / Fetichista · Thiago, Alex · Ref: instagram.com/p/DcQ0esAjFYu (@dominantdiscourse)*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-088 | usar a safeword também merece elogio | Post de Frase | Thiago, Alex | 🎨 Design em Produção | `conteudos/instagram-post-de-frase/elogiar-quem-usa-safeword/texto.md` |
+
+---
+
+## Território: A conversa antes da cena
+
+> *BDSM / Fetichista · Mariana, Thiago · Ideia e frase originais do Hugo, a partir da reflexão "shibari não é sobre perfeição das amarrações, é sobre conexão" e referência visual @kyn.tv. Duas versões da mesma reflexão, publicadas em momentos diferentes.*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-090 | falar também é parte do jogo, talvez a sua parte mais importante | Post de Frase | Mariana, Thiago | ✅ Aguardando Publicação | `conteudos/instagram-post-de-frase/conversa-antes-da-cena/texto.md` |
+| C-091 | a conversa antes da cena pode ser mais importante que ela inteira | Post de Frase | Mariana, Thiago | ✅ Aguardando Publicação | `conteudos/instagram-post-de-frase/conversa-mais-importante-que-a-cena/texto.md` |
+
+---
+
+## Território: BDSM não é sobre controle, é sobre consentimento
+> *BDSM / Fetichista · Todas · Ref: instagram.com/p/DcqTcnMtfEA + instagram.com/p/DcMBV2sNiEK (@dr.k1nkaware)*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-089 | controle sem consentimento não é bdsm | Post de Frase | Todas | ✅ Publicado (02/09) | `conteudos/instagram-post-de-frase/bdsm-nao-e-controle-e-consentimento/texto.md` |
+
+---
+
+## Território: Dinâmica D/s
+
+> *BDSM / Fetichista · Mariana, Alex, Thiago · Ref: dombarbudo.com/dicionario-bdsm + sumak.blog/blog/confianca-a-base-da-dinamica/*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-092 | o que é dominação e submissão (D/s) | Post Por Trás do Desejo | Mariana, Alex, Thiago | ✅ Aguardando Publicação | `conteudos/instagram-post-por-tras-do-desejo/dinamica-ds/texto.md` |
+
+---
+
+## Território: Impact Play
+
+> *BDSM / Fetichista · Mariana, Thiago · Ref: dommenique.com.br/guia-do-impact-play-para-dominatrix-iniciantes/ + cenabdsm.com/impact-play/*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-093 | o que é impact play | Post Por Trás do Desejo | Mariana, Thiago | ✅ Aguardando Publicação | `conteudos/instagram-post-por-tras-do-desejo/impact-play/texto.md` |
+
+---
+
+## Território: 5 mitos sobre bondage
+
+> *BDSM / Fetichista · Mariana, Thiago · Tema próprio, sem referência externa específica — completa a série de Desatando Mitos já iniciada (shibari, fetichismo)*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-094 | 5 mitos sobre bondage | Post Desatando Mitos | Mariana, Thiago | ✅ Aguardando Publicação | `conteudos/instagram-post-desatando-mitos/desatando-mitos-bondage/texto.md` |
+
+---
+
+## Território: 5 mitos sobre a cultura leather
+
+> *BDSM / Fetichista · Thiago, Alex · Ref: instagram.com/kink_collective/ + kinkcollective.net/leather-unveiled*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-095 | 5 mitos sobre a cultura leather | Post Desatando Mitos | Thiago, Alex | ✅ Aguardando Publicação | `conteudos/instagram-post-desatando-mitos/desatando-mitos-cultura-leather/texto.md` |
+
+---
+
+## Território: Marcas de corda na pele
+
+> *Shibari · Mariana, Thiago · Tema próprio, sem referência externa — pedido direto de Hugo a partir de um post de referência ("toda marca carrega uma memória bonita") descartado por ser genérico demais e com risco de gatilho negativo*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-096 | a marca passa, mas a vontade de repetir continua | Post de Frase (Instagram) | Mariana, Thiago | ✅ Aguardando Publicação | `conteudos/instagram-post-de-frase/marca-mostra-onde-a-corda-trabalhou/texto.md` |
