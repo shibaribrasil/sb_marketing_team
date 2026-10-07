@@ -99,6 +99,93 @@ O processo de tratamento artesanal (amolecimento, queima de fiapos, hidratação
 
 ---
 
+## Corda de Juta 6mm × 10m Tratada para Shibari e Bondage
+
+**Categoria:** corda
+**SKU / Código:** — (a confirmar com o Hugo)
+**Faixa de Preço:** — (a confirmar com o Hugo)
+
+**Descrição Curta:**
+Corda de juta 100% natural, tratada artesanalmente pela equipe da Shibari Brasil. Padrão asanawa, pronta para uso, 6mm × 10m.
+
+**Descrição Completa:**
+Mesma base da Corda de Juta 6mm × 8m, em comprimento maior — 10 metros. Chega firme, com toque uniforme e pronta para uso, sem preparação adicional. Recebe o tratamento artesanal completo: amolecimento, queima dos fiapos, limpeza e hidratação com blend de óleos vegetais. Material 100% juta natural, sem aditivos, torcida no padrão asanawa. O comprimento extra favorece amarrações mais elaboradas e estruturas que exigem mais corda contínua.
+
+**Diferenciais:**
+- Tratamento artesanal completo feito pela própria equipe da SB (amolecimento, queima de fiapos, hidratação com óleos vegetais)
+- Pontas com nó de overhand — não desfia, não precisa de acabamento
+- Óleo antifúngico e antialérgico — segura para uso na pele
+- 100% natural e vegana
+- Comprimento maior (10m) — mais corda contínua para amarrações elaboradas
+
+**Especificações:**
+- Espessura: 6mm
+- Comprimento: 10 metros
+- Material: 100% juta natural, sem aditivos
+- Padrão: asanawa
+- Acabamento: nó de overhand nas pontas
+- Tratamento: blend de óleos vegetais
+
+**Casos de Uso:**
+- Amarrações mais elaboradas e estruturas que exigem mais corda contínua
+- Prática regular para quem já tem experiência em shibari/bondage
+
+**Persona que mais compra:** Thiago (praticante exigente)
+
+**Argumentos de Venda:**
+- Tratamento artesanal feito pela própria equipe da Shibari Brasil — não é corda genérica revendida
+- Comprimento extra sem abrir mão do tratamento pronto-para-uso
+
+**Gancho para Conteúdo:**
+O comprimento maior é o ângulo natural — amarrações que exigem mais corda contínua, sem perder o diferencial do tratamento artesanal.
+
+**Tags:** corda, juta, shibari, bondage, asanawa, artesanal, vegana, 10 metros
+
+---
+
+## Corda de Algodão 6mm × 8m Tratada para Shibari e Bondage
+
+**Categoria:** corda
+**SKU / Código:** — (a confirmar com o Hugo)
+**Faixa de Preço:** — (a confirmar com o Hugo)
+
+**Descrição Curta:**
+Corda de algodão 100% natural, tratada artesanalmente pela equipe da Shibari Brasil. Pronta para uso, 6mm × 8m.
+
+**Descrição Completa:**
+Recebe o mesmo tratamento artesanal aplicado às cordas de juta da SB: amolecimento, limpeza e hidratação com blend de óleos vegetais. O algodão entrega um toque mais macio que a juta, o que costuma facilitar a adaptação de quem está começando. Também tem facilidade de tingimento — ótima opção para amarrações de caráter estético (ensaios fotográficos, composição visual). **Contraindicação de segurança:** corda de algodão é contraindicada para suspensão — o material não sustenta o peso corporal com a mesma segurança da juta.
+
+**Diferenciais:**
+- Tratamento artesanal completo feito pela própria equipe da SB (limpeza, hidratação com óleos vegetais)
+- Toque mais macio que a juta — boa entrada para quem está começando
+- Fácil de tingir — indicada para amarrações estéticas e ensaios fotográficos
+- Óleo antifúngico e antialérgico — segura para uso na pele
+- 100% natural e vegana
+
+**Especificações:**
+- Espessura: 6mm
+- Comprimento: 8 metros
+- Material: 100% algodão natural
+- Tratamento: blend de óleos vegetais
+
+**Casos de Uso:**
+- Primeira corda para quem está começando — toque mais macio facilita a adaptação
+- Amarrações de caráter estético — ensaios fotográficos, composição visual — aproveitando a facilidade de tingimento
+- **Não recomendada para suspensão** — usar apenas em amarrações que não sustentem peso corporal
+
+**Persona que mais compra:** Mariana (iniciante curiosa)
+
+**Argumentos de Venda:**
+- Tratamento artesanal feito pela própria equipe da Shibari Brasil
+- Toque macio, indicado para quem está iniciando a prática
+
+**Gancho para Conteúdo:**
+O toque macio como porta de entrada, e a facilidade de tingimento como diferencial estético (ensaios fotográficos) — sempre mencionando a contraindicação de suspensão como parte da informação, não como nota de rodapé.
+
+**Tags:** corda, algodão, shibari, bondage, artesanal, vegana, iniciante
+
+---
+
 ## Sticker Modelo 1
 
 **Categoria:** brinde / acessório

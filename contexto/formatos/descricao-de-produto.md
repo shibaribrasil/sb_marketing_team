@@ -56,10 +56,23 @@ Lista limpa com dados objetivos.
 - Tom direto, sem dramatizar
 
 **8. H2: Por que comprar na Shibari Brasil**
-Apenas diferenciais da loja — não misturar com benefícios do produto.
-- Máximo 5 bullets
-- Sem adjetivo genérico (ex: "atencioso", "dedicado")
-- Pode incluir: expertise, exclusividade do tratamento, logística, privacidade
+Função: **quebrar objeções de confiança** na loja e no produto. Quem compra num nicho íntimo se pergunta: "chega discreto?", "quem escolheu isso?", "e se eu tiver dúvida?". Não é o lugar de vender outro produto.
+- Máximo 5 bullets, cada um com um **fato verificável e confirmado pelo Hugo**
+- Sem adjetivo genérico (ex: "atencioso", "dedicado") e sem promessa que a loja não tenha definida
+- **Proibido:** citar ou vender outros produtos (venda cruzada), como "combine com..." ou "segunda opção para quem já tem..."
+- **Banco de argumentos aprovado (Hugo, 29/09/2026):**
+  - Curadoria: selecionado e testado por quem pratica e usa esse tipo de item (citar o produto, ex.: "esta coleira")
+  - Envio discreto: o pacote não revela o que tem dentro
+  - Brinde em todo pedido: sticker exclusivo da Shibari Brasil
+  - Dúvida antes de comprar: atendimento por WhatsApp e e-mail em até 24 horas úteis
+  - Maior loja dedicada ao shibari no Brasil (mais natural em produto da frente Shibari; em Curadoria Fetichista, use só se fizer sentido ao produto)
+  - Frete até 30% mais barato com os Correios
+- **Não usar:** formas de pagamento; acompanhamento do pedido por e-mail (já está no bloco operacional); "você sabe o que está comprando" (material e medidas)
+- **Não usar até existir política definida:** troca, devolução, garantia, direito de arrependimento, CNPJ
+- **Não repetir** o que o bloco operacional já diz (postagem, rastreio, WhatsApp)
+- **SEO:** o banco é o mesmo em todo produto; escolha de 3 a 5 itens e varie a redação com o nome ou o tipo do produto, para não repetir um bloco idêntico entre páginas
+- Argumento novo: só com confirmação do Hugo, e registrar aqui
+
 
 **9. CTA**
 Fixo em todos os produtos — copiar exatamente:
@@ -70,7 +83,7 @@ Adicione ao carrinho para ganhar um presente exclusivo!
 **10. Bloco operacional**
 Fixo em todos os produtos — copiar exatamente, emoji ao **final** da linha:
 ```
-Envio em até 7 dias úteis 📦
+Postagem em até 2 dias úteis 📦
 Rastreio e detalhes da entrega enviados por e-mail 💌
 Dúvidas? Fala com a gente no WhatsApp 🤝
 ```
@@ -92,7 +105,7 @@ Keyword + benefício principal + convite ao clique. **140 a 160 caracteres**. Es
 - [ ] H2 de benefícios com keyword no título, 4–6 bullets (característica → benefício)
 - [ ] H2 especificações: lista limpa, unidades padronizadas
 - [ ] H2 cuidados: 3–5 bullets diretos
-- [ ] H2 "Por que comprar": só diferenciais da loja, sem adjetivo genérico
+- [ ] H2 "Por que comprar": só fatos do banco aprovado (curadoria, envio discreto, brinde, dúvida), sem venda cruzada e sem adjetivo genérico
 - [ ] CTA com verbo de ação antes do bloco operacional
 - [ ] Bloco operacional com emoji ao final da linha (não no início)
 - [ ] Meta Title escrito (máx. 65 caracteres, com keyword)
