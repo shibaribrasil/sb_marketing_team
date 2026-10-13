@@ -260,6 +260,7 @@ Os formatos são definidos de forma incremental. Cada formato tem seu próprio a
 9. Post de Foto (Instagram) → `contexto/formatos/post-de-foto.md` — foto do acervo pessoal movida de `assets/arquivo/Post de Fotos - A Publicar/`; pipeline direto: Julia (legenda) → Ana (revisão) → Publicação
 10. Post de Produto (Instagram) → `contexto/formatos/post-de-produto.md` — legenda ancorada em `contexto/produtos.md`; pipeline: Pedro (dados do produto) → Julia (legenda) → Bia (visual) → Ana (revisão)
 11. Instagram Vídeo → `contexto/formatos/instagram-video.md` — legenda de apoio a vídeo demonstrativo; pipeline: Julia (legenda) → Ana (revisão)
+12. Post de Bingo (Instagram) → `contexto/formatos/post-de-bingo.md` — post casual de identificação (cartela 3×3, 9 situações); eventual, sob demanda do Hugo; pipeline: Julia (cartela + legenda) → Bia (arte) → Ana (revisão)
 
 ---
 

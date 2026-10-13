@@ -130,6 +130,7 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 
 | Título | Tipo de Conteúdo | Arquivo | Entrou em revisão |
 |---|---|---|---|
+| C-105 — bingo da primeira amarração | Post de Bingo (Instagram) | `conteudos/instagram-post-de-bingo/bingo-da-primeira-amarracao/texto.md` | 10/10/2026 |
 
 ---
 
@@ -141,14 +142,6 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 |---|---|---|---|
 | Consentimento no BDSM e no shibari: o que é, por que é contínuo e como praticá-lo na cena | Post para Blog | `conteudos/site-post-para-blog/consentimento-bdsm-shibari/` | 15/06/2026 |
 | C-090 — falar também é parte do jogo, talvez a sua parte mais importante | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/conversa-antes-da-cena/` | 14/09/2026 |
-| C-091 — a conversa antes da cena pode ser mais importante que ela inteira | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/conversa-mais-importante-que-a-cena/` | 14/09/2026 |
-| C-092 — o que é dominação e submissão (D/s) | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/dinamica-ds/` | 15/09/2026 |
-| C-093 — o que é impact play | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/impact-play/` | 15/09/2026 |
-| C-094 — 5 mitos sobre bondage | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-bondage/` | 15/09/2026 |
-| C-080 — shibari, kinbaku e bondage não são a mesma coisa | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/vocabulario-shibari-kinbaku-bondage/` | 15/09/2026 |
-| C-081 — o que funcionou na última cena pode não servir pra essa | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/aftercare-nao-e-checklist/` | 15/09/2026 |
-| C-095 — 5 mitos sobre a cultura leather | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-cultura-leather/` | 15/09/2026 |
-| C-096 — a marca passa, mas a vontade de repetir continua | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/marca-mostra-onde-a-corda-trabalhou/` | 15/09/2026 |
 
 ---
 
@@ -167,11 +160,19 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 
 | Título | Tipo de Conteúdo | Arquivo | Publicado em |
 |---|---|---|---|
+| C-095 — 5 mitos sobre a cultura leather | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-cultura-leather/` | 07/10/2026 |
+| C-092 — o que é dominação e submissão (D/s) | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/dinamica-ds/` | 30/09/2026 |
+| C-080 — shibari, kinbaku e bondage não são a mesma coisa | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/vocabulario-shibari-kinbaku-bondage/` | 28/09/2026 |
+| C-081 — o que funcionou na última cena pode não servir pra essa | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/aftercare-nao-e-checklist/` | 23/09/2026 |
+| C-093 — o que é impact play | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/impact-play/` | 21/09/2026 |
+| C-096 — a marca passa, mas a vontade de repetir continua | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/marca-mostra-onde-a-corda-trabalhou/` | 19/09/2026 |
+| C-094 — 5 mitos sobre bondage | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-bondage/` | 16/09/2026 |
+| C-091 — a conversa antes da cena pode ser mais importante que ela inteira | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/conversa-mais-importante-que-a-cena/` | 14/09/2026 |
 | C-085 — o que cada letra de BDSM significa | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/significado-sigla-bdsm/` | 07/09/2026 |
 | C-075 — 5 mitos sobre fetichismo | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-fetichismo/` | 04/09/2026 |
 | C-089 — controle sem consentimento não é bdsm | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/bdsm-nao-e-controle-e-consentimento/` | 02/09/2026 |
 | C-001 — O que muda entre juta, algodão e sintético na sua primeira corda | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/primeira-corda-materiais/` | 02/09/2026 |
-| C-076 — cinco coisas que só a prática ensina | Carrossel Livre Instagram | `conteudos/instagram-carrossel-livre/so-a-pratica-ensina/` | 02/09/2026 |
+| C-076 — cinco coisas que só a prática ensina | Carrossel Livre Instagram | `conteudos/instagram-carrossel-livre/so-a-pratica-ensina/` | 26/08/2026 |
 | C-078 — 5 mitos sobre shibari | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-shibari/` | 09/07/2026 |
 | C-077 — o que faz uma cena ser inesquecível | Carrossel Livre Instagram | `conteudos/instagram-carrossel-livre/cena-inesquecivel/` | 07/07/2026 |
 | Kit Shibari Iniciante | Post de Produto (Instagram) | `conteudos/instagram-post-produto/kit-shibari-iniciante-1/` | 06/07/2026 |

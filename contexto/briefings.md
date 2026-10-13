@@ -267,7 +267,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-076 | cinco coisas que só a prática ensina | Carrossel Livre Instagram | Mariana, Thiago | ✅ Publicado (02/09) | `conteudos/instagram-carrossel-livre/so-a-pratica-ensina/briefing.md` |
+| C-076 | cinco coisas que só a prática ensina | Carrossel Livre Instagram | Mariana, Thiago | ✅ Publicado (26/08) | `conteudos/instagram-carrossel-livre/so-a-pratica-ensina/briefing.md` |
 | C-077 | o que faz uma cena ser inesquecível | Carrossel Livre Instagram | Thiago, Alex, Mariana | ✅ Publicado (07/07) | `conteudos/instagram-carrossel-livre/cena-inesquecivel/briefing.md` |
 
 ---
@@ -277,7 +277,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-080 | shibari, kinbaku e bondage não são a mesma coisa | Carrossel Livre Instagram | Mariana | ✅ Aguardando Publicação | `conteudos/instagram-carrossel-livre/vocabulario-shibari-kinbaku-bondage/texto.md` |
+| C-080 | shibari, kinbaku e bondage não são a mesma coisa | Carrossel Livre Instagram | Mariana | ✅ Publicado (28/09) | `conteudos/instagram-carrossel-livre/vocabulario-shibari-kinbaku-bondage/texto.md` |
 
 ---
 
@@ -286,7 +286,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-081 | o que funcionou na última cena pode não servir pra essa | Carrossel Livre Instagram | Mariana, Alex | ✅ Aguardando Publicação | `conteudos/instagram-carrossel-livre/aftercare-nao-e-checklist/texto.md` |
+| C-081 | o que funcionou na última cena pode não servir pra essa | Carrossel Livre Instagram | Mariana, Alex | ✅ Publicado (23/09) | `conteudos/instagram-carrossel-livre/aftercare-nao-e-checklist/texto.md` |
 
 ---
 
@@ -360,7 +360,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
 | C-090 | falar também é parte do jogo, talvez a sua parte mais importante | Post de Frase | Mariana, Thiago | ✅ Aguardando Publicação | `conteudos/instagram-post-de-frase/conversa-antes-da-cena/texto.md` |
-| C-091 | a conversa antes da cena pode ser mais importante que ela inteira | Post de Frase | Mariana, Thiago | ✅ Aguardando Publicação | `conteudos/instagram-post-de-frase/conversa-mais-importante-que-a-cena/texto.md` |
+| C-091 | a conversa antes da cena pode ser mais importante que ela inteira | Post de Frase | Mariana, Thiago | ✅ Publicado (14/09) | `conteudos/instagram-post-de-frase/conversa-mais-importante-que-a-cena/texto.md` |
 
 ---
 
@@ -379,7 +379,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-092 | o que é dominação e submissão (D/s) | Post Por Trás do Desejo | Mariana, Alex, Thiago | ✅ Aguardando Publicação | `conteudos/instagram-post-por-tras-do-desejo/dinamica-ds/texto.md` |
+| C-092 | o que é dominação e submissão (D/s) | Post Por Trás do Desejo | Mariana, Alex, Thiago | ✅ Publicado (30/09) | `conteudos/instagram-post-por-tras-do-desejo/dinamica-ds/texto.md` |
 
 ---
 
@@ -389,7 +389,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-093 | o que é impact play | Post Por Trás do Desejo | Mariana, Thiago | ✅ Aguardando Publicação | `conteudos/instagram-post-por-tras-do-desejo/impact-play/texto.md` |
+| C-093 | o que é impact play | Post Por Trás do Desejo | Mariana, Thiago | ✅ Publicado (21/09) | `conteudos/instagram-post-por-tras-do-desejo/impact-play/texto.md` |
 
 ---
 
@@ -399,7 +399,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-094 | 5 mitos sobre bondage | Post Desatando Mitos | Mariana, Thiago | ✅ Aguardando Publicação | `conteudos/instagram-post-desatando-mitos/desatando-mitos-bondage/texto.md` |
+| C-094 | 5 mitos sobre bondage | Post Desatando Mitos | Mariana, Thiago | ✅ Publicado (16/09) | `conteudos/instagram-post-desatando-mitos/desatando-mitos-bondage/texto.md` |
 
 ---
 
@@ -409,7 +409,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-095 | 5 mitos sobre a cultura leather | Post Desatando Mitos | Thiago, Alex | ✅ Aguardando Publicação | `conteudos/instagram-post-desatando-mitos/desatando-mitos-cultura-leather/texto.md` |
+| C-095 | 5 mitos sobre a cultura leather | Post Desatando Mitos | Thiago, Alex | ✅ Publicado (07/10) | `conteudos/instagram-post-desatando-mitos/desatando-mitos-cultura-leather/texto.md` |
 
 ---
 
@@ -419,4 +419,75 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-096 | a marca passa, mas a vontade de repetir continua | Post de Frase (Instagram) | Mariana, Thiago | ✅ Aguardando Publicação | `conteudos/instagram-post-de-frase/marca-mostra-onde-a-corda-trabalhou/texto.md` |
+| C-096 | a marca passa, mas a vontade de repetir continua | Post de Frase (Instagram) | Mariana, Thiago | ✅ Publicado (19/09) | `conteudos/instagram-post-de-frase/marca-mostra-onde-a-corda-trabalhou/texto.md` |
+
+---
+
+## Origem: Posts salvos (coleção "Conteúdo", 09/10/2026)
+
+> *Briefings vindos da skill `especialista-instagram` (sb_admin_team), a partir de 69 posts salvos pelo Hugo. Detalhes de estrutura, ângulos de capa, cuidados e teste de cada ideia em `contexto/referencias-posts-salvos-2026-10-09.md` (seção 2, item correspondente). Os formatos marcados "a cadastrar" ainda não existem em `contexto/formatos/`: até serem cadastrados, a ideia fica em Backlog. Nada para copiar — só estrutura e ângulo; fatos de produto só do nosso catálogo.*
+
+## Território: Quadro de fibras de corda lado a lado
+> *Shibari · Thiago, Mariana · Refs: posts 9 e 8 (@ropestudy) · Complementa C-001*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-097 | Juta, algodão, cânhamo e sintético: o que muda de verdade (quadro de consulta) | Quadro salvável (F1, a cadastrar) | Thiago, Mariana | 🗂 Backlog | — |
+
+## Território: Dúvida de iniciante — corda sem dor
+> *Shibari · Mariana · Refs: posts 64, 16, 71, 54 · Abre série fixa "Dúvida de iniciante" (próximas: "Preciso de parceiro?", "Qual corda comprar primeiro?")*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-098 | Posso gostar de corda sem gostar de dor? | Dúvida de iniciante (F2, a cadastrar) | Mariana | 🗂 Backlog | — |
+
+## Território: Anatomia de uma cena de corda
+> *Shibari · Thiago, Mariana · Refs: posts 20, 23, 69, 45, 56 · Une C-077 e C-008 sem repetir; pode virar série de 3 posts*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-099 | Anatomia de uma cena de corda: antes, durante, depois | Antes · durante · depois (F3, a cadastrar) | Thiago, Mariana | 🗂 Backlog | — |
+
+## Território: Guia calmo dos riscos da corda
+> *Shibari · Thiago · Refs: posts 17 e 8 · Exige revisão por praticante experiente e frase "não substitui aula presencial"*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-100 | O que pode dar errado na corda (e como perceber cedo) | Guia calmo de risco (F4, a cadastrar) | Thiago | 🗂 Backlog | — |
+
+## Território: Como guardar e cuidar da corda
+> *Shibari · Thiago · Ref: post 11 (@shibaribangalore) · Fotos reais nossas, sem imagem gerada por IA*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-101 | Você guarda sua corda do jeito errado? | Erro comum → jeito certo (F6, a cadastrar) | Thiago | 🗂 Backlog | — |
+
+## Território: Corda não é sobre X. É sobre Y.
+> *Shibari · Todas · Refs: posts 39, 49, 61, 70 · Variações: força/atenção, prender/presença, pressa/confiança · Evitar sobreposição com C-089 e C-091*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-102 | Corda não é sobre força. É sobre atenção. | Série "não é X, é Y" (F5, a cadastrar) | Todas | 🗂 Backlog | — |
+
+## Território: Perguntas antes da primeira amarração
+> *Shibari · Mariana · Refs: posts 14, 28, 55, 58, 33 · Salvável e fácil de mandar ao parceiro*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-103 | 7 perguntas para fazer antes da primeira amarração | Perguntas para fazer antes (F7, a cadastrar) | Mariana | 🗂 Backlog | — |
+
+## Território: Como saber se um instrutor de shibari é bom
+> *Shibari · Mariana, Thiago · Refs: posts 6 e 62 · Opinião da marca, sem citar pessoas; boa para convidar educador parceiro*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-104 | 5 sinais de um bom instrutor de shibari (e 3 de alerta) | Colaboração com educador (F12, a cadastrar) | Mariana, Thiago | 🗂 Backlog | — |
+
+---
+
+## Território: Bingo da primeira amarração
+> *Shibari · Mariana · Tema próprio, pedido direto do Hugo (09/10/2026) — primeiro Post de Bingo, formato casual de identificação*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-105 | bingo da primeira amarração | Post de Bingo (Instagram) | Mariana | 👀 Aguardando Revisão | `conteudos/instagram-post-de-bingo/bingo-da-primeira-amarracao/texto.md` |

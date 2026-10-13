@@ -62,3 +62,4 @@ Quando o usuário solicitar um tipo de conteúdo ainda não registrado:
 9. [Post de Foto (Instagram)](formatos/post-de-foto.md)
 10. [Post de Produto (Instagram)](formatos/post-de-produto.md)
 11. [Instagram Vídeo](formatos/instagram-video.md)
+12. [Post de Bingo (Instagram)](formatos/post-de-bingo.md) — post casual de identificação: cartela 3×3 com 9 situações; eventual, sob demanda
