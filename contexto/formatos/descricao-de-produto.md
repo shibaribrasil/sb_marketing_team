@@ -1,6 +1,8 @@
 # Descrição de Produto — Site `site-descricao-produto`
 
 > Padrão ativo desde 19/06/2026. Substitui [`descricao-de-produto-old.md`](descricao-de-produto-old.md).
+>
+> **Revisão de 13/10/2026 (Hugo), vale para todo e qualquer produto:** a descrição **termina em Cuidados**. As antigas seções 8 (Por que comprar na Shibari Brasil), 9 (CTA) e 10 (bloco operacional) **saem do corpo da descrição**; Meta Title e Meta Description continuam. O bloco de benefícios **não tem título H2**: parágrafos seguidos de tópicos. Nunca usar "revenda": o posicionamento é curadoria ou feito/tratado artesanalmente pela Shibari Brasil. Nomear o próprio produto ("cada corda", "cada coleira"), nunca "cada unidade". Peso e medidas da embalagem (dados de frete) não entram nas especificações. Corda de juta 6mm x 8m: dizer que é a configuração mais usada no shibari no mundo. Afirmação vinda do fornecedor ("feito à mão", "artesanal", "exclusivo" etc.) só entra com confirmação do Hugo; item de curadoria nunca leva rótulo de feito à mão ou artesanal. As seções 8 a 10 abaixo ficam só como histórico e referência (o banco de argumentos serve a outros materiais).
 
 **Objetivo:** Apresentar um produto com copy alinhado ao tom de voz da marca, SEO estruturado e informações técnicas completas — convertendo visitas em compra sem linguagem apelativa.
 
@@ -23,7 +25,7 @@ Nome do produto + variação (espessura, comprimento, modelo) + diferencial func
 
 **2. Linha de posicionamento**
 1 a 2 frases em texto corrido — sem emoji, sem chamada apelativa.
-- Informa se o produto é exclusivo/artesanal da SB ou parte da curadoria
+- Informa se o produto é feito/tratado artesanalmente pela SB ou escolha da curadoria (nunca "revenda"; corda comprada que passa pelo nosso tratamento é tratada por nós)
 - Exclusivo/artesanal: ex. `Produto artesanal e exclusivo, feito pela equipe da Shibari Brasil.`
 - Curadoria: ex. `Selecionada pela equipe da Shibari Brasil para quem leva a prática a sério.`
 
@@ -40,7 +42,7 @@ Nome do produto + variação (espessura, comprimento, modelo) + diferencial func
 - Sem travessão duplo no mesmo período
 - Sem adjetivos vazios
 
-**5. H2 de benefícios** *(título do H2 deve conter keyword ou variação)*
+**5. Benefícios (sem título; parágrafos de abertura e técnico seguidos dos tópicos)**
 4 a 6 bullets traduzindo características em benefícios para quem usa.
 - Formato: o que a característica faz pelo cliente — não apenas o que ela é
 - Benefícios antes das especificações técnicas
@@ -50,12 +52,13 @@ Lista limpa com dados objetivos.
 - Unidades padronizadas (mm, m, g)
 - Sem interpretação — só dado
 - Incluir: espessura, comprimento, material, padrão, acabamento, tratamento, certificações
+- Não incluir peso nem medidas da embalagem
 
 **7. H2: Cuidados com o produto** *(título pode conter keyword)*
 3 a 5 bullets com orientações de conservação.
 - Tom direto, sem dramatizar
 
-**8. H2: Por que comprar na Shibari Brasil**
+**8. (REVOGADA em 13/10/2026, não entra na descrição) H2: Por que comprar na Shibari Brasil**
 Função: **quebrar objeções de confiança** na loja e no produto. Quem compra num nicho íntimo se pergunta: "chega discreto?", "quem escolheu isso?", "e se eu tiver dúvida?". Não é o lugar de vender outro produto.
 - Máximo 5 bullets, cada um com um **fato verificável e confirmado pelo Hugo**
 - Sem adjetivo genérico (ex: "atencioso", "dedicado") e sem promessa que a loja não tenha definida
@@ -74,13 +77,13 @@ Função: **quebrar objeções de confiança** na loja e no produto. Quem compra
 - Argumento novo: só com confirmação do Hugo, e registrar aqui
 
 
-**9. CTA**
+**9. (REVOGADO em 13/10/2026, não entra na descrição) CTA**
 Fixo em todos os produtos — copiar exatamente:
 ```
 Adicione ao carrinho para ganhar um presente exclusivo!
 ```
 
-**10. Bloco operacional**
+**10. (REVOGADO em 13/10/2026, não entra na descrição) Bloco operacional**
 Fixo em todos os produtos — copiar exatamente, emoji ao **final** da linha:
 ```
 Postagem em até 2 dias úteis 📦
@@ -102,12 +105,11 @@ Keyword + benefício principal + convite ao clique. **140 a 160 caracteres**. Es
 - [ ] Linha de posicionamento factual (sem emoji, sem apelativo)
 - [ ] Parágrafo de abertura: keyword na primeira frase, sem travessão, sem genérico
 - [ ] Parágrafo técnico: voz ativa, sem travessão duplo, sem adjetivo vazio
-- [ ] H2 de benefícios com keyword no título, 4–6 bullets (característica → benefício)
+- [ ] Benefícios sem título, 4–6 bullets (característica → benefício)
 - [ ] H2 especificações: lista limpa, unidades padronizadas
 - [ ] H2 cuidados: 3–5 bullets diretos
-- [ ] H2 "Por que comprar": só fatos do banco aprovado (curadoria, envio discreto, brinde, dúvida), sem venda cruzada e sem adjetivo genérico
-- [ ] CTA com verbo de ação antes do bloco operacional
-- [ ] Bloco operacional com emoji ao final da linha (não no início)
+- [ ] Descrição termina em Cuidados (sem Por que comprar, CTA nem bloco operacional)
+- [ ] Nenhum "revenda" e nenhum "cada unidade"
 - [ ] Meta Title escrito (máx. 65 caracteres, com keyword)
 - [ ] Meta Description escrita (140–160 caracteres, com keyword e CTA)
 - [ ] Nenhuma palavra da lista negra da `hab-produtor-textual`
