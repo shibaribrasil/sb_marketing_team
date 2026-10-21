@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python scripts/status_instagram.py --resumo && python scripts/sincronizar_fila.py --resumo"
+          }
+        ]
+      }
+    ]
+  }
+}

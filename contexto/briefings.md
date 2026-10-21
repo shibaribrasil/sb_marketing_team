@@ -144,6 +144,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 | C-040 | Não é sobre quem manda — é sobre quem confia. | Post de Frase | Todas | 🗂 Backlog | — |
 | C-041 | Switch: o que é quem transita entre dominante e submisso | Rapidinha Instagram | Alex, Mariana | 🗂 Backlog | — |
 | C-042 | Dinâmica D/s: o que é dominação e submissão no BDSM — e o que separa de abuso | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
+| C-106 | 5 mitos sobre submissão | Post Desatando Mitos | Mariana, Alex | 📄 Briefing criado | `conteudos/instagram-post-desatando-mitos/desatando-mitos-submissao/briefing.md` |
 
 ---
 
@@ -164,7 +165,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-046 | O que o fetiche revela sobre você que outras experiências não revelam | Carrossel educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
+| C-046 | O que o fetiche revela sobre você que outras experiências não revelam | Carrossel Livre Instagram | Mariana, Alex | 📄 Briefing criado | `conteudos/instagram-carrossel-livre/o-que-o-fetiche-revela/briefing.md` |
 | C-047 | Antes de saber o que você quer fazer, descubra quem você quer ser. | Post de Frase | Todas | 🗂 Backlog | — |
 | C-048 | Pessoas antes do fetiche: por que quem você é vem antes do que você pratica | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
 | C-049 | O que a negociação de cena ensina sobre você fora da cena | Rapidinha Instagram | Mariana, Alex | 🗂 Backlog | — |
@@ -331,7 +332,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-086 | sinais de que a pessoa pratica com responsabilidade | Carrossel Livre Instagram | Mariana, Thiago | 🎨 Design em Produção | `conteudos/instagram-carrossel-livre/bandeiras-verdes-praticas/texto.md` |
+| C-086 | sinais de que a pessoa pratica com responsabilidade | Carrossel Livre Instagram | Mariana, Thiago | 📅 Agendado (21/10) | `conteudos/instagram-carrossel-livre/bandeiras-verdes-praticas/texto.md` |
 
 ---
 
@@ -344,12 +345,23 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 ---
 
+## Território: Frases de posicionamento sobre limite, desculpa e quem conduz
+> *BDSM / Fetichista · Mariana, Alex, Thiago · Ref: escolhas do Hugo em 21/10/2026, a partir dos dados de repostagem do Instagram*
+
+| # | Título provisório | Formato | Persona | Status | Arquivo |
+|---|---|---|---|---|---|
+| C-107 | o limite de alguém não é um desafio pra você vencer | Post de Frase | Mariana, Alex, Thiago | 📄 Briefing criado (posta 04/11) | `conteudos/instagram-post-de-frase/limite-nao-e-desafio/briefing.md` |
+| C-108 | posso gostar de tudo e ainda assim dizer não hoje | Post de Frase | Mariana, Alex | 🗂 Backlog (legenda-base no briefing da C-107) | `conteudos/instagram-post-de-frase/limite-nao-e-desafio/briefing.md` |
+| C-109 | pedir desculpa não tira a autoridade de ninguém | Post de Frase | Thiago, Alex | 🗂 Backlog (legenda-base no briefing da C-107) | `conteudos/instagram-post-de-frase/limite-nao-e-desafio/briefing.md` |
+
+---
+
 ## Território: Elogiar quem usa a safeword
 > *BDSM / Fetichista · Thiago, Alex · Ref: instagram.com/p/DcQ0esAjFYu (@dominantdiscourse)*
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-088 | usar a safeword também merece elogio | Post de Frase | Thiago, Alex | 🎨 Design em Produção | `conteudos/instagram-post-de-frase/elogiar-quem-usa-safeword/texto.md` |
+| C-088 | usar a safeword também merece elogio | Post de Frase | Thiago, Alex | 🗃 Arquivado (reserva; Hugo pediu frase com mais engajamento em 21/10, substituída pela C-107) | `conteudos/instagram-post-de-frase/elogiar-quem-usa-safeword/texto.md` |
 
 ---
 
@@ -490,4 +502,4 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-105 | bingo da primeira amarração | Post de Bingo (Instagram) | Mariana | 👀 Aguardando Revisão | `conteudos/instagram-post-de-bingo/bingo-da-primeira-amarracao/texto.md` |
+| C-105 | bingo da primeira amarração | Post de Bingo (Instagram) | Mariana | ✅ Publicado (10/10) | `conteudos/instagram-post-de-bingo/bingo-da-primeira-amarracao/texto.md` |

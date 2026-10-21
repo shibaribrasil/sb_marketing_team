@@ -1,8 +1,62 @@
 # Pauta Editorial — Shibari Brasil
 
-Este arquivo é o centro de controle da produção de conteúdo. O agente deve consultá-lo e atualizá-lo ao início e ao fim de cada sessão.
+Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila prioritária (o que produzir e quando), 2) Em andamento (onde cada peça está), 3) Prontos (aguardando postagem), 4) Publicados, 5) Backlog e ideias (por último). O agente consulta e atualiza este arquivo no início e no fim de cada sessão.
 
 ---
+
+<!-- FILA-PRIORITARIA:INICIO (gerado por scripts/sincronizar_fila.py, não editar à mão) -->
+
+## 🎯 Fila prioritária (sequência do Instagram)
+
+> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v10 (rascunho, não aprovado)**, atualizada em **2026-10-21**. Sincronizada em 21/10/2026 17:17 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
+
+**Mudanças na fila (21/10/2026 17:03):**
+- slot P4: 'C-083 · seu amigo fetichista não é o que você imagina' virou 'C-046 · o que o fetiche revela sobre você que outras experiências não revelam'
+- C-046 · o que o fetiche revela sobre você que outras experiências não revelam: responsável Bia -> Caio, Julia, Ana, Bia
+- slot P5: 'Por trás do desejo · um fetiche ou prática a escolher (Hugo)' virou 'Por trás do desejo · pet play'
+- slot P6: 'Você guarda e cuida da sua corda do jeito certo? (óleo dentro do conteúdo)' virou 'C-106 · 5 mitos sobre submissão'
+- slot P7: 'C-088 · usar a safeword também merece elogio' virou 'C-107 · o limite de alguém não é um desafio pra você vencer'
+- C-107 · o limite de alguém não é um desafio pra você vencer: responsável Bia -> Hugo (texto no time), Bia
+
+> Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 21/10/2026 17:17. Atualizar: `python scripts/status_instagram.py`.
+
+| Posta em | Peça | Formato | Assunto | Arco | Entrega | Quem | Status na pauta | Alerta |
+|---|---|---|---|---|---|---|---|---|
+| 21/10 | C-086 · sinais de que a pessoa pratica com responsabilidade (bandeiras verdes) | Carrossel livre | sinais de quem pratica com responsabilidade | — | 21/10 | Bia | Agendado (Instagram: agendado) | Instagram: AGENDADO 21/10 18:00 |
+| 23/10 | Foto de prática com uma frase de identificação (Hugo aparece; amarrado sem rosto) | Foto + 1 frase | identificação (frase de prática) | — | 22/10 | Hugo + Julia/Caio | Briefing |  |
+| 26/10 | Reel A · primeiros minutos com a corda (Kit Shibari Iniciante em uso) | Reel A (Trial Reel antes) | primeira sessão com o kit | 1 | 25/10 | Hugo | Briefing |  |
+| 28/10 | C-046 · o que o fetiche revela sobre você que outras experiências não revelam | Carrossel livre | fetiche como pista do que a pessoa busca (autoconhecimento) | — | 26/10 | Caio, Julia, Ana, Bia | Briefing |  |
+| 30/10 | Por trás do desejo · pet play | Por trás do desejo (4 páginas) | pet play (prática de papel e entrega) | — | 29/10 | Caio, Julia, Ana, Bia | Briefing |  |
+| 31/10 (extra) | Extra casual 1 · sábado de Halloween: ideia que o Hugo trouxer (identificação e compartilhamento) | Post casual (ideia do Hugo) | a definir com a ideia do Hugo | — | 30/10 | Hugo traz a ideia; Julia/Bia produzem | Briefing |  |
+| 02/11 | C-106 · 5 mitos sobre submissão | Desatando mitos | submissão (mitos) | — | 30/10 | Caio, Julia, Ana, Bia | Briefing |  |
+| 04/11 | C-107 · o limite de alguém não é um desafio pra você vencer | Post de frase | limite de quem ouve um não (frase) | — | 03/11 | Hugo (texto no time), Bia | Briefing |  |
+| 06/11 | Foto de produto: óleo e cera de tratamento em uso (Hugo na cena, sem comando de venda) | Foto de produto | óleo e cera de tratamento (produto) | 3 | 05/11 | Hugo + Julia/Caio | Briefing |  |
+| 09/11 | Reel C · três passos para guardar a corda (óleo e pano em uso) | Reel C (Trial Reel antes) | guardar a corda (Reel) | 3 | 08/11 | Hugo | Briefing |  |
+| 11/11 | C-026 · velas que podem e velas que nunca: o guia de segurança do wax play | Carrossel educativo (densidade do carrossel livre) | wax play (velas e segurança) | — | 10/11 | Caio, Julia, Ana, Bia, Pedro | Briefing |  |
+| 13/11 | C-003 · a curadoria de cordas da Shibari Brasil, cada uma no seu propósito | Post de produto | curadoria de cordas (produto) | 3 | 12/11 | Bia | Design em Produção |  |
+| 14/11 (extra) | Extra casual 2 · ideia que o Hugo trouxer, com mudança de um fator em relação ao primeiro | Post casual (ideia do Hugo) | a definir com a ideia do Hugo | — | 13/11 | Hugo traz a ideia; Julia/Bia produzem | Briefing |  |
+| 16/11 | C-062 · ser submissa me faz menos feminista? o equívoco que precisa ser desfeito | Carrossel livre | submissão e feminismo | — | 13/11 | Caio, Julia, Ana, Bia | Briefing |  |
+| 18/11 | Qual kit para cada momento: Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda | Carrossel livre (explicativo de produto) | qual kit escolher (produto) | 1 | 17/11 | Pedro, Caio, Julia, Ana, Bia | Briefing |  |
+| 20/11 | Reel B · o que a gente confere antes de amarrar (tesoura em cena) | Reel B (Trial Reel antes) | checklist antes de amarrar | 2 | 19/11 | Hugo | Briefing |  |
+| 23/11 | Reservado: Black Friday, semana da campanha | Black Friday (conversa separada) | Black Friday | — | 20/11 | Hugo + Planejador | reservado (Black Friday) |  |
+| 25/11 | Reservado: Black Friday, semana da campanha | Black Friday (conversa separada) | Black Friday | — | 23/11 | Hugo + Planejador | reservado (Black Friday) |  |
+| 27/11 | Reservado: Black Friday (sexta, 27/11) | Black Friday (conversa separada) | Black Friday | — | 24/11 | Hugo + Planejador | reservado (Black Friday) |  |
+| 30/11 | Reservado: fechamento da campanha (segunda, 30/11) | Black Friday (conversa separada) | Black Friday | — | 26/11 | Hugo + Planejador | reservado (Black Friday) |  |
+
+**Ordens de produção por pessoa:**
+- **Bia** (C-046 26/10; pet play 29/10; C-106 30/10; C-107 03/11; C-026 10/11; C-003 12/11; C-062 13/11; "qual kit" 17/11): Destravar a arte, nesta ordem: C-086 (feita em 21/10), C-046, Por trás do desejo (pet play), mitos sobre submissão (C-106), C-107, C-026 (velas de wax play), C-003, C-062, carrossel "qual kit". Pausar C-082, C-083 e C-084 e não abrir arte fora da fila
+- **Ana** (23/10 (histórico); revisões conforme o prazo da Bia): Marcar no histórico que a C-079 e a C-057 são o mesmo conteúdo (no ar em 18/09, fundo Carbon Black) e arquivar a C-079; revisar o texto do Por trás do desejo, da C-026 e da C-062 quando chegarem
+- **Caio** (Validação dos briefings 22 e 23/10; C-026 28/10; C-062 04/11; "qual kit" 04/11): Briefings criados em 21/10 (C-046, pet play, C-106 e C-107), a validar pelo Hugo; briefing da C-026 (velas, com o Pedro); briefing da C-062; briefing do carrossel "qual kit para cada momento". O carrossel de cuidar da corda volta ao banco (C-101)
+- **Julia e Caio** (Frase da foto 22/10; legendas: Reel A 24/10, foto de produto 05/11, Reel C 06/11, C-026 10/11, C-003 11/11, "qual kit" 16/11, Reel B 18/11): Frase da foto de prática (23/10), legenda curta da foto de produto de óleo e cera (06/11) e legendas dos Reels A e C e dos posts C-003 e C-026, com a linha do cashback em tudo que tem produto
+- **Mari** (Esta semana): Confirmar a postagem da C-105 (bingo, no ar em 10/10) e passar a fila acima como prioridade da produção
+- **Pedro** (Velas, kits e cashback: 04/11): Confirmar com o Hugo a composição de cada kit (Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda), os fatos das velas de wax play (47 °C e 65 °C, uso e cuidado) para a C-026 e os termos do cashback
+- **Mari** (Esta semana (reserva) e 16/11 (dezembro)): Reservar na pauta os slots de 23, 25, 27 e 30/11 para a Black Friday; abrir o planejamento de dezembro a partir de 16/11
+
+<!-- FILA-PRIORITARIA:FIM -->
+
+---
+
+# 🛠️ EM ANDAMENTO
 
 ## Pipeline de Produção de Conteúdo Orgânico
 
@@ -28,7 +82,123 @@ Leo → Caio → Julia → Ana → Bia → Usuário → (confirmação manual de
 
 O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualquer momento — para criar anúncios a partir de um conteúdo aprovado, estruturar uma campanha independente ou revisar segmentação, orçamento e copy de anúncios ativos. O trabalho do Gui não bloqueia nem depende de nenhum status do pipeline acima.
 
+## 📝 Briefing — Caio
+
+*Caio criou o briefing e a pasta do conteúdo. Aguardando validação do usuário para Julia começar.*
+
+| Título | Tipo de Conteúdo | Arquivo do Briefing | Ângulo / Gancho |
+|---|---|---|---|
+| Foto de prática com uma frase [fila:P2] (posta 23/10; escolher a foto e a frase até 22/10) | Post de Foto (Instagram) | a criar: Hugo escolhe a foto, Julia/Caio escrevem a frase | Identificação; Hugo aparece, amarrado sem rosto |
+| Reel A · primeiros minutos com a corda [fila:P3] (posta 26/10; gravar até 25/10; legenda da Julia até 24/10) | Instagram Vídeo | roteiro pronto em `dados/instagram/roteiros/roteiros-reels-fase1-2026-10-19.md` (sb_admin_team) | Kit Shibari Iniciante em uso; end card do cashback |
+| Extra casual 1 [fila:X1] (sábado de Halloween, posta 31/10; ideia do Hugo até 28/10) | Post Casual (Instagram) | aguardando a ideia do Hugo | Teste de formato casual (1 de 3) |
+| Foto de produto: óleo e cera de tratamento [fila:P8] (posta 06/11; fotografar na sessão 1, legenda até 05/11) | Post de Foto (Instagram) | a criar: Julia/Caio escrevem a legenda curta com a linha do cashback | Produto direto, sem arte e sem comando de venda |
+| Reel C · três passos para guardar a corda [fila:P9] (posta 09/11; gravar até 08/11; legenda até 06/11) | Instagram Vídeo | roteiro pronto em `dados/instagram/roteiros/roteiros-reels-fase1-2026-10-19.md` (sb_admin_team) | Cuidar da corda; end card do cashback; a fala sobre o óleo só com confirmação do Hugo |
+| C-026 · velas que podem e velas que nunca [fila:P10] (posta 11/11; briefing até 28/10 com o Pedro) | Carrossel educativo (Instagram) | a criar: Caio + Pedro; o Pedro confirma com o Hugo os fatos das velas (47 °C e 65 °C) até 04/11 | Wax play, produto direto; linha do cashback |
+| Extra casual 2 [fila:X2] (sábado, posta 14/11; ideia do Hugo até 11/11) | Post Casual (Instagram) | aguardando a ideia do Hugo | Muda 1 fator em relação ao extra 1 |
+| C-062 · ser submissa me faz menos feminista? [fila:P12] (posta 16/11; briefing até 04/11) | Carrossel Livre (Instagram) | a criar: Caio; a Ana revisa o tom com atenção | Submissão e feminismo; fundo Deep Plum |
+| Qual kit para cada momento [fila:P13] (posta 18/11; briefing até 04/11 com o Pedro) | Carrossel Livre (Instagram) | a criar: Caio + Pedro; o Pedro confirma a composição dos kits com o Hugo | Produto direto, arco 1; depende da Black Friday; linha do cashback |
+| Reel B · o que a gente confere antes de amarrar [fila:P14] (posta 20/11; gravar na sessão 2, entre 09 e 16/11; legenda até 18/11) | Instagram Vídeo | roteiro pronto em `dados/instagram/roteiros/roteiros-reels-fase1-2026-10-19.md` (sb_admin_team) | Tesoura de segurança em cena, arco 2; end card do cashback |
+| C-107 [fila:P7] — o limite de alguém não é um desafio pra você vencer (posta 04/11; arte 03/11; substitui a C-088, que vai para a reserva; legenda-base no briefing; Hugo conduz a produção textual direto no time; C-108 e C-109 no backlog) | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/limite-nao-e-desafio/briefing.md` | Frase com posição clara sobre quem ouve um limite |
+| C-106 [fila:P6] — 5 mitos sobre submissão (posta 02/11; texto 27/10, revisão 28/10, arte 30/10; entra no lugar do carrossel de cuidar da corda por decisão do Hugo em 21/10) | Post Desatando Mitos (Instagram) | `conteudos/instagram-post-desatando-mitos/desatando-mitos-submissao/briefing.md` | Corrigir 5 equívocos sobre submissão (fraqueza, voz, dor, passividade, submissão fora da cena) |
+| Por trás do desejo — pet play [fila:P5] (posta 30/10; texto 26/10, revisão 27/10, arte 29/10; tema escolhido pela Mari a pedido do Hugo em 21/10) | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/pet-play/briefing.md` | Prática de papel e entrega: persona de animal, acessórios e jogo entre quem encarna e quem conduz |
+| C-046 [fila:P4] — o que o fetiche revela sobre você que outras experiências não revelam (posta 28/10; texto 23/10, revisão 24/10, arte 26/10) | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/o-que-o-fetiche-revela/briefing.md` | Fetiche como pista do que a pessoa busca na experiência; perguntas de autoconhecimento, sem psicologizar |
 ---
+
+## ✏️ Em Produção — Julia
+
+*Julia está escrevendo. Arquivo `texto.md` em criação.*
+
+| Título | Tipo de Conteúdo | Arquivo | O que falta |
+|---|---|---|---|
+---
+
+## 🎨 Design em Produção — Bia
+
+*Julia entregou o texto. Bia está produzindo a direção visual.*
+
+| Título | Tipo de Conteúdo | Arquivo | Texto entregue em |
+|---|---|---|---|
+| C-003 — A curadoria de cordas da Shibari Brasil — cada uma no seu propósito | Post de Produto (Instagram) | `conteudos/instagram-post-produto/corda-de-juta-tratamento-artesanal/texto.md` | 26/08/2026 |
+| C-060 — Red flags em dinâmicas BDSM: padrões de linguagem que sinalizam uma relação insegura | Post para Blog | `conteudos/site-post-para-blog/red-flags-linguagem-bdsm/texto.md` | 26/08/2026 |
+| C-082 — por que desacelerar também é progresso na prática | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/desacelerar-e-progresso/texto.md` | 12/09/2026 |
+| C-083 — seu amigo fetichista não é o que você imagina (PAUSADA: Hugo tirou do slot de 28/10 em 21/10; arte não iniciada; entrou a C-046) | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/antes-de-julgar-fetichista/texto.md` | 12/09/2026 |
+| C-084 — você não precisa de rótulo pra ser curioso | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/curiosidade-sem-rotulo/texto.md` | 12/09/2026 |
+---
+
+## ⚠️ Pendente de Alteração no Canva — Usuário
+
+*Bia entregou o visual, mas há ajustes manuais pendentes no Canva. A Ana pode revisar o texto em paralelo. Quando o usuário confirmar os ajustes, o item avança para Pronto - Aguardando Publicação.*
+
+| Título | Tipo de Conteúdo | Arquivo | Pendências | Link Canva |
+|---|---|---|---|---|
+---
+
+## 👀 Aguardando Revisão — Ana + Usuário
+
+*Texto e visual prontos. Ana revisa e apresenta o veredicto ao usuário.*
+
+| Título | Tipo de Conteúdo | Arquivo | Entrou em revisão |
+|---|---|---|---|
+
+---
+
+# ✅ PRONTOS E PUBLICADOS
+
+## ✅ Pronto - Aguardando Publicação
+
+*Aprovado pelo usuário. Arquivos salvos em `conteudos/`. Aguardando confirmação de publicação.*
+
+| Título | Tipo de Conteúdo | Arquivo | Aprovado em |
+|---|---|---|---|
+| Consentimento no BDSM e no shibari: o que é, por que é contínuo e como praticá-lo na cena | Post para Blog | `conteudos/site-post-para-blog/consentimento-bdsm-shibari/` | 15/06/2026 |
+| C-090 — falar também é parte do jogo, talvez a sua parte mais importante | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/conversa-antes-da-cena/` | 14/09/2026 |
+---
+
+## 📅 Pronto - Agendado
+
+*Data de publicação confirmada. Move para Pronto - Publicado quando o dia passar.*
+
+| Título | Tipo de Conteúdo | Arquivo | Aprovado em | Publicação agendada |
+|---|---|---|---|---|
+| C-086 — sinais de que a pessoa pratica com responsabilidade | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/bandeiras-verdes-praticas/` | 21/10/2026 | 21/10/2026 18:00 (fila de publicação do Instagram) |
+
+---
+
+## 📢 Pronto - Publicado
+
+*Confirmação manual de postagem feita pelo usuário via `Confirmar postagem: [título]`.*
+
+| Título | Tipo de Conteúdo | Arquivo | Publicado em |
+|---|---|---|---|
+| C-105 — bingo da primeira amarração | Post de Bingo (Instagram) | `conteudos/instagram-post-de-bingo/bingo-da-primeira-amarracao/` | 10/10/2026 (confirmado no perfil pela Mari em 21/10; formato em teste, 1º de 3) |
+| C-095 — 5 mitos sobre a cultura leather | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-cultura-leather/` | 07/10/2026 |
+| C-092 — o que é dominação e submissão (D/s) | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/dinamica-ds/` | 30/09/2026 |
+| C-080 — shibari, kinbaku e bondage não são a mesma coisa | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/vocabulario-shibari-kinbaku-bondage/` | 28/09/2026 |
+| C-081 — o que funcionou na última cena pode não servir pra essa | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/aftercare-nao-e-checklist/` | 23/09/2026 |
+| C-093 — o que é impact play | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/impact-play/` | 21/09/2026 |
+| C-096 — a marca passa, mas a vontade de repetir continua | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/marca-mostra-onde-a-corda-trabalhou/` | 19/09/2026 |
+| C-094 — 5 mitos sobre bondage | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-bondage/` | 16/09/2026 |
+| C-091 — a conversa antes da cena pode ser mais importante que ela inteira | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/conversa-mais-importante-que-a-cena/` | 14/09/2026 |
+| C-085 — o que cada letra de BDSM significa | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/significado-sigla-bdsm/` | 07/09/2026 |
+| C-075 — 5 mitos sobre fetichismo | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-fetichismo/` | 04/09/2026 |
+| C-089 — controle sem consentimento não é bdsm | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/bdsm-nao-e-controle-e-consentimento/` | 02/09/2026 |
+| C-001 — O que muda entre juta, algodão e sintético na sua primeira corda | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/primeira-corda-materiais/` | 02/09/2026 |
+| C-076 — cinco coisas que só a prática ensina | Carrossel Livre Instagram | `conteudos/instagram-carrossel-livre/so-a-pratica-ensina/` | 26/08/2026 |
+| C-078 — 5 mitos sobre shibari | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-shibari/` | 09/07/2026 |
+| C-077 — o que faz uma cena ser inesquecível | Carrossel Livre Instagram | `conteudos/instagram-carrossel-livre/cena-inesquecivel/` | 07/07/2026 |
+| Kit Shibari Iniciante | Post de Produto (Instagram) | `conteudos/instagram-post-produto/kit-shibari-iniciante-1/` | 06/07/2026 |
+| C-061 — submissão não é o oposto da liberdade. é como algumas pessoas a vivem | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/submissao-e-liberdade/` | 04/07/2026 |
+| C-037 — Tirar um sentido para ampliar todos os outros | Post Por Trás do Desejo | `conteudos/instagram-post-por-tras-do-desejo/sensation-play/` | 02/07/2026 |
+| Sticker Modelo 1 — brinde em pedidos acima de R$ 50,00 | Post de Produto (Instagram) | `conteudos/instagram-post-produto/sticker-modelo-1/` | 30/06/2026 |
+| Red flags em dinâmicas BDSM: como a linguagem revela o perigo antes de a cena começar | Carrossel Livre Instagram | `conteudos/instagram-carrossel-livre/red-flags-dinamicas-bdsm/` | 27/06/2026 |
+| A corda sai, a presença fica. | Post de Frase | `conteudos/instagram-post-de-frase/a-corda-sai-a-presenca-nao/` | 25/06/2026 |
+| Single column tie — nó quadrado | Instagram Vídeo | `conteudos/instagram-videos/single-column-tie-no-quadrado/` | 23/06/2026 |
+| Hishi Karada | Post Inspiração de Amarração | `conteudos/instagram-post-inspiracao-amarracao/hishi-karada/` | 21/06/2026 |
+| O que é wax play | Post Por Trás do Desejo | `conteudos/instagram-post-por-tras-do-desejo/wax-play/` | 19/06/2026 |
+
+---
+
+# 💡 BACKLOG E IDEIAS (fora da fila de produção)
 
 ## 💡 Backlog — Leo
 
@@ -79,108 +249,3 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 | **Frog Tie** | Tornozelo amarrado à coxa, criando a posição característica de "sapo". Limita o movimento das pernas e tem visual muito identificável. | Intermediário | theduchy.com/frog-tie/ | https://www.theduchy.com/wp-content/uploads/2017/12/Frog-Tie-1.jpg | `imagens/frog-tie.jpg` |
 | **Bikini Harness** | Um dos harnesses mais simples e populares. Cobre a região do quadril em formato de biquíni — ótima entrada para quem está começando. | Iniciante | theduchy.com/bikini-harness/ | https://www.theduchy.com/wp-content/uploads/2017/12/Bikini-Harness-2.jpg | `imagens/bikini-harness.jpg` |
 | **Waxing Gibbous** | Pulsos presos aos pés com o corpo completamente dobrado para frente. Posição muito exposta e de alto impacto visual. Requer aquecimento e monitoramento. | Intermediário/Avançado | theduchy.com/waxing-gibbous/ | https://www.theduchy.com/wp-content/uploads/2026/02/Waxing-Gibbous-Cover-500x500.jpg | `imagens/waxing-gibbous.jpg` |
-
----
-
-## 📝 Briefing — Caio
-
-*Caio criou o briefing e a pasta do conteúdo. Aguardando validação do usuário para Julia começar.*
-
-| Título | Tipo de Conteúdo | Arquivo do Briefing | Ângulo / Gancho |
-|---|---|---|---|
----
-
-## ✏️ Em Produção — Julia
-
-*Julia está escrevendo. Arquivo `texto.md` em criação.*
-
-| Título | Tipo de Conteúdo | Arquivo | O que falta |
-|---|---|---|---|
-
----
-
-## 🎨 Design em Produção — Bia
-
-*Julia entregou o texto. Bia está produzindo a direção visual.*
-
-| Título | Tipo de Conteúdo | Arquivo | Texto entregue em |
-|---|---|---|---|
-| C-003 — A curadoria de cordas da Shibari Brasil — cada uma no seu propósito | Post de Produto (Instagram) | `conteudos/instagram-post-produto/corda-de-juta-tratamento-artesanal/texto.md` | 26/08/2026 |
-| C-060 — Red flags em dinâmicas BDSM: padrões de linguagem que sinalizam uma relação insegura | Post para Blog | `conteudos/site-post-para-blog/red-flags-linguagem-bdsm/texto.md` | 26/08/2026 |
-| C-082 — por que desacelerar também é progresso na prática | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/desacelerar-e-progresso/texto.md` | 12/09/2026 |
-| C-083 — seu amigo fetichista não é o que você imagina | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/antes-de-julgar-fetichista/texto.md` | 12/09/2026 |
-| C-084 — você não precisa de rótulo pra ser curioso | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/curiosidade-sem-rotulo/texto.md` | 12/09/2026 |
-| C-086 — sinais de que a pessoa pratica com responsabilidade | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/bandeiras-verdes-praticas/texto.md` | 12/09/2026 |
-| C-088 — usar a safeword também merece elogio | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/elogiar-quem-usa-safeword/texto.md` | 12/09/2026 |
-
----
-
-## ⚠️ Pendente de Alteração no Canva — Usuário
-
-*Bia entregou o visual, mas há ajustes manuais pendentes no Canva. A Ana pode revisar o texto em paralelo. Quando o usuário confirmar os ajustes, o item avança para Pronto - Aguardando Publicação.*
-
-| Título | Tipo de Conteúdo | Arquivo | Pendências | Link Canva |
-|---|---|---|---|---|
-
----
-
-## 👀 Aguardando Revisão — Ana + Usuário
-
-*Texto e visual prontos. Ana revisa e apresenta o veredicto ao usuário.*
-
-| Título | Tipo de Conteúdo | Arquivo | Entrou em revisão |
-|---|---|---|---|
-| C-105 — bingo da primeira amarração | Post de Bingo (Instagram) | `conteudos/instagram-post-de-bingo/bingo-da-primeira-amarracao/texto.md` | 10/10/2026 |
-
----
-
-## ✅ Pronto - Aguardando Publicação
-
-*Aprovado pelo usuário. Arquivos salvos em `conteudos/`. Aguardando confirmação de publicação.*
-
-| Título | Tipo de Conteúdo | Arquivo | Aprovado em |
-|---|---|---|---|
-| Consentimento no BDSM e no shibari: o que é, por que é contínuo e como praticá-lo na cena | Post para Blog | `conteudos/site-post-para-blog/consentimento-bdsm-shibari/` | 15/06/2026 |
-| C-090 — falar também é parte do jogo, talvez a sua parte mais importante | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/conversa-antes-da-cena/` | 14/09/2026 |
-
----
-
-## 📅 Pronto - Agendado
-
-*Data de publicação confirmada. Move para Pronto - Publicado quando o dia passar.*
-
-| Título | Tipo de Conteúdo | Arquivo | Aprovado em | Publicação agendada |
-|---|---|---|---|---|
-
----
-
-## 📢 Pronto - Publicado
-
-*Confirmação manual de postagem feita pelo usuário via `Confirmar postagem: [título]`.*
-
-| Título | Tipo de Conteúdo | Arquivo | Publicado em |
-|---|---|---|---|
-| C-095 — 5 mitos sobre a cultura leather | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-cultura-leather/` | 07/10/2026 |
-| C-092 — o que é dominação e submissão (D/s) | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/dinamica-ds/` | 30/09/2026 |
-| C-080 — shibari, kinbaku e bondage não são a mesma coisa | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/vocabulario-shibari-kinbaku-bondage/` | 28/09/2026 |
-| C-081 — o que funcionou na última cena pode não servir pra essa | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/aftercare-nao-e-checklist/` | 23/09/2026 |
-| C-093 — o que é impact play | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/impact-play/` | 21/09/2026 |
-| C-096 — a marca passa, mas a vontade de repetir continua | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/marca-mostra-onde-a-corda-trabalhou/` | 19/09/2026 |
-| C-094 — 5 mitos sobre bondage | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-bondage/` | 16/09/2026 |
-| C-091 — a conversa antes da cena pode ser mais importante que ela inteira | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/conversa-mais-importante-que-a-cena/` | 14/09/2026 |
-| C-085 — o que cada letra de BDSM significa | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/significado-sigla-bdsm/` | 07/09/2026 |
-| C-075 — 5 mitos sobre fetichismo | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-fetichismo/` | 04/09/2026 |
-| C-089 — controle sem consentimento não é bdsm | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/bdsm-nao-e-controle-e-consentimento/` | 02/09/2026 |
-| C-001 — O que muda entre juta, algodão e sintético na sua primeira corda | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/primeira-corda-materiais/` | 02/09/2026 |
-| C-076 — cinco coisas que só a prática ensina | Carrossel Livre Instagram | `conteudos/instagram-carrossel-livre/so-a-pratica-ensina/` | 26/08/2026 |
-| C-078 — 5 mitos sobre shibari | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-shibari/` | 09/07/2026 |
-| C-077 — o que faz uma cena ser inesquecível | Carrossel Livre Instagram | `conteudos/instagram-carrossel-livre/cena-inesquecivel/` | 07/07/2026 |
-| Kit Shibari Iniciante | Post de Produto (Instagram) | `conteudos/instagram-post-produto/kit-shibari-iniciante-1/` | 06/07/2026 |
-| C-061 — submissão não é o oposto da liberdade. é como algumas pessoas a vivem | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/submissao-e-liberdade/` | 04/07/2026 |
-| C-037 — Tirar um sentido para ampliar todos os outros | Post Por Trás do Desejo | `conteudos/instagram-post-por-tras-do-desejo/sensation-play/` | 02/07/2026 |
-| Sticker Modelo 1 — brinde em pedidos acima de R$ 50,00 | Post de Produto (Instagram) | `conteudos/instagram-post-produto/sticker-modelo-1/` | 30/06/2026 |
-| Red flags em dinâmicas BDSM: como a linguagem revela o perigo antes de a cena começar | Carrossel Livre Instagram | `conteudos/instagram-carrossel-livre/red-flags-dinamicas-bdsm/` | 27/06/2026 |
-| A corda sai, a presença fica. | Post de Frase | `conteudos/instagram-post-de-frase/a-corda-sai-a-presenca-nao/` | 25/06/2026 |
-| Single column tie — nó quadrado | Instagram Vídeo | `conteudos/instagram-videos/single-column-tie-no-quadrado/` | 23/06/2026 |
-| Hishi Karada | Post Inspiração de Amarração | `conteudos/instagram-post-inspiracao-amarracao/hishi-karada/` | 21/06/2026 |
-| O que é wax play | Post Por Trás do Desejo | `conteudos/instagram-post-por-tras-do-desejo/wax-play/` | 19/06/2026 |
