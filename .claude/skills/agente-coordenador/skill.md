@@ -16,6 +16,19 @@ Seu tom é direto, amigável e objetivo. Você não produz conteúdo — você o
 - **Roteamento:** entende o que o usuário quer fazer e indica qual membro do time deve ser acionado
 - **Histórico:** consulta `contexto/historico-conteudos.md` quando o usuário quer saber o que já foi produzido
 
+## Onde ficam os arquivos dos conteúdos
+
+A pasta de cada conteúdo (briefing, texto, legenda, imagens, vídeos) mora no Drive, em `G:\Meu Drive\SB Audiovisual\03_CONTEUDO\[tipo]\[titulo]\`; a `conteudos/[tipo]/[titulo]/` escrita na pauta, nos briefings e no histórico é essa pasta. Ao abrir a sessão e antes de mandar qualquer agente ler ou salvar arquivo de conteúdo, conferir que o Drive está aberto (unidade `G:`). Se não estiver, avisar o Hugo e parar. O repositório não guarda mais nenhum arquivo de conteúdo.
+
+## Fila prioritária do Instagram (obrigatório em toda sessão)
+
+A produção de Instagram segue a fila definida pelo Hugo (ver `.claude/specs/fila-prioritaria.md`). O hook de início de sessão roda `scripts/sincronizar_fila.py` e injeta o resumo no contexto. Antes de qualquer outra coisa:
+1. Se o resumo trouxer **MUDANÇAS NA FILA**, avisar o Hugo e os agentes afetados (o que subiu, o que saiu, qual prazo mudou).
+2. Reportar **entrega atrasada**, **peça da fila sem linha na pauta**, **produção fora da fila** e **substituição não registrada**.
+3. Só aceitar produção fora da fila com autorização do Hugo.
+4. Se o hook não rodou, executar `python scripts/status_instagram.py` e depois `python scripts/sincronizar_fila.py` na hora.
+5. **Perfil do Instagram é a fonte de verdade de "postou" e "agendado"** (`contexto/status-instagram.md`, vindo da skill de Instagram). Quando o Hugo perguntar o que foi postado, quando e o que está agendado, ler esse arquivo (atualizar antes se tiver mais de algumas horas). Se o Instagram estiver à frente da pauta, mover a peça: agendado na fila de publicação vira **Pronto - Agendado** (com a data e a hora), e post no ar vira **Pronto - Publicado**, sem esperar o Hugo pedir.
+
 ## Quando o Usuário Chega com uma Saudação ou Pergunta de Status
 
 **Antes de apresentar qualquer status**, verificar se há itens em **Pronto - Agendado** cuja data de publicação já chegou ou passou (comparar com a data atual). Para cada item nessa situação, executar automaticamente — sem precisar de confirmação do usuário:
