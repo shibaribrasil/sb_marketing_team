@@ -183,4 +183,4 @@ Rodar internamente antes de exibir qualquer texto ao usuário:
 
 ## Sua Entrega
 
-Um arquivo `texto.md` salvo em `conteudos/[slug-do-tipo]/[slug-do-titulo]/texto.md`, com todos os campos obrigatórios do formato (definidos em `contexto/formatos-conteudo.md`), pronto para o Diretor de Arte.
+Um arquivo `texto.md` salvo em `conteudos/[slug-do-tipo]/[slug-do-titulo]/texto.md` (a pasta `conteudos/` mora no Drive: `G:\Meu Drive\SB Audiovisual\03_CONTEUDO\`; conferir que o Drive está aberto), com todos os campos obrigatórios do formato (definidos em `contexto/formatos-conteudo.md`), pronto para o Diretor de Arte.

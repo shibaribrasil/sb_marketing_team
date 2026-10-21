@@ -55,9 +55,9 @@ O banco de briefings (`contexto/briefings.md`) é permanente e cresce continuame
 │   ├── briefings.md             → banco permanente de ideias briefadas pelo Caio (cresce continuamente)
 │   └── pauta.md                 → backlog de territórios, produções em andamento e prontos
 │
-├── conteudos/
+├── conteudos/                   → NÃO fica neste repositório: mora no Drive, em `G:\Meu Drive\SB Audiovisual\03_CONTEUDO\`
 │   └── [tipo]/
-│       └── [titulo]/            → arquivos do conteúdo orgânico (texto, imagens, variações)
+│       └── [titulo]/            → arquivos do conteúdo orgânico (texto, legenda, imagens, variações)
 │
 ├── anuncios/
 │   ├── instagram/
@@ -137,7 +137,7 @@ O agente adiciona a ideia no **Backlog** da pauta sem gerar nenhum conteúdo.
 ```
 Produzir ideia do backlog: [título ou tema da ideia]
 ```
-O agente move o item para **Em Produção**, cria a pasta correspondente em `conteudos/` e inicia a geração.
+O agente move o item para **Em Produção**, cria a pasta correspondente em `conteudos/` (no Drive, em `03_CONTEUDO\`) e inicia a geração.
 
 ---
 
@@ -245,7 +245,7 @@ Os formatos são definidos de forma incremental. Cada formato tem seu próprio a
 1. Levanta as especificações com o usuário (objetivo, plataforma, tamanho, CTA).
 2. Cria um novo arquivo `contexto/formatos/[slug-do-formato].md` com as especificações levantadas (usar o modelo em `contexto/formatos-conteudo.md`).
 3. Adiciona o nome do tipo na lista abaixo e no índice `contexto/formatos-conteudo.md`.
-4. Cria uma pasta para o tipo dentro de `conteudos/` (ver protocolo abaixo).
+4. Cria uma pasta para o tipo dentro de `conteudos/` (no Drive, em `03_CONTEUDO\`; ver protocolo abaixo).
 5. Gera o conteúdo seguindo as especificações recém-definidas.
 
 **Formatos cadastrados:**
@@ -286,7 +286,7 @@ A `contexto/pauta.md` é o centro de controle de toda produção. O agente deve:
 - **Ao iniciar uma sessão:** verificar se há itens em qualquer status ativo antes de começar algo novo.
 - **Pescador** → adiciona território em **Backlog** de `pauta.md`
 - **Redator (Estágio 1)** → lê território do Backlog e registra ideias desdobradas em `contexto/briefings.md` (sem mover nada na pauta ainda)
-- **Redator (Estágio 2)** → quando Hugo selecionar uma ideia do banco, desenvolve o briefing completo, cria pasta e `briefing.md` em `conteudos/`, move para **Briefing** na pauta e atualiza o status em `briefings.md` para **Briefing criado**
+- **Redator (Estágio 2)** → quando Hugo selecionar uma ideia do banco, desenvolve o briefing completo, cria pasta e `briefing.md` em `conteudos/` (no Drive, em `03_CONTEUDO\`), move para **Briefing** na pauta e atualiza o status em `briefings.md` para **Briefing criado**
 - **Escritor** → move de Briefing para **Em Produção** durante a escrita, depois para **Aguardando Revisão** ao concluir; atualiza status em `briefings.md`
 - **Revisor** → move de **Aguardando Revisão** para **Design em Produção** após aprovação textual pelo usuário, ou devolve para **Em Produção** com instruções de correção para a Julia; atualiza o status da peça em `contexto/briefings.md` para **🎨 Design em Produção** (se tiver código C-XXX)
 - **Diretor de Arte** → ao concluir a produção visual:
@@ -300,13 +300,17 @@ A `contexto/pauta.md` é o centro de controle de toda produção. O agente deve:
 
 ## 🗂️ Protocolo de Armazenamento de Conteúdos (Obrigatório)
 
-Todos os arquivos gerados (textos, imagens, variações) são salvos na pasta `conteudos/`, seguindo esta hierarquia:
+Todos os arquivos gerados (textos, legendas, imagens, vídeos, variações) são salvos na pasta `conteudos/`, que **mora no Drive**, em `G:\Meu Drive\SB Audiovisual\03_CONTEUDO\` (decisão do Hugo, 21/10/2026: texto e mídia de cada conteúdo ficam juntos, e o repositório não guarda mais nenhum deles). Hierarquia:
 
 ```
-conteudos/
+conteudos/   (= G:\Meu Drive\SB Audiovisual\03_CONTEUDO\)
 └── [slug-do-tipo]/
     └── [slug-do-titulo]/
+        ├── briefing.md
         ├── texto.md
+        ├── legenda.txt          (formatos de Instagram)
+        ├── visual-spec.md
+        ├── imagem.jpg / imagem-p1.jpg ...
         └── [outros arquivos gerados]
 ```
 
@@ -315,6 +319,9 @@ conteudos/
 - Ao definir um novo tipo de conteúdo, criar imediatamente sua pasta dentro de `conteudos/`.
 - Ao aprovar um novo conteúdo, criar a pasta do título dentro da pasta do tipo e salvar todos os arquivos gerados dentro dela.
 - Se um conteúdo tiver variações (ex: versão A e versão B), salvar cada uma como arquivo separado dentro da mesma pasta do título.
+- **Os registros mantêm o caminho `conteudos/[tipo]/[titulo]/`** (`pauta.md`, `briefings.md`, `historico-conteudos.md`): ele equivale à pasta do Drive acima. Não criar pasta `conteudos/` no repositório.
+- **Antes de salvar ou ler, conferir que o Drive está aberto** (unidade `G:`). Se a pasta não abrir, avisar o Hugo e parar; nunca salvar em outro lugar.
+- Foto ou vídeo do banco (`01_PRODUTOS`, `02_GERAL`) usado numa peça: registrar o caminho do arquivo no `visual-spec.md`, em vez de copiá-lo para a pasta do conteúdo.
 
 ---
 

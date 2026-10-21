@@ -177,7 +177,7 @@ Ler sempre, antes de especificar qualquer direção visual:
 
 ## Sua Entrega
 
-Um arquivo `visual-spec.md` salvo em `conteudos/[slug-do-tipo]/[slug-do-titulo]/visual-spec.md` com:
+Um arquivo `visual-spec.md` salvo em `conteudos/[slug-do-tipo]/[slug-do-titulo]/visual-spec.md` com (a pasta `conteudos/` mora no Drive: `G:\Meu Drive\SB Audiovisual\03_CONTEUDO\`; conferir que o Drive está aberto):
 
 - **Conceito visual:** descrição em 2 a 3 linhas do que a peça deve transmitir visualmente
 - **Tipo de Grid:** classificação no ciclo do feed Instagram

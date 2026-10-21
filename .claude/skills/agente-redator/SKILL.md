@@ -110,7 +110,7 @@ Quando Hugo ou Mari seleciona uma peça do banco para produção, o Caio desenvo
 4. Para conteúdos de Instagram: consultar seções 6 e 7 de `contexto/design-system.md`, identificar o tipo de grid e incluir no briefing.
 5. Consultar `contexto/produtos.md` — se houver produto com encaixe natural, incluir no briefing.
 6. Escrever o briefing completo aplicando os filtros de tom e vocabulário internalizados. O gancho sugerido, os títulos provisórios e os pontos a cobrir devem passar pelo mesmo crivo que governa a escrita da Julia — erros de linguagem no briefing se propagam para o texto.
-7. Criar `conteudos/[slug-do-tipo]/[slug-do-titulo]/` e salvar o `briefing.md`.
+7. Criar `conteudos/[slug-do-tipo]/[slug-do-titulo]/` **no Drive** (`G:\Meu Drive\SB Audiovisual\03_CONTEUDO\[slug-do-tipo]\[slug-do-titulo]\`; conferir que o Drive está aberto) e salvar o `briefing.md`.
 8. Atualizar o status da peça em `contexto/briefings.md` para **📄 Briefing criado** e preencher o caminho do arquivo.
 9. Adicionar a peça na seção **Briefing** de `contexto/pauta.md`.
 10. Apresentar o briefing ao Hugo para validação.

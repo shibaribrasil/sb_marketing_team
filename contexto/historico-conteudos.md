@@ -8,6 +8,8 @@
 
 | Código | Título | Tipo | Fundo | Aprovado em | Publicado em | Arquivo |
 |---|---|---|---|---|---|---|
+| C-105 | bingo da primeira amarração | Post de Bingo | — | 10/10/2026 | 10/10/2026 | `conteudos/instagram-post-de-bingo/bingo-da-primeira-amarracao/` |
+| C-086 | sinais de que a pessoa pratica com responsabilidade | Carrossel Livre Instagram | Skin Nude `#e6cfc3` | 21/10/2026 | — | `conteudos/instagram-carrossel-livre/bandeiras-verdes-praticas/` |
 | C-080 | shibari, kinbaku e bondage não são a mesma coisa | Carrossel Livre Instagram | Warm Light `#f4ece7` | 15/09/2026 | 28/09/2026 | `conteudos/instagram-carrossel-livre/vocabulario-shibari-kinbaku-bondage/` |
 | C-081 | o que funcionou na última cena pode não servir pra essa | Carrossel Livre Instagram | Skin Nude `#e6cfc3` | 15/09/2026 | 23/09/2026 | `conteudos/instagram-carrossel-livre/aftercare-nao-e-checklist/` |
 | C-094 | 5 mitos sobre bondage | Post Desatando Mitos | Skin Nude `#e6cfc3` | 15/09/2026 | 16/09/2026 | `conteudos/instagram-post-desatando-mitos/desatando-mitos-bondage/` |
