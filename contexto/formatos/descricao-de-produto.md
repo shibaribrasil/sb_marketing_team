@@ -12,6 +12,8 @@
 
 ---
 
+**Regra fixa (Hugo, 21/10/2026): nunca citar cores** em nenhuma parte da descrição (texto, especificações, SEO, tags). A cor vive na variação; assim a descrição não muda quando uma cor entra ou sai. Permitido: "as cores podem ter leve variação em relação às fotos". Material diferente em uma variação (ex.: polialgodão) é dito sem nomear a cor.
+
 ### Estrutura obrigatória de entrega
 
 ---
