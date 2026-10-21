@@ -190,6 +190,7 @@ Um arquivo `visual-spec.md` salvo em `conteudos/[slug-do-tipo]/[slug-do-titulo]/
 - **Prompt para geração de imagem:** prompt pronto para Midjourney ou DALL-E (quando aplicável)
 - **Palavras-chave para banco de imagens:** termos de busca para Unsplash, Pexels ou similares (quando aplicável)
 - **Observações para o Revisor:** pontos de atenção visual que devem ser checados
+- **Mídia validada para API:** uma linha confirmando que os arquivos exportados seguem o padrão da seção "Padrão de mídia para publicação via API" (preenchida após a exportação)
 
 ---
 
@@ -204,9 +205,33 @@ Um arquivo `visual-spec.md` salvo em `conteudos/[slug-do-tipo]/[slug-do-titulo]/
    - Registrar o link do design no Canva no `visual-spec.md`.
 6. **Compartilhar o link do Canva com o Hugo para aprovação visual** — obrigatório antes de exportar. Aguardar confirmação explícita antes de seguir.
    - Se houver ajustes que só podem ser feitos manualmente no Canva: listar em seção "⚠️ Pendências no Canva" no `visual-spec.md` e mover para **Pendente de Alteração no Canva** enquanto aguarda.
-7. **Após aprovação do Hugo:** exportar o design e salvar como `imagem.png` (ou `imagem-p1.png`, `imagem-p2.png`... para carrosseis) na pasta do conteúdo.
+7. **Após aprovação do Hugo:** exportar o design **já no padrão de mídia para publicação via API** (seção abaixo) e salvar como `imagem.jpg` (ou `imagem-p1.jpg`, `imagem-p2.jpg`... para carrosseis) na pasta do conteúdo. **Nunca entregar PNG**: a API do Instagram só aceita JPEG, e a peça só entra na fila de agendamento se passar na checagem abaixo.
 8. Mover o item na pauta de **Design em Produção** para **Pronto - Aguardando Publicação** (ou **Pendente de Alteração no Canva** se houver ajustes pendentes).
 9. Atualizar o status da peça em `contexto/briefings.md` para **✅ Aguardando Publicação** (se tiver código C-XXX). Fazer apenas depois que o usuário confirmar os ajustes, se for pendente.
 10. Adicionar a linha do conteúdo no **topo** de `contexto/historico-conteudos.md` com: código, título, tipo, data de aprovação (hoje) e Publicado em: `—`. Idem: apenas após confirmação do usuário, se pendente.
 
 Apresentar a produção visual ao usuário informando que o link do Canva está disponível para aprovação.
+
+---
+
+## Padrão de mídia para publicação via API (obrigatório na exportação)
+
+As peças do Instagram são agendadas e publicadas pela Graph API da Meta, que busca o arquivo numa URL pública e rejeita o que fugir destas regras (fonte: documentação oficial da Meta, IG User Media, conferida em 21/10/2026). Por isso, **todo arquivo final salvo na pasta do conteúdo já sai neste padrão**:
+
+| Tipo | Formato do arquivo | Dimensões e limites |
+|---|---|---|
+| Post de feed (imagem única) | **JPEG sRGB** (`imagem.jpg`) | proporção entre 4:5 e 1,91:1, largura de 320 a 1440 px, até 8 MB. Padrão da marca: **1080×1350 (4:5)** |
+| Carrossel | **JPEG sRGB** (`imagem-p1.jpg` ... `imagem-pN.jpg`) | até 20 slides; **todos na mesma proporção** (a API corta tudo pela do primeiro); cada um até 8 MB. Padrão da marca: 1080×1350 |
+| Story (imagem) | **JPEG sRGB** (`imagem.jpg`) | 1080×1920 (9:16), até 8 MB |
+| Story (vídeo) | **MP4** H.264 + AAC | 9:16, de 3 a 60 s, até 100 MB, 23 a 60 fps |
+| Reel | **MP4** H.264 + AAC (`video.mp4`) | 9:16, de 3 s a 15 min, até 300 MB, 23 a 60 fps, largura máxima 1920 |
+| Capa de Reel | **JPEG sRGB** (`capa.jpg`) | 9:16, até 8 MB |
+
+Regras de exportação:
+
+1. **Exportar do Canva direto em JPG**, na qualidade máxima disponível e no tamanho original do design (sem redimensionar). Não exportar PNG.
+2. Se só sair PNG (ou outro formato), **converter antes de salvar**: abrir com Pillow, `convert("RGB")` (descarta transparência) e salvar JPEG com `quality=92`, `optimize=True`. Apagar o PNG intermediário da pasta do conteúdo.
+3. Nome do arquivo só com letras minúsculas, números e hífen, sem acento nem espaço (a URL precisa ser ASCII). Extensão `.jpg` (não `.jpeg`).
+4. **Conferir antes de entregar**, e registrar o resultado em uma linha no `visual-spec.md` ("Mídia validada para API: 8 JPEG, 1080×1350, maior arquivo X MB"): formato JPEG real, proporção igual em todos os slides do carrossel, dentro das dimensões e do peso acima, sem canal alfa.
+5. Imagem de blog segue a regra própria da seção 9 do `design-system.md` (JPG 1024×630) e não entra neste fluxo.
+6. Se a arte aprovada não couber no padrão (por exemplo, proporção mais alta que 4:5), **não entregar**: avisar o Hugo e ajustar o design antes de exportar.

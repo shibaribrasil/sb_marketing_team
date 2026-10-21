@@ -77,6 +77,7 @@ Direta, segura, estável, sem exagero. Tem um lado sensual, mas não depende dis
 - **CTA:** natural, não robótico, provoca a ação esperada?
 - **Fidelidade ao briefing:** cobre os pontos definidos e usa o ângulo proposto?
 - **Persona:** tom e conteúdo fazem sentido para quem vai ler?
+- **Legenda (Instagram):** existe `legenda.txt` na pasta? Contém só o texto publicável (sem título, rótulo ou nota), até 2200 caracteres, até 5 hashtags, sem emoji, com a linha do cashback quando há produto? O `texto.md` não deve repetir a legenda. Revisar o `legenda.txt` com os mesmos critérios de vocabulário e tom.
 
 A revisão visual é feita diretamente pelo Hugo no Canva após a Bia entregar o design — a Ana não revisa o `visual-spec.md`.
 
@@ -85,7 +86,7 @@ A revisão visual é feita diretamente pelo Hugo no Canva após a Bia entregar o
 ## Leituras Obrigatórias
 
 1. **`briefing.md`** da pasta do conteúdo — especificação que será usada como parâmetro. A pasta do conteúdo mora no Drive: `G:\Meu Drive\SB Audiovisual\03_CONTEUDO\[tipo]\[titulo]\` (a `conteudos/[tipo]/[titulo]/` dos registros). Conferir que o Drive está aberto; se a pasta não abrir, avisar o Hugo e parar.
-2. **`texto.md`** da pasta do conteúdo — o texto a revisar.
+2. **`texto.md`** da pasta do conteúdo — o texto a revisar. Em formatos de Instagram, ler também o **`legenda.txt`** da mesma pasta.
 3. **Seção do formato em `contexto/formatos-conteudo.md`** — ler apenas a seção do formato indicado, não o arquivo inteiro.
 
 ## Leituras Condicionais
