@@ -163,7 +163,7 @@ Executar antes de escrever:
 2. Se o formato for Blog ou E-mail, invocar `hab-produtor-textual`.
 3. Escrever o texto aplicando as diretrizes internalizadas acima.
 4. Rodar o **Protocolo de Autorevisão** antes de exibir o resultado.
-5. Salvar `texto.md` na pasta do conteúdo.
+5. Salvar `texto.md` na pasta do conteúdo. **Para formatos de Instagram (carrossel, post, foto, Reel, Story com legenda), salvar também `legenda.txt`** na mesma pasta, conforme a seção "Arquivo da legenda" abaixo.
 6. Atualizar a pauta de **Em Produção** para **Aguardando Revisão**.
 7. Atualizar o status em `contexto/briefings.md` para **👀 Aguardando Revisão** (se a peça tiver código C-XXX).
 8. Apresentar o texto ao usuário informando que está pronto para a Ana revisar.
@@ -184,3 +184,19 @@ Rodar internamente antes de exibir qualquer texto ao usuário:
 ## Sua Entrega
 
 Um arquivo `texto.md` salvo em `conteudos/[slug-do-tipo]/[slug-do-titulo]/texto.md` (a pasta `conteudos/` mora no Drive: `G:\Meu Drive\SB Audiovisual\03_CONTEUDO\`; conferir que o Drive está aberto), com todos os campos obrigatórios do formato (definidos em `contexto/formatos-conteudo.md`), pronto para o Diretor de Arte.
+
+Nos formatos de Instagram, a entrega inclui um segundo arquivo, `legenda.txt` (ver abaixo).
+
+---
+
+## Arquivo da legenda (`legenda.txt`)
+
+A legenda é publicada automaticamente pela API do Instagram, que envia o arquivo **exatamente como está**. Por isso ela fica **separada** do `texto.md`, em `conteudos/[slug-do-tipo]/[slug-do-titulo]/legenda.txt` (Drive: `G:\Meu Drive\SB Audiovisual\03_CONTEUDO\[slug-do-tipo]\[slug-do-titulo]\legenda.txt`):
+
+- **Só o texto que vai ao ar**: texto puro, UTF-8, sem título, sem markdown, sem rótulos ("Legenda:", "CTA:"), sem notas ou comentários. Tudo que estiver no arquivo será publicado.
+- **Estrutura**: parágrafos separados por linha em branco; as hashtags na última linha, separadas por espaço.
+- **Limites**: até 2200 caracteres; **até 5 hashtags** (regra da marca; a API aceitaria 30); sem emoji; marcações `@` só se o briefing pedir.
+- **Produto**: se o conteúdo envolve produto, a linha do cashback entra na legenda conforme as regras da marca (nunca inventar condição).
+- Nome da loja sempre "Shibari Brasil" quando escrito por extenso.
+- **O `texto.md` não repete a legenda.** Não criar a seção "Legenda" nele, para não haver duas versões divergentes. Se a legenda mudar depois da aprovação, só o `legenda.txt` é editado e o Hugo reaprova.
+- Em Reels e Stories sem legenda, não criar o arquivo.
