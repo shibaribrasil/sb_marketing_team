@@ -10,3 +10,7 @@
 - slot P7: 'C-088 · usar a safeword também merece elogio' virou 'C-107 · o limite de alguém não é um desafio pra você vencer'
 - C-107 · o limite de alguém não é um desafio pra você vencer: responsável Bia -> Hugo (texto no time), Bia
 
+## 23/10/2026 17:48 (fila vv11 (rascunho, não aprovado))
+- slot P2: 'Foto de prática com uma frase de identificação (Hugo aparece; amarrado sem rosto)' virou 'Cinco segundos: quase uma foto (vídeo de prática do acervo, com legenda do Hugo)'
+- Cinco segundos: quase uma foto (vídeo de prática do acervo, com legenda do Hugo): responsável Hugo + Julia/Caio -> Hugo
+

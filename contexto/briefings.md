@@ -332,7 +332,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-086 | sinais de que a pessoa pratica com responsabilidade | Carrossel Livre Instagram | Mariana, Thiago | 📅 Agendado (21/10) | `conteudos/instagram-carrossel-livre/bandeiras-verdes-praticas/texto.md` |
+| C-086 | sinais de que a pessoa pratica com responsabilidade | Carrossel Livre Instagram | Mariana, Thiago | ✅ Publicado (21/10) | `conteudos/instagram-carrossel-livre/bandeiras-verdes-praticas/texto.md` |
 
 ---
 

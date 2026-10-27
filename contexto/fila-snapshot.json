@@ -1,6 +1,6 @@
 {
- "versao": "v10 (rascunho, não aprovado)",
- "atualizado_em": "2026-10-21",
+ "versao": "v11 (rascunho, não aprovado)",
+ "atualizado_em": "2026-10-22",
  "itens": {
   "P1": {
    "data": "2026-10-21",
@@ -13,11 +13,11 @@
   },
   "P2": {
    "data": "2026-10-23",
-   "titulo": "Foto de prática com uma frase de identificação (Hugo aparece; amarrado sem rosto)",
-   "formato": "Foto + 1 frase",
+   "titulo": "Cinco segundos: quase uma foto (vídeo de prática do acervo, com legenda do Hugo)",
+   "formato": "Reel curto (5 s) de prática",
    "prazo": "2026-10-22",
-   "responsavel": "Hugo + Julia/Caio",
-   "assunto": "identificação (frase de prática)",
+   "responsavel": "Hugo",
+   "assunto": "identificação (memória e desejo)",
    "arco": null
   },
   "P3": {
@@ -184,14 +184,10 @@
   }
  },
  "ultimas_mudancas": {
-  "quando": "21/10/2026 17:03",
+  "quando": "23/10/2026 17:48",
   "itens": [
-   "slot P4: 'C-083 · seu amigo fetichista não é o que você imagina' virou 'C-046 · o que o fetiche revela sobre você que outras experiências não revelam'",
-   "C-046 · o que o fetiche revela sobre você que outras experiências não revelam: responsável Bia -> Caio, Julia, Ana, Bia",
-   "slot P5: 'Por trás do desejo · um fetiche ou prática a escolher (Hugo)' virou 'Por trás do desejo · pet play'",
-   "slot P6: 'Você guarda e cuida da sua corda do jeito certo? (óleo dentro do conteúdo)' virou 'C-106 · 5 mitos sobre submissão'",
-   "slot P7: 'C-088 · usar a safeword também merece elogio' virou 'C-107 · o limite de alguém não é um desafio pra você vencer'",
-   "C-107 · o limite de alguém não é um desafio pra você vencer: responsável Bia -> Hugo (texto no time), Bia"
+   "slot P2: 'Foto de prática com uma frase de identificação (Hugo aparece; amarrado sem rosto)' virou 'Cinco segundos: quase uma foto (vídeo de prática do acervo, com legenda do Hugo)'",
+   "Cinco segundos: quase uma foto (vídeo de prática do acervo, com legenda do Hugo): responsável Hugo + Julia/Caio -> Hugo"
   ]
  }
 }

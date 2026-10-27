@@ -8,26 +8,27 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 
 ## 🎯 Fila prioritária (sequência do Instagram)
 
-> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v10 (rascunho, não aprovado)**, atualizada em **2026-10-21**. Sincronizada em 21/10/2026 17:17 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
+> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v11 (rascunho, não aprovado)**, atualizada em **2026-10-22**. Sincronizada em 23/10/2026 23:40 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
 
-**Mudanças na fila (21/10/2026 17:03):**
-- slot P4: 'C-083 · seu amigo fetichista não é o que você imagina' virou 'C-046 · o que o fetiche revela sobre você que outras experiências não revelam'
-- C-046 · o que o fetiche revela sobre você que outras experiências não revelam: responsável Bia -> Caio, Julia, Ana, Bia
-- slot P5: 'Por trás do desejo · um fetiche ou prática a escolher (Hugo)' virou 'Por trás do desejo · pet play'
-- slot P6: 'Você guarda e cuida da sua corda do jeito certo? (óleo dentro do conteúdo)' virou 'C-106 · 5 mitos sobre submissão'
-- slot P7: 'C-088 · usar a safeword também merece elogio' virou 'C-107 · o limite de alguém não é um desafio pra você vencer'
-- C-107 · o limite de alguém não é um desafio pra você vencer: responsável Bia -> Hugo (texto no time), Bia
+**Mudanças na fila (23/10/2026 17:48):**
+- slot P2: 'Foto de prática com uma frase de identificação (Hugo aparece; amarrado sem rosto)' virou 'Cinco segundos: quase uma foto (vídeo de prática do acervo, com legenda do Hugo)'
+- Cinco segundos: quase uma foto (vídeo de prática do acervo, com legenda do Hugo): responsável Hugo + Julia/Caio -> Hugo
 
-> Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 21/10/2026 17:17. Atualizar: `python scripts/status_instagram.py`.
+**Atenção:**
+- 23/10: a pauta tem 'Foto de prática com uma frase [fila:P2]' no slot de 'Cinco segundos: quase uma foto'; registrar a troca na fila
+- 23/10 Cinco segundos: quase uma foto (vídeo de prática d: há post no ar nesse dia (https://www.instagram.com/reel/De1ZF0uFbkc/); confirmar a postagem na pauta
+- 23/10 Cinco segundos: quase uma foto (vídeo de prática do acervo, : entrega de 22/10 atrasada (Briefing)
+
+> Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 23/10/2026 23:40. Atualizar: `python scripts/status_instagram.py`.
 
 | Posta em | Peça | Formato | Assunto | Arco | Entrega | Quem | Status na pauta | Alerta |
 |---|---|---|---|---|---|---|---|---|
-| 21/10 | C-086 · sinais de que a pessoa pratica com responsabilidade (bandeiras verdes) | Carrossel livre | sinais de quem pratica com responsabilidade | — | 21/10 | Bia | Agendado (Instagram: agendado) | Instagram: AGENDADO 21/10 18:00 |
-| 23/10 | Foto de prática com uma frase de identificação (Hugo aparece; amarrado sem rosto) | Foto + 1 frase | identificação (frase de prática) | — | 22/10 | Hugo + Julia/Caio | Briefing |  |
+| 21/10 | C-086 · sinais de que a pessoa pratica com responsabilidade (bandeiras verdes) | Carrossel livre | sinais de quem pratica com responsabilidade | — | 21/10 | Bia | Publicado (Instagram: no ar) | Instagram: NO AR 21/10 18:00 |
+| 23/10 | Cinco segundos: quase uma foto (vídeo de prática do acervo, com legenda do Hugo) | Reel curto (5 s) de prática | identificação (memória e desejo) | — | 22/10 | Hugo | Briefing | a peça da pauta não bate com a da fila; post no ar nesse dia; ENTREGA ATRASADA |
 | 26/10 | Reel A · primeiros minutos com a corda (Kit Shibari Iniciante em uso) | Reel A (Trial Reel antes) | primeira sessão com o kit | 1 | 25/10 | Hugo | Briefing |  |
 | 28/10 | C-046 · o que o fetiche revela sobre você que outras experiências não revelam | Carrossel livre | fetiche como pista do que a pessoa busca (autoconhecimento) | — | 26/10 | Caio, Julia, Ana, Bia | Briefing |  |
 | 30/10 | Por trás do desejo · pet play | Por trás do desejo (4 páginas) | pet play (prática de papel e entrega) | — | 29/10 | Caio, Julia, Ana, Bia | Briefing |  |
-| 31/10 (extra) | Extra casual 1 · sábado de Halloween: ideia que o Hugo trouxer (identificação e compartilhamento) | Post casual (ideia do Hugo) | a definir com a ideia do Hugo | — | 30/10 | Hugo traz a ideia; Julia/Bia produzem | Briefing |  |
+| 31/10 (extra) | Extra casual 1 · sábado de Halloween: ideia que o Hugo trouxer (identificação e compartilhamento) | Post casual (ideia do Hugo) | a definir com a ideia do Hugo | — | 30/10 | Hugo traz a ideia; Julia/Bia produzem | Aguardando Revisão |  |
 | 02/11 | C-106 · 5 mitos sobre submissão | Desatando mitos | submissão (mitos) | — | 30/10 | Caio, Julia, Ana, Bia | Briefing |  |
 | 04/11 | C-107 · o limite de alguém não é um desafio pra você vencer | Post de frase | limite de quem ouve um não (frase) | — | 03/11 | Hugo (texto no time), Bia | Briefing |  |
 | 06/11 | Foto de produto: óleo e cera de tratamento em uso (Hugo na cena, sem comando de venda) | Foto de produto | óleo e cera de tratamento (produto) | 3 | 05/11 | Hugo + Julia/Caio | Briefing |  |
@@ -90,7 +91,6 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 |---|---|---|---|
 | Foto de prática com uma frase [fila:P2] (posta 23/10; escolher a foto e a frase até 22/10) | Post de Foto (Instagram) | a criar: Hugo escolhe a foto, Julia/Caio escrevem a frase | Identificação; Hugo aparece, amarrado sem rosto |
 | Reel A · primeiros minutos com a corda [fila:P3] (posta 26/10; gravar até 25/10; legenda da Julia até 24/10) | Instagram Vídeo | roteiro pronto em `dados/instagram/roteiros/roteiros-reels-fase1-2026-10-19.md` (sb_admin_team) | Kit Shibari Iniciante em uso; end card do cashback |
-| Extra casual 1 [fila:X1] (sábado de Halloween, posta 31/10; ideia do Hugo até 28/10) | Post Casual (Instagram) | aguardando a ideia do Hugo | Teste de formato casual (1 de 3) |
 | Foto de produto: óleo e cera de tratamento [fila:P8] (posta 06/11; fotografar na sessão 1, legenda até 05/11) | Post de Foto (Instagram) | a criar: Julia/Caio escrevem a legenda curta com a linha do cashback | Produto direto, sem arte e sem comando de venda |
 | Reel C · três passos para guardar a corda [fila:P9] (posta 09/11; gravar até 08/11; legenda até 06/11) | Instagram Vídeo | roteiro pronto em `dados/instagram/roteiros/roteiros-reels-fase1-2026-10-19.md` (sb_admin_team) | Cuidar da corda; end card do cashback; a fala sobre o óleo só com confirmação do Hugo |
 | C-026 · velas que podem e velas que nunca [fila:P10] (posta 11/11; briefing até 28/10 com o Pedro) | Carrossel educativo (Instagram) | a criar: Caio + Pedro; o Pedro confirma com o Hugo os fatos das velas (47 °C e 65 °C) até 04/11 | Wax play, produto direto; linha do cashback |
@@ -160,7 +160,7 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 
 | Título | Tipo de Conteúdo | Arquivo | Aprovado em | Publicação agendada |
 |---|---|---|---|---|
-| C-086 — sinais de que a pessoa pratica com responsabilidade | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/bandeiras-verdes-praticas/` | 21/10/2026 | 21/10/2026 18:00 (fila de publicação do Instagram) |
+| Extra casual 1 [fila:X1] · Time doce × Time travessura (spanking) | Post de Duelo (Instagram, formato novo em teste) | `conteudos/instagram-post-de-duelo/time-doce-time-travessura/` (imagem.jpg + legenda.txt) | 23/10/2026 | 31/10/2026 às 09:00 (o Hugo agenda no Instagram) |
 
 ---
 
@@ -170,6 +170,7 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 
 | Título | Tipo de Conteúdo | Arquivo | Publicado em |
 |---|---|---|---|
+| C-086 — sinais de que a pessoa pratica com responsabilidade | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/bandeiras-verdes-praticas/` | 21/10/2026 (18:00, confirmado pela fila de publicação) |
 | C-105 — bingo da primeira amarração | Post de Bingo (Instagram) | `conteudos/instagram-post-de-bingo/bingo-da-primeira-amarracao/` | 10/10/2026 (confirmado no perfil pela Mari em 21/10; formato em teste, 1º de 3) |
 | C-095 — 5 mitos sobre a cultura leather | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-cultura-leather/` | 07/10/2026 |
 | C-092 — o que é dominação e submissão (D/s) | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/dinamica-ds/` | 30/09/2026 |

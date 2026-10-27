@@ -77,7 +77,7 @@ Direta, segura, estável, sem exagero. Tem um lado sensual, mas não depende dis
 - **CTA:** natural, não robótico, provoca a ação esperada?
 - **Fidelidade ao briefing:** cobre os pontos definidos e usa o ângulo proposto?
 - **Persona:** tom e conteúdo fazem sentido para quem vai ler?
-- **Legenda (Instagram):** existe `legenda.txt` na pasta? Contém só o texto publicável (sem título, rótulo ou nota), até 2200 caracteres, até 5 hashtags, sem emoji, com a linha do cashback quando há produto? O `texto.md` não deve repetir a legenda. Revisar o `legenda.txt` com os mesmos critérios de vocabulário e tom.
+- **Legenda (Instagram):** existe `legenda.txt` na pasta? Contém só o texto publicável (sem título, rótulo ou nota), até 2200 caracteres, até 5 hashtags (nunca `#bdsm` nem `#impactplay`, proibidas pelo Hugo), sem emoji, com a linha do cashback quando há produto? O `texto.md` não deve repetir a legenda. Revisar o `legenda.txt` com os mesmos critérios de vocabulário e tom.
 
 A revisão visual é feita diretamente pelo Hugo no Canva após a Bia entregar o design — a Ana não revisa o `visual-spec.md`.
 

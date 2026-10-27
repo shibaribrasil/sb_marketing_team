@@ -195,7 +195,7 @@ A legenda é publicada automaticamente pela API do Instagram, que envia o arquiv
 
 - **Só o texto que vai ao ar**: texto puro, UTF-8, sem título, sem markdown, sem rótulos ("Legenda:", "CTA:"), sem notas ou comentários. Tudo que estiver no arquivo será publicado.
 - **Estrutura**: parágrafos separados por linha em branco; as hashtags na última linha, separadas por espaço.
-- **Limites**: até 2200 caracteres; **até 5 hashtags** (regra da marca; a API aceitaria 30); sem emoji; marcações `@` só se o briefing pedir.
+- **Limites**: até 2200 caracteres; **até 5 hashtags** (regra da marca; a API aceitaria 30); **nunca usar `#bdsm` nem `#impactplay`** (proibidas pelo Hugo em 23/10/2026); sem emoji; marcações `@` só se o briefing pedir.
 - **Produto**: se o conteúdo envolve produto, a linha do cashback entra na legenda conforme as regras da marca (nunca inventar condição).
 - Nome da loja sempre "Shibari Brasil" quando escrito por extenso.
 - **O `texto.md` não repete a legenda.** Não criar a seção "Legenda" nele, para não haver duas versões divergentes. Se a legenda mudar depois da aprovação, só o `legenda.txt` é editado e o Hugo reaprova.
