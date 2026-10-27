@@ -57,7 +57,7 @@ Quando o usuário solicitar um tipo de conteúdo ainda não registrado:
 4. [Post Inspiração de Amarração](formatos/post-inspiracao-de-amarracao.md)
 5. [Carrossel Livre](formatos/carrossel-livre.md)
 6. [Descrição de Produto — Site, versão antiga](formatos/descricao-de-produto-old.md) — substituído pelo formato 7
-7. [Descrição de Produto — Site](formatos/descricao-de-produto.md) — padrão ativo desde 19/06/2026
+7. [Descrição de Produto — Site](formatos/descricao-de-produto.md) — padrão ativo desde 19/06/2026; **movido para a skill `cadastrador` (`sb_admin_team`) em 27/10/2026**, o arquivo aqui é só um ponteiro
 8. [Post Desatando Mitos](formatos/post-desatando-mitos.md)
 9. [Post de Foto (Instagram)](formatos/post-de-foto.md)
 10. [Post de Produto (Instagram)](formatos/post-de-produto.md)

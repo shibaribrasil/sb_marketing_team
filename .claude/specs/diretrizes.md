@@ -255,7 +255,7 @@ Os formatos são definidos de forma incremental. Cada formato tem seu próprio a
 4. Post Inspiração de Amarração → `contexto/formatos/post-inspiracao-de-amarracao.md`
 5. Carrossel Livre → `contexto/formatos/carrossel-livre.md`
 6. Descrição de Produto — Site, versão antiga → `contexto/formatos/descricao-de-produto-old.md` — substituído pelo formato 7
-7. Descrição de Produto — Site → `contexto/formatos/descricao-de-produto.md` — padrão ativo desde 19/06/2026
+7. Descrição de Produto — Site → `contexto/formatos/descricao-de-produto.md` — padrão ativo desde 19/06/2026; **movido para a skill `cadastrador` (`sb_admin_team`) em 27/10/2026**, o arquivo aqui é só um ponteiro
 8. Post Desatando Mitos (Instagram) → `contexto/formatos/post-desatando-mitos.md`
 9. Post de Foto (Instagram) → `contexto/formatos/post-de-foto.md` — foto do acervo pessoal movida de `assets/arquivo/Post de Fotos - A Publicar/`; pipeline direto: Julia (legenda) → Ana (revisão) → Publicação
 10. Post de Produto (Instagram) → `contexto/formatos/post-de-produto.md` — legenda ancorada em `contexto/produtos.md`; pipeline: Pedro (dados do produto) → Julia (legenda) → Bia (visual) → Ana (revisão)
