@@ -55,10 +55,10 @@
     "semantic_hash": "d2b11c2732b678b11f797147d1c4a91f"
   },
   "scripts/graphify_defasado.py": {
-    "mtime": 1793205779.2631862,
-    "seen": 1793206293.46227,
-    "ast_hash": "1df94f176edc3c4ced02da003ed4978b",
-    "semantic_hash": "1df94f176edc3c4ced02da003ed4978b"
+    "mtime": 1793206298.9320786,
+    "seen": 1793222947.4870393,
+    "ast_hash": "5022876254ae9b7e68cded1d439f10c4",
+    "semantic_hash": "5022876254ae9b7e68cded1d439f10c4"
   },
   ".claude/CLAUDE.md": {
     "mtime": 1793205117.0444846,
@@ -217,10 +217,10 @@
     "semantic_hash": "8840746e74ad3b21730e2992b0b63d62"
   },
   "CLAUDE.md": {
-    "mtime": 1793205766.1368036,
-    "seen": 1793206293.46227,
-    "ast_hash": "09413a9ab8ba300211e0493acfb4f452",
-    "semantic_hash": "09413a9ab8ba300211e0493acfb4f452"
+    "mtime": 1793217898.2412918,
+    "seen": 1793222947.4870393,
+    "ast_hash": "5a2f0bf047cd30d5f71caa37aad0cb93",
+    "semantic_hash": "5a2f0bf047cd30d5f71caa37aad0cb93"
   },
   "assets/docs/Glossario-BDSM.md": {
     "mtime": 1781539775.6346507,
@@ -313,10 +313,10 @@
     "semantic_hash": "50cb084a060eb03fe14d3f7a510f5928"
   },
   "contexto/formatos/post-desatando-mitos.md": {
-    "mtime": 1782508329.8261707,
-    "seen": 1793206293.46227,
-    "ast_hash": "dda1b549a4c83009db746af389595c1f",
-    "semantic_hash": "dda1b549a4c83009db746af389595c1f"
+    "mtime": 1793222679.8336778,
+    "seen": 1793222947.4870393,
+    "ast_hash": "090a3db95d6bd6bf9a1592469893f346",
+    "semantic_hash": "090a3db95d6bd6bf9a1592469893f346"
   },
   "contexto/formatos/post-inspiracao-de-amarracao.md": {
     "mtime": 1782508097.8131247,
@@ -343,10 +343,10 @@
     "semantic_hash": "800a9ed74d7453c679217dcfff9844ab"
   },
   "contexto/pauta.md": {
-    "mtime": 1793205000.3371384,
-    "seen": 1793206293.46227,
-    "ast_hash": "c32e24fec28f238438998b2ebe1fae09",
-    "semantic_hash": "c32e24fec28f238438998b2ebe1fae09"
+    "mtime": 1793218539.8758984,
+    "seen": 1793222947.4870393,
+    "ast_hash": "e9d5fecc802839456a0104795d0a0659",
+    "semantic_hash": "e9d5fecc802839456a0104795d0a0659"
   },
   "contexto/personas.md": {
     "mtime": 1782502245.2597194,
@@ -373,10 +373,10 @@
     "semantic_hash": "18945d9d9305f1dab0f7f96569e1ea2b"
   },
   "estrategia/Sequ\u00eancia de Conte\u00fado Instagram.md": {
-    "mtime": 1793154505.8671322,
-    "seen": 1793206293.46227,
-    "ast_hash": "b127a837efa0562eccbe3663986f8410",
-    "semantic_hash": "b127a837efa0562eccbe3663986f8410"
+    "mtime": 1793218486.711589,
+    "seen": 1793222947.4870393,
+    "ast_hash": "061ac33c2cd7dbee94c41ab4c53d46b0",
+    "semantic_hash": "061ac33c2cd7dbee94c41ab4c53d46b0"
   },
   "estrategia/historico-especialista-instagram.md": {
     "mtime": 1793153780.978323,
