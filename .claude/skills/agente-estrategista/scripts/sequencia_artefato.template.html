@@ -365,7 +365,7 @@ function drawBacklog() {
   const chips = ["Instagram", "Blog", "Outros", "Todos"].map((f) => `<button class="fchip" type="button" aria-pressed="${fam === f}" data-f="${f}">${f} (${cont(f)})</button>`).join("");
   const corpo = nomes.length ? nomes.map((t) => `<details class="terr"${termo ? " open" : ""}><summary><span>${esc(t)}</span><span class="n">${grupos[t].length} ideia${grupos[t].length > 1 ? "s" : ""}</span></summary>` +
     grupos[t].map((x) => `<div class="bl"><span class="cod">${esc(x.codigo)}</span><span>${esc(x.titulo)}</span><span class="x">${esc(x.formato)}</span><span class="x">${esc(x.persona)}</span><span class="x">${esc(x.status_txt)}</span></div>`).join("") + `</details>`).join("") : `<div class="vazio">Nenhuma ideia encontrada.</div>`;
-  $("#backlog").innerHTML = `<div class="sec-h"><h2>Backlog mapeado no marketing</h2><span class="note">Banco de briefings do Caio (ideias ainda sem produção): ${total} no total, por território.</span></div>` +
+  $("#backlog").innerHTML = `<div class="sec-h"><h2>Backlog mapeado no marketing</h2><span class="note">Banco legado de briefings, congelado (ideias ainda sem produção): ${total} no total, por território.</span></div>` +
     `<div class="filtros">${chips}<input class="busca" id="busca" type="search" placeholder="Buscar por título, território ou persona" value="${esc(termo)}" aria-label="Buscar no backlog"></div>${corpo}`;
   document.querySelectorAll("#backlog .fchip").forEach((bt) => bt.addEventListener("click", () => { fam = bt.dataset.f; drawBacklog(); }));
   const bs = $("#busca"); bs.addEventListener("input", () => { termo = bs.value.trim().toLowerCase(); const pos = bs.selectionStart; drawBacklog(); const n = $("#busca"); n.focus(); n.setSelectionRange(pos, pos); });
