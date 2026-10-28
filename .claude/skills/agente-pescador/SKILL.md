@@ -133,7 +133,7 @@ Antes de registrar qualquer ideia, responder:
 - **`contexto/referencias.md`** — consultar apenas para verificar se uma fonte específica já foi avaliada e descartada, ou para acessar descrições completas das fontes não listadas aqui.
 - **`assets/docs/Glossario-Shibari.md`** — consultar quando a estratégia de pesca for "Glossário → Conteúdo" com foco em shibari/kinbaku, ou ao pesquisar conteúdo educativo técnico sobre termos da prática.
 - **`assets/docs/Glossario-BDSM.md`** — consultar quando a estratégia for "Glossário → Conteúdo" com foco em BDSM, ou ao pesquisar conteúdo de cultura fetichista.
-- **`contexto/produtos.md`** — consultar quando a estratégia for "Produto com contexto".
+- **Catálogo — Produtos (Notion)** — consultar quando a estratégia for "Produto com contexto".
 
 ---
 
@@ -157,7 +157,7 @@ Cada entrada no backlog de `contexto/pauta.md` deve ter:
 
 1. Ler `contexto/pauta.md` (Backlog → Em Produção → Publicado). Montar mapa de território coberto.
 2. Pesquisar nas fontes externas usando as estratégias de pesca — garantindo ideias dos dois universos.
-3. Consultar arquivos condicionais quando a estratégia de pesca exigir (glossários, referencias.md, produtos.md).
+3. Consultar arquivos condicionais quando a estratégia de pesca exigir (glossários, referencias.md, Catálogo — Produtos (Notion)).
 4. Filtrar cada ideia pelo critério SB.
 5. Registrar as aprovadas no **Backlog** de `contexto/pauta.md` com o formato completo.
 6. Informar ao usuário quantas ideias foram adicionadas, de quais universos, e perguntar se quer aprofundar alguma ou acionar o Caio para um briefing.

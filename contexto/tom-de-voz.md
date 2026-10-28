@@ -2,7 +2,9 @@
 
 > ⚠️ **Nota de manutenção:** Alguns skills de agentes (`agente-redator`, `agente-escritor`, `agente-revisor`) contêm resumos embutidos das regras deste arquivo para reduzir o carregamento de contexto. Se este arquivo for atualizado, verificar se os resumos embutidos em cada skill ainda refletem as informações corretas — e atualizar onde for relevante.
 
-> Fonte: Guia da Marca - Shibari Brasil (páginas 3–5)
+> Fonte: Guia da Marca - Shibari Brasil (páginas 3–5), **revisado em 27/10/2026 (Hugo) para refletir o núcleo da voz** em `sb_cerebro/02_voz/voz.md`. Em qualquer conflito, vale o núcleo; carregue a skill `voz-shibari` antes de escrever.
+
+> **O que mudou em 27/10/2026, seção a seção:** produto, desejo e "o que evitar" **mantêm**; segurança **mantém o conteúdo e muda o tom** (mais leve, expositivo, com fonte, sem regra jogada); vocabulário **revisado** (abaixo); personalidade **mantém** "calma, estável, sem se provar" com outra leitura (não é arrogância; é didática, bem-humorada e aberta a errar). Novo: a voz é a do Hugo, como praticante; "eu" só nos conteúdos com a cara dele; fora deles fala a marca; "nós" quando o conteúdo pede identificação.
 
 ---
 
@@ -17,6 +19,8 @@ O texto deve transmitir segurança, mas também envolver — sem exagero, sem fl
 ## Personalidade da Marca
 
 Direta, segura, estável, sem exagero. Tem um lado sensual, mas não depende disso para se comunicar. Se fosse uma pessoa, seria alguém que fala com calma, sabe o que está fazendo e não precisa se provar o tempo todo.
+
+**Leitura revisada (27/10/2026):** isso não é arrogância nem ar de quem sabe tudo. A marca é didática, leve e bem-humorada na medida certa, cita as fontes do que expõe e admite que também aprende. Fala como praticante entusiasta, não como mestre.
 
 ---
 
@@ -65,6 +69,8 @@ O desejo não precisa ser explicado — ele já está presente. A marca sugere, 
 
 Aqui a comunicação pode ser mais direta. Sem dramatizar e sem suavizar demais.
 
+**Tom revisado (27/10/2026):** mais leve e expositivo, com fonte, sem regra jogada na cabeça de quem lê. O conteúdo da segurança não muda. Exemplo de fala natural aprovada: "a tesoura de segurança tem que estar por perto em toda prática de shibari ou bondage".
+
 **Exemplos:**
 - ❌ "isso é perigoso, cuidado"
 - ❌ "evite acidentes"
@@ -77,7 +83,9 @@ Aqui a comunicação pode ser mais direta. Sem dramatizar e sem suavizar demais.
 
 ## Vocabulário — Substituições Obrigatórias
 
-A marca escreve em português. Os termos abaixo são anglicismos que a Shibari Brasil não usa na comunicação, independente do que referências externas adotem.
+**Revisado em 27/10/2026:** a lista abaixo **fica mantida, com ressalvas**. Depende do contexto e pode ser desconsiderada; o termo em inglês é aceito se vier com explicação em português simples na primeira vez; onde existe tradução eficiente ("fetiche", "baunilha"), ela vale; não se cunha tradução nova nem se faz trocadilho forçado. Combinações como "prática kink" ou "estilo kinky" soam robóticas na fala e devem ser evitadas. Regra completa em `sb_cerebro/02_voz/termos-do-meio.md`.
+
+A marca escreve em português. Os termos abaixo são anglicismos que a Shibari Brasil costuma evitar na comunicação, independente do que referências externas adotem.
 
 | Não usar | Usar | Exemplo |
 |---|---|---|
@@ -148,6 +156,10 @@ Mais direto, mas mantendo consistência.
 > é ela que permite interromper a amarração com rapidez, se necessário.
 >
 > *(CTA sutil para finalizar quando fizer sentido)*
+
+---
+
+**Nota de 27/10/2026:** os exemplos de estrutura acima mostram a ordem do texto, não a redação final. Para a voz (frase falável, sem "não é X, é Y", sem frase que sentencia a conduta dos outros, sem promessa), valem os exemplos aprovados em `sb_cerebro/02_voz/tom.md`. Em produto, o item principal da prática não se apresenta como produto qualquer (a corda de juta 6mm x 8m é "a corda principal da prática", e não algo que apenas "funciona bem").
 
 ---
 

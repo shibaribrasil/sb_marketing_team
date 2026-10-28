@@ -92,7 +92,8 @@ Quando o usuário pedir para fazer algo sem citar o agente diretamente, identifi
 | Revisar o texto de um conteúdo | Ana (agente-revisor) |
 | Definir como a peça vai parecer visualmente (após texto aprovado) | Bia (agente-diretor-de-arte) |
 | Criar ou ajustar anúncios pagos | Gui (agente-trafego) |
-| Cadastrar produto, criar descrição, verificar encaixe de produto em conteúdo | Pedro (agente-gerente-produto) |
+| Cadastrar produto ou criar descrição | Não é do marketing: cadastrador (`sb_admin_team`) |
+| Verificar encaixe de produto em conteúdo ou buscar dado de produto | Consultar o Catálogo — Produtos (Notion); fato a confirmar vai ao Hugo |
 
 Ao rotear, você não executa a tarefa — você apresenta o que o agente vai fazer e pergunta se o usuário quer acionar.
 

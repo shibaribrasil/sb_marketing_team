@@ -6,13 +6,13 @@
 
 **Pasta de conteúdos:** `conteudos/instagram-post-produto/`
 
-**Regras de escrita:** Seguir os Capítulos 1 e 2 da skill `hab-produtor-textual`. Consultar `contexto/produtos.md` (Pedro) para os dados do produto antes de escrever — nunca inventar característica ou diferencial.
+**Regras de escrita:** Seguir os Capítulos 1 e 2 da skill `hab-produtor-textual`. Consultar o Catálogo — Produtos (Notion) para os dados do produto antes de escrever — nunca inventar característica ou diferencial.
 
 ---
 
 ### Fluxo de produção
 
-1. Pedro confirma o produto e os dados de `contexto/produtos.md` a usar
+1. Julia confirma o produto do briefing e lê os dados dele no Catálogo — Produtos (Notion)
 2. Julia escreve a legenda em `texto.md`, seguindo a estrutura de "Post de Produto" definida em `contexto/tom-de-voz.md` (O que é → Como se comporta → Onde faz mais sentido)
 3. Bia produz o visual do produto
 4. Ana revisa o conjunto (legenda + visual)
@@ -27,7 +27,7 @@ O arquivo `texto.md` de um Post de Produto deve conter os campos abaixo:
 ---
 
 **1. Legenda**
-Texto que apresenta o produto no feed, ancorado nos dados de `contexto/produtos.md`.
+Texto que apresenta o produto no feed, ancorado nos dados do produto no Catálogo — Produtos (Notion).
 - Estrutura: o que é o produto → como se comporta/usa → onde faz mais sentido (contexto de uso)
 - Extensão: 60 a 150 palavras
 - Tom conversacional, sem claims que não estejam no catálogo
@@ -39,7 +39,7 @@ Texto que apresenta o produto no feed, ancorado nos dados de `contexto/produtos.
 
 - [ ] Legenda entre 60 e 150 palavras
 - [ ] Segue a estrutura O que é / Como se comporta / Onde faz mais sentido
-- [ ] Todos os dados do produto conferem com `contexto/produtos.md`
+- [ ] Todos os dados do produto conferem com o Catálogo — Produtos (Notion)
 - [ ] Máximo 5 hashtags ao final da legenda
 - [ ] Nenhuma palavra da lista negra da hab-produtor-textual
 - [ ] Autorevisão executada

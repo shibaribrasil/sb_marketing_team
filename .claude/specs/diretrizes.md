@@ -17,7 +17,6 @@ A produção das tarefas é dividida entre agentes especializados. Cada um tem u
 | **Ana** | Revisora | Revisa o texto junto com o usuário, aprova ou devolve com instruções. Trabalha somente sobre o `texto.md` — a aprovação visual é feita diretamente pelo Hugo no Canva. | Quando o texto estiver pronto (antes do design) | `agente-revisor` | Aguardando Revisão → Design em Produção |
 | **Bia** | Diretora de Arte | Produz a direção visual completa, gera prompts e referências para ferramentas de criação. Quando o design passa pelo Canva, registra o link no `visual-spec.md`. Se houver ajustes manuais pendentes, lista-os em seção "Pendências no Canva" e move para **Pendente de Alteração no Canva** em vez de Pronto - Aguardando Publicação. | Quando o texto for aprovado pela Ana | `agente-diretor-de-arte` | Design em Produção → Pendente de Alteração no Canva (com pendências) ou Pronto - Aguardando Publicação (sem pendências) |
 | **Gui** | Tráfego Pago | Criação e otimização de anúncios pagos em dois canais: **Instagram** (Meta Ads) e **Google Ads**. Identifica a plataforma e carrega a skill correspondente (`hab-meta-ads` para Instagram; `hab-google-ads` para Google). Pode ser acionado a qualquer momento, independente do pipeline orgânico | Quando quiser trabalhar com campanhas pagas | `agente-trafego` + skill da plataforma | *(sem status fixo — atua em paralelo)* |
-| **Pedro** | Gerente de Produto | Mantém o catálogo da loja, cria descrições de produto e identifica quais produtos têm gancho orgânico com o conteúdo em produção — pode ser acionado pelo usuário ou por qualquer agente do time | Quando quiser trabalhar com produtos, criar descrições ou verificar encaixe de produto em um conteúdo | `agente-gerente-produto` | *(sem status fixo — atua em paralelo)* |
 
 Cada agente lê os arquivos de contexto relevantes e atualiza a pauta ao concluir sua etapa. As instruções completas de cada um estão em `.claude/skills/[nome-do-agente]/SKILL.md`.
 
@@ -197,12 +196,7 @@ Tráfego: [o que precisa]
 ```
 Aciona o Gui (Tráfego Pago). Ele pergunta em qual plataforma estamos trabalhando — **Instagram** ou **Google Ads** — e carrega a skill correspondente antes de executar. Trabalha em paralelo ao time, independente do pipeline orgânico.
 
-**Trabalhar com produtos (cadastrar, descrever, identificar encaixe em conteúdo):**
-```
-Produto: [o que precisa]
-```
-Exemplos: `Produto: cadastrar produto novo`, `Produto: qual produto encaixa no conteúdo sobre iniciantes`, `Produto: criar descrição do [nome do produto]`.
-Aciona o Pedro (Gerente de Produto). Ele trabalha em paralelo ao time e também pode ser consultado por outros agentes durante a produção para identificar produtos com gancho orgânico para o conteúdo em desenvolvimento.
+**Produtos (cadastro, descrição e características):** não são do marketing. São do cadastrador (`sb_admin_team`) e ficam no Notion, na base Catálogo — Produtos (Notion). O time consulta o Notion para qualquer dado de produto; fato que faltar vai ao Hugo. O agente Pedro (`agente-gerente-produto`) foi extinto em 27/10/2026.
 
 **Confirmar que um conteúdo foi postado:**
 ```
@@ -254,11 +248,10 @@ Os formatos são definidos de forma incremental. Cada formato tem seu próprio a
 3. Post Por Trás do Desejo → `contexto/formatos/post-por-tras-do-desejo.md`
 4. Post Inspiração de Amarração → `contexto/formatos/post-inspiracao-de-amarracao.md`
 5. Carrossel Livre → `contexto/formatos/carrossel-livre.md`
-6. Descrição de Produto — Site, versão antiga → `contexto/formatos/descricao-de-produto-old.md` — substituído pelo formato 7
-7. Descrição de Produto — Site → `contexto/formatos/descricao-de-produto.md` — padrão ativo desde 19/06/2026; **movido para a skill `cadastrador` (`sb_admin_team`) em 27/10/2026**, o arquivo aqui é só um ponteiro
+6 e 7. (Os formatos de descrição de produto saíram do marketing em 27/10/2026: são do cadastrador, no `sb_admin_team`. A numeração dos demais formatos não muda.)
 8. Post Desatando Mitos (Instagram) → `contexto/formatos/post-desatando-mitos.md`
 9. Post de Foto (Instagram) → `contexto/formatos/post-de-foto.md` — foto do acervo pessoal movida de `assets/arquivo/Post de Fotos - A Publicar/`; pipeline direto: Julia (legenda) → Ana (revisão) → Publicação
-10. Post de Produto (Instagram) → `contexto/formatos/post-de-produto.md` — legenda ancorada em `contexto/produtos.md`; pipeline: Pedro (dados do produto) → Julia (legenda) → Bia (visual) → Ana (revisão)
+10. Post de Produto (Instagram) → `contexto/formatos/post-de-produto.md` — legenda ancorada nos dados do produto no Catálogo — Produtos (Notion); pipeline: Julia (legenda, com os dados do Notion) → Bia (visual) → Ana (revisão)
 11. Instagram Vídeo → `contexto/formatos/instagram-video.md` — legenda de apoio a vídeo demonstrativo; pipeline: Julia (legenda) → Ana (revisão)
 12. Post de Bingo (Instagram) → `contexto/formatos/post-de-bingo.md` — post casual de identificação (cartela 3×3, 9 situações); eventual, sob demanda do Hugo; pipeline: Julia (cartela + legenda) → Bia (arte) → Ana (revisão)
 13. Post de Duelo (Instagram) → `contexto/formatos/post-de-duelo.md` — post casual de identificação (duas colunas "time A × time B", 4 itens paralelos); eventual, em teste; pipeline: Julia (colunas + legenda) → Bia (arte) → Ana (revisão)

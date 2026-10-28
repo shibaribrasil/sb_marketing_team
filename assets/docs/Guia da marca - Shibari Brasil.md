@@ -1,6 +1,6 @@
 # Guia da marca - Shibari Brasil
 
-> Arquivo gerado automaticamente a partir de Guia da marca - Shibari Brasil.pdf. Não editar manualmente.
+> Arquivo gerado a partir de Guia da marca - Shibari Brasil.pdf (15/06/2026) e **revisado à mão em 27/10/2026 nas seções de personalidade, tom de voz e estrutura de texto (p. 2 a 4)**, por decisão do Hugo, para refletir o núcleo da voz em `sb_cerebro/02_voz/voz.md`. **O PDF ainda não tem essa revisão:** exportar o PDF atualizado, ou reaplicar a revisão se este arquivo for regenerado do PDF. Em qualquer conflito de voz, vale o núcleo.
 
 ### essência da marca *(p. 1)*
 
@@ -79,6 +79,7 @@ direta
 Tem um lado sensual, mas não depende disso para se comunicar.
 Se fosse uma pessoa, seria alguém que fala com calma, sabe o que está fazendo e não
 precisa se provar o tempo todo.
+Leitura revisada em 27/10/2026: calma e estável não significam arrogância nem ar de quem sabe tudo. A marca é didática, leve e bem-humorada na medida certa, cita as fontes do que expõe e admite que também aprende. Fala como praticante entusiasta, não como mestre.
 
 ### o que a marca não é *(p. 2)*
 
@@ -107,6 +108,10 @@ A marca não fala de forma exagerada, não usa linguagem apelativa e não tenta 
 a qualquer custo. Ao mesmo tempo, também não soa técnica demais ou distante. Existe
 um equilíbrio entre explicar bem e manter a leitura interessante.
 O texto deve transmitir segurança, mas também envolver, sem exagero, sem floreio.
+→ Quem fala (revisão de 27/10/2026)
+A voz da marca nasce da voz do Hugo, como praticante. Nos conteúdos com a cara dele, fala em primeira pessoa; em site, descrição, e-mail, anúncio e feed, fala a marca, a partir dessa voz, e pode usar "nós" quando o conteúdo pede identificação. O tom varia conforme o assunto, a voz não.
+→ Frase falável
+Todo texto precisa poder ser dito em voz alta, como numa conversa. Frase que faz sentido no papel mas ninguém falaria assim está errada. Humor e palavrão entram com parcimônia, e só os bordões que o meio já usa.
 → Como a marca escreve
 A escrita é direta, mas não superficial.
 O objetivo é explicar com clareza, trazendo contexto suficiente para que a pessoa entenda
@@ -146,6 +151,7 @@ ideal: “abre espaço para explorar diferentes ritmos e formas de condução na
 → Como falar de segurança
 Aqui a comunicação pode ser mais direta.
 Sem dramatizar e sem suavizar demais.
+Tom revisado em 27/10/2026: mais leve e expositivo, com fonte, sem regra jogada na cabeça de quem lê. O conteúdo da segurança não muda.
 - Exemplos:
 - evitar: “isso é perigoso, cuidado”
 - evitar: “evite acidentes”
@@ -203,6 +209,8 @@ CTA sútil para finalizar quando fizer sentido
 - claro
 - natural
 - consistente com a prática
+
+**Nota de 27/10/2026:** os exemplos de estrutura acima mostram a ordem do texto, não a redação final. Para a voz (frase falável, sem "não é X, é Y", sem frase que sentencia a conduta dos outros, sem promessa), valem os exemplos aprovados em `sb_cerebro/02_voz/tom.md` e as regras em `sb_cerebro/02_voz/voz.md`. Em produto, o item principal da prática não se apresenta como produto qualquer (por exemplo, a corda de juta 6mm x 8m é "a corda principal da prática", e não apenas algo que "funciona bem").
 
 ---
 
