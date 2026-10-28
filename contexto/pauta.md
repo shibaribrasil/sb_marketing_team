@@ -8,7 +8,7 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 
 ## 🎯 Fila prioritária (sequência do Instagram)
 
-> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v11 (rascunho, não aprovado)**, atualizada em **2026-10-22**. Sincronizada em 28/10/2026 13:30 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
+> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v11 (rascunho, não aprovado)**, atualizada em **2026-10-22**. Sincronizada em 28/10/2026 17:04 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
 
 **Mudanças na fila (27/10/2026 23:28):**
 - C-046 · o que o fetiche revela sobre você que outras experiências não revelam: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
@@ -24,16 +24,17 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 - 23/10 Cinco segundos: quase uma foto (vídeo de prática d: há post no ar nesse dia (https://www.instagram.com/reel/De1ZF0uFbkc/); confirmar a postagem na pauta
 - 23/10 Cinco segundos: quase uma foto (vídeo de prática do acervo, : entrega de 22/10 atrasada (Briefing)
 - 26/10 Reel A · primeiros minutos com a corda (Kit Shibari Iniciant: entrega de 25/10 atrasada (Briefing)
+- 28/10 C-046 · o que o fetiche revela sobre você que outr: há post no ar nesse dia (https://www.instagram.com/p/DfCfMXblz1i/); confirmar a postagem na pauta
 - 28/10 C-046 · o que o fetiche revela sobre você que outras experiê: entrega de 26/10 atrasada (Briefing)
 
-> Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 28/10/2026 13:30. Atualizar: `python scripts/status_instagram.py`.
+> Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 28/10/2026 17:04. Atualizar: `python scripts/status_instagram.py`.
 
 | Posta em | Peça | Formato | Assunto | Arco | Entrega | Quem | Status na pauta | Alerta |
 |---|---|---|---|---|---|---|---|---|
 | 21/10 | C-086 · sinais de que a pessoa pratica com responsabilidade (bandeiras verdes) | Carrossel livre | sinais de quem pratica com responsabilidade | — | 21/10 | Bia | Publicado (Instagram: no ar) | Instagram: NO AR 21/10 18:00 |
 | 23/10 | Cinco segundos: quase uma foto (vídeo de prática do acervo, com legenda do Hugo) | Reel curto (5 s) de prática | identificação (memória e desejo) | — | 22/10 | Hugo | Briefing | a peça da pauta não bate com a da fila; post no ar nesse dia; ENTREGA ATRASADA |
 | 26/10 | Reel A · primeiros minutos com a corda (Kit Shibari Iniciante em uso) | Reel A (Trial Reel antes) | primeira sessão com o kit | 1 | 25/10 | Hugo | Briefing | ENTREGA ATRASADA |
-| 28/10 | C-046 · o que o fetiche revela sobre você que outras experiências não revelam | Carrossel livre | fetiche como pista do que a pessoa busca (autoconhecimento) | — | 26/10 | Julia, Ana, Bia | Briefing | ENTREGA ATRASADA |
+| 28/10 | C-046 · o que o fetiche revela sobre você que outras experiências não revelam | Carrossel livre | fetiche como pista do que a pessoa busca (autoconhecimento) | — | 26/10 | Julia, Ana, Bia | Briefing | post no ar nesse dia; ENTREGA ATRASADA |
 | 30/10 | Por trás do desejo · pet play | Por trás do desejo (4 páginas) | pet play (prática de papel e entrega) | — | 29/10 | Julia, Ana, Bia | Briefing |  |
 | 31/10 (extra) | Extra casual 1 · Time doce × Time travessura (spanking: formas brandas × intensas, Halloween) | Post de Duelo (time doce × time travessura) | spanking: do brando ao intenso (identificação e compartilhamento) | — | 30/10 | Hugo | Agendado |  |
 | 02/11 | C-106 · 5 mitos sobre submissão | Desatando mitos | submissão (mitos) | — | 30/10 | Julia, Ana, Bia | Briefing |  |

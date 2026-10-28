@@ -6,3 +6,8 @@ contexto/status-instagram.md
 # gerado pelo Leo (scripts/gerar_artefato_sequencia.py); o artefato publicado é a referência
 estrategia/sequencia-instagram.html
 estrategia/.hash-artefato
+
+# estado local do Graphify (caminhos da máquina e notas de sessão)
+graphify-out/.graphify_python
+graphify-out/.graphify_root
+graphify-out/cache/hook_sessions/
