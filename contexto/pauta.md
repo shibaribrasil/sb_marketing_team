@@ -8,7 +8,7 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 
 ## 🎯 Fila prioritária (sequência do Instagram)
 
-> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v11 (rascunho, não aprovado)**, atualizada em **2026-10-22**. Sincronizada em 27/10/2026 23:28 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
+> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v11 (rascunho, não aprovado)**, atualizada em **2026-10-22**. Sincronizada em 28/10/2026 13:30 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
 
 **Mudanças na fila (27/10/2026 23:28):**
 - C-046 · o que o fetiche revela sobre você que outras experiências não revelam: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
@@ -26,7 +26,7 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 - 26/10 Reel A · primeiros minutos com a corda (Kit Shibari Iniciant: entrega de 25/10 atrasada (Briefing)
 - 28/10 C-046 · o que o fetiche revela sobre você que outras experiê: entrega de 26/10 atrasada (Briefing)
 
-> Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 23/10/2026 23:40. Atualizar: `python scripts/status_instagram.py`.
+> Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 28/10/2026 13:30. Atualizar: `python scripts/status_instagram.py`.
 
 | Posta em | Peça | Formato | Assunto | Arco | Entrega | Quem | Status na pauta | Alerta |
 |---|---|---|---|---|---|---|---|---|

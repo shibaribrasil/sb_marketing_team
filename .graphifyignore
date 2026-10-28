@@ -1,0 +1,25 @@
+# Mídia (fotos, vídeos, capas): não entram no grafo
+assets/fotos-proprias/
+assets/videos/
+assets/arquivo/
+estrategia/capas/
+
+# PDF de referência de design (a verdade é o .md)
+assets/docs/*.pdf
+
+# Congelados desde 27/10/2026
+contexto/briefings.md
+contexto/historico-conteudos.md
+
+# Gerados por script a cada sessão
+contexto/status-instagram.*
+contexto/fila-snapshot.json
+contexto/fila-historico.md
+estrategia/sequencia-instagram-plano.json
+estrategia/sequencia-instagram.html
+estrategia/.hash-artefato
+
+# Ferramentas e livros convertidos (não são conhecimento do projeto)
+.claude/skills/graphify/
+.claude/skills/hab-book-to-skill/
+.claude/skills/livro-essence-of-shibari/

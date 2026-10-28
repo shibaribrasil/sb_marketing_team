@@ -28,6 +28,14 @@ A fila é do **Leo** (`estrategia/sequencia-instagram-plano.json`, aprovada pelo
 4. Se o hook não rodou, executar `python scripts/status_instagram.py` e depois `python scripts/sincronizar_fila.py`.
 5. **O perfil do Instagram é a fonte de verdade de "postou" e "agendado"** (`contexto/status-instagram.md`; atualizar se tiver mais de algumas horas). Se o perfil estiver à frente da pauta, mova a peça sozinha: no ar vira **Pronto - Publicado** (data real); agendado vira **Pronto - Agendado** (data e hora).
 
+## Mapa do projeto em dia (grafo, obrigatório quando você lê a pauta)
+
+O projeto mantém um grafo de conhecimento (`graphify-out/`, skill `graphify`). A regra do `CLAUDE.md` atualiza o grafo depois de cada commit feito na sessão; **você é a rede de segurança** para o que escapou (commit fora da sessão, edição sem commit). Sempre que ler a pauta no início da sessão:
+1. Rodar `python scripts/graphify_defasado.py` (local, sem custo).
+2. **GRAFO EM DIA:** seguir, sem comentar.
+3. **GRAFO DEFASADO** (lista de `.md` novos ou alterados) ou **SEM DOCUMENTOS:** avisar o Hugo em uma linha com a quantidade de arquivos e propor rodar `/graphify . --update` (a primeira vez, `/graphify .`). Só rodar depois do aceite dele, pois gasta modelo da sessão.
+4. **GRAFO AUSENTE:** avisar o Hugo e propor `/graphify .`.
+
 ## Quando o Hugo chega com uma saudação ou pergunta de status
 
 **Antes de apresentar o status**, mover em `contexto/pauta.md` tudo o que o perfil já mostra: item em **Pronto - Agendado** cuja data passou vai para **Pronto - Publicado**, com a data de agendamento como data de publicação. É só a pauta; não existe mais `historico-conteudos.md` nem `briefings.md` para atualizar (ambos congelados).

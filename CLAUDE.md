@@ -39,3 +39,15 @@ Só o Hugo roda os scripts de `scripts/` (hook de início de sessão). Eles têm
 4. É necessário questionar o usuário a todo momento sobre a personalização das tarefas, afim de aprender e melhorar a produção a partir das skills.
 5. Manter `contexto/pauta.md` (único registro de status) atualizada a cada mudança de status, como orientado na skill de cada agente. `contexto/briefings.md` e `contexto/historico-conteudos.md` estão **congelados desde 27/10/2026**: ninguém adiciona entrada.
 6. Antes de salvar ou ler qualquer conteúdo, conferir que a pasta do Drive abre (ver "Onde ficam os conteúdos produzidos").
+
+## graphify
+
+This project has a knowledge graph at graphify-out/ with god nodes, community structure, and cross-file relationships.
+
+Rules:
+- When graphify-out/graph.json exists, run `graphify query "<question>"` before your first grep, search or source-file read for a codebase question, and put this rule in every subagent prompt that explores code. Read raw files only for lines the graph or an earlier read already located. Use `graphify path "<A>" "<B>"` for relationships and `graphify explain "<concept>"` for focused concepts. These return a scoped subgraph, usually much smaller than GRAPH_REPORT.md or raw grep output.
+- If graphify-out/wiki/index.md exists, use it for broad navigation instead of raw source browsing.
+- Read graphify-out/GRAPH_REPORT.md only for broad architecture review or when query/path/explain do not surface enough context.
+- After modifying code, run `graphify update .` to keep the graph current (AST-only, no API cost).
+- **Regra do projeto (Hugo, 28/10/2026): grafo sempre em dia.** Depois de **cada commit feito na sessão**, invocar a skill `graphify` com `. --update` (incremental: só reprocessa o que mudou, e sem mudança não gasta nada). Isso cobre os `.md` e os scripts. Antes de rodar, dizer ao Hugo quantos arquivos serão reprocessados. O `graphify-out/` não é versionado: atualizar o grafo não gera commit extra. Commit feito fora da sessão não dispara a regra; a **Mari** cobre isso ao ler a pauta (ver `agente-coordenador`).
+- A committed graphify-out/graph.json is rewritten whole on every build, so a large diff to it in a pull request is expected. Do not flag it as churn or suggest skipping the graph rebuild or its hooks.
