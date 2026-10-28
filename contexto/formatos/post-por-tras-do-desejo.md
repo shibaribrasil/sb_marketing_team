@@ -36,8 +36,8 @@ O que aparece na primeira página do carrossel:
 - Texto corrido e conciso — encerramento do assunto, quase uma despedida
 - Acolhe quem se identificou com o tema e encoraja a explorar de forma consensual e responsável
 - Sem lista de recomendações técnicas — o tom é de encorajamento, não de manual
-- Pode incluir 1 emoji ao final
-- Exemplo de referência (para agorafilia): "Se você se identificou com a agorafilia, lembre-se: fantasias podem ser vividas de forma consensual e respeitosa. Converse com seu parceiro, respeite o espaço público e descubra novos prazeres com responsabilidade. 💜"
+- Sem emoji
+- Exemplo de referência (para agorafilia): "Se você se identificou com a agorafilia, lembre-se: fantasias podem ser vividas de forma consensual e respeitosa. Converse com seu parceiro, respeite o espaço público e descubra novos prazeres com responsabilidade."
 
 **5. Legenda**
 - Ângulo diferente do carrossel — não repetir o conteúdo das páginas
@@ -68,7 +68,7 @@ O que aparece na primeira página do carrossel:
 - [ ] Frase de efeito curta que captura o ponto central da prática ou fetiche
 - [ ] Parágrafo de explicação conciso (40–70 palavras), sem julgamento, em voz ativa
 - [ ] Conceito visual da foto indicado para a Bia (página 3 — sem texto)
-- [ ] Página 4: texto corrido de encerramento, acolhedor, sem lista técnica, com 1 emoji
+- [ ] Página 4: texto corrido de encerramento, acolhedor, sem lista técnica, sem emoji
 - [ ] Legenda com ângulo diferente do carrossel ou aprofundamento (60–120 palavras)
 - [ ] CTA sugerindo encaminhar o conteúdo a alguém
 - [ ] Máximo 3 hashtags ao final da legenda

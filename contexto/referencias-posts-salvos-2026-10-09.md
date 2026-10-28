@@ -1,6 +1,6 @@
 # Briefing para o time de marketing — 69 posts salvos (coleção "Conteúdo") + quadro de formatos novos
 
-> Preparado pela skill `especialista-instagram` em 09/10/2026, a partir da coleção "Conteúdo" do @shibari.brasil (72 itens; os **3 vídeos ficam de fora**, ficam os 69 posts de imagem e carrossel). **É para o Hugo levar à Mari.** A skill não produz a peça: cada linha traz estrutura, ângulo e uma proposta de pauta nossa. **Nada aqui é para copiar**: o Instagram só recomenda conteúdo original, e a marca fala com calma e sem exagero (`tom-de-voz.md`).
+> Preparado pela skill `especialista-instagram` em 09/10/2026, a partir da coleção "Conteúdo" do @shibari.brasil (72 itens; os **3 vídeos ficam de fora**, ficam os 69 posts de imagem e carrossel). **É para o Hugo levar à Mari.** A skill não produz a peça: cada linha traz estrutura, ângulo e uma proposta de pauta nossa. **Nada aqui é para copiar**: o Instagram só recomenda conteúdo original, e a marca fala com calma e sem exagero (voz no núcleo `sb_cerebro`, skill `voz-shibari`).
 >
 > Leitura feita pela capa e pela legenda; **não temos métrica desses posts** (as curtidas citadas são de perfis de terceiros e servem só como sinal de interesse, [ESTIMATIVA]). Dados nossos usados como régua: carrossel educativo de 28/09 (C-080) teve 9,7 mil views, o repost da C-057 teve 11,6 mil, e a nossa grade tem cadência de 3 posts/semana.
 

@@ -1,5 +1,7 @@
 # Banco de Briefings — Caio
 
+> **CONGELADO em 27/10/2026.** Banco legado do antigo Caio (agente extinto). Não recebe entrada nova: ideias novas vão ao Backlog da `pauta.md`, pelo Leo, com âncora no núcleo de voz. Será consolidado e podado pelo Leo, com a lista aprovada pelo Hugo. Os scripts do Leo ainda o leem.
+
 > Registro permanente de todas as ideias briefadas por território. Cresce continuamente — nunca se apaga.
 > Cada território do backlog do Leo pode gerar múltiplos briefings em formatos e ângulos diferentes.
 > Quando uma peça é selecionada para produção, Caio cria o `briefing.md` completo e move para a pauta.

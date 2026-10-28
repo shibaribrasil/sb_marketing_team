@@ -2,7 +2,8 @@
 assets/
 conteudos/
 anuncios/
-produtos/
+estrategia/capas/
+estrategia/material/
 
 # Arquivos de contexto carregados apenas quando o agente específico trabalha
 contexto/design-system.md
@@ -11,7 +12,6 @@ contexto/design-system.md
 .claude/skills/hab-book-to-skill/
 .claude/skills/hab-meta-ads/
 .claude/skills/hab-google-ads/
-.claude/skills/hab-criador-produto/
 .claude/skills/hab-leitor-pdf/
 .claude/skills/livro-essence-of-shibari/
 

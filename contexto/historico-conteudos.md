@@ -1,5 +1,7 @@
 # Histórico de Conteúdos — Shibari Brasil
 
+> **CONGELADO em 27/10/2026.** Não recebe linha nova; nenhuma entrada antiga é removida. O que é novo vive na `pauta.md` e no `visual-spec.md` de cada peça (campo Fundo). Os scripts do Leo ainda o leem para as peças antigas.
+
 > Registro permanente de todos os conteúdos que chegaram a **Pronto - Aguardando Publicação**. Nenhuma entrada deve ser removida — mesmo conteúdos descartados após aprovação permanecem aqui.
 >
 > **Quem atualiza:**

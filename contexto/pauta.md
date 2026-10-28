@@ -8,16 +8,23 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 
 ## 🎯 Fila prioritária (sequência do Instagram)
 
-> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v11 (rascunho, não aprovado)**, atualizada em **2026-10-22**. Sincronizada em 23/10/2026 23:40 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
+> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v11 (rascunho, não aprovado)**, atualizada em **2026-10-22**. Sincronizada em 27/10/2026 23:28 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
 
-**Mudanças na fila (23/10/2026 17:48):**
-- slot P2: 'Foto de prática com uma frase de identificação (Hugo aparece; amarrado sem rosto)' virou 'Cinco segundos: quase uma foto (vídeo de prática do acervo, com legenda do Hugo)'
-- Cinco segundos: quase uma foto (vídeo de prática do acervo, com legenda do Hugo): responsável Hugo + Julia/Caio -> Hugo
+**Mudanças na fila (27/10/2026 23:28):**
+- C-046 · o que o fetiche revela sobre você que outras experiências não revelam: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
+- Por trás do desejo · pet play: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
+- C-106 · 5 mitos sobre submissão: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
+- Foto de produto: óleo e cera de tratamento em uso (Hugo na cena, sem comando de venda): responsável Hugo + Julia/Caio -> Hugo + Julia
+- C-026 · velas que podem e velas que nunca: o guia de segurança do wax play: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
+- C-062 · ser submissa me faz menos feminista? o equívoco que precisa ser desfeito: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
+- Qual kit para cada momento: Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
 
 **Atenção:**
 - 23/10: a pauta tem 'Foto de prática com uma frase [fila:P2]' no slot de 'Cinco segundos: quase uma foto'; registrar a troca na fila
 - 23/10 Cinco segundos: quase uma foto (vídeo de prática d: há post no ar nesse dia (https://www.instagram.com/reel/De1ZF0uFbkc/); confirmar a postagem na pauta
 - 23/10 Cinco segundos: quase uma foto (vídeo de prática do acervo, : entrega de 22/10 atrasada (Briefing)
+- 26/10 Reel A · primeiros minutos com a corda (Kit Shibari Iniciant: entrega de 25/10 atrasada (Briefing)
+- 28/10 C-046 · o que o fetiche revela sobre você que outras experiê: entrega de 26/10 atrasada (Briefing)
 
 > Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 23/10/2026 23:40. Atualizar: `python scripts/status_instagram.py`.
 
@@ -25,19 +32,19 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 |---|---|---|---|---|---|---|---|---|
 | 21/10 | C-086 · sinais de que a pessoa pratica com responsabilidade (bandeiras verdes) | Carrossel livre | sinais de quem pratica com responsabilidade | — | 21/10 | Bia | Publicado (Instagram: no ar) | Instagram: NO AR 21/10 18:00 |
 | 23/10 | Cinco segundos: quase uma foto (vídeo de prática do acervo, com legenda do Hugo) | Reel curto (5 s) de prática | identificação (memória e desejo) | — | 22/10 | Hugo | Briefing | a peça da pauta não bate com a da fila; post no ar nesse dia; ENTREGA ATRASADA |
-| 26/10 | Reel A · primeiros minutos com a corda (Kit Shibari Iniciante em uso) | Reel A (Trial Reel antes) | primeira sessão com o kit | 1 | 25/10 | Hugo | Briefing |  |
-| 28/10 | C-046 · o que o fetiche revela sobre você que outras experiências não revelam | Carrossel livre | fetiche como pista do que a pessoa busca (autoconhecimento) | — | 26/10 | Caio, Julia, Ana, Bia | Briefing |  |
-| 30/10 | Por trás do desejo · pet play | Por trás do desejo (4 páginas) | pet play (prática de papel e entrega) | — | 29/10 | Caio, Julia, Ana, Bia | Briefing |  |
-| 31/10 (extra) | Extra casual 1 · sábado de Halloween: ideia que o Hugo trouxer (identificação e compartilhamento) | Post casual (ideia do Hugo) | a definir com a ideia do Hugo | — | 30/10 | Hugo traz a ideia; Julia/Bia produzem | Aguardando Revisão |  |
-| 02/11 | C-106 · 5 mitos sobre submissão | Desatando mitos | submissão (mitos) | — | 30/10 | Caio, Julia, Ana, Bia | Briefing |  |
+| 26/10 | Reel A · primeiros minutos com a corda (Kit Shibari Iniciante em uso) | Reel A (Trial Reel antes) | primeira sessão com o kit | 1 | 25/10 | Hugo | Briefing | ENTREGA ATRASADA |
+| 28/10 | C-046 · o que o fetiche revela sobre você que outras experiências não revelam | Carrossel livre | fetiche como pista do que a pessoa busca (autoconhecimento) | — | 26/10 | Julia, Ana, Bia | Briefing | ENTREGA ATRASADA |
+| 30/10 | Por trás do desejo · pet play | Por trás do desejo (4 páginas) | pet play (prática de papel e entrega) | — | 29/10 | Julia, Ana, Bia | Briefing |  |
+| 31/10 (extra) | Extra casual 1 · Time doce × Time travessura (spanking: formas brandas × intensas, Halloween) | Post de Duelo (time doce × time travessura) | spanking: do brando ao intenso (identificação e compartilhamento) | — | 30/10 | Hugo | Agendado |  |
+| 02/11 | C-106 · 5 mitos sobre submissão | Desatando mitos | submissão (mitos) | — | 30/10 | Julia, Ana, Bia | Briefing |  |
 | 04/11 | C-107 · o limite de alguém não é um desafio pra você vencer | Post de frase | limite de quem ouve um não (frase) | — | 03/11 | Hugo (texto no time), Bia | Briefing |  |
-| 06/11 | Foto de produto: óleo e cera de tratamento em uso (Hugo na cena, sem comando de venda) | Foto de produto | óleo e cera de tratamento (produto) | 3 | 05/11 | Hugo + Julia/Caio | Briefing |  |
+| 06/11 | Foto de produto: óleo e cera de tratamento em uso (Hugo na cena, sem comando de venda) | Foto de produto | óleo e cera de tratamento (produto) | 3 | 05/11 | Hugo + Julia | Briefing |  |
 | 09/11 | Reel C · três passos para guardar a corda (óleo e pano em uso) | Reel C (Trial Reel antes) | guardar a corda (Reel) | 3 | 08/11 | Hugo | Briefing |  |
-| 11/11 | C-026 · velas que podem e velas que nunca: o guia de segurança do wax play | Carrossel educativo (densidade do carrossel livre) | wax play (velas e segurança) | — | 10/11 | Caio, Julia, Ana, Bia | Briefing |  |
+| 11/11 | C-026 · velas que podem e velas que nunca: o guia de segurança do wax play | Carrossel educativo (densidade do carrossel livre) | wax play (velas e segurança) | — | 10/11 | Julia, Ana, Bia | Briefing |  |
 | 13/11 | C-003 · a curadoria de cordas da Shibari Brasil, cada uma no seu propósito | Post de produto | curadoria de cordas (produto) | 3 | 12/11 | Bia | Design em Produção |  |
 | 14/11 (extra) | Extra casual 2 · ideia que o Hugo trouxer, com mudança de um fator em relação ao primeiro | Post casual (ideia do Hugo) | a definir com a ideia do Hugo | — | 13/11 | Hugo traz a ideia; Julia/Bia produzem | Briefing |  |
-| 16/11 | C-062 · ser submissa me faz menos feminista? o equívoco que precisa ser desfeito | Carrossel livre | submissão e feminismo | — | 13/11 | Caio, Julia, Ana, Bia | Briefing |  |
-| 18/11 | Qual kit para cada momento: Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda | Carrossel livre (explicativo de produto) | qual kit escolher (produto) | 1 | 17/11 | Caio, Julia, Ana, Bia | Briefing |  |
+| 16/11 | C-062 · ser submissa me faz menos feminista? o equívoco que precisa ser desfeito | Carrossel livre | submissão e feminismo | — | 13/11 | Julia, Ana, Bia | Briefing |  |
+| 18/11 | Qual kit para cada momento: Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda | Carrossel livre (explicativo de produto) | qual kit escolher (produto) | 1 | 17/11 | Julia, Ana, Bia | Briefing |  |
 | 20/11 | Reel B · o que a gente confere antes de amarrar (tesoura em cena) | Reel B (Trial Reel antes) | checklist antes de amarrar | 2 | 19/11 | Hugo | Briefing |  |
 | 23/11 | Reservado: Black Friday, semana da campanha | Black Friday (conversa separada) | Black Friday | — | 20/11 | Hugo + Planejador | reservado (Black Friday) |  |
 | 25/11 | Reservado: Black Friday, semana da campanha | Black Friday (conversa separada) | Black Friday | — | 23/11 | Hugo + Planejador | reservado (Black Friday) |  |
@@ -47,10 +54,10 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 **Ordens de produção por pessoa:**
 - **Bia** (C-046 26/10; pet play 29/10; C-106 30/10; C-107 03/11; C-026 10/11; C-003 12/11; C-062 13/11; "qual kit" 17/11): Destravar a arte, nesta ordem: C-086 (feita em 21/10), C-046, Por trás do desejo (pet play), mitos sobre submissão (C-106), C-107, C-026 (velas de wax play), C-003, C-062, carrossel "qual kit". Pausar C-082, C-083 e C-084 e não abrir arte fora da fila
 - **Ana** (23/10 (histórico); revisões conforme o prazo da Bia): Marcar no histórico que a C-079 e a C-057 são o mesmo conteúdo (no ar em 18/09, fundo Carbon Black) e arquivar a C-079; revisar o texto do Por trás do desejo, da C-026 e da C-062 quando chegarem
-- **Caio** (Validação dos briefings 22 e 23/10; C-026 28/10; C-062 04/11; "qual kit" 04/11): Briefings criados em 21/10 (C-046, pet play, C-106 e C-107), a validar pelo Hugo; briefing da C-026 (velas, com o Hugo); briefing da C-062; briefing do carrossel "qual kit para cada momento". O carrossel de cuidar da corda volta ao banco (C-101)
-- **Julia e Caio** (Frase da foto 22/10; legendas: Reel A 24/10, foto de produto 05/11, Reel C 06/11, C-026 10/11, C-003 11/11, "qual kit" 16/11, Reel B 18/11): Frase da foto de prática (23/10), legenda curta da foto de produto de óleo e cera (06/11) e legendas dos Reels A e C e dos posts C-003 e C-026, com a linha do cashback em tudo que tem produto
+- **Julia** (Validação dos briefings 22 e 23/10; C-026 28/10; C-062 04/11; "qual kit" 04/11): Briefings criados em 21/10 (C-046, pet play, C-106 e C-107), a validar pelo Hugo; briefing da C-026 (velas); briefing da C-062; briefing do carrossel "qual kit para cada momento". O carrossel de cuidar da corda volta ao banco (C-101)
+- **Julia** (Frase da foto 22/10; legendas: Reel A 24/10, foto de produto 05/11, Reel C 06/11, C-026 10/11, C-003 11/11, "qual kit" 16/11, Reel B 18/11): Frase da foto de prática (23/10), legenda curta da foto de produto de óleo e cera (06/11) e legendas dos Reels A e C e dos posts C-003 e C-026, com a linha do cashback em tudo que tem produto
 - **Mari** (Esta semana): Confirmar a postagem da C-105 (bingo, no ar em 10/10) e passar a fila acima como prioridade da produção
-- **Caio e Hugo** (Velas, kits e cashback: 04/11; era do Pedro, agente extinto em 27/10/2026): Confirmar com o Hugo a composição de cada kit (Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda), os fatos das velas de wax play (47 °C e 65 °C, uso e cuidado) para a C-026 e os termos do cashback
+- **Julia e Hugo** (Velas, kits e cashback: 04/11): Confirmar com o Hugo a composição de cada kit (Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda), os fatos das velas de wax play (47 °C e 65 °C, uso e cuidado) para a C-026 e os termos do cashback
 - **Mari** (Esta semana (reserva) e 16/11 (dezembro)): Reservar na pauta os slots de 23, 25, 27 e 30/11 para a Black Friday; abrir o planejamento de dezembro a partir de 16/11
 
 <!-- FILA-PRIORITARIA:FIM -->
@@ -62,20 +69,20 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 ## Pipeline de Produção de Conteúdo Orgânico
 
 ```
-Leo → Caio → Julia → Ana → Bia → Usuário → (confirmação manual de postagem)
+Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → status automático pelo perfil
 ```
 
 | Status | Responsável | Entra quando | Sai quando |
 |---|---|---|---|
-| **Backlog** | Leo | Leo registra uma nova ideia | Usuário ou Mari prioriza o item para produção |
-| **Briefing** | Caio | Caio cria o briefing e a pasta em `conteudos/` | Usuário valida o briefing |
-| **Em Produção** | Julia | Briefing validado, Julia começa a escrever | Julia entrega o `texto.md` finalizado |
-| **Aguardando Revisão** | Ana + Usuário | Julia entrega o texto | Usuário aprova o texto com a Ana |
-| **Design em Produção** | Bia | Texto aprovado pela Ana | Bia conclui a produção visual |
+| **Backlog** | Leo | Leo registra uma ideia com âncora no núcleo | Hugo aprova o slot na fila |
+| **Briefing** (slot aprovado) | Julia | Hugo aprova o slot na fila | Julia começa a escrever |
+| **Em Produção** | Julia | Julia consolida o ângulo e escreve | Julia entrega o pacote (texto, legenda, veredicto da Ana) |
+| **Aguardando Revisão** (aprovação do Hugo) | Hugo | Julia entrega o pacote | Hugo aprova o texto |
+| **Design em Produção** | Bia | Texto aprovado pelo Hugo | Bia conclui a produção visual |
 | **Pendente de Alteração no Canva** | Usuário | Bia entrega o visual com ajustes manuais pendentes no Canva | Usuário confirma os ajustes feitos no Canva |
-| **Pronto - Aguardando Publicação** | — | Bia conclui sem pendências, ou usuário confirma ajustes no Canva | Usuário define data de publicação |
-| **Pronto - Agendado** | — | Usuário confirma data de publicação | Data de publicação passa |
-| **Pronto - Publicado** | — | Data de publicação passou | — |
+| **Pronto - Aguardando Publicação** | Mari | Bia conclui sem pendências, ou Hugo confirma ajustes no Canva | Mari entrega o pacote e o Hugo agenda |
+| **Pronto - Agendado** | Mari | Hugo confirma data e hora (ou o perfil mostra) | Data de publicação passa |
+| **Pronto - Publicado** | Mari | O perfil mostra a peça no ar | — |
 
 **Regra de movimentação:** cada conteúdo tem uma única entrada que percorre o pipeline. Nunca duplicar. O agente responsável pelo status atual move o item ao concluir sua etapa.
 
@@ -83,21 +90,21 @@ Leo → Caio → Julia → Ana → Bia → Usuário → (confirmação manual de
 
 O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualquer momento — para criar anúncios a partir de um conteúdo aprovado, estruturar uma campanha independente ou revisar segmentação, orçamento e copy de anúncios ativos. O trabalho do Gui não bloqueia nem depende de nenhum status do pipeline acima.
 
-## 📝 Briefing — Caio
+## 📝 Briefing — slot aprovado (Julia)
 
-*Caio criou o briefing e a pasta do conteúdo. Aguardando validação do usuário para Julia começar.*
+*Slot aprovado pelo Hugo na fila. Aguardando a Julia consolidar o ângulo e escrever.*
 
 | Título | Tipo de Conteúdo | Arquivo do Briefing | Ângulo / Gancho |
 |---|---|---|---|
-| Foto de prática com uma frase [fila:P2] (posta 23/10; escolher a foto e a frase até 22/10) | Post de Foto (Instagram) | a criar: Hugo escolhe a foto, Julia/Caio escrevem a frase | Identificação; Hugo aparece, amarrado sem rosto |
-| Reel A · primeiros minutos com a corda [fila:P3] (posta 26/10; gravar até 25/10; legenda da Julia até 24/10) | Instagram Vídeo | roteiro pronto em `dados/instagram/roteiros/roteiros-reels-fase1-2026-10-19.md` (sb_admin_team) | Kit Shibari Iniciante em uso; end card do cashback |
-| Foto de produto: óleo e cera de tratamento [fila:P8] (posta 06/11; fotografar na sessão 1, legenda até 05/11) | Post de Foto (Instagram) | a criar: Julia/Caio escrevem a legenda curta com a linha do cashback | Produto direto, sem arte e sem comando de venda |
-| Reel C · três passos para guardar a corda [fila:P9] (posta 09/11; gravar até 08/11; legenda até 06/11) | Instagram Vídeo | roteiro pronto em `dados/instagram/roteiros/roteiros-reels-fase1-2026-10-19.md` (sb_admin_team) | Cuidar da corda; end card do cashback; a fala sobre o óleo só com confirmação do Hugo |
-| C-026 · velas que podem e velas que nunca [fila:P10] (posta 11/11; briefing até 28/10 com o Hugo) | Carrossel educativo (Instagram) | a criar: Caio; o Caio confirma com o Hugo os fatos das velas (47 °C e 65 °C) até 04/11 | Wax play, produto direto; linha do cashback |
+| Foto de prática com uma frase [fila:P2] (posta 23/10; escolher a foto e a frase até 22/10) | Post de Foto (Instagram) | a criar: Hugo escolhe a foto, Julia escreve a frase | Identificação; Hugo aparece, amarrado sem rosto |
+| Reel A · primeiros minutos com a corda [fila:P3] (posta 26/10; gravar até 25/10; legenda da Julia até 24/10) | Instagram Vídeo | roteiro pronto em `estrategia/material/roteiros/roteiros-reels-fase1-2026-10-19.md` | Kit Shibari Iniciante em uso; end card do cashback |
+| Foto de produto: óleo e cera de tratamento [fila:P8] (posta 06/11; fotografar na sessão 1, legenda até 05/11) | Post de Foto (Instagram) | a criar: Julia escreve a legenda curta com a linha do cashback | Produto direto, sem arte e sem comando de venda |
+| Reel C · três passos para guardar a corda [fila:P9] (posta 09/11; gravar até 08/11; legenda até 06/11) | Instagram Vídeo | roteiro pronto em `estrategia/material/roteiros/roteiros-reels-fase1-2026-10-19.md` | Cuidar da corda; end card do cashback; a fala sobre o óleo só com confirmação do Hugo |
+| C-026 · velas que podem e velas que nunca [fila:P10] (posta 11/11; briefing até 28/10 com o Hugo) | Carrossel educativo (Instagram) | a criar: Julia; a Julia confirma com o Hugo os fatos das velas (47 °C e 65 °C) até 04/11 | Wax play, produto direto; linha do cashback |
 | Extra casual 2 [fila:X2] (sábado, posta 14/11; ideia do Hugo até 11/11) | Post Casual (Instagram) | aguardando a ideia do Hugo | Muda 1 fator em relação ao extra 1 |
-| C-062 · ser submissa me faz menos feminista? [fila:P12] (posta 16/11; briefing até 04/11) | Carrossel Livre (Instagram) | a criar: Caio; a Ana revisa o tom com atenção | Submissão e feminismo; fundo Deep Plum |
-| Qual kit para cada momento [fila:P13] (posta 18/11; briefing até 04/11 com o Hugo) | Carrossel Livre (Instagram) | a criar: Caio; o Caio confirma a composição dos kits com o Hugo | Produto direto, arco 1; depende da Black Friday; linha do cashback |
-| Reel B · o que a gente confere antes de amarrar [fila:P14] (posta 20/11; gravar na sessão 2, entre 09 e 16/11; legenda até 18/11) | Instagram Vídeo | roteiro pronto em `dados/instagram/roteiros/roteiros-reels-fase1-2026-10-19.md` (sb_admin_team) | Tesoura de segurança em cena, arco 2; end card do cashback |
+| C-062 · ser submissa me faz menos feminista? [fila:P12] (posta 16/11; briefing até 04/11) | Carrossel Livre (Instagram) | a criar: Julia; a Ana revisa o tom com atenção | Submissão e feminismo; fundo Deep Plum |
+| Qual kit para cada momento [fila:P13] (posta 18/11; briefing até 04/11 com o Hugo) | Carrossel Livre (Instagram) | a criar: Julia; a Julia confirma a composição dos kits com o Hugo | Produto direto, arco 1; depende da Black Friday; linha do cashback |
+| Reel B · o que a gente confere antes de amarrar [fila:P14] (posta 20/11; gravar na sessão 2, entre 09 e 16/11; legenda até 18/11) | Instagram Vídeo | roteiro pronto em `estrategia/material/roteiros/roteiros-reels-fase1-2026-10-19.md` | Tesoura de segurança em cena, arco 2; end card do cashback |
 | C-107 [fila:P7] — o limite de alguém não é um desafio pra você vencer (posta 04/11; arte 03/11; substitui a C-088, que vai para a reserva; legenda-base no briefing; Hugo conduz a produção textual direto no time; C-108 e C-109 no backlog) | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/limite-nao-e-desafio/briefing.md` | Frase com posição clara sobre quem ouve um limite |
 | C-106 [fila:P6] — 5 mitos sobre submissão (posta 02/11; texto 27/10, revisão 28/10, arte 30/10; entra no lugar do carrossel de cuidar da corda por decisão do Hugo em 21/10) | Post Desatando Mitos (Instagram) | `conteudos/instagram-post-desatando-mitos/desatando-mitos-submissao/briefing.md` | Corrigir 5 equívocos sobre submissão (fraqueza, voz, dor, passividade, submissão fora da cena) |
 | Por trás do desejo — pet play [fila:P5] (posta 30/10; texto 26/10, revisão 27/10, arte 29/10; tema escolhido pela Mari a pedido do Hugo em 21/10) | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/pet-play/briefing.md` | Prática de papel e entrega: persona de animal, acessórios e jogo entre quem encarna e quem conduz |
@@ -203,7 +210,7 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 
 ## 💡 Backlog — Leo
 
-*Cada entrada é um território — de uma ideia pode sair mais de um briefing. Leo não escreve o conteúdo, registra a oportunidade com referência concreta para Hugo e Caio validarem.*
+*Cada entrada é um território — de uma ideia pode sair mais de um briefing. Leo não escreve o conteúdo, registra a oportunidade, com âncora no núcleo e referência concreta, para o Hugo validar.*
 
 | Território | Por que é SB | Possíveis ângulos | Persona | Universo | Referência | Gancho de Produto |
 |---|---|---|---|---|---|---|

@@ -14,3 +14,16 @@
 - slot P2: 'Foto de prática com uma frase de identificação (Hugo aparece; amarrado sem rosto)' virou 'Cinco segundos: quase uma foto (vídeo de prática do acervo, com legenda do Hugo)'
 - Cinco segundos: quase uma foto (vídeo de prática do acervo, com legenda do Hugo): responsável Hugo + Julia/Caio -> Hugo
 
+## 27/10/2026 23:20 (fila vv11 (rascunho, não aprovado))
+- slot X1: 'Extra casual 1 · sábado de Halloween: ideia que o Hugo trouxer (identificação e compartilhamento)' virou 'Extra casual 1 · Time doce × Time travessura (spanking: formas brandas × intensas, Halloween)'
+- Extra casual 1 · Time doce × Time travessura (spanking: formas brandas × intensas, Halloween): responsável Hugo traz a ideia; Julia/Bia produzem -> Hugo
+
+## 27/10/2026 23:28 (fila vv11 (rascunho, não aprovado))
+- C-046 · o que o fetiche revela sobre você que outras experiências não revelam: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
+- Por trás do desejo · pet play: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
+- C-106 · 5 mitos sobre submissão: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
+- Foto de produto: óleo e cera de tratamento em uso (Hugo na cena, sem comando de venda): responsável Hugo + Julia/Caio -> Hugo + Julia
+- C-026 · velas que podem e velas que nunca: o guia de segurança do wax play: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
+- C-062 · ser submissa me faz menos feminista? o equívoco que precisa ser desfeito: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
+- Qual kit para cada momento: Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
+

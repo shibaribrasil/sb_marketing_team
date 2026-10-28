@@ -1,0 +1,1139 @@
+{
+  "versao": "v11 (rascunho, não aprovado)",
+  "atualizado_em": "2026-10-22",
+  "nota": "Fonte do plano exibido no artefato. O texto narrativo e as decisões ficam em 'Sequência de Conteúdo Instagram.md'. Ao mudar a sequência, atualizar os dois e republicar o artefato (scripts/gerar_artefato_sequencia.py). Planejamento por mês de calendário; pelo menos 3 de cerca de 12 posts por mês diretamente sobre produto; arcos só para produto; assuntos próximos avaliados caso a caso com o Hugo.",
+  "cashback": {
+    "linha_legenda": "toda compra na Shibari Brasil gera 10% de cashback para a próxima.",
+    "end_card": "10% de cashback em todas as compras",
+    "regra": "Toda peça com produto visível ou citado (foto, Reel, carrossel com produto, post de produto, Stories de vitrine) leva a linha na legenda e, nos vídeos, um end card de 2 s. Conteúdo sem produto não leva.",
+    "confirmar": "A Área VIP descreve o cashback como enviado a quem aceitou receber novidades no checkout, 10% do valor do pedido, para a próxima compra, com validade (45 dias, 60 no 3º pedido) e valor mínimo (R$ 120 no texto aprovado). Confirmar com o Hugo se \"em todas as compras\" vale sem o aceite e quais termos aparecem no feed antes de publicar."
+  },
+  "arcos": [
+    {
+      "id": 1,
+      "nome": "Kit Shibari Iniciante",
+      "ancora": "Começar a praticar",
+      "produto": "Kit Shibari Iniciante (2 cordas de juta 6mm x 8m + tesoura de segurança)",
+      "hipotese": "O kit em uso, dentro de um conteúdo de ensino (Reel), gera visita ao perfil e clique na bio sem a cara de anúncio.",
+      "metrica": "Visitas ao perfil, cliques na bio e pedidos orgânicos do Instagram; views e % de não seguidores do Reel.",
+      "alerta": "Reposição da juta 8m já pedida (19/10). Confirmar a data de chegada antes de dar destaque ao kit nos Stories."
+    },
+    {
+      "id": 2,
+      "nome": "Tesoura de segurança",
+      "ancora": "Preparo e segurança",
+      "produto": "Tesoura de segurança (dentro do Reel B e dos Stories); Reel B fica para o próximo ciclo mensal",
+      "hipotese": "Um checklist salvável em vídeo põe a tesoura no centro do preparo sem vender.",
+      "metrica": "Salvamento e envio do Reel.",
+      "alerta": ""
+    },
+    {
+      "id": 3,
+      "nome": "Cuidar da corda",
+      "ancora": "Tratamento, óleo e guarda",
+      "produto": "Óleo e cera de tratamento (carrossel, foto de produto e Reel C) e curadoria de cordas (C-003, post de produto)",
+      "hipotese": "Ensinar a cuidar da corda antes de mostrar o produto; o Reel de guardar teve histórico de salvamento alto em 2024.",
+      "metrica": "Envio e salvamento do carrossel e do Reel; visitas ao perfil e cliques na bio.",
+      "alerta": "Conferir o estoque das variações de óleo e cera antes de 02/11."
+    }
+  ],
+  "plano": [
+    {
+      "id": "P1",
+      "data": "2026-10-21",
+      "formato_marca": "carrossel_livre",
+      "arco": null,
+      "passo": "Conteúdo avulso",
+      "categoria": "Educativo",
+      "formato": "Carrossel livre",
+      "titulo": "C-086 · sinais de que a pessoa pratica com responsabilidade (bandeiras verdes)",
+      "fundo": "Skin Nude",
+      "fundo_nota": "",
+      "metrica": "Salvamento ≥ 1,3%",
+      "producao": "design",
+      "prazo": "2026-10-21",
+      "responsavel": "Bia",
+      "proximo": "Entregar a arte hoje (texto pronto desde 12/09); Mari agenda",
+      "obs": "Entra no lugar da C-082 (fora do ciclo por decisão do Hugo em 21/10). Se a arte não sair hoje, posta na quinta 22/10 e a foto de prática segue em 23/10.",
+      "assunto": "sinais de quem pratica com responsabilidade",
+      "assunto_alerta": "Par da C-057/C-079 (red flags, no ar em 18/09, um mês antes); perto da C-088 (04/11) e do Reel B (20/11)."
+    },
+    {
+      "id": "P2",
+      "data": "2026-10-23",
+      "formato_marca": "video",
+      "arco": null,
+      "passo": "Conteúdo avulso (prática)",
+      "categoria": "Vídeo",
+      "formato": "Reel curto (5 s) de prática",
+      "titulo": "Cinco segundos: quase uma foto (vídeo de prática do acervo, com legenda do Hugo)",
+      "fundo": null,
+      "fundo_nota": "vídeo de acervo",
+      "metrica": "Envio ≥ 2,5% e ≥ 5 seguidores por mil views (fórmula do post de 12/10); % de não seguidores",
+      "producao": "pronto",
+      "prazo": "2026-10-22",
+      "responsavel": "Hugo",
+      "proximo": "No ar desde sex 23/10 às 08:40 (Brasília); ler em 72 h (26/10)",
+      "obs": "Vídeo do acervo pessoal (não é IA) no lugar da foto de prática planejada; legenda do Hugo, sem linha de cashback (sem produto). Agendado pelo mLabs em 22/10 porque o publicador por API ainda não aceita Reels. Arquivo: 02_GERAL/pratica/video/exportado/instagram-9x16/download.mp4. Foto de prática sai deste slot e volta ao banco.",
+      "assunto": "identificação (memória e desejo)",
+      "assunto_alerta": "",
+      "agendamento": {
+        "status": "publicado",
+        "status_txt": "No ar (agendado no mLabs)",
+        "data": "2026-10-23",
+        "dia_semana": "sex",
+        "hora": "08:40",
+        "media_id": "18130251346832399",
+        "permalink": "https://www.instagram.com/reel/De1ZF0uFbkc/",
+        "liberado": true,
+        "erro": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "P3",
+      "data": "2026-10-26",
+      "formato_marca": "video",
+      "arco": 1,
+      "passo": "Produto direto (demonstração do kit)",
+      "categoria": "Vídeo",
+      "formato": "Reel A (Trial Reel antes)",
+      "titulo": "Reel A · primeiros minutos com a corda (Kit Shibari Iniciante em uso)",
+      "fundo": null,
+      "fundo_nota": "vídeo; Hugo na câmera; antebraço sem rosto",
+      "metrica": "Views acima de 6,7 mil (mediana dos Reels) e % de não seguidores",
+      "producao": "gravar",
+      "prazo": "2026-10-25",
+      "responsavel": "Hugo",
+      "proximo": "Gravar na sessão 1 (22 ou 23/10) e editar; roteiro pronto; end card do cashback",
+      "obs": "Roteiro pronto em estrategia/material/roteiros. Se não ficar pronto, a C-079 sobe para o dia 26 e o Reel vai para a semana seguinte. Conta como produto direto: o kit é o assunto do vídeo.",
+      "assunto": "primeira sessão com o kit",
+      "assunto_alerta": "O roteiro cita conversar antes e palavra de segurança, assunto também da C-088 (04/11) e da C-086 (11/11).",
+      "produto_direto": true
+    },
+    {
+      "id": "P4",
+      "data": "2026-10-28",
+      "formato_marca": "carrossel_livre",
+      "arco": null,
+      "passo": "Conteúdo avulso (identidade)",
+      "categoria": "Educativo",
+      "formato": "Carrossel livre",
+      "titulo": "C-046 · o que o fetiche revela sobre você que outras experiências não revelam",
+      "fundo": "Skin Nude",
+      "fundo_nota": "",
+      "metrica": "Salvamento e envio acima da mediana do carrossel livre (0,9% de envio)",
+      "producao": "a_produzir",
+      "prazo": "2026-10-26",
+      "responsavel": "Julia, Ana, Bia",
+      "proximo": "Briefing criado em 21/10 (Hugo valida até 22/10); texto até 23/10, revisão da Ana até 24/10, arte até 26/10",
+      "obs": "Entra no lugar da C-083 (estigma sobre quem é fetichista), que o Hugo tirou do slot em 21/10; a C-083 fica pausada na reserva, com texto pronto. Sem produto, sem cashback.",
+      "assunto": "fetiche como pista do que a pessoa busca (autoconhecimento)",
+      "assunto_alerta": "Fetiche também no Por trás do desejo de 30/10 (pet play), a dois dias: ângulos diferentes (identidade × prática); ler o resultado em 72 h."
+    },
+    {
+      "id": "P5",
+      "data": "2026-10-30",
+      "formato_marca": "por_tras",
+      "arco": null,
+      "passo": "Conteúdo avulso (prática)",
+      "categoria": "Educativo",
+      "formato": "Por trás do desejo (4 páginas)",
+      "titulo": "Por trás do desejo · pet play",
+      "fundo": "Warm Light",
+      "fundo_nota": "",
+      "metrica": "Envio ≥ 1,6% (mediana do formato) e seguidores por mil views",
+      "producao": "a_produzir",
+      "prazo": "2026-10-29",
+      "responsavel": "Julia, Ana, Bia",
+      "proximo": "Briefing criado em 21/10 (Hugo valida até 22/10); texto até 26/10, revisão da Ana até 27/10, arte até 29/10",
+      "obs": "Tema escolhido pela Mari a pedido do Hugo em 21/10, entre pet play, adoração (worship), controle de orgasmo, humilhação consensual e serviço (service): visual, curiosidade alta e longe do eixo de segurança. Karada, sensation play, wax play, impact play e D/s ficam fora. Sem produto, sem cashback. Prazo apertado: se a arte não chegar, o dia 30 passa para uma foto de prática do banco.",
+      "assunto": "pet play (prática de papel e entrega)",
+      "assunto_alerta": "Perto do C-046 (28/10, fetiche e autoconhecimento)."
+    },
+    {
+      "id": "P6",
+      "data": "2026-11-02",
+      "formato_marca": "mitos",
+      "arco": null,
+      "passo": "Conteúdo avulso (mitos)",
+      "categoria": "Educativo",
+      "formato": "Desatando mitos",
+      "titulo": "C-106 · 5 mitos sobre submissão",
+      "fundo": "Deep Plum",
+      "fundo_nota": "A Bia confere o par com a C-107 (Carbon Black, 04/11) para alternar claro e escuro.",
+      "metrica": "Envio ≥ 1,7% (mediana do formato) e repostagens",
+      "producao": "a_produzir",
+      "prazo": "2026-10-30",
+      "responsavel": "Julia, Ana, Bia",
+      "proximo": "Briefing criado em 21/10 (Hugo valida até 23/10); texto até 27/10, revisão da Ana até 28/10, arte até 30/10",
+      "obs": "Entra no lugar do carrossel \"Você guarda e cuida da sua corda do jeito certo?\" (decisão do Hugo em 21/10); o carrossel volta ao banco (C-101, erro → jeito certo). O arco de cuidar da corda segue com a foto de óleo e cera (06/11) e o Reel C (09/11). Sem produto, sem cashback.",
+      "assunto": "submissão (mitos)",
+      "assunto_alerta": "Perto da C-062 (submissão e feminismo, 16/11): ler o resultado em 72 h e, se ficar abaixo da mediana, a C-062 cede o slot."
+    },
+    {
+      "id": "P7",
+      "data": "2026-11-04",
+      "formato_marca": "frase",
+      "arco": null,
+      "passo": "Conteúdo avulso (posicionamento)",
+      "categoria": "Conceitual",
+      "formato": "Post de frase",
+      "titulo": "C-107 · o limite de alguém não é um desafio pra você vencer",
+      "fundo": "Carbon Black",
+      "fundo_nota": "",
+      "metrica": "Repostagens acima da mediana das frases (5) e na direção das que funcionaram (21 a 64)",
+      "producao": "a_produzir",
+      "prazo": "2026-11-03",
+      "responsavel": "Hugo (texto no time), Bia",
+      "proximo": "Briefing criado em 21/10 com legenda-base; Hugo conduz a produção textual direto no time; arte da Bia até 03/11",
+      "obs": "Substitui a C-088 (o Hugo pediu uma frase com mais engajamento, 21/10); a C-088 vai para a reserva. C-108 (posso gostar de tudo e ainda assim dizer não hoje) e C-109 (pedir desculpa não tira a autoridade de ninguém) ficam no backlog de frases.",
+      "assunto": "limite de quem ouve um não (frase)",
+      "assunto_alerta": "Eixo consentimento e limite: perto da C-091, do Reel A (26/10) e do Reel B (20/11)."
+    },
+    {
+      "id": "P8",
+      "data": "2026-11-06",
+      "formato_marca": "foto_produto",
+      "arco": 3,
+      "passo": "Produto direto (foto)",
+      "categoria": "Foto de produto",
+      "formato": "Foto de produto",
+      "titulo": "Foto de produto: óleo e cera de tratamento em uso (Hugo na cena, sem comando de venda)",
+      "fundo": null,
+      "fundo_nota": "foto, fundo natural",
+      "metrica": "Visitas ao perfil, cliques na bio e envio",
+      "producao": "captacao",
+      "prazo": "2026-11-05",
+      "responsavel": "Hugo + Julia",
+      "proximo": "Fotografar na sessão 1 e escrever a legenda curta com a linha do cashback",
+      "obs": "Produto direto: só a foto, sem arte. A foto de bastidor do tratamento passa para os Stories.",
+      "assunto": "óleo e cera de tratamento (produto)",
+      "assunto_alerta": "Mesmo assunto do carrossel de 02/11 e do Reel C (arco de produto). Conferir o estoque das variações de óleo e cera.",
+      "produto_direto": true
+    },
+    {
+      "id": "P9",
+      "data": "2026-11-09",
+      "formato_marca": "video",
+      "arco": 3,
+      "passo": "Prática com produto",
+      "categoria": "Vídeo",
+      "formato": "Reel C (Trial Reel antes)",
+      "titulo": "Reel C · três passos para guardar a corda (óleo e pano em uso)",
+      "fundo": null,
+      "fundo_nota": "vídeo; Hugo na câmera e mãos",
+      "metrica": "Salvamento (o Reel de enrolar de 2024 fez 5,2%) e views",
+      "producao": "gravar",
+      "prazo": "2026-11-08",
+      "responsavel": "Hugo",
+      "proximo": "Gravar na sessão 1; roteiro pronto; end card do cashback",
+      "obs": "Roteiro pronto.",
+      "assunto": "guardar a corda (Reel)",
+      "assunto_alerta": "Mesmo assunto do carrossel de 02/11.",
+      "produto_embutido": true
+    },
+    {
+      "id": "P10",
+      "data": "2026-11-11",
+      "formato_marca": "carrossel_livre",
+      "arco": null,
+      "passo": "Conteúdo avulso (prática)",
+      "categoria": "Educativo + produto",
+      "formato": "Carrossel educativo (densidade do carrossel livre)",
+      "titulo": "C-026 · velas que podem e velas que nunca: o guia de segurança do wax play",
+      "fundo": "Skin Nude",
+      "fundo_nota": "",
+      "metrica": "Salvamento ≥ 1,3% e visitas ao perfil; vela vendida no mês",
+      "producao": "a_produzir",
+      "prazo": "2026-11-10",
+      "responsavel": "Julia, Ana, Bia",
+      "proximo": "Julia consolida o ângulo até 28/10 e confirma com o Hugo os fatos das velas até 04/11; texto, Ana e Bia até 10/11",
+      "obs": "Entra no lugar do C-036 (sensation play), que repetia o Por trás do desejo de 02/07 (C-037). Traz a linha nova de wax play (Masmorra Velas: calor baixo 47 °C e calor intenso 65 °C) com valor educativo; o Por trás do desejo de wax play já saiu em 19/06 (C-025). Estoque curto (3 a 8 por cor): não impulsionar, não prometer. Leva a linha do cashback.",
+      "assunto": "wax play (velas e segurança)",
+      "assunto_alerta": "",
+      "produto_direto": true
+    },
+    {
+      "id": "P11",
+      "data": "2026-11-13",
+      "formato_marca": "produto",
+      "arco": 3,
+      "passo": "Produto direto (post de produto)",
+      "categoria": "Produto",
+      "formato": "Post de produto",
+      "titulo": "C-003 · a curadoria de cordas da Shibari Brasil, cada uma no seu propósito",
+      "fundo": "Warm Light",
+      "fundo_nota": "",
+      "metrica": "Visitas ao perfil e cliques na bio",
+      "producao": "design",
+      "prazo": "2026-11-12",
+      "responsavel": "Bia",
+      "proximo": "Entregar a arte (texto pronto desde 26/08); Julia inclui a linha do cashback na legenda",
+      "obs": "Produto direto: post de produto. Volta para este ciclo porque o ciclo tem 12 posts e pelo menos 3 são sobre produto.",
+      "assunto": "curadoria de cordas (produto)",
+      "assunto_alerta": "",
+      "produto_direto": true
+    },
+    {
+      "id": "P12",
+      "data": "2026-11-16",
+      "formato_marca": "carrossel_livre",
+      "arco": null,
+      "passo": "Conteúdo avulso (segurança)",
+      "categoria": "Educativo",
+      "formato": "Carrossel livre",
+      "titulo": "C-062 · ser submissa me faz menos feminista? o equívoco que precisa ser desfeito",
+      "fundo": "Deep Plum",
+      "fundo_nota": "Sugestão: Deep Plum ainda não foi usado nos últimos posts; a Bia confirma o contraste.",
+      "metrica": "Envio ≥ 1,2% e compartilhamento (assunto de identidade)",
+      "producao": "a_produzir",
+      "prazo": "2026-11-13",
+      "responsavel": "Julia, Ana, Bia",
+      "proximo": "Julia consolida o ângulo até 04/11; texto, Ana e Bia até 13/11; Ana revisa o tom com atenção",
+      "obs": "Entra no lugar da C-086 (que subiu para 21/10). Alternativa do banco: C-046 (o que o fetiche revela sobre você) ou C-068 (sub drop e Dom drop, perto de aftercare).",
+      "assunto": "submissão e feminismo",
+      "assunto_alerta": ""
+    },
+    {
+      "id": "P13",
+      "data": "2026-11-18",
+      "formato_marca": "carrossel_livre",
+      "arco": 1,
+      "passo": "Produto direto (conteúdo explicativo)",
+      "categoria": "Educativo",
+      "formato": "Carrossel livre (explicativo de produto)",
+      "titulo": "Qual kit para cada momento: Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda",
+      "fundo": "Warm Light",
+      "fundo_nota": "",
+      "metrica": "Envio e salvamento (guia de escolha); visitas ao perfil e cliques na bio",
+      "producao": "a_produzir",
+      "prazo": "2026-11-17",
+      "responsavel": "Julia, Ana, Bia",
+      "proximo": "Ângulo até 04/11; a Julia confirma com o Hugo a composição de cada kit; depende da definição da Black Friday",
+      "obs": "Produto direto (3º de novembro) e preparação para a Black Friday; legenda leva a linha do cashback.",
+      "assunto": "qual kit escolher (produto)",
+      "assunto_alerta": "Pode mudar conforme a oferta da Black Friday (conversa separada).",
+      "produto_direto": true
+    },
+    {
+      "id": "P14",
+      "data": "2026-11-20",
+      "formato_marca": "video",
+      "arco": 2,
+      "passo": "Prática com produto",
+      "categoria": "Vídeo",
+      "formato": "Reel B (Trial Reel antes)",
+      "titulo": "Reel B · o que a gente confere antes de amarrar (tesoura em cena)",
+      "fundo": null,
+      "fundo_nota": "vídeo; Hugo na câmera; cortes rápidos",
+      "metrica": "Salvamento e envio (checklist); views",
+      "producao": "gravar",
+      "prazo": "2026-11-19",
+      "responsavel": "Hugo",
+      "proximo": "Gravar na sessão 2 (entre 09 e 16/11); roteiro pronto; end card do cashback",
+      "obs": "Roteiro pronto. Tesoura de segurança dentro do vídeo (produto embutido).",
+      "assunto": "checklist antes de amarrar",
+      "assunto_alerta": "Perto da C-086 (16/11) e da C-088 (04/11): conversa e segurança.",
+      "produto_embutido": true
+    },
+    {
+      "id": "P15",
+      "data": "2026-11-23",
+      "formato_marca": "reservado",
+      "arco": null,
+      "passo": "Reservado",
+      "categoria": "Reservado",
+      "formato": "Black Friday (conversa separada)",
+      "titulo": "Reservado: Black Friday, semana da campanha",
+      "fundo": null,
+      "fundo_nota": "a definir",
+      "metrica": "A definir na conversa da Black Friday",
+      "producao": "reservado",
+      "prazo": "2026-11-20",
+      "responsavel": "Hugo + Planejador",
+      "proximo": "Definir o tema e a mecânica da Black Friday",
+      "obs": "Slot reservado; o plano de conteúdo da campanha entra quando o tema for decidido.",
+      "assunto": "Black Friday",
+      "assunto_alerta": "",
+      "reservado": true
+    },
+    {
+      "id": "P16",
+      "data": "2026-11-25",
+      "formato_marca": "reservado",
+      "arco": null,
+      "passo": "Reservado",
+      "categoria": "Reservado",
+      "formato": "Black Friday (conversa separada)",
+      "titulo": "Reservado: Black Friday, semana da campanha",
+      "fundo": null,
+      "fundo_nota": "a definir",
+      "metrica": "A definir na conversa da Black Friday",
+      "producao": "reservado",
+      "prazo": "2026-11-23",
+      "responsavel": "Hugo + Planejador",
+      "proximo": "Definir o tema e a mecânica da Black Friday",
+      "obs": "Slot reservado.",
+      "assunto": "Black Friday",
+      "assunto_alerta": "",
+      "reservado": true
+    },
+    {
+      "id": "P17",
+      "data": "2026-11-27",
+      "formato_marca": "reservado",
+      "arco": null,
+      "passo": "Reservado",
+      "categoria": "Reservado",
+      "formato": "Black Friday (conversa separada)",
+      "titulo": "Reservado: Black Friday (sexta, 27/11)",
+      "fundo": null,
+      "fundo_nota": "a definir",
+      "metrica": "A definir na conversa da Black Friday",
+      "producao": "reservado",
+      "prazo": "2026-11-24",
+      "responsavel": "Hugo + Planejador",
+      "proximo": "Definir o tema e a mecânica da Black Friday",
+      "obs": "Dia da Black Friday.",
+      "assunto": "Black Friday",
+      "assunto_alerta": "",
+      "reservado": true
+    },
+    {
+      "id": "P18",
+      "data": "2026-11-30",
+      "formato_marca": "reservado",
+      "arco": null,
+      "passo": "Reservado",
+      "categoria": "Reservado",
+      "formato": "Black Friday (conversa separada)",
+      "titulo": "Reservado: fechamento da campanha (segunda, 30/11)",
+      "fundo": null,
+      "fundo_nota": "a definir",
+      "metrica": "A definir na conversa da Black Friday",
+      "producao": "reservado",
+      "prazo": "2026-11-26",
+      "responsavel": "Hugo + Planejador",
+      "proximo": "Definir o tema e a mecânica da Black Friday",
+      "obs": "Slot reservado.",
+      "assunto": "Black Friday",
+      "assunto_alerta": "",
+      "reservado": true
+    },
+    {
+      "id": "X1",
+      "data": "2026-10-31",
+      "extra": true,
+      "formato_marca": "casual",
+      "arco": null,
+      "passo": "Extra casual (primeiro teste): Post de Duelo",
+      "categoria": "Casual",
+      "formato": "Post de Duelo (time doce × time travessura)",
+      "titulo": "Extra casual 1 · Time doce × Time travessura (spanking: formas brandas × intensas, Halloween)",
+      "fundo": "Scarlet × Carbon Black",
+      "fundo_nota": "duas colunas: Scarlet Pulse (doce) e Carbon Black (travessura)",
+      "metrica": "Envio ≥ 1,0% e ≥ 20 repostagens (barra de teste); seguidores por mil views",
+      "producao": "pronto",
+      "prazo": "2026-10-30",
+      "responsavel": "Hugo",
+      "proximo": "Agendado no mLabs para sáb 31/10 (horário a confirmar com o Hugo); ler em 72 h (03/11)",
+      "obs": "Arte aprovada pelo Hugo em 23/10 (Canva, cópia do modelo de Duelo), 1080x1350, sem elementos de Halloween (só 'doce ou travessura' no texto). Imagem conferida em 23/10 na pasta 03_CONTEUDO/instagram-post-de-duelo/time-doce-time-travessura: texto bate com texto.md, formato e peso corretos. Legenda cita Paddle Isis (doce) e Flogger Amon (travessura) e traz a linha de cashback, Pix e sticker (confirmar os termos com o Hugo, ver regra do cashback). Agendado pelo mLabs.",
+      "assunto": "spanking: do brando ao intenso (identificação e compartilhamento)",
+      "assunto_alerta": "",
+      "agendamento": {
+        "status": "agendado",
+        "status_txt": "Agendado no mLabs",
+        "data": "2026-10-31",
+        "dia_semana": "sáb",
+        "hora": "a confirmar",
+        "media_id": null,
+        "permalink": null,
+        "liberado": false,
+        "erro": null,
+        "capa": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAINAaQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDzuiiivMP2sKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA4fxJ/yGbj/gP/oIrMrT8Sf8hm4/4D/6CKzK9On8KPyHMv8AfKv+KX5sKKKKo4gooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD0uiiivKP2sKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA4fxJ/yGbj/gP/oIrMrT8Sf8hm4/4D/6CKzK9On8KPyHMv8AfKv+KX5sKKKKo4gooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD0uiiivKP2sKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA4fxJ/yGbj/gP/oIrMrT8Sf8hm4/4D/6CKzK9On8KPyHMv8AfKv+KX5sKKKKo4gooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD0uiiivKP2sKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA4fxJ/yGbj/gP/oIrMrT8Sf8hm4/4D/6CKzK9On8KPyHMv8AfKv+KX5sKKKKo4gooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD0uiiivKP2sKdEqtKiyPsQkBnxnaPXHem0UAberaLbWKWRi1JbiS7VJI0EDJ8jEjJJPqOlSx+F7qa91u1t5Y5JtLBLAAjzcNtO3374rOvdTe6bTy0ar9jhSFcH7wVicn86uf8ACR3S32q3cKLFNfyLKWUn90wkDjb+IxzT0OJxxKjZO787d128rkVzodxbaLp+pTMqx3srRxx/xADHzH2OeKseJfD39hMySXEssiymM5tHjQ46lXPDfhUGp6/dalCqXSxlhcm53KNoGVVQoHQKAowKf4h1yPWZJZmsfIuJZDIzi4dxk9QFJwKNAj9Z5o822t7W+Ri0UUUjtCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA4fxJ/wAhm4/4D/6CKzK0/En/ACGbj/gP/oIrMr06fwo/Icy/3yr/AIpfmyzYQw3F0sVzcfZkbjzPLL89hgVrT+HlXxA+kwX6TTRiXzH8plCsikkc9c461hI2x1YclSDWquuSr4huNX8mPzZmlYx5O0b1IP5bqmanf3X0/E5Y8vUYmi3Enh0avEQ8InMDxgfMvAw30JYD649avN4VuY9fstJmnjSe5hExKqW8v5WJXA6kbSOO9VdM8Q3mmWlvDZ7EMMkj7iN27eqggg8cbQR70+38QzRarp980KSSWkHkYLH94MMCSeufmNQ/a628/wDgDXJoVNY09dOnSISTOWXcfNt2hI59G5P1rPq7qd3DeSI0NsYNq4IMzy5/FulUq1he2u5ErX0C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"
+      }
+    },
+    {
+      "id": "X2",
+      "data": "2026-11-14",
+      "extra": true,
+      "formato_marca": "casual",
+      "arco": null,
+      "passo": "Extra casual (segundo teste)",
+      "categoria": "Casual",
+      "formato": "Post casual (ideia do Hugo)",
+      "titulo": "Extra casual 2 · ideia que o Hugo trouxer, com mudança de um fator em relação ao primeiro",
+      "fundo": null,
+      "fundo_nota": "a definir com a ideia",
+      "metrica": "Envio ≥ 1,0% e ≥ 20 repostagens (barra de teste)",
+      "producao": "a_produzir",
+      "prazo": "2026-11-13",
+      "responsavel": "Hugo traz a ideia; Julia/Bia produzem",
+      "proximo": "Hugo traz a ideia até 11/11; produzir até 13/11",
+      "obs": "Segundo teste, depois da leitura do primeiro (72 h e 7 dias). O terceiro fica para dezembro.",
+      "assunto": "a definir com a ideia do Hugo",
+      "assunto_alerta": ""
+    }
+  ],
+  "formatos_info": [
+    {
+      "chave": "carrossel_livre",
+      "nome": "Carrossel livre",
+      "descricao": "Template de conteúdo denso, para aprofundar um assunto.",
+      "papel": "Ensino e salvamento",
+      "situacao": "Validado"
+    },
+    {
+      "chave": "por_tras",
+      "nome": "Por trás do desejo",
+      "descricao": "Carrossel de 4 páginas que explica de forma objetiva um fetiche ou prática.",
+      "papel": "Descoberta e identificação",
+      "situacao": "Validado"
+    },
+    {
+      "chave": "mitos",
+      "nome": "Desatando mitos",
+      "descricao": "5 mitos de um assunto do universo shibarista e fetichista.",
+      "papel": "Alcance e quebra de estigma",
+      "situacao": "Validado"
+    },
+    {
+      "chave": "frase",
+      "nome": "Post de frase",
+      "descricao": "Frase curta de posicionamento.",
+      "papel": "Identificação, repostagem e posicionamento",
+      "situacao": "Validado; o resultado muda muito com a força da posição"
+    },
+    {
+      "chave": "foto_frase",
+      "nome": "Foto + 1 frase",
+      "descricao": "Foto sem padrão visual, com uma frase de identificação.",
+      "papel": "Identificação e seguidor",
+      "situacao": "Em teste (1 post fora da pauta, 12/10)"
+    },
+    {
+      "chave": "bingo",
+      "nome": "Bingo (casual)",
+      "descricao": "Cartela temática para marcar as casas.",
+      "papel": "Identificação casual",
+      "situacao": "Em teste (1 post, 10/10)"
+    },
+    {
+      "chave": "casual",
+      "nome": "Outros casuais",
+      "descricao": "Ideias do Hugo e do Planejador (ver banco).",
+      "papel": "Identificação e viralização",
+      "situacao": "A testar, 3 posts por formato"
+    },
+    {
+      "chave": "foto_produto",
+      "nome": "Foto de produto",
+      "descricao": "Foto esporádica do produto, sem arte e sem comando de venda.",
+      "papel": "Negócio sem cara de anúncio",
+      "situacao": "A testar"
+    },
+    {
+      "chave": "video",
+      "nome": "Reel / vídeo",
+      "descricao": "Reels ilustrativos e dinâmicos, sem padrão visual fixo.",
+      "papel": "Descoberta",
+      "situacao": "Retomada (roteiro pronto para o Hugo)"
+    },
+    {
+      "chave": "produto",
+      "nome": "Post de produto",
+      "descricao": "Arte de produto.",
+      "papel": "Negócio (raro no feed)",
+      "situacao": "Validado; 1 a 2 por ciclo mensal"
+    },
+    {
+      "chave": "reservado",
+      "nome": "Reservado",
+      "descricao": "Slot guardado para a campanha.",
+      "papel": "Black Friday",
+      "situacao": "Definido na conversa da Black Friday"
+    }
+  ],
+  "extras_info": {
+    "papel": "Por ora, os extras são só casuais (como o bingo): apostas de identificação e de viralização, com mais repostagem, salvamento e compartilhamento, que ajudam a crescer o perfil. O ritmo é leve, no máximo 1 extra a cada 2 semanas, para caber na capacidade do time; não é um extra todo sábado. Frases de posicionamento ficam nos slots normais (como a C-088) e podem voltar como extra mais adiante, se houver capacidade.",
+    "licoes": [
+      "Posição clara rende repostagem: \"controle sem consentimento não é bdsm\" (02/09) teve 64 repostagens e 7,7 mil views; a foto com uma frase de 12/10 teve 32 repostagens e 9,8 mil views; a frase \"a marca passa\" (sábado, 19/09) teve 21.",
+      "Frase suave ou reflexiva rende pouco: \"toda cena começa antes da cena\" (14/09) teve 7 repostagens; \"o bdsm é, antes de tudo, uma prática\" (25/09) teve 1 repostagem e 0,25% de envio.",
+      "O bingo (sábado, 10/10) teve 3,7 mil views, 6 repostagens, 4 comentários e 0,57% de envio, abaixo da mediana (1,0%). É 1 teste: não encerra o formato.",
+      "Fim de semana: as views medianas do sábado (4,4 mil, 5 posts) não são piores que as de dia útil; a taxa de envio foi menor (0,57%, contra 1,0% a 1,4% de segunda a quarta), com n pequeno."
+    ],
+    "protocolo": [
+      "3 posts por formato antes de decidir; com 1 extra a cada 2 semanas, o terceiro teste cai em dezembro. O bingo n=1 não vale como veredito.",
+      "Só casual por ora; sem impulsionar, para comparar.",
+      "Mudar 1 fator por teste (tema, capa ou chamada).",
+      "Leitura em 72 h e em 7 dias: envio (%), repostagens, salvamento, comentários, seguidores por mil views.",
+      "Barra de sucesso proposta: envio ≥ 1,0% e ≥ 20 repostagens (as frases boas fizeram 21 a 64). Abaixo de 0,6% de envio em 3 testes: refazer ou aposentar."
+    ],
+    "ideias": [
+      {
+        "nome": "Bingo, segunda tentativa",
+        "descricao": "Tema de identificação mais forte (ex.: o que todo mundo faz na primeira vez que compra corda) e chamada de envio (\"manda para quem marcaria tudo\") no lugar de \"conta nos comentários\".",
+        "origem": "Planejador"
+      },
+      {
+        "nome": "Pov / cena do cotidiano",
+        "descricao": "Uma situação reconhecível em uma frase (ex.: explicar shibari para quem só viu em filme), com humor e posição.",
+        "origem": "Planejador"
+      },
+      {
+        "nome": "Iniciante ou avançado?",
+        "descricao": "Lista de itens para o seguidor classificar, em 2 lâminas, para comentar e mandar.",
+        "origem": "Planejador"
+      },
+      {
+        "nome": "O que se pensa × o que é",
+        "descricao": "Comparação em duas colunas sobre um estereótipo (formato F9 dos salvos).",
+        "origem": "Planejador"
+      },
+      {
+        "nome": "Que corda é você?",
+        "descricao": "Quiz leve (juta, algodão, sintético) com a corda como brincadeira; leva a linha do cashback por mostrar produto.",
+        "origem": "Planejador"
+      },
+      {
+        "nome": "Tier list de primeiras vezes",
+        "descricao": "Humor de identificação com as coisas que dão errado na primeira amarração.",
+        "origem": "Planejador"
+      },
+      {
+        "nome": "Complete a frase",
+        "descricao": "2 lâminas: frase com lacuna e uma resposta; chama comentário.",
+        "origem": "Planejador"
+      },
+      {
+        "nome": "Dicionário shibarista",
+        "descricao": "Uma palavra do glossário em 1 lâmina, com tom leve.",
+        "origem": "Planejador"
+      },
+      {
+        "nome": "Ideias do Hugo",
+        "descricao": "Espaço reservado: o Hugo traz as ideias dele e entram aqui com hipótese e métrica.",
+        "origem": "Hugo"
+      }
+    ],
+    "angulos_frase": [
+      "Uma posição sobre consentimento que ainda incomoda (a que mais rendeu foi \"controle sem consentimento não é bdsm\").",
+      "Uma posição sobre quem conduz a cena (cuidar não é mandar).",
+      "Uma posição sobre iniciante (perguntar não é vergonha).",
+      "Uma posição sobre segurança como parte do preparo, e não como detalhe.",
+      "Uma posição sobre o estigma do fetiche, em linguagem de quem pratica."
+    ]
+  },
+  "stories": [
+    {
+      "semana": "26/10 a 30/10",
+      "produto": "Kit Shibari Iniciante",
+      "ideia": "3 Stories: o que vem no kit, a corda em uso, a tesoura ao lado; enquete \"qual foi a sua primeira corda?\"; linha do cashback",
+      "obs": "Sem chamada de venda; link do produto no sticker; não impulsionar."
+    },
+    {
+      "semana": "02/11 a 06/11",
+      "produto": "Óleo e cera",
+      "ideia": "3 Stories: bastidor do tratamento, antes e depois da corda, enquete \"como você guarda a sua?\"; linha do cashback",
+      "obs": "Conferir o estoque das variações."
+    },
+    {
+      "semana": "09/11 a 13/11",
+      "produto": "Curadoria de cordas, bastidor do tratamento e velas de wax play",
+      "ideia": "3 Stories: o bastidor do tratamento (mãos, óleo, ateliê), cada corda no seu propósito, caixinha de perguntas; linha do cashback; mais 1 Story da linha de velas de wax play (47 °C e 65 °C) no dia do carrossel de 11/11",
+      "obs": "O bastidor que era foto no feed vira Stories."
+    },
+    {
+      "semana": "16/11 a 20/11",
+      "produto": "Kits e tesoura de segurança",
+      "ideia": "3 Stories: o que vem em cada kit, a tesoura em cena, enquete \"qual kit você escolheria?\"; linha do cashback",
+      "obs": "Prepara a Black Friday; ajustar à oferta."
+    }
+  ],
+  "ordens_producao": [
+    {
+      "para": "Bia",
+      "o_que": "Destravar a arte, nesta ordem: C-086 (feita em 21/10), C-046, Por trás do desejo (pet play), mitos sobre submissão (C-106), C-107, C-026 (velas de wax play), C-003, C-062, carrossel \"qual kit\". Pausar C-082, C-083 e C-084 e não abrir arte fora da fila",
+      "prazo": "C-046 26/10; pet play 29/10; C-106 30/10; C-107 03/11; C-026 10/11; C-003 12/11; C-062 13/11; \"qual kit\" 17/11",
+      "obs": "C-086 entregue em 21/10. C-082 saiu do ciclo; C-083 pausada; C-088 substituída pela C-107"
+    },
+    {
+      "para": "Ana",
+      "o_que": "Marcar no histórico que a C-079 e a C-057 são o mesmo conteúdo (no ar em 18/09, fundo Carbon Black) e arquivar a C-079; revisar o texto do Por trás do desejo, da C-026 e da C-062 quando chegarem",
+      "prazo": "23/10 (histórico); revisões conforme o prazo da Bia",
+      "obs": "Sem arte para liberar em 28/10: o dia agora é da C-083"
+    },
+    {
+      "para": "Julia",
+      "o_que": "Briefings criados em 21/10 (C-046, pet play, C-106 e C-107), a validar pelo Hugo; briefing da C-026 (velas); briefing da C-062; briefing do carrossel \"qual kit para cada momento\". O carrossel de cuidar da corda volta ao banco (C-101)",
+      "prazo": "Validação dos briefings 22 e 23/10; C-026 28/10; C-062 04/11; \"qual kit\" 04/11",
+      "obs": "O karada e o sensation play saíram da fila; a produção textual é conduzida pelo Hugo direto no time de marketing"
+    },
+    {
+      "para": "Julia",
+      "o_que": "Frase da foto de prática (23/10), legenda curta da foto de produto de óleo e cera (06/11) e legendas dos Reels A e C e dos posts C-003 e C-026, com a linha do cashback em tudo que tem produto",
+      "prazo": "Frase da foto 22/10; legendas: Reel A 24/10, foto de produto 05/11, Reel C 06/11, C-026 10/11, C-003 11/11, \"qual kit\" 16/11, Reel B 18/11",
+      "obs": "Legenda de vídeo: 60 a 150 palavras, no máximo 5 hashtags (formato instagram-video)"
+    },
+    {
+      "para": "Mari",
+      "o_que": "Confirmar a postagem da C-105 (bingo, no ar em 10/10) e passar a fila acima como prioridade da produção",
+      "prazo": "Esta semana",
+      "obs": "A pauta ainda mostra \"Aguardando revisão\""
+    },
+    {
+      "para": "Julia e Hugo",
+      "o_que": "Confirmar com o Hugo a composição de cada kit (Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda), os fatos das velas de wax play (47 °C e 65 °C, uso e cuidado) para a C-026 e os termos do cashback",
+      "prazo": "Velas, kits e cashback: 04/11",
+      "obs": "Fatos de produto só confirmados; vela só entra com o Hugo confirmando"
+    },
+    {
+      "para": "Mari",
+      "o_que": "Reservar na pauta os slots de 23, 25, 27 e 30/11 para a Black Friday; abrir o planejamento de dezembro a partir de 16/11",
+      "prazo": "Esta semana (reserva) e 16/11 (dezembro)",
+      "obs": "Dezembro depende da Black Friday"
+    }
+  ],
+  "captacao": [
+    {
+      "n": 1,
+      "o_que": "Sessão 1 (22 ou 23/10): gravar os Reels A e C; foto de prática; fotos da corda guardada certa e errada (4 a 6); fotos de produto do óleo e da cera (4 a 6, com um escolhido para o feed) e do tratamento (bastidor para Stories); Stories de kit e de óleo",
+      "peca": "Reels de 26/10 e 09/11; fotos de 23/10, 02/11 e 06/11; Stories",
+      "obs": "Roteiros prontos; antebraço de voluntário sem rosto; kit, tesoura, óleo e pano em cena"
+    },
+    {
+      "n": 2,
+      "o_que": "Sessão 2 (entre 09 e 16/11): gravar o Reel B; fotos dos kits (Iniciante, Estudo e Corda a Corda) para o carrossel \"qual kit\"; Stories de tesoura e de kits",
+      "peca": "Reel de 20/11 e carrossel de 18/11",
+      "obs": "Luz natural; sem rosto de terceiros"
+    }
+  ],
+  "roteiros": [
+    {
+      "id": "A",
+      "slot": "P3",
+      "data": "2026-10-26",
+      "quando": "26/10",
+      "titulo": "Primeiros minutos com a corda (Kit Shibari Iniciante em uso)",
+      "duracao": "35 a 40 s",
+      "arco": "1 · Kit Shibari Iniciante",
+      "objetivo": "Descoberta e confiança: mostrar o que fazer antes do primeiro nó, com o kit em cena (2 cordas de juta 6 mm x 8 m e a tesoura de segurança), sem tom de venda.",
+      "material": [
+        "Kit Shibari Iniciante aberto (2 cordas de juta 6 mm x 8 m e a tesoura de segurança)",
+        "Uma pessoa voluntária para o antebraço (sem rosto)",
+        "Bancada limpa e iluminada"
+      ],
+      "planos": [
+        {
+          "t": "0 a 3 s",
+          "plano": "Plano médio: você atrás da bancada, kit à vista, olhando para a câmera.",
+          "fala": "Abriu o kit e agora? Antes do primeiro nó, três coisas.",
+          "tela": "antes do primeiro nó"
+        },
+        {
+          "t": "3 a 10 s",
+          "plano": "Visão de cima da bancada: as duas cordas e a tesoura. Sua mão aponta cada item.",
+          "fala": "No Kit Shibari Iniciante vêm duas cordas de juta, seis milímetros por oito metros, e uma tesoura de segurança.",
+          "tela": "2 cordas de juta 6 mm x 8 m + tesoura de segurança"
+        },
+        {
+          "t": "10 a 17 s",
+          "plano": "Detalhe: você pousa a tesoura sobre a mesa, ao alcance da mão de quem vai amarrar.",
+          "fala": "Primeiro, a tesoura fica sobre a mesa, ao alcance da mão. Ela faz parte do preparo, não é um detalhe.",
+          "tela": "1. tesoura ao alcance"
+        },
+        {
+          "t": "17 a 25 s",
+          "plano": "Plano médio, você e a pessoa conversando (ela do ombro para baixo) ou só você falando para a câmera.",
+          "fala": "Segundo, vocês combinam antes o que pode, o que não pode e qual palavra interrompe tudo.",
+          "tela": "2. combinar antes: limites e palavra de segurança"
+        },
+        {
+          "t": "25 a 34 s",
+          "plano": "Close nas mãos: um laço simples no antebraço da pessoa; dois dedos entre a corda e a pele.",
+          "fala": "Terceiro, começa pelo mais simples: um laço no antebraço. Confere se cabem dois dedos entre a corda e a pele e pergunta como a pessoa está.",
+          "tela": "3. laço simples e dois dedos de folga"
+        },
+        {
+          "t": "34 a 40 s",
+          "plano": "Plano médio, você olhando para a câmera, corda solta na mão.",
+          "fala": "Salva este vídeo para a sua primeira sessão.",
+          "tela": "para a primeira sessão; nos últimos 2 s, end card: 10% de cashback em todas as compras"
+        }
+      ],
+      "legenda_base": "antes do primeiro nó, três coisas ajudam a primeira sessão a ser tranquila. a tesoura de segurança fica ao alcance da mão desde o início. a conversa vem antes: o que pode, o que não pode e a palavra que interrompe tudo. e o primeiro laço é simples, no antebraço, com dois dedos de folga entre a corda e a pele.\n\nno Kit Shibari Iniciante vêm duas cordas de juta de 6 mm por 8 m e a tesoura de segurança.\n\ntoda compra na Shibari Brasil gera 10% de cashback para a próxima.\n\n#shibari #shibaribrasil #amarração",
+      "capa": "Frame do plano 1, com o texto \"antes do primeiro nó\".",
+      "antes_de_gravar": [
+        "Vertical 9:16, gravando com a câmera traseira do celular, luz natural de janela (sem contraluz) e fundo neutro.",
+        "Celular no tripé ou apoiado, na altura do peito; confira que a voz está limpa (grave perto, sem eco).",
+        "Fale no ritmo normal. Cada frase do roteiro vale um take; grave duas vezes cada bloco e escolha na edição.",
+        "Quem estiver amarrado aparece só do ombro para baixo ou só o antebraço, sem rosto. Sem pele marcada em cena.",
+        "Valide a técnica com o seu olho de praticante: o roteiro usa só os pontos já aprovados nas nossas legendas (tesoura ao alcance, dois dedos de folga, conversa antes, atenção à sensação de quem é amarrado)."
+      ],
+      "edicao": [
+        "Cortes a cada 2 a 4 segundos; o texto na tela entra junto com a fala e fica dentro da área segura (longe da borda de baixo).",
+        "Legenda automática do Instagram em português, revisada.",
+        "Áudio original (a sua voz), sem música comercial; se quiser trilha, só da biblioteca de sons para conta comercial.",
+        "Capa: frame limpo com o texto grande do gancho; confira como fica no grid 3:4.",
+        "Publicar como Trial Reel antes de liberar para o perfil; no máximo 5 hashtags."
+      ]
+    },
+    {
+      "id": "B",
+      "slot": "P14",
+      "data": "2026-11-20",
+      "quando": "20/11",
+      "titulo": "O que a gente confere antes de amarrar",
+      "duracao": "30 a 36 s",
+      "arco": "2 · Tesoura de segurança",
+      "objetivo": "Salvamento e envio: um checklist rápido e visual de cinco conferências, com a tesoura de segurança em cena. É o tipo de vídeo que a pessoa salva e manda para o parceiro.",
+      "material": [
+        "Tesoura de segurança",
+        "Uma corda de juta (uma com fio solto, só para mostrar o ponto de atenção, se tiver)",
+        "Bancada ou mesa com luz"
+      ],
+      "planos": [
+        {
+          "t": "0 a 3 s",
+          "plano": "Você olhando para a câmera, tesoura na mão.",
+          "fala": "Cinco coisas que a gente confere antes de amarrar.",
+          "tela": "5 conferências antes de amarrar"
+        },
+        {
+          "t": "3 a 8 s",
+          "plano": "Close da tesoura sobre a mesa; sua mão a pousa.",
+          "fala": "Uma: a tesoura de segurança ao alcance.",
+          "tela": "1. tesoura ao alcance"
+        },
+        {
+          "t": "8 a 14 s",
+          "plano": "Você sentado conversando com a pessoa (ombro para baixo) ou falando para a câmera.",
+          "fala": "Duas: a conversa. Limites, lesões e a palavra que interrompe a cena.",
+          "tela": "2. conversa: limites, lesões e palavra de segurança"
+        },
+        {
+          "t": "14 a 20 s",
+          "plano": "Close: a corda passa pelas suas mãos e você para num ponto de atenção.",
+          "fala": "Três: a corda em bom estado, sem fio solto e sem ponto ressecado.",
+          "tela": "3. corda em bom estado"
+        },
+        {
+          "t": "20 a 26 s",
+          "plano": "Plano aberto do ambiente: mesa, luz, espaço livre.",
+          "fala": "Quatro: um lugar tranquilo e tempo de sobra, sem pressa.",
+          "tela": "4. lugar tranquilo, sem pressa"
+        },
+        {
+          "t": "26 a 32 s",
+          "plano": "Você e a pessoa combinam um sinal com a mão.",
+          "fala": "Cinco: um jeito combinado de pedir pausa e de perguntar como a pessoa está durante a amarração.",
+          "tela": "5. sinal de pausa e check-in"
+        },
+        {
+          "t": "32 a 36 s",
+          "plano": "Você olhando para a câmera.",
+          "fala": "Salva este vídeo e confere antes de cada sessão.",
+          "tela": "salva para conferir antes de cada sessão; nos últimos 2 s, end card: 10% de cashback em todas as compras"
+        }
+      ],
+      "legenda_base": "cinco conferências rápidas antes de amarrar: a tesoura de segurança ao alcance, a conversa sobre limites e lesões, a corda em bom estado, um lugar tranquilo e um jeito combinado de pedir pausa. a palavra que interrompe a cena entra na conversa, antes da corda. nenhuma delas é detalhe. todas fazem parte do preparo e levam poucos minutos.\n\nsalva o vídeo para conferir antes de cada sessão.\n\ntoda compra na Shibari Brasil gera 10% de cashback para a próxima.\n\n#shibari #shibaribrasil #amarração",
+      "capa": "Frame do plano 1 (tesoura na mão), com o texto \"5 conferências antes de amarrar\".",
+      "antes_de_gravar": [
+        "Vertical 9:16, gravando com a câmera traseira do celular, luz natural de janela (sem contraluz) e fundo neutro.",
+        "Celular no tripé ou apoiado, na altura do peito; confira que a voz está limpa (grave perto, sem eco).",
+        "Fale no ritmo normal. Cada frase do roteiro vale um take; grave duas vezes cada bloco e escolha na edição.",
+        "Quem estiver amarrado aparece só do ombro para baixo ou só o antebraço, sem rosto. Sem pele marcada em cena.",
+        "Valide a técnica com o seu olho de praticante: o roteiro usa só os pontos já aprovados nas nossas legendas (tesoura ao alcance, dois dedos de folga, conversa antes, atenção à sensação de quem é amarrado)."
+      ],
+      "edicao": [
+        "Cortes a cada 2 a 4 segundos; o texto na tela entra junto com a fala e fica dentro da área segura (longe da borda de baixo).",
+        "Legenda automática do Instagram em português, revisada.",
+        "Áudio original (a sua voz), sem música comercial; se quiser trilha, só da biblioteca de sons para conta comercial.",
+        "Capa: frame limpo com o texto grande do gancho; confira como fica no grid 3:4.",
+        "Publicar como Trial Reel antes de liberar para o perfil; no máximo 5 hashtags."
+      ]
+    },
+    {
+      "id": "C",
+      "slot": "P9",
+      "data": "2026-11-09",
+      "quando": "09/11",
+      "titulo": "Três passos para guardar a corda",
+      "duracao": "32 a 38 s",
+      "arco": "3 · Cuidar da corda",
+      "objetivo": "Salvamento: o Reel de enrolar corda de 2024 fez 5,2% de salvamento. Mostra o óleo e o pano em uso, como parte do cuidado, sem chamada de venda.",
+      "material": [
+        "Uma corda de juta usada",
+        "Óleo de massagem e hidratação de cordas",
+        "Um pano (guardar a corda); não usar o Tenugui, que está sem estoque"
+      ],
+      "planos": [
+        {
+          "t": "0 a 3 s",
+          "plano": "Você olhando para a câmera, corda na mão.",
+          "fala": "Como guardar a corda para ela durar mais.",
+          "tela": "guardar a corda em 3 passos"
+        },
+        {
+          "t": "3 a 12 s",
+          "plano": "Close: a corda passa esticada pelas suas mãos; você para num fiapo solto.",
+          "fala": "Um: estica a corda e olha. Fiapo solto ou ponto ressecado pedem atenção antes de guardar.",
+          "tela": "1. esticar e olhar"
+        },
+        {
+          "t": "12 a 22 s",
+          "plano": "Close das mãos com o óleo (frasco visível), passando do começo ao fim da corda.",
+          "fala": "Dois: o óleo ajuda a manter a fibra hidratada e melhora o toque da corda. Passa com as mãos, do começo ao fim, em pouca quantidade.",
+          "tela": "2. hidratar com óleo"
+        },
+        {
+          "t": "22 a 31 s",
+          "plano": "Close: você enrola a corda em laços soltos e a coloca no pano.",
+          "fala": "Três: enrola em laços soltos, sem apertar, e guarda em um pano, em lugar seco.",
+          "tela": "3. enrolar sem apertar e guardar em pano, em lugar seco"
+        },
+        {
+          "t": "31 a 36 s",
+          "plano": "Plano final: a corda guardada e você olhando para a câmera.",
+          "fala": "Assim ela chega inteira na próxima sessão.",
+          "tela": "assim ela dura mais; nos últimos 2 s, end card: 10% de cashback em todas as compras"
+        }
+      ],
+      "legenda_base": "guardar a corda do jeito certo ajuda ela a durar mais. estica a corda e olha: fiapo solto ou ponto ressecado pedem atenção antes de guardar. uma pequena quantidade de óleo ajuda a manter a fibra hidratada e melhora o toque da corda durante o uso. depois, enrola em laços soltos, sem apertar, e guarda em um pano, em lugar seco.\n\na juta perde óleo com o tempo e com o atrito de cada amarração, então vale repetir o cuidado de tempos em tempos.\n\ntoda compra na Shibari Brasil gera 10% de cashback para a próxima.\n\n#shibari #shibaribrasil #amarração",
+      "capa": "Frame do plano 3 (óleo nas mãos), com o texto \"guardar a corda em 3 passos\".",
+      "ajuste": "A quantidade de óleo e o jeito de enrolar são o seu: ajuste a fala ao que você recomenda e siga a instrução da embalagem do óleo.",
+      "antes_de_gravar": [
+        "Vertical 9:16, gravando com a câmera traseira do celular, luz natural de janela (sem contraluz) e fundo neutro.",
+        "Celular no tripé ou apoiado, na altura do peito; confira que a voz está limpa (grave perto, sem eco).",
+        "Fale no ritmo normal. Cada frase do roteiro vale um take; grave duas vezes cada bloco e escolha na edição.",
+        "Quem estiver amarrado aparece só do ombro para baixo ou só o antebraço, sem rosto. Sem pele marcada em cena.",
+        "Valide a técnica com o seu olho de praticante: o roteiro usa só os pontos já aprovados nas nossas legendas (tesoura ao alcance, dois dedos de folga, conversa antes, atenção à sensação de quem é amarrado)."
+      ],
+      "edicao": [
+        "Cortes a cada 2 a 4 segundos; o texto na tela entra junto com a fala e fica dentro da área segura (longe da borda de baixo).",
+        "Legenda automática do Instagram em português, revisada.",
+        "Áudio original (a sua voz), sem música comercial; se quiser trilha, só da biblioteca de sons para conta comercial.",
+        "Capa: frame limpo com o texto grande do gancho; confira como fica no grid 3:4.",
+        "Publicar como Trial Reel antes de liberar para o perfil; no máximo 5 hashtags."
+      ]
+    }
+  ],
+  "reserva": [
+    {
+      "codigo": "C-084",
+      "titulo": "você não precisa de rótulo pra ser curioso",
+      "fundo": "Warm Light",
+      "nota": "Reserva; pausar a arte até o ciclo seguinte"
+    },
+    {
+      "codigo": "C-082",
+      "titulo": "por que desacelerar também é progresso na prática",
+      "fundo": "Warm Light",
+      "nota": "Fora do ciclo por decisão do Hugo (21/10); sem arte"
+    },
+    {
+      "codigo": "C-083",
+      "titulo": "seu amigo fetichista não é o que você imagina",
+      "fundo": "Skin Nude",
+      "nota": "Pausada por decisão do Hugo (21/10); texto pronto, arte não iniciada"
+    },
+    {
+      "codigo": "C-088",
+      "titulo": "usar a safeword também merece elogio",
+      "fundo": "Carbon Black",
+      "nota": "Substituída pela C-107 (21/10); texto pronto, sai da fila da Bia"
+    }
+  ],
+  "em_espera": [
+    {
+      "codigo": "C-090",
+      "titulo": "falar também é parte do jogo, talvez a sua parte mais importante",
+      "nota": "Proposta: descartar do feed (frase quase igual à de @kyntv101 e tema já coberto pela C-091); se a ideia for aproveitada, reescrever com ângulo próprio"
+    }
+  ],
+  "classificacao_manual": {
+    "DeZRaxBPPCs": {
+      "categoria": "Foto de prática",
+      "titulo": "Bottom como adorno elegante (foto + 1 frase)",
+      "fundo": null,
+      "tipo_marca": "foto_frase"
+    },
+    "DdtVbA8jNdw": {
+      "categoria": "Conceitual",
+      "titulo": "O BDSM é, antes de tudo, uma prática",
+      "fundo": null,
+      "tipo_marca": "frase"
+    },
+    "DdbQXMSl9gR": {
+      "categoria": "Educativo",
+      "titulo": "Red flags em dinâmicas BDSM (repostagem da C-057)",
+      "fundo": null,
+      "tipo_marca": "carrossel_livre"
+    },
+    "DdJLdkljWPK": {
+      "categoria": "Educativo",
+      "titulo": "A curiosidade não pede permissão para existir",
+      "fundo": null,
+      "tipo_marca": "carrossel_livre"
+    },
+    "DdEMbMiAAJy": {
+      "categoria": "Vídeo",
+      "titulo": "Fibra natural resseca (Reel)",
+      "fundo": null,
+      "tipo_marca": "video"
+    },
+    "Dc4NPqClBM5": {
+      "categoria": "Outro",
+      "titulo": "Achamos nosso quarto bem chique",
+      "fundo": null
+    },
+    "DcmGMteE8Ty": {
+      "categoria": "Produto",
+      "titulo": "A foto que deu origem ao nosso sticker",
+      "fundo": null,
+      "tipo_marca": "produto"
+    }
+  },
+  "regra_assuntos": "Não há padrão de bloco nem distância mínima entre assuntos. Antes de fechar cada slot, o Planejador confere se o assunto já saiu ou está perto de sair e leva o caso ao Hugo. Depois do primeiro post de um assunto, lê o resultado em 72 h (envio, salvamento, repostagens, seguidores por mil views) e o Hugo decide se o próximo do mesmo assunto fica, troca ou antecipa. Se um assunto estiver indo bem, pode haver mais dele: é decisão do momento, não de um padrão.",
+  "assuntos_a_decidir": [
+    {
+      "titulo": "Conversa, dinâmica e segurança",
+      "slots": "C-086 (21/10) e C-107 (04/11, limite); o Reel A (26/10) e o Reel B (20/11) também tratam de conversa e segurança",
+      "opcoes": [
+        "Manter e ler cada um em 72 h: se o anterior ficar abaixo da mediana, o seguinte troca por outro assunto.",
+        "Trocar a C-107 por uma frase do banco (C-108 ou C-109) ou por uma prática do banco (single column tie C-030, hojojutsu C-004, switch C-041).",
+        "Outra ordem ou outro conjunto, a seu critério."
+      ]
+    },
+    {
+      "titulo": "Cuidar da corda em dois slots (arco de produto)",
+      "slots": "foto de produto de óleo e cera (06/11) e Reel C (09/11); o carrossel de cuidar da corda saiu da fila em 21/10",
+      "opcoes": [
+        "Manter os dois como arco de produto, sem o carrossel de abertura.",
+        "Reabrir o carrossel (C-101) em outra data, antes ou depois da foto."
+      ]
+    },
+    {
+      "titulo": "Reel A e a conversa antes da cena",
+      "slots": "Reel A (26/10)",
+      "opcoes": [
+        "Manter a conversa e a palavra de segurança no roteiro (é o passo 2 do preparo).",
+        "Tirar do roteiro para não antecipar a C-088 e a C-086."
+      ]
+    },
+    {
+      "titulo": "Por trás do desejo de 30/10: pet play (escolhido em 21/10)",
+      "slots": "30/10",
+      "opcoes": [
+        "Manter pet play.",
+        "Trocar por adoração (worship), controle de orgasmo, humilhação consensual ou serviço (service); o briefing já está em andamento."
+      ]
+    },
+    {
+      "titulo": "Produto direto: outubro e novembro",
+      "slots": "Outubro (restam 5 slots): 1 produto direto, o Reel A. Novembro: 3 (foto de óleo e cera, C-003 e \"qual kit\") mais os 4 slots reservados da Black Friday",
+      "opcoes": [
+        "Aceitar outubro como mês de retomada (1 de 5).",
+        "Antecipar a foto de produto de óleo e cera para 30/10 e passar a karada para 02/11 (2 de 5 em outubro).",
+        "Trocar a C-086 por mais um produto direto em novembro."
+      ]
+    },
+    {
+      "titulo": "Black Friday: slots reservados",
+      "slots": "23, 25, 27 e 30/11",
+      "opcoes": [
+        "Manter os 4 reservados até a conversa da Black Friday decidir o tema.",
+        "Reduzir para 3 e devolver um slot ao conteúdo normal."
+      ]
+    },
+    {
+      "titulo": "Ritmo dos extras",
+      "slots": "31/10 e 14/11 (casuais)",
+      "opcoes": [
+        "Manter 1 extra a cada 2 semanas, só casual.",
+        "Reduzir ainda mais (1 por mês) ou pular um deles se o time estiver no limite.",
+        "Subir o ritmo mais adiante, depois de ler os dois primeiros."
+      ]
+    },
+    {
+      "titulo": "Equilíbrio entre shibari e BDSM/fetiche",
+      "slots": "21/10 a 30/11 (14 posts, sem os reservados e os extras)",
+      "opcoes": [
+        "Manter: 8 posts de corda/shibari (a maioria é produto) e 6 de BDSM/fetiche (C-086, C-083, Por trás do desejo, C-088, wax play, C-062).",
+        "Trocar a foto de produto de óleo e cera de 06/11 por foto das velas de wax play (cuidar da corda fica em 2 slots e o BDSM sobe para 7).",
+        "Subir mais um post de fetiche no lugar do C-003 ou do carrossel \"qual kit\"."
+      ]
+    }
+  ],
+  "regra_produto": "Ciclo de 1 mês: cerca de 4 semanas x 3 posts = 12 posts. Pelo menos 3 dos 12 são diretamente sobre produto, intercalados e de tipos diferentes (só a foto do produto, conteúdo explicativo ou demonstração do produto, post de produto). Produto dentro de educativo ou de Reel vale a mais e não substitui esses 3. Stories mostram produto sempre que couber.",
+  "horizonte": "Outubro (resto do mês, 21 a 31/10) e novembro inteiro (02 a 30/11)",
+  "regra_mes": "O planejamento segue os meses do calendário: o plano vigente cobre o resto do mês corrente e o mês seguinte inteiro. A partir de cerca do dia 20 de cada mês, planeja-se o mês seguinte todo (dezembro começa a ser planejado em torno de 16 a 20/11). A regra de produto vale por mês: cerca de 12 posts (4 semanas x 3) e pelo menos 3 diretamente sobre produto. Outubro é mês de retomada (só restam 5 slots); a regra mensal vale de forma plena a partir de novembro.",
+  "grupos_composicao": [
+    {
+      "nome": "Carrossel livre e Desatando mitos",
+      "chaves": [
+        "carrossel_livre",
+        "mitos"
+      ],
+      "hoje": 3
+    },
+    {
+      "nome": "Por trás do desejo (4 páginas)",
+      "chaves": [
+        "por_tras"
+      ],
+      "hoje": 2
+    },
+    {
+      "nome": "Post de frase",
+      "chaves": [
+        "frase"
+      ],
+      "hoje": 2
+    },
+    {
+      "nome": "Foto de prática",
+      "chaves": [
+        "foto_frase"
+      ],
+      "hoje": 1
+    },
+    {
+      "nome": "Reel",
+      "chaves": [
+        "video"
+      ],
+      "hoje": 0
+    },
+    {
+      "nome": "Foto de produto",
+      "chaves": [
+        "foto_produto"
+      ],
+      "hoje": 0
+    },
+    {
+      "nome": "Post de produto (arte)",
+      "chaves": [
+        "produto"
+      ],
+      "hoje": 0
+    },
+    {
+      "nome": "Casual (bingo e outros testes)",
+      "chaves": [
+        "casual",
+        "bingo"
+      ],
+      "hoje": 1
+    },
+    {
+      "nome": "Reservado: Black Friday",
+      "chaves": [
+        "reservado"
+      ],
+      "hoje": 0
+    }
+  ]
+}

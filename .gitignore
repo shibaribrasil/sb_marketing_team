@@ -2,3 +2,6 @@
 # gerados a cada sessão por scripts/status_instagram.py
 contexto/status-instagram.json
 contexto/status-instagram.md
+
+# gerado pelo Leo (scripts/gerar_artefato_sequencia.py); o artefato publicado é a referência
+estrategia/sequencia-instagram.html

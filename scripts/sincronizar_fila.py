@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Sincroniza a fila prioritária do Instagram (planejamento do Hugo) com a pauta do marketing.
 
-Fonte da verdade: sb_admin_team/planejamento/sequencia-instagram-plano.json (somente leitura).
+Fonte da verdade: estrategia/sequencia-instagram-plano.json (mantido pelo Leo, agente-estrategista; somente leitura aqui).
 Efeitos:
   1. regrava o bloco FILA-PRIORITARIA em contexto/pauta.md;
   2. compara com o último snapshot (contexto/fila-snapshot.json) e destaca o que mudou;
@@ -26,7 +26,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PLANO_PADRAO = os.environ.get(
     "SB_PLANO_JSON",
-    r"C:\Users\HTK1562\Documents\GitHub\sb_admin_team\planejamento\sequencia-instagram-plano.json",
+    os.path.join(RAIZ, "estrategia", "sequencia-instagram-plano.json"),
 )
 PAUTA = os.path.join(RAIZ, "contexto", "pauta.md")
 SNAPSHOT = os.path.join(RAIZ, "contexto", "fila-snapshot.json")

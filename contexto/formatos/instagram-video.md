@@ -12,7 +12,7 @@
 
 ### Fluxo de produção
 
-1. Definir o território/técnica a ser demonstrada (a partir de um briefing do Caio ou pedido direto do Hugo)
+1. Definir o território/técnica a ser demonstrada (a partir de um slot aprovado da fila ou pedido direto do Hugo)
 2. Produção do vídeo (gravação/edição — fora do escopo dos agentes de texto; o arquivo de vídeo é anexado à pasta do conteúdo)
 3. Julia escreve a legenda de apoio em `texto.md`
 4. Ana revisa

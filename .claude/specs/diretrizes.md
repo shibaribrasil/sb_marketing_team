@@ -10,31 +10,29 @@ A produção das tarefas é dividida entre agentes especializados. Cada um tem u
 
 | Nome | Função | O que faz | Quando acionar | Skill | Status que gerencia |
 |---|---|---|---|---|---|
-| **Mari** | Coordenadora | Dá o panorama geral, retoma contexto de sessões anteriores e roteia para o membro certo | Para começar qualquer sessão ou quando não souber por onde ir | `agente-coordenador` | Todos — ponto de entrada e roteamento |
-| **Leo** | Pescador | Pesquisa tendências e referências, registra ideias no Backlog | Quando quiser novas ideias de conteúdo | `agente-pescador` | Backlog |
-| **Caio** | Redator | **Estágio 1:** desdobra territórios do Leo em múltiplas ideias de conteúdo e as registra no banco (`contexto/briefings.md`). **Estágio 2:** desenvolve o briefing completo de uma ideia selecionada pelo Hugo e a move para o pipeline de produção | Quando um território novo entrar no Backlog (Estágio 1) ou quando Hugo selecionar uma ideia do banco para produzir (Estágio 2) | `agente-redator` | Briefing |
-| **Julia** | Escritora | Escreve o texto seguindo o briefing e as regras da marca | Quando um briefing estiver aprovado | `agente-escritor` | Em Produção |
-| **Ana** | Revisora | Revisa o texto junto com o usuário, aprova ou devolve com instruções. Trabalha somente sobre o `texto.md` — a aprovação visual é feita diretamente pelo Hugo no Canva. | Quando o texto estiver pronto (antes do design) | `agente-revisor` | Aguardando Revisão → Design em Produção |
-| **Bia** | Diretora de Arte | Produz a direção visual completa, gera prompts e referências para ferramentas de criação. Quando o design passa pelo Canva, registra o link no `visual-spec.md`. Se houver ajustes manuais pendentes, lista-os em seção "Pendências no Canva" e move para **Pendente de Alteração no Canva** em vez de Pronto - Aguardando Publicação. | Quando o texto for aprovado pela Ana | `agente-diretor-de-arte` | Design em Produção → Pendente de Alteração no Canva (com pendências) ou Pronto - Aguardando Publicação (sem pendências) |
+| **Mari** | Coordenadora e Publicação | Dá o panorama, retoma contexto, roteia, monta o **pacote de publicação** (mídia validada, legenda, data e hora de pico) e acompanha o agendamento (hoje no mLabs, depois pela API). Mantém a pauta em dia a partir do perfil do Instagram | Para começar qualquer sessão, quando não souber por onde ir ou quando uma peça estiver pronta para publicar | `agente-coordenador` | Pronto - Aguardando Publicação → Agendado → Publicado |
+| **Leo** | Estrategista de conteúdo | Mantém a fila e a sequência do Instagram (`estrategia/`), lê os resultados dos posts, minera ideias e propõe slots **com âncora no núcleo de voz** (tema sem posição do Hugo vira pergunta para ele). Também pesquisa fontes e alimenta a biblioteca do núcleo | Para decidir o que entra na fila, ler resultados, pedir ideia ou pesquisar referência | `agente-estrategista` | Backlog e fila |
+| **Julia** | Autora | Recebe um **slot aprovado** na fila, consolida o ângulo (o antigo briefing vira o cabeçalho do `texto.md`), escreve texto e legenda na voz da marca, **aciona a Ana** (revisão com contexto limpo) e entrega ao Hugo um pacote único. É a dona da voz de ponta a ponta | Quando o Hugo aprovar um slot da fila | `agente-escritor` | Briefing → Em Produção → Aguardando Revisão → Design em Produção |
+| **Ana** | Revisora | Segunda leitura com contexto limpo, invocada pela Julia (ou pelo Hugo, direto): aplica o teste de voz e a técnica sobre `texto.md` e `legenda.txt` e devolve o veredicto. Não move status. A aprovação visual é feita pelo Hugo no Canva | Ao fechar o rascunho (pela Julia) ou sob pedido | `agente-revisor` | Nenhum (devolve relatório) |
+| **Bia** | Diretora de Arte | Produz a direção visual e as referências e leva o design ao Canva. Pode começar o conceito visual em paralelo à aprovação do texto; a arte final vai depois dela. Preenche o Fundo no `visual-spec.md`. Se houver ajustes manuais pendentes, lista-os em "Pendências no Canva" | Quando o texto estiver aprovado (conceito pode começar antes) | `agente-diretor-de-arte` | Design em Produção → Pendente de Alteração no Canva ou Pronto - Aguardando Publicação |
 | **Gui** | Tráfego Pago | Criação e otimização de anúncios pagos em dois canais: **Instagram** (Meta Ads) e **Google Ads**. Identifica a plataforma e carrega a skill correspondente (`hab-meta-ads` para Instagram; `hab-google-ads` para Google). Pode ser acionado a qualquer momento, independente do pipeline orgânico | Quando quiser trabalhar com campanhas pagas | `agente-trafego` + skill da plataforma | *(sem status fixo — atua em paralelo)* |
 
 Cada agente lê os arquivos de contexto relevantes e atualiza a pauta ao concluir sua etapa. As instruções completas de cada um estão em `.claude/skills/[nome-do-agente]/SKILL.md`.
 
-**Fluxo completo do pipeline:**
+**Fluxo completo (puxado pela fila):**
 ```
-Leo (território no Backlog)
+Leo: lê resultados + núcleo + biblioteca → propõe slots com âncora → Hugo aprova a fila
+  ↓ (slot aprovado = ordem de produção; status Briefing)
+Julia: cabeçalho (ângulo) + texto + legenda → aciona Ana (contexto limpo) → pacote único ao Hugo (Aguardando Revisão)
+  ↓ Hugo aprova
+Bia: conceito (pode começar antes) → Canva → Hugo aprova a arte (Design em Produção → Pronto - Aguardando Publicação)
   ↓
-Caio — Estágio 1: desdobra em ideias → registra em contexto/briefings.md (🗂 Backlog)
+Mari: pacote de publicação → mLabs (Fase 1) ou fila por API (Fase 2) → Pronto - Agendado → Pronto - Publicado (do perfil)
   ↓
-Hugo seleciona uma ideia do banco
-  ↓
-Caio — Estágio 2: desenvolve briefing.md completo → move para pipeline (📄 Briefing criado)
-  ↓
-Julia (Em Produção) → Ana (Aguardando Revisão) → [aprovado] Design em Produção → Bia → [sem pendências] Pronto - Aguardando Publicação → Pronto - Agendado (com data) → Pronto - Publicado
-                                                                                                              → [com pendências] Pendente de Alteração no Canva → [Hugo confirma] → Pronto - Aguardando Publicação → Pronto - Agendado (com data) → Pronto - Publicado
+Resultado volta ao Leo (estudo no núcleo `sb_cerebro/05_conhecimento`, com o Hugo)
 ```
 
-O banco de briefings (`contexto/briefings.md`) é permanente e cresce continuamente. Cada território do Leo pode gerar múltiplas ideias no banco. As ideias saem do banco para o pipeline apenas quando Hugo selecionar uma para produção.
+A `contexto/pauta.md` é o **único registro de status**. O `contexto/briefings.md` (banco do antigo Caio) e o `contexto/historico-conteudos.md` estão **congelados desde 27/10/2026**: não recebem entrada nova; os scripts do Leo ainda os leem para as peças antigas. O backlog será consolidado e podado pelo Leo, com a aprovação do Hugo.
 
 ---
 
@@ -44,19 +42,20 @@ O banco de briefings (`contexto/briefings.md`) é permanente e cresce continuame
 ├── CLAUDE.md                    → instruções de comportamento do agente
 │
 ├── contexto/
-│   ├── historico-conteudos.md   → registro permanente de todos os conteúdos aprovados
-│   ├── loja.md                  → informações da Shibari Brasil
+│   ├── historico-conteudos.md   → registro das peças aprovadas até 27/10/2026 (CONGELADO)
+│   ├── loja.md                  → informações da Shibari Brasil (a voz mora no núcleo `sb_cerebro`, via skill `voz-shibari`)
 │   ├── personas.md              → perfis do público-alvo
-│   ├── tom-de-voz.md            → como a marca fala
 │   ├── referencias.md           → referências de estilo e campanhas
 │   ├── formatos-conteudo.md     → índice dos formatos cadastrados
 │   ├── formatos/                → um arquivo .md por formato de conteúdo
-│   ├── briefings.md             → banco permanente de ideias briefadas pelo Caio (cresce continuamente)
+│   ├── briefings.md             → banco legado do antigo Caio (CONGELADO; será podado pelo Leo)
 │   └── pauta.md                 → backlog de territórios, produções em andamento e prontos
 │
 ├── conteudos/                   → NÃO fica neste repositório: mora no Drive, em `G:\Meu Drive\SB Audiovisual\03_CONTEUDO\`
 │   └── [tipo]/
 │       └── [titulo]/            → arquivos do conteúdo orgânico (texto, legenda, imagens, variações)
+│
+├── estrategia/                  → do Leo: plano da sequência (JSON), arquivo vivo, capas e material
 │
 ├── anuncios/
 │   ├── instagram/
@@ -76,13 +75,12 @@ O banco de briefings (`contexto/briefings.md`) é permanente e cresce continuame
 
 ## 🚀 Antes de Começar a Produzir
 
-Para que o agente gere conteúdo alinhado com a Shibari Brasil, os arquivos abaixo precisam estar preenchidos. Enquanto estiverem vazios, o conteúdo gerado será genérico.
+Para que o agente gere conteúdo alinhado com a Shibari Brasil, os arquivos abaixo precisam estar preenchidos e a skill `voz-shibari` (núcleo `sb_cerebro`) precisa estar carregada. Enquanto estiverem vazios, o conteúdo gerado será genérico.
 
 | Arquivo | O que colocar | Prioridade |
 |---|---|---|
 | `contexto/loja.md` | Produtos, público, dores, diferenciais da loja | Alta |
 | `contexto/personas.md` | Perfis detalhados do cliente ideal | Alta |
-| `contexto/tom-de-voz.md` | Como a marca fala, o que nunca diz, exemplos | Média |
 | `contexto/referencias.md` | Posts que funcionaram, referências de estilo | Média |
 
 Para preencher qualquer um deles, basta dizer ao agente:
@@ -132,51 +130,39 @@ Tenho uma ideia: [descreva o tema ou conceito]
 ```
 O agente adiciona a ideia no **Backlog** da pauta sem gerar nenhum conteúdo.
 
-**Escolher uma ideia do backlog para produzir:**
+**Produzir um slot aprovado da fila:**
 ```
-Produzir ideia do backlog: [título ou tema da ideia]
+Produzir: [título do slot ou código]
 ```
-O agente move o item para **Em Produção**, cria a pasta correspondente em `conteudos/` (no Drive, em `03_CONTEUDO\`) e inicia a geração.
+Aciona a Julia. Ela move o item para **Em Produção**, cria a pasta em `conteudos/` (no Drive, em `03_CONTEUDO\`), escreve cabeçalho, texto e legenda, aciona a Ana e apresenta o pacote. Peça fora da fila só com autorização do Hugo.
 
 ---
 
 ### Acionar Agentes
 
-**Pesquisar novas ideias:**
+**Fila, sequência e resultados:**
 ```
-Pesquisar ideias de conteúdo
+O que entra na fila? / Monta a sequência / Como foi a semana? / Por que esse post foi bem?
 ```
-Aciona o Leo (Pescador). Ele pesquisa referências e tendências e registra as ideias no Backlog.
+Aciona o Leo (Estrategista). Ele propõe slots com âncora no núcleo de voz, mantém a sequência em `estrategia/`, lê os resultados dos posts e pesquisa referências. Tema sem posição do Hugo vira pergunta para ele, não briefing.
 
-**Ver ideias no banco do Caio:**
+**Ver o backlog:**
 ```
-Ver banco de briefings
+Ver backlog
 ```
-Caio lista as ideias registradas em `contexto/briefings.md` com status e formato, organizadas por território.
-
-**Desdobrar um território em ideias (Estágio 1 do Caio):**
-```
-Caio, desdobra o território: [nome do território]
-```
-Aciona o Caio (Estágio 1). Ele gera 2 a 4 ideias distintas de conteúdo a partir do território e as registra em `contexto/briefings.md` com status Backlog.
-
-**Produzir uma ideia do banco (Estágio 2 do Caio):**
-```
-Produzir: [C-XXX ou título da ideia]
-```
-Aciona o Caio (Estágio 2). Ele desenvolve o briefing completo, cria a pasta do conteúdo e move a ideia para o pipeline de produção.
+O Leo lista as ideias do Backlog da pauta e as perguntas pendentes para o Hugo.
 
 **Escrever o conteúdo:**
 ```
 Escrever conteúdo: [título]
 ```
-Aciona a Julia (Escritora). Ela lê o briefing e produz o texto final seguindo as regras da marca.
+Aciona a Julia (Autora). Ela lê o slot aprovado e produz cabeçalho, texto e legenda na voz da marca.
 
 **Revisar o texto:**
 ```
 Revisar: [título]
 ```
-Aciona a Ana (Revisora). Ela analisa o texto, apresenta o relatório e aguarda a decisão do usuário. A aprovação visual é feita pelo Hugo diretamente no Canva após a Bia entregar o design.
+Aciona a Ana (Revisora) direto. Normalmente a Julia já a chama ao fechar o rascunho, e o Hugo recebe o texto junto com o veredicto. A aprovação visual é feita pelo Hugo diretamente no Canva após a Bia entregar o design.
 
 **Especificar a direção visual:**
 ```
@@ -196,7 +182,7 @@ Tráfego: [o que precisa]
 ```
 Aciona o Gui (Tráfego Pago). Ele pergunta em qual plataforma estamos trabalhando — **Instagram** ou **Google Ads** — e carrega a skill correspondente antes de executar. Trabalha em paralelo ao time, independente do pipeline orgânico.
 
-**Produtos (cadastro, descrição e características):** não são do marketing. São do cadastrador (`sb_admin_team`) e ficam no Notion, na base Catálogo — Produtos (Notion). O time consulta o Notion para qualquer dado de produto; fato que faltar vai ao Hugo. O agente Pedro (`agente-gerente-produto`) foi extinto em 27/10/2026.
+**Produtos (cadastro, descrição e características):** não são do marketing. São do cadastrador (`sb_admin_team`) e ficam no Notion, na base Catálogo — Produtos (Notion). O time consulta o Notion para qualquer dado de produto; fato que faltar vai ao Hugo.
 
 **Confirmar que um conteúdo foi postado:**
 ```
@@ -224,12 +210,12 @@ O agente registra a informação em `contexto/loja.md`.
 
 ## 🔁 Fluxo Típico de uma Sessão
 
-1. Abrir o projeto no Claude Code
-2. Digitar `Ver pauta` ou acionar a Mari para checar o que está em andamento (ela lê pauta + briefings.md)
-3. **Se quiser novas ideias:** acionar Leo → Leo registra territórios → Caio desdobra em banco de briefings (Estágio 1)
-4. **Se quiser avançar na produção:** escolher uma ideia do banco → Caio desenvolve briefing completo (Estágio 2) → Julia escreve → Ana revisa o texto → Bia faz o visual → Hugo aprova no Canva
-5. Revisar e aprovar o conteúdo final
-6. Os agentes atualizam pauta, briefings.md e histórico conforme avançam
+1. Abrir o projeto no Claude Code (o hook injeta o resumo da fila).
+2. Acionar a Mari (`Como estamos?`): panorama, o que está pronto para publicar e o que mudou na fila.
+3. **Se quiser decidir o que produzir:** acionar o Leo → ele propõe slots com âncora → o Hugo aprova a fila.
+4. **Para produzir um slot aprovado:** Julia (texto e legenda, com a Ana) → Hugo aprova o pacote → Bia faz o visual → Hugo aprova no Canva.
+5. **Para publicar:** Mari monta o pacote → Hugo agenda (mLabs hoje) → a pauta acompanha o perfil.
+6. Os agentes atualizam só a `contexto/pauta.md`.
 
 ---
 
@@ -275,20 +261,15 @@ Exemplos de situações que ativam este protocolo:
 
 ## 📋 Protocolo de Pauta (Obrigatório)
 
-A `contexto/pauta.md` é o centro de controle de toda produção. O agente deve:
+A `contexto/pauta.md` é o centro de controle e o **único registro de status**. Cada conteúdo tem uma única linha que percorre as seções. Quem move:
 
-- **Ao iniciar uma sessão:** verificar se há itens em qualquer status ativo antes de começar algo novo.
-- **Pescador** → adiciona território em **Backlog** de `pauta.md`
-- **Redator (Estágio 1)** → lê território do Backlog e registra ideias desdobradas em `contexto/briefings.md` (sem mover nada na pauta ainda)
-- **Redator (Estágio 2)** → quando Hugo selecionar uma ideia do banco, desenvolve o briefing completo, cria pasta e `briefing.md` em `conteudos/` (no Drive, em `03_CONTEUDO\`), move para **Briefing** na pauta e atualiza o status em `briefings.md` para **Briefing criado**
-- **Escritor** → move de Briefing para **Em Produção** durante a escrita, depois para **Aguardando Revisão** ao concluir; atualiza status em `briefings.md`
-- **Revisor** → move de **Aguardando Revisão** para **Design em Produção** após aprovação textual pelo usuário, ou devolve para **Em Produção** com instruções de correção para a Julia; atualiza o status da peça em `contexto/briefings.md` para **🎨 Design em Produção** (se tiver código C-XXX)
-- **Diretor de Arte** → ao concluir a produção visual:
-  - Se o design não tiver pendências manuais: move para **Pronto - Aguardando Publicação**; atualiza `contexto/briefings.md` para **✅ Aguardando Publicação**; adiciona entrada em `contexto/historico-conteudos.md` com código, título, tipo, **fundo** (nome da cor conforme `visual-spec.md`, ou `—` se não houver), data de aprovação (hoje) e "Publicado em: —"; **se o conteúdo for para o Instagram**, cria também entrada no banco de dados Notion "Histórico Instagram" (data source ID: `63ad0101-4eaf-4995-9c3e-f76e8fffea6c`) com os mesmos campos
-  - Se o design tiver ajustes manuais pendentes no Canva (ex: cor de fundo, formatação parcial de texto): move para **Pendente de Alteração no Canva**, registra o link do Canva no `visual-spec.md` e lista as pendências em seção "⚠️ Pendências no Canva"
-- **Usuário** → ao confirmar que fez os ajustes manuais no Canva: item avança diretamente para **Pronto - Aguardando Publicação**; Bia então atualiza `contexto/briefings.md` e `contexto/historico-conteudos.md` (incluindo o campo Fundo) e, se for Instagram, cria entrada no Notion conforme acima
-- **Coordenadora** → quando o usuário confirmar data de publicação: move de Pronto - Aguardando Publicação para **Pronto - Agendado**; atualiza a entrada correspondente no Notion ♊ Histórico Instagram (data source ID: `63ad0101-4eaf-4995-9c3e-f76e8fffea6c`) com a data de publicação agendada; atualiza `contexto/briefings.md` para **📅 Agendado (DD/MM)**. Quando o usuário confirmar postagem: move para **Pronto - Publicado**; preenche "Publicado em" em `contexto/historico-conteudos.md`; atualiza `contexto/briefings.md` para **✅ Publicado (DD/MM)**. Na abertura de sessão: (1) move automaticamente para **Pronto - Publicado** qualquer item em **Pronto - Agendado** cuja data já chegou ou passou — sem precisar de confirmação do usuário — registrando a data de agendamento como "Publicado em" no `historico-conteudos.md` e atualizando `briefings.md` para **✅ Publicado (DD/MM)** se tiver código C-XXX; (2) destaca itens em **Pendente de Alteração no Canva** com o link direto e lista das pendências
-- Nunca duplicar uma entrada — cada conteúdo tem uma única linha que percorre o pipeline.
+- **Leo** → mantém o **Backlog** e a fila; só entra ideia com âncora no núcleo, aprovada pelo Hugo.
+- **Slot aprovado** (seção **Briefing**: "slot aprovado, aguardando a Julia") → a Julia move para **Em Produção** ao começar, e para **Aguardando Revisão** ("aguardando a aprovação do Hugo", texto com o veredicto da Ana) ao entregar o pacote.
+- **Julia** → após o OK do Hugo, move para **Design em Produção**.
+- **Bia** → ao concluir a arte: sem pendências, **Pronto - Aguardando Publicação**; com ajustes manuais no Canva, **Pendente de Alteração no Canva** (com o link no `visual-spec.md` e a lista de pendências); quando o Hugo confirmar os ajustes, avança para **Pronto - Aguardando Publicação**.
+- **Mari** → **Pronto - Agendado** quando o Hugo confirmar data e hora (ou o perfil mostrar); **Pronto - Publicado** quando o perfil mostrar a peça no ar. Na abertura de sessão, move sozinha o que o perfil já mostra e destaca itens em **Pendente de Alteração no Canva**.
+- **Ana** não move nada.
+- Nunca duplicar uma entrada. Ao iniciar uma sessão, verificar se há itens em qualquer status ativo antes de começar algo novo.
 
 ---
 
@@ -349,18 +330,9 @@ anuncios/
 
 ---
 
-## 📈 Protocolo de Registro de Histórico (Obrigatório)
+## 📈 Histórico de conteúdos (congelado)
 
-O arquivo `contexto/historico-conteudos.md` registra de forma permanente todos os conteúdos que chegaram a **Pronto - Aguardando Publicação**. Nenhuma entrada deve ser removida.
-
-**Responsabilidades:**
-- **Bia (Diretor de Arte):** quando mover o item para Pronto - Aguardando Publicação (ou quando o usuário confirmar os ajustes no Canva), adicionar a linha no **topo** da tabela com: Código, Título, Tipo, Fundo (nome da cor conforme `visual-spec.md`, ou `—` se não houver), Aprovado em (data atual), Publicado em: `—` e caminho do arquivo. **Se o conteúdo for para o Instagram** (qualquer tipo exceto Post para Blog), criar também entrada no banco de dados Notion "Histórico Instagram" (data source ID: `63ad0101-4eaf-4995-9c3e-f76e8fffea6c`) com Nome do conteúdo, Tipo de conteúdo, Fundo e Data de postagem em branco.
-- **Mari (Coordenadora):** quando o usuário confirmar postagem, preencher a coluna "Publicado em" na linha correspondente do `historico-conteudos.md` e atualizar o campo "Data de postagem" no Notion.
-
-**Formato da linha:**
-| Código | Título | Tipo | Fundo | Aprovado em | Publicado em | Arquivo |
-|---|---|---|---|---|---|---|
-| C-XXX | Título completo | Tipo do formato | Nome da cor `#hex` | DD/MM/AAAA | — | `conteudos/[caminho]/` |
+O `contexto/historico-conteudos.md` registrou, até 27/10/2026, os conteúdos que chegaram a **Pronto - Aguardando Publicação**. Está **congelado**: nenhum agente adiciona linha nova, e nenhuma entrada antiga é removida. Os scripts do Leo ainda o leem para as peças antigas. O que é novo vive na `pauta.md` (aprovado em, publicado em) e no `visual-spec.md` de cada peça (campo Fundo).
 
 ---
 
@@ -380,15 +352,15 @@ Exemplos do que registrar:
 
 Caso as metas da loja virtual mudem, este arquivo deve ser atualizado antes de iniciar as novas gerações. O mesmo vale para `contexto/formatos-conteudo.md` e para a lista de formatos acima.
 
-> ⚠️ **Nota de manutenção — skills com contexto embutido:** Para reduzir o carregamento de contexto por sessão, vários skills de agentes (`agente-redator`, `agente-escritor`, `agente-revisor`, `agente-pescador`, `agente-diretor-de-arte`, `agente-trafego`) contêm resumos embutidos de arquivos como `contexto/loja.md`, `contexto/personas.md` e `contexto/tom-de-voz.md`. Se qualquer um desses arquivos for atualizado, verificar os skills correspondentes e atualizar os resumos embutidos onde as mudanças forem relevantes para o trabalho de cada agente.
+> **Voz e contexto:** nenhum agente guarda cópia de voz, tom ou vocabulário; a fonte única é a skill `voz-shibari` (núcleo `sb_cerebro`). Posicionamento e público não ficam embutidos nas skills: os agentes apontam para `contexto/personas.md`, `contexto/loja.md` e `sb_cerebro/01_identidade/identidade.md`.
 
 ---
 
 ## 🎯 Critérios de Sucesso por Execução
 
 Sempre que o usuário pedir para gerar um conteúdo, o agente deve garantir que:
-1. **Fidelidade Comercial:** O conteúdo use exclusivamente os produtos e dores mapeados em `contexto/loja.md`.
-2. **Estilo Antirrobô:** O texto passe obrigatoriamente pelo crivo da skill `hab-produtor-textual`.
+1. **Fidelidade Comercial:** O conteúdo use exclusivamente produtos do Catálogo — Produtos (Notion) e as dores mapeadas em `contexto/loja.md`.
+2. **Voz e técnica:** O texto seja escrito na voz da skill `voz-shibari` e passe pelo crivo de técnica da skill `hab-produtor-textual`. Sem emoji.
 3. **Formato Correto:** Consultar o arquivo do formato correspondente em `contexto/formatos/` (ver índice em `contexto/formatos-conteudo.md`) e aplicar as especificações do tipo solicitado. Se o tipo ainda não estiver cadastrado, seguir o protocolo de novo formato antes de gerar.
 4. **Formato Mobile:** Se for para redes sociais ou e-mail, o texto tenha parágrafos de no máximo 2 linhas.
 5. **Pauta Atualizada:** Mover o item na `contexto/pauta.md` conforme o estado da produção avança (ver protocolo acima).

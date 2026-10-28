@@ -13,7 +13,7 @@
 ### Fluxo de produção
 
 1. Julia confirma o produto do briefing e lê os dados dele no Catálogo — Produtos (Notion)
-2. Julia escreve a legenda em `texto.md`, seguindo a estrutura de "Post de Produto" definida em `contexto/tom-de-voz.md` (O que é → Como se comporta → Onde faz mais sentido)
+2. Julia escreve a legenda em `texto.md`, na voz da skill `voz-shibari` (seção "Como falar de produto": o que é, para quem faz sentido e como o uso ou a intensidade se ajusta)
 3. Bia produz o visual do produto
 4. Ana revisa o conjunto (legenda + visual)
 5. Segue para **Pronto - Aguardando Publicação**
