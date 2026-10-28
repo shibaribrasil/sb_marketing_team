@@ -1,6 +1,6 @@
 # Guia da marca - Shibari Brasil
 
-> Arquivo gerado a partir de Guia da marca - Shibari Brasil.pdf (15/06/2026) e **revisado à mão em 27/10/2026 nas seções de personalidade, tom de voz e estrutura de texto (p. 2 a 4)**, por decisão do Hugo, para refletir o núcleo da voz em `sb_cerebro/02_voz/voz.md`. **O PDF ainda não tem essa revisão:** exportar o PDF atualizado, ou reaplicar a revisão se este arquivo for regenerado do PDF. Em qualquer conflito de voz, vale o núcleo.
+> Arquivo gerado a partir de Guia da marca - Shibari Brasil.pdf (15/06/2026) e **revisado à mão em 27/10/2026 nas seções de personalidade, tom de voz e estrutura de texto (p. 2 a 4)**, por decisão do Hugo, para refletir o núcleo da voz em `sb_cerebro/02_voz/voz.md`. **Decisão do Hugo (27/10/2026): este `.md` passa a ser a verdade do Guia** (é nele que se fazem as ressalvas e as revisões); **o PDF passa a ser referência principalmente de design** (paleta, tipografia, logotipo, layout, grid) e não precisa ser reexportado para acompanhar as revisões de texto. Não regenerar este arquivo a partir do PDF. Em qualquer conflito de voz, vale o núcleo.
 
 ### essência da marca *(p. 1)*
 
