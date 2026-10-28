@@ -29,7 +29,7 @@
 | 1 | qua 21/10 | Carrossel livre | **C-086** bandeiras verdes: sinais de quem pratica com responsabilidade | sinais de quem pratica com responsabilidade | Skin Nude | 21/10 (hoje) | Bia |
 | 2 | sex 23/10 **08:40** | **Reel curto (5 s)** | **"Cinco segundos: quase uma foto"**, vídeo de prática do acervo (no lugar da foto; **AGENDADO no mLabs em 22/10**, horário definido pelo Hugo) | identificação (memória e desejo) | vídeo de acervo | **no ar desde 23/10 às 08:40** | Hugo |
 | 3 | seg 26/10 | **Reel A** | **Primeiros minutos com a corda** (Kit Iniciante em uso) · **PRODUTO** | kit Shibari Iniciante | — | 25/10 | Hugo |
-| 4 | qua 28/10 | Carrossel livre | **C-046** o que o fetiche revela sobre você que outras experiências não revelam | fetiche como pista do que a pessoa busca (autoconhecimento) | Skin Nude | 26/10 | Julia, Ana, Bia |
+| 4 | qua 28/10 | **Desatando mitos** | **C-106 · 5 mitos sobre submissão** (**no ar em 28/10**, layout novo; veio de 02/11 e trocou de lugar com a C-046) | submissão (mitos) | Warm Light (layout novo) | 28/10 | Julia, Ana, Bia |
 | 5 | sex 30/10 | **Por trás do desejo** | **Pet play** (tema escolhido em 21/10) | pet play (prática de papel e entrega) | Warm Light | 29/10 | Julia, Ana, Bia |
 | extra | sáb 31/10 | Casual | **Extra 1 (Halloween)**: ideia do Hugo | a definir | a definir | 30/10 | Hugo, Julia/Bia |
 
@@ -39,7 +39,7 @@
 
 | # | Posta | Formato | Peça | Assunto | Fundo | Entrega | Quem |
 |---|---|---|---|---|---|---|---|
-| 6 | seg 02/11 | **Desatando mitos** | **C-106 · 5 mitos sobre submissão** (no lugar do carrossel de cuidar da corda, que volta ao banco como C-101) | submissão (mitos) | Deep Plum | 30/10 | Julia, Ana, Bia |
+| 6 | seg 02/11 | Carrossel livre | **C-046** o que o fetiche revela sobre você que outras experiências não revelam (desceu de 28/10 em 28/10, quando a C-106 foi ao ar no lugar dela) | fetiche como pista do que a pessoa busca (autoconhecimento) | Skin Nude | 30/10 | Julia, Ana, Bia |
 | 7 | qua 04/11 | Post de frase | **C-107** o limite de alguém não é um desafio pra você vencer (substitui a C-088; C-108 e C-109 no backlog de frases) | limite de quem ouve um não (frase) | Carbon Black | 03/11 | Hugo (texto no time), Bia |
 | 8 | sex 06/11 | **Foto de produto** | **Óleo e cera de tratamento em uso** (sem arte e sem comando de venda) · **PRODUTO** | óleo e cera | foto, fundo natural | 05/11 | Hugo + Julia |
 | 9 | seg 09/11 | **Reel C** | **Três passos para guardar a corda** (óleo e pano em uso) | guardar a corda | — | 08/11 | Hugo |

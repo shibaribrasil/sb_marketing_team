@@ -8,24 +8,20 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 
 ## 🎯 Fila prioritária (sequência do Instagram)
 
-> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v11 (rascunho, não aprovado)**, atualizada em **2026-10-22**. Sincronizada em 28/10/2026 17:04 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
+> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v11 (rascunho, não aprovado)**, atualizada em **2026-10-22**. Sincronizada em 28/10/2026 17:15 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
 
-**Mudanças na fila (27/10/2026 23:28):**
-- C-046 · o que o fetiche revela sobre você que outras experiências não revelam: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
-- Por trás do desejo · pet play: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
-- C-106 · 5 mitos sobre submissão: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
-- Foto de produto: óleo e cera de tratamento em uso (Hugo na cena, sem comando de venda): responsável Hugo + Julia/Caio -> Hugo + Julia
-- C-026 · velas que podem e velas que nunca: o guia de segurança do wax play: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
-- C-062 · ser submissa me faz menos feminista? o equívoco que precisa ser desfeito: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
-- Qual kit para cada momento: Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
+**Mudanças na fila (28/10/2026 17:15):**
+- C-106 · 5 mitos sobre submissão: data de postagem 02/11 -> 28/10
+- C-106 · 5 mitos sobre submissão: prazo de entrega 30/10 -> 28/10
+- C-046 · o que o fetiche revela sobre você que outras experiências não revelam: data de postagem 28/10 -> 02/11
+- C-046 · o que o fetiche revela sobre você que outras experiências não revelam: prazo de entrega 26/10 -> 30/10
 
 **Atenção:**
 - 23/10: a pauta tem 'Foto de prática com uma frase [fila:P2]' no slot de 'Cinco segundos: quase uma foto'; registrar a troca na fila
 - 23/10 Cinco segundos: quase uma foto (vídeo de prática d: há post no ar nesse dia (https://www.instagram.com/reel/De1ZF0uFbkc/); confirmar a postagem na pauta
 - 23/10 Cinco segundos: quase uma foto (vídeo de prática do acervo, : entrega de 22/10 atrasada (Briefing)
 - 26/10 Reel A · primeiros minutos com a corda (Kit Shibari Iniciant: entrega de 25/10 atrasada (Briefing)
-- 28/10 C-046 · o que o fetiche revela sobre você que outr: há post no ar nesse dia (https://www.instagram.com/p/DfCfMXblz1i/); confirmar a postagem na pauta
-- 28/10 C-046 · o que o fetiche revela sobre você que outras experiê: entrega de 26/10 atrasada (Briefing)
+- 28/10 C-106 · 5 mitos sobre submissão: há post no ar nesse dia (https://www.instagram.com/p/DfCfMXblz1i/); confirmar a postagem na pauta
 
 > Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 28/10/2026 17:04. Atualizar: `python scripts/status_instagram.py`.
 
@@ -34,10 +30,10 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 | 21/10 | C-086 · sinais de que a pessoa pratica com responsabilidade (bandeiras verdes) | Carrossel livre | sinais de quem pratica com responsabilidade | — | 21/10 | Bia | Publicado (Instagram: no ar) | Instagram: NO AR 21/10 18:00 |
 | 23/10 | Cinco segundos: quase uma foto (vídeo de prática do acervo, com legenda do Hugo) | Reel curto (5 s) de prática | identificação (memória e desejo) | — | 22/10 | Hugo | Briefing | a peça da pauta não bate com a da fila; post no ar nesse dia; ENTREGA ATRASADA |
 | 26/10 | Reel A · primeiros minutos com a corda (Kit Shibari Iniciante em uso) | Reel A (Trial Reel antes) | primeira sessão com o kit | 1 | 25/10 | Hugo | Briefing | ENTREGA ATRASADA |
-| 28/10 | C-046 · o que o fetiche revela sobre você que outras experiências não revelam | Carrossel livre | fetiche como pista do que a pessoa busca (autoconhecimento) | — | 26/10 | Julia, Ana, Bia | Briefing | post no ar nesse dia; ENTREGA ATRASADA |
+| 28/10 | C-106 · 5 mitos sobre submissão | Desatando mitos | submissão (mitos) | — | 28/10 | Julia, Ana, Bia | Briefing | post no ar nesse dia |
 | 30/10 | Por trás do desejo · pet play | Por trás do desejo (4 páginas) | pet play (prática de papel e entrega) | — | 29/10 | Julia, Ana, Bia | Briefing |  |
 | 31/10 (extra) | Extra casual 1 · Time doce × Time travessura (spanking: formas brandas × intensas, Halloween) | Post de Duelo (time doce × time travessura) | spanking: do brando ao intenso (identificação e compartilhamento) | — | 30/10 | Hugo | Agendado |  |
-| 02/11 | C-106 · 5 mitos sobre submissão | Desatando mitos | submissão (mitos) | — | 30/10 | Julia, Ana, Bia | Briefing |  |
+| 02/11 | C-046 · o que o fetiche revela sobre você que outras experiências não revelam | Carrossel livre | fetiche como pista do que a pessoa busca (autoconhecimento) | — | 30/10 | Julia, Ana, Bia | Briefing |  |
 | 04/11 | C-107 · o limite de alguém não é um desafio pra você vencer | Post de frase | limite de quem ouve um não (frase) | — | 03/11 | Hugo (texto no time), Bia | Briefing |  |
 | 06/11 | Foto de produto: óleo e cera de tratamento em uso (Hugo na cena, sem comando de venda) | Foto de produto | óleo e cera de tratamento (produto) | 3 | 05/11 | Hugo + Julia | Briefing |  |
 | 09/11 | Reel C · três passos para guardar a corda (óleo e pano em uso) | Reel C (Trial Reel antes) | guardar a corda (Reel) | 3 | 08/11 | Hugo | Briefing |  |
@@ -107,9 +103,8 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 | Qual kit para cada momento [fila:P13] (posta 18/11; briefing até 04/11 com o Hugo) | Carrossel Livre (Instagram) | a criar: Julia; a Julia confirma a composição dos kits com o Hugo | Produto direto, arco 1; depende da Black Friday; linha do cashback |
 | Reel B · o que a gente confere antes de amarrar [fila:P14] (posta 20/11; gravar na sessão 2, entre 09 e 16/11; legenda até 18/11) | Instagram Vídeo | roteiro pronto em `estrategia/material/roteiros/roteiros-reels-fase1-2026-10-19.md` | Tesoura de segurança em cena, arco 2; end card do cashback |
 | C-107 [fila:P7] — o limite de alguém não é um desafio pra você vencer (posta 04/11; arte 03/11; substitui a C-088, que vai para a reserva; legenda-base no briefing; Hugo conduz a produção textual direto no time; C-108 e C-109 no backlog) | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/limite-nao-e-desafio/briefing.md` | Frase com posição clara sobre quem ouve um limite |
-| C-106 [fila:P6] — 5 mitos sobre submissão (posta 02/11; texto 27/10, revisão 28/10, arte 30/10; entra no lugar do carrossel de cuidar da corda por decisão do Hugo em 21/10) | Post Desatando Mitos (Instagram) | `conteudos/instagram-post-desatando-mitos/desatando-mitos-submissao/briefing.md` | Corrigir 5 equívocos sobre submissão (fraqueza, voz, dor, passividade, submissão fora da cena) |
 | Por trás do desejo — pet play [fila:P5] (posta 30/10; texto 26/10, revisão 27/10, arte 29/10; tema escolhido pela Mari a pedido do Hugo em 21/10) | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/pet-play/briefing.md` | Prática de papel e entrega: persona de animal, acessórios e jogo entre quem encarna e quem conduz |
-| C-046 [fila:P4] — o que o fetiche revela sobre você que outras experiências não revelam (posta 28/10; texto 23/10, revisão 24/10, arte 26/10) | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/o-que-o-fetiche-revela/briefing.md` | Fetiche como pista do que a pessoa busca na experiência; perguntas de autoconhecimento, sem psicologizar |
+| C-046 [fila:P4] — o que o fetiche revela sobre você que outras experiências não revelam (posta 02/11; era de 28/10 e trocou de lugar com a C-106 em 28/10; arte até 30/10) | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/o-que-o-fetiche-revela/briefing.md` | Fetiche como pista do que a pessoa busca na experiência; perguntas de autoconhecimento, sem psicologizar |
 ---
 
 ## ✏️ Em Produção — Julia
@@ -179,6 +174,7 @@ O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualqu
 | Título | Tipo de Conteúdo | Arquivo | Publicado em |
 |---|---|---|---|
 | C-086 — sinais de que a pessoa pratica com responsabilidade | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/bandeiras-verdes-praticas/` | 21/10/2026 (18:00, confirmado pela fila de publicação) |
+| C-106 [fila:P6] — 5 mitos sobre submissão (1º post no layout novo do Desatando mitos; era de 02/11 e trocou de lugar com a C-046) | Post Desatando Mitos (Instagram) | `conteudos/instagram-post-desatando-mitos/desatando-mitos-submissao/` | 28/10/2026 (postado pelo Hugo; https://www.instagram.com/p/DfCfMXblz1i/) |
 | C-105 — bingo da primeira amarração | Post de Bingo (Instagram) | `conteudos/instagram-post-de-bingo/bingo-da-primeira-amarracao/` | 10/10/2026 (confirmado no perfil pela Mari em 21/10; formato em teste, 1º de 3) |
 | C-095 — 5 mitos sobre a cultura leather | Post Desatando Mitos | `conteudos/instagram-post-desatando-mitos/desatando-mitos-cultura-leather/` | 07/10/2026 |
 | C-092 — o que é dominação e submissão (D/s) | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/dinamica-ds/` | 30/09/2026 |

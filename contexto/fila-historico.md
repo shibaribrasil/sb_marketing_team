@@ -27,3 +27,9 @@
 - C-062 · ser submissa me faz menos feminista? o equívoco que precisa ser desfeito: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
 - Qual kit para cada momento: Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda: responsável Caio, Julia, Ana, Bia -> Julia, Ana, Bia
 
+## 28/10/2026 17:15 (fila vv11 (rascunho, não aprovado))
+- C-106 · 5 mitos sobre submissão: data de postagem 02/11 -> 28/10
+- C-106 · 5 mitos sobre submissão: prazo de entrega 30/10 -> 28/10
+- C-046 · o que o fetiche revela sobre você que outras experiências não revelam: data de postagem 28/10 -> 02/11
+- C-046 · o que o fetiche revela sobre você que outras experiências não revelam: prazo de entrega 26/10 -> 30/10
+
