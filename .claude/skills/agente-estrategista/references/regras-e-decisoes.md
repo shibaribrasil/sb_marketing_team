@@ -2,6 +2,14 @@
 
 > Decisões do Hugo e regras de leitura. Acrescente com data a cada nova decisão. Não repita erro já pago.
 
+## Decisão de 28/10/2026 (Hugo): reavaliar a sequência olhando o fundo do último post
+
+- Ao reavaliar, o fundo do último post publicado entra na conta. Exemplo que motivou: a C-106 saiu em Warm Light (claro) e o pet play seguinte estava sugerido em Warm Light. Regra: não repetir a cor e alternar claro e escuro. Implementado em `checar_cores` (gerador do artefato).
+
+## Decisão de 28/10/2026 (Hugo): slot atrasado sai da grade e a sequência é reprogramada
+
+- Quando a verificação das publicações mostra que um slot da sequência **não foi postado na data**, ele **não pode aparecer no artefato entre posts já publicados** (como o Reel A de 26/10, que aparecia entre dois posts feitos). Vai para o bloco "Atrasado" e **o Leo reprograma a sequência com o Hugo** (nova data, nova ordem). Implementado em `gerar_artefato_sequencia.py` e no template.
+
 ## Decisão de 27/10/2026 (Hugo): a gestão da fila vive no marketing
 
 - O papel do antigo `especialista-instagram` (admin) migrou para o **Leo (`agente-estrategista`)**, no `sb_marketing_team`: fila e sequência, leitura de resultado, mineração de ideias. Motivo: ideias e briefings nasciam fora da voz e eram corrigidos só no texto, gerando backlog de "visões" sem interesse. **Regra:** toda ideia cita a âncora no núcleo; tema sem posição do Hugo vira pergunta para ele. Onde abaixo se lê "especialista", leia "Leo"; onde se lê "o Hugo leva à Mari", leia "o Leo propõe, o Hugo aprova a fila".

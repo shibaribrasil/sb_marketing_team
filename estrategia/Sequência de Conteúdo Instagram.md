@@ -1,7 +1,7 @@
 # Sequência de Conteúdo Instagram — @shibari.brasil
 
 > Arquivo vivo do **Planejador de Sequência** (`.claude/skills/agente-estrategista/references/planejador-de-sequencia.md`). Aqui ficam a sequência vigente, as ordens de produção e de captação, as decisões do Hugo e o histórico de versões. **Quem decide é o Hugo**; o Planejador propõe, justifica e registra. O time de marketing (Mari) produz e confirma a postagem.
-> **Versão vigente: v10 (rascunho para aprovação, 21/10/2026).** Fonte estruturada: `estrategia/sequencia-instagram-plano.json`. Visual: https://claude.ai/artifact/HgQRgWVEAtJhH2oLdprhDF.
+> **Versão vigente: v12 (rascunho para aprovação, 28/10/2026).** Fonte estruturada: `estrategia/sequencia-instagram-plano.json`. Visual: https://claude.ai/artifact/DR9doaKArQHDPQPfJQFRj4.
 
 ## 1. Direção (Hugo, 19/10/2026)
 
@@ -44,18 +44,18 @@
 | 8 | sex 06/11 | **Foto de produto** | **Óleo e cera de tratamento em uso** (sem arte e sem comando de venda) · **PRODUTO** | óleo e cera | foto, fundo natural | 05/11 | Hugo + Julia |
 | 9 | seg 09/11 | **Reel C** | **Três passos para guardar a corda** (óleo e pano em uso) | guardar a corda | — | 08/11 | Hugo |
 | 10 | qua 11/11 | Carrossel educativo (velas) | **C-026 velas que podem e velas que nunca**: guia de segurança do wax play · **PRODUTO** | wax play (velas e segurança) | Skin Nude | 10/11 | Julia, Ana, Bia |
-| 11 | sex 13/11 | Post de produto | **C-003** a curadoria de cordas, cada uma no seu propósito · **PRODUTO** | curadoria de cordas | Warm Light | 12/11 | Bia |
+| 11 | sex 13/11 | Carrossel livre | **C-004** de onde vem a corda: do hojojutsu ao shibari (**no lugar da C-003, por pedido do Hugo em 28/10**; precisa da posição do Hugo até 04/11) | origem do shibari (hojojutsu) | Warm Light | 12/11 | Julia, Ana, Bia |
 | extra | sáb 14/11 | Casual | **Extra 2**: ideia do Hugo (muda 1 fator do extra 1) | a definir | a definir | 13/11 | Hugo, Julia/Bia |
 | 12 | seg 16/11 | Carrossel livre | **C-062** ser submissa me faz menos feminista? | submissão e feminismo | Deep Plum | 13/11 | Julia, Ana, Bia |
 | 13 | qua 18/11 | Carrossel livre (explicativo de produto) | **Qual kit para cada momento**: Kit Iniciante, Kit para Estudo e Kit Corda a Corda · **PRODUTO** | qual kit escolher | Warm Light | 17/11 | Julia, Ana, Bia |
 | 14 | sex 20/11 | **Reel B** | **O que a gente confere antes de amarrar** (tesoura em cena) | checklist antes de amarrar | — | 19/11 | Hugo |
 | — | seg 23/11, qua 25/11, sex 27/11, seg 30/11 | **Reservados: Black Friday** | Conteúdo definido na conversa separada da Black Friday | Black Friday | a definir | 20 a 26/11 | Hugo + Planejador |
 
-**Produto direto em novembro: 4 de 9 planejados** (foto de óleo e cera, velas de wax play C-026, C-003, "qual kit"), de quatro tipos diferentes, **mais os 4 slots da Black Friday**; Reels e carrosséis com produto dentro somam a mais. Cada mês tem cerca de 12 posts: novembro tem 13 slots (9 + 4 da campanha).
+**Produto direto em novembro: 3 de 9 planejados** (foto de óleo e cera, velas de wax play C-026, "qual kit"), de tipos diferentes (foto de produto, conteúdo explicativo e conteúdo explicativo de kit), **mais os 4 slots da Black Friday**; Reels e carrosséis com produto dentro somam a mais. Cada mês tem cerca de 12 posts: novembro tem 13 slots (9 + 4 da campanha).
 
 **Dezembro** começa a ser planejado em torno de 16 a 20/11, depois da definição da Black Friday.
 
-**Arcos de produto:** 1 Kit Shibari Iniciante (Reel A e carrossel "qual kit"), 2 Tesoura de segurança (Reel B, 20/11) e 3 Cuidar da corda e curadoria (carrossel, foto de produto de óleo e cera, Reel C e C-003). **Stories de vitrine** (kit, óleo e cera, tesoura e curadoria; o bastidor do tratamento vira Stories), sem chamada de venda e sem impulsionar, com a linha do cashback.
+**Arcos de produto:** 1 Kit Shibari Iniciante (Reel A e carrossel "qual kit"), 2 Tesoura de segurança (Reel B, 20/11) e 3 Cuidar da corda (foto de produto de óleo e cera e Reel C). **Stories de vitrine** (kit, óleo e cera, tesoura e cordas; o bastidor do tratamento vira Stories), sem chamada de venda e sem impulsionar, com a linha do cashback.
 
 **Assuntos próximos para decidir juntos (sem padrão fixo, caso a caso):**
 1. **Conversa, dinâmica e segurança:** C-086 (21/10) e C-107 (04/11, limite); o Reel A (26/10) e o Reel B (20/11) também tratam de conversa e segurança. Opções: manter e ler cada um em 72 h, trocando o seguinte se o anterior ficar abaixo da mediana; trocar a C-088 por prática do banco (single column tie C-030, hojojutsu C-004, switch C-041); ou outra ordem.
@@ -86,11 +86,11 @@
 ## 5. Onde entram C-090, C-079, C-082, C-083, C-088 e C-003
 
 - **C-079 já está no ar** (decisão do Hugo em 21/10): é o mesmo conteúdo da C-057 repostada em 18/09, só com o fundo Carbon Black. Sai do plano; a Ana marca no histórico.
-- **C-083 pausada** (decisão do Hugo, 21/10): sai do slot de 28/10, que passa para a C-046; texto pronto, fica na reserva.
+- **C-083 arquivada** (decisão do Hugo, 28/10; estava pausada desde 21/10): o Hugo não gostou da peça.
 - **C-088 substituída pela C-107** (decisão do Hugo, 21/10: frase com mais engajamento); texto pronto, fica na reserva. C-108 e C-109 entram no backlog de frases.
 - **C-082 fora do ciclo** (decisão do Hugo, 21/10): sem arte; fica na reserva. A C-086 sobe para 21/10 e a C-083 (texto pronto, arte destravada) entra em 28/10.
-- **C-090: descartar do feed.** Frase quase igual à de @kyntv101 e tema já coberto pela C-091. Se o Hugo quiser aproveitar a ideia, a Julia reescreve com ângulo próprio (candidata natural a **frase de posicionamento** dos extras, desde que com posição clara).
-- **C-003 (post de produto) entra em 13/11**, como um dos 3 posts diretamente sobre produto de novembro.
+- **C-090: descartada do feed (decisão do Hugo, 28/10).** Frase quase igual à de @kyntv101 e tema já coberto pela C-091. Se o Hugo quiser aproveitar a ideia, a Julia reescreve com ângulo próprio (candidata natural a **frase de posicionamento** dos extras, desde que com posição clara).
+- **C-003 (post de produto) saiu da sequência** (pedido do Hugo, 28/10: não gostou da peça). O slot de 13/11 passa para o hojojutsu (C-004), carrossel educativo de shibari. Novembro segue com 3 posts diretos de produto.
 
 ## 6. Cashback de 10% em todas as compras (informação obrigatória em peça com produto)
 
@@ -120,7 +120,7 @@ Tratada em conversa derivada, só com esse assunto (aberta em 19/10). Insumos: n
 | 6 | Cashback de 10% | Obrigatório em peça com produto | Confirmar o aceite do checkout e os termos no feed |
 | 7 | Por trás do desejo | **Karada saiu** (é amarração, não fetiche) e **sensation play saiu** (já saiu em 02/07, C-037). Quadro é para explicar um fetiche ou prática | **Hugo escolher o tema de 30/10** (sugestão: pet play) até 22/10 |
 | 8 | Extras | **Só casuais** por ora e em ritmo leve (**1 a cada 2 semanas**, não todo sábado); frases ficam nos slots normais | **Hugo trazer as ideias** (extra de 31/10 até 28/10; o de 14/11 até 11/11) |
-| 9 | C-079, C-082 e C-090 | **C-079 já no ar** (= C-057, 18/09); **C-082 fora do ciclo**; C-090 proposta de descartar | Hugo aprovar o descarte da C-090 |
+| 9 | C-079, C-082 e C-090 | **C-079 já no ar** (= C-057, 18/09); **C-082 fora do ciclo**; C-090 descartada (28/10) | Hugo aprovar o descarte da C-090 |
 | 10 | Reel | Dá para gravar; roteiro pronto | Dia da sessão 1 (22 ou 23/10) |
 | 11 | Black Friday | Conversa separada | Tema, oferta, janela e margem |
 | 12 | Fila de produção | Prioridade do marketing | Levar à Mari o briefing de mudanças |
@@ -140,3 +140,4 @@ Tratada em conversa derivada, só com esse assunto (aberta em 19/10). Insumos: n
 | 21/10/2026 | **v9 (rascunho)** | **C-082 sai e C-086 sobe para 21/10; C-079 sai (já está no ar); C-083 entra em 28/10; karada e sensation play saem** (karada não é fetiche; sensation play já saiu em 02/07); Por trás do desejo de 30/10 vira tema a escolher; **wax play (C-026, velas, produto direto) entra em 11/11**; C-062 em 16/11; mais conteúdo de BDSM e fetiche |
 | 21/10/2026 | **v10 (rascunho)** | **C-083 pausada e C-046 entra em 28/10; pet play escolhido para 30/10; Desatando mitos de submissão (C-106) em 02/11 no lugar do carrossel de cuidar da corda; frase C-107 (limite) em 04/11 no lugar da C-088**; C-108 e C-109 no backlog de frases |
 | 22/10/2026 | **v11 (rascunho)** | **Sex 23/10 vira Reel curto de prática ("Cinco segundos: quase uma foto"), vídeo do acervo do Hugo no lugar da foto; agendado no mLabs para 08:40 (Brasília), legenda do Hugo.** A foto de prática volta ao banco. O publicador por API ainda não aceita Reels (fica para 23/10 em diante) |
+| 28/10/2026 | **v12 (rascunho)** | **Hugo não gostou da C-079, da C-090, da C-083 e da C-003.** C-003 sai do slot de 13/11 e entra o carrossel do hojojutsu (C-004, escolhido pelo Hugo); C-083 arquivada, C-090 descartada, C-079 confirmada como o mesmo conteúdo da C-057; novembro fica com 3 posts diretos de produto |

@@ -33,3 +33,7 @@
 - C-046 · o que o fetiche revela sobre você que outras experiências não revelam: data de postagem 28/10 -> 02/11
 - C-046 · o que o fetiche revela sobre você que outras experiências não revelam: prazo de entrega 26/10 -> 30/10
 
+## 28/10/2026 20:55 (fila vv12 (rascunho, não aprovado))
+- slot P11: 'C-003 · a curadoria de cordas da Shibari Brasil, cada uma no seu propósito' virou 'C-004 · de onde vem a corda: do hojojutsu ao shibari'
+- C-004 · de onde vem a corda: do hojojutsu ao shibari: responsável Bia -> Julia, Ana, Bia
+

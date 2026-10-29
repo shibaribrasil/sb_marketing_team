@@ -32,8 +32,8 @@ MKT = pxp.MKT
 CLARO, ESCURO = {"warm light", "skin nude"}, {"deep plum", "carbon black"}
 DIAS_POST = (0, 2, 4)  # seg, qua, sex (Organização Semanal: feed seg/qua/sex)
 DIAS_PT = ["seg", "ter", "qua", "qui", "sex", "sáb", "dom"]
-EM_ESPERA = {"C-090": "decisão do Hugo (07/10): em espera; frase parecida com post de terceiro (@kyntv101)",
-             "C-079": "decisão do Hugo (07/10): em espera"}
+EM_ESPERA = {"C-090": "descartada pelo Hugo (28/10); frase parecida com post de terceiro (@kyntv101)",
+             "C-079": "mesmo conteúdo da C-057, no ar em 18/09 (confirmado em 28/10)"}
 # Datas que mexem na pauta (confirmar com o Hugo; não é calendário oficial)
 DATAS = {date(2026, 10, 31): "Halloween (sáb)", date(2026, 11, 27): "Black Friday (sex)"}
 

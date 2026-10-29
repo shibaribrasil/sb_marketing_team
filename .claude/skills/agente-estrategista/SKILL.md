@@ -85,7 +85,7 @@ Carregar só o que o pedido exige:
 - `estrategia/Sequência de Conteúdo Instagram.md`: arquivo vivo com decisões e versão congelada.
 - `estrategia/capas/`: cache das capas dos posts. `estrategia/material/`: briefings, roteiros e referências antigos.
 - `estrategia/historico-especialista-instagram.md`: diário completo da fase anterior (inclui o teste de públicos da Meta, que é assunto de anúncios).
-- **Artefato da sequência:** `scripts/atualizar_artefato.py` regenera `estrategia/sequencia-instagram.html` (via `gerar_artefato_sequencia.py`) e imprime `MUDOU` ou `IGUAL` comparando com a última versão publicada. Se `MUDOU`, publicar o HTML com a ferramenta Artifact no mesmo link (https://claude.ai/artifact/HgQRgWVEAtJhH2oLdprhDF; ler o artefato antes) e rodar de novo com `--gravar-hash`. Última publicação: versão 19, em 27/10/2026. A tarefa agendada diária (08:15 e 14:15, só com o app aberto) ainda não foi criada: o modo automático negou a criação e depende da decisão do Hugo (pendência 3 do plano).
+- **Artefato da sequência:** `scripts/atualizar_artefato.py` regenera `estrategia/sequencia-instagram.html` (via `gerar_artefato_sequencia.py`) e imprime `MUDOU` ou `IGUAL` comparando com a última versão publicada. Se `MUDOU`, publicar o HTML com a ferramenta Artifact no mesmo link (https://claude.ai/artifact/DR9doaKArQHDPQPfJQFRj4; ler o artefato antes) e rodar de novo com `--gravar-hash`. Última publicação: versão 19, em 27/10/2026. A tarefa agendada diária (08:15 e 14:15, só com o app aberto) ainda não foi criada: o modo automático negou a criação e depende da decisão do Hugo (pendência 3 do plano).
 
 ## Backlog
 

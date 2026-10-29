@@ -8,7 +8,7 @@ Uso (interpretador do sb_relatorios):
   python atualizar_artefato.py --gravar-hash   # depois de PUBLICAR, grava o hash como "última versão publicada"
 
 Saída da primeira linha: `MUDOU` ou `IGUAL`. Depois de `MUDOU`, publicar `estrategia/sequencia-instagram.html` com a
-ferramenta Artifact no mesmo link (https://claude.ai/artifact/HgQRgWVEAtJhH2oLdprhDF) e rodar de novo com `--gravar-hash`.
+ferramenta Artifact no mesmo link (https://claude.ai/artifact/DR9doaKArQHDPQPfJQFRj4) e rodar de novo com `--gravar-hash`.
 """
 import argparse
 import hashlib
@@ -47,6 +47,13 @@ def main():
     anterior = HASH.read_text(encoding="utf-8").strip() if HASH.exists() else ""
     print("MUDOU" if atual != anterior else "IGUAL")
     print([l for l in r.stdout.splitlines() if l.startswith("gravado")][-1:] or "")
+    linhas = r.stdout.splitlines()
+    for l in linhas:
+        if l.startswith("COR:"):
+            print(l)
+    if any(l.startswith("REPROGRAMAR") for l in linhas):
+        i = [n for n, l in enumerate(linhas) if l.startswith("REPROGRAMAR")][0]
+        print(chr(10).join(linhas[i:i + 12]))
 
 
 if __name__ == "__main__":

@@ -1,6 +1,6 @@
 {
- "versao": "v11 (rascunho, não aprovado)",
- "atualizado_em": "2026-10-22",
+ "versao": "v12 (rascunho, não aprovado)",
+ "atualizado_em": "2026-10-28",
  "itens": {
   "P1": {
    "data": "2026-10-21",
@@ -103,12 +103,12 @@
   },
   "P11": {
    "data": "2026-11-13",
-   "titulo": "C-003 · a curadoria de cordas da Shibari Brasil, cada uma no seu propósito",
-   "formato": "Post de produto",
+   "titulo": "C-004 · de onde vem a corda: do hojojutsu ao shibari",
+   "formato": "Carrossel livre",
    "prazo": "2026-11-12",
-   "responsavel": "Bia",
-   "assunto": "curadoria de cordas (produto)",
-   "arco": 3
+   "responsavel": "Julia, Ana, Bia",
+   "assunto": "origem do shibari (hojojutsu)",
+   "arco": null
   },
   "X2": {
    "data": "2026-11-14",
@@ -184,12 +184,10 @@
   }
  },
  "ultimas_mudancas": {
-  "quando": "28/10/2026 17:15",
+  "quando": "28/10/2026 20:55",
   "itens": [
-   "C-106 · 5 mitos sobre submissão: data de postagem 02/11 -> 28/10",
-   "C-106 · 5 mitos sobre submissão: prazo de entrega 30/10 -> 28/10",
-   "C-046 · o que o fetiche revela sobre você que outras experiências não revelam: data de postagem 28/10 -> 02/11",
-   "C-046 · o que o fetiche revela sobre você que outras experiências não revelam: prazo de entrega 26/10 -> 30/10"
+   "slot P11: 'C-003 · a curadoria de cordas da Shibari Brasil, cada uma no seu propósito' virou 'C-004 · de onde vem a corda: do hojojutsu ao shibari'",
+   "C-004 · de onde vem a corda: do hojojutsu ao shibari: responsável Bia -> Julia, Ana, Bia"
   ]
  }
 }

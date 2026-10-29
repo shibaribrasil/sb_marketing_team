@@ -6,7 +6,7 @@
 
 - **Dados:** extrator do Instagram e do Meta Ads no ar (`sb_data_pipeline`, function `instagram`, 3 extrações por dia: 07:50, 13:50 e 21:50), modelos dbt `tb_instagram_*` na camada az e página "Instagram" no Streamlit (Semana, Peças, Anúncios, Audiência e atendimento). As 13 consultas prontas estão em `consultas-instagram.md` (admin).
 - **Fila e sequência:** plano em `estrategia/sequencia-instagram-plano.json` (versão v11, rascunho não aprovado, de 22/10/2026) e arquivo vivo `estrategia/Sequência de Conteúdo Instagram.md`. `scripts/sincronizar_fila.py` copia a fila para a `pauta.md` no início de cada sessão.
-- **Artefato visual da sequência:** https://claude.ai/artifact/HgQRgWVEAtJhH2oLdprhDF (grade do feed e produção). Gerado por `scripts/gerar_artefato_sequencia.py`. **Desatualizado:** ainda cita o Pedro; será atualizado no fim da reestruturação do marketing.
+- **Artefato visual da sequência:** https://claude.ai/artifact/DR9doaKArQHDPQPfJQFRj4 (grade do feed e produção). Gerado por `scripts/gerar_artefato_sequencia.py`. **Desatualizado:** ainda cita o Pedro; será atualizado no fim da reestruturação do marketing.
 - **Conhecimento da plataforma:** `algoritmo-e-plataforma.md` e `risco-de-alcance-nicho.md` (pesquisa de 07/out/2026; refazer se passar de 45 dias).
 - **Núcleo de voz (`sb_cerebro`)** com 80 posições, `identidade.md`, `voz.md`, estudos do Instagram (rodadas 1 e 2) e biblioteca inicial.
 
@@ -31,3 +31,7 @@
 ## Registro de mudanças
 
 - **27/10/2026:** papel migrado do `especialista-instagram` (admin) para o Leo (`agente-estrategista`, marketing). Plano, arquivo vivo, capas e material foram movidos para `estrategia/`; `sincronizar_fila.py` passou a ler o plano dentro do repositório. Consultas do BigQuery e documentação da API da Meta ficaram no admin. Regra nova: toda ideia cita âncora no núcleo.
+
+- **28/10/2026:** sequência v12 (rascunho): Hugo não gostou da C-079, C-090, C-083 e C-003; a C-003 saiu do slot de 13/11 e entrou o carrossel do hojojutsu (C-004, escolhido pelo Hugo, aguardando a posição dele); C-083 arquivada e C-090 descartada. O artefato mudou de link (o antigo não abre mais): agora https://claude.ai/artifact/DR9doaKArQHDPQPfJQFRj4. Próxima ação: Hugo aprovar a v12 na sexta e dar a posição sobre o hojojutsu até 04/11.
+
+- **28/10/2026 (2):** regra do atraso implementada: slot vencido e sem post no ar sai da grade do artefato e vai para o bloco "Atrasado"; `atualizar_artefato.py` imprime `REPROGRAMAR:`. Post publicado fora do publicador (mLabs) sai do plano pelo código da peça ou pela data (ex.: a C-106, no ar em 28/10). Hugo respondeu que só grava a sessão 1 (Reels A e C, foto de prática, fotos de óleo e cera) na semana de 09 a 16/11: Reel A (26/10), Reel C (09/11) e a foto de produto de óleo e cera (06/11) precisam ser reprogramados. Proposta pendente de aprovação do Hugo: ver a mensagem da sessão.

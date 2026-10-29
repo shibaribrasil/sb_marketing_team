@@ -2,6 +2,8 @@
 
 > **CONGELADO em 27/10/2026.** Banco legado do antigo Caio (agente extinto). Não recebe entrada nova: ideias novas vão ao Backlog da `pauta.md`, pelo Leo, com âncora no núcleo de voz. Será consolidado e podado pelo Leo, com a lista aprovada pelo Hugo. Os scripts do Leo ainda o leem.
 
+> **Consolidado em 28/10/2026 (revisão de voz, com a aprovação do Hugo).** Os briefings em Backlog foram revisados com o núcleo de voz: títulos reescritos, 24 arquivados ou fundidos e 5 adiados. Os títulos antigos, o veredito e o motivo de cada um estão em `contexto/briefings-revisao-voz.md`. O banco continua congelado para entrada nova.
+
 > Registro permanente de todas as ideias briefadas por território. Cresce continuamente — nunca se apaga.
 > Cada território do backlog do Leo pode gerar múltiplos briefings em formatos e ângulos diferentes.
 > Quando uma peça é selecionada para produção, Caio cria o `briefing.md` completo e move para a pauta.
@@ -33,10 +35,10 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
 | C-001 | O que muda entre juta, algodão e sintético na sua primeira corda | Carrossel Instagram | Mariana | ✅ Publicado (02/09) | `conteudos/instagram-carrossel-livre/primeira-corda-materiais/texto.md` |
-| C-002 | O que ninguém te conta sobre a primeira corda | Post único Instagram | Mariana | 🗂 Backlog | — |
-| C-003 | A curadoria de cordas da Shibari Brasil — cada uma no seu propósito | Post de produto | Mariana, Thiago | 🎨 Design em Produção | `conteudos/instagram-post-produto/corda-de-juta-tratamento-artesanal/texto.md` |
-| C-016 | Juta, algodão ou sintético? Guia completo para escolher a corda certa no shibari | Post para Blog | Mariana, Thiago | 🗂 Backlog | — |
-| C-017 | Primeira corda de shibari: não é sobre qual material é melhor — é sobre o seu momento de prática | Post para Blog | Mariana | 🗂 Backlog | — |
+| C-002 | O que ninguém te conta sobre a primeira corda | Post único Instagram | Mariana | 🗃 Arquivado (revisão de voz, 28/10/2026: Chamada de clique, reprovada como "uma IA falando do assunto"; o tema já foi coberto pelo...) | — |
+| C-003 | A curadoria de cordas da Shibari Brasil — cada uma no seu propósito | Post de produto | Mariana, Thiago | 🗃 Arquivado (Hugo, 28/10/2026: não gostou da peça; saiu da sequência) | `conteudos/instagram-post-produto/corda-de-juta-tratamento-artesanal/texto.md` |
+| C-016 | Juta, algodão ou sintético: qual corda para qual momento | Post para Blog | Mariana, Thiago | 🗂 Backlog | — |
+| C-017 | Primeira corda de shibari: não é sobre qual material é melhor — é sobre o seu momento de prática | Post para Blog | Mariana | 🗃 Arquivado (fundido no C-016 na revisão de voz, 28/10/2026) | — |
 
 ---
 
@@ -45,10 +47,10 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-004 | De técnica policial a arte — como o hojojutsu se tornou shibari | Post educativo Instagram | Thiago, Mariana | 🗂 Backlog | — |
-| C-005 | A corda sempre teve poder. O que mudou foi quem decide como ele é usado. | Post conceitual Instagram | Todas | 🗂 Backlog | — |
-| C-006 | O que é hojojutsu — e o que tem a ver com a corda nas suas mãos | Rapidinha Instagram | Mariana | 🗂 Backlog | — |
-| C-018 | Hojojutsu: a técnica marcial japonesa que originou o shibari e o kinbaku | Post para Blog | Thiago, Mariana | 🗂 Backlog | — |
+| C-004 | De onde vem a corda: do hojojutsu ao shibari | Post educativo Instagram | Thiago, Mariana | 🗂 Backlog (slot 13/11 da sequência v12, aguardando a posição do Hugo) | — |
+| C-005 | A corda sempre teve poder. O que mudou foi quem decide como ele é usado. | Post conceitual Instagram | Todas | 🗃 Arquivado (revisão de voz, 28/10/2026: Frases curtas em sequência, fecho de efeito e sentencia.) | — |
+| C-006 | O que é hojojutsu e o que ele tem a ver com o shibari | Rapidinha Instagram | Mariana | 🗂 Backlog | — |
+| C-018 | Hojojutsu: de onde vem o shibari, segundo as fontes que lemos | Post para Blog | Thiago, Mariana | 🗂 Backlog | — |
 
 ---
 
@@ -57,11 +59,11 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-007 | Aftercare: por que faz parte da sessão, não do depois | Post educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
+| C-007 | O que é aftercare e por que entra na cena | Post educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
 | C-008 | A corda sai, a presença fica. | Post de Frase | Todas | ✅ Publicado (25/06) | `conteudos/instagram-post-de-frase/a-corda-sai-a-presenca-nao/briefing.md` |
-| C-009 | Como fazer aftercare — o que ajuda, o que atrapalha, o que depende de cada pessoa | Carrossel Instagram | Mariana, Alex | 🗂 Backlog | — |
-| C-019 | O que é aftercare no shibari e no BDSM — e por que a sessão não termina na última amarra | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
-| C-020 | Como praticar aftercare: guia completo para cuidar de quem você amarrou — e de quem te amarrou | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
+| C-009 | Aftercare: o que costuma ajudar, o que atrapalha e como muda de pessoa para pessoa | Carrossel Instagram | Mariana, Alex | 🗂 Backlog | — |
+| C-019 | O que é aftercare no shibari e no BDSM e por que faz parte da cena | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
+| C-020 | Como praticar aftercare: guia completo para cuidar de quem você amarrou — e de quem te amarrou | Post para Blog | Mariana, Alex | 🗃 Arquivado (fundido no C-019 na revisão de voz, 28/10/2026) | — |
 
 ---
 
@@ -70,11 +72,11 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-010 | Consentimento não é uma conversa — é uma prática | Post educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
-| C-011 | O que é safeword — e como definir uma que funciona de verdade | Rapidinha Instagram | Mariana | 🗂 Backlog | — |
-| C-012 | Combinar antes é o mínimo. O resto é presença. | Post conceitual Instagram | Todas | 🗂 Backlog | — |
+| C-010 | Consentimento não é uma conversa — é uma prática | Post educativo Instagram | Mariana, Alex | 🗃 Arquivado (revisão de voz, 28/10/2026: Antítese de efeito. Substituído por "Consentimento inicial e consentimento contínuo: o que...) | — |
+| C-011 | O que é safeword e como combinar uma que funcione | Rapidinha Instagram | Mariana | 🗂 Backlog | — |
+| C-012 | Combinar antes é o mínimo. O resto é presença. | Post conceitual Instagram | Todas | 🗃 Arquivado (revisão de voz, 28/10/2026: Frases curtas em sequência; o C-090 e o C-091 (conversa antes da cena) já cobriram o eixo.) | — |
 | C-021 | Consentimento no BDSM e no shibari: o que é, por que é contínuo e como praticá-lo na cena | Post para Blog | Mariana, Alex | ✅ Aguardando Publicação | `conteudos/site-post-para-blog/consentimento-bdsm-shibari/briefing.md` |
-| C-022 | O que é safeword, como criar a sua e por que ela muda durante a prática | Post para Blog | Mariana | 🗂 Backlog | — |
+| C-022 | Safeword: o que é, como combinar e por que pode mudar durante a prática | Post para Blog | Mariana | 🗂 Backlog | — |
 
 ---
 
@@ -83,10 +85,10 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-013 | O que é Takate Kote — e por que não é ponto de partida para iniciantes | Post educativo Instagram | Mariana | 🗂 Backlog | — |
-| C-014 | Os riscos reais do TK — e como se preparar antes de praticá-lo | Carrossel Instagram | Mariana, Thiago | 🗂 Backlog | — |
-| C-015 | A corda mais fotografada do shibari pede o maior cuidado | Rapidinha Instagram | Mariana | 🗂 Backlog | — |
-| C-023 | O que é Takate Kote: a amarração de ombros mais fotografada do shibari — e o que ela exige de quem pratica | Post para Blog | Mariana, Thiago | 🗂 Backlog | — |
+| C-013 | O que é o Takate Kote e por que não é bom ponto de partida | Post educativo Instagram | Mariana | 🗂 Backlog | — |
+| C-014 | Os riscos do Takate Kote, os sinais de alerta e como se preparar | Carrossel Instagram | Mariana, Thiago | 🗂 Backlog | — |
+| C-015 | A amarração mais fotografada do shibari também pede cuidado | Rapidinha Instagram | Mariana | 🗂 Backlog | — |
+| C-023 | O que é o Takate Kote e o que ele exige de quem pratica | Post para Blog | Mariana, Thiago | 🗂 Backlog | — |
 | C-024 | Riscos do Takate Kote: compressão nervosa, sinais de alerta e como se preparar antes de aprender o TK | Post para Blog | Mariana, Thiago | 🗂 Backlog | — |
 
 ---
@@ -98,9 +100,9 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 |---|---|---|---|---|---|
 | C-025 | O que é wax play | Post Por Trás do Desejo | Mariana, Alex | ✅ Publicado (19/06) | `conteudos/instagram-post-por-tras-do-desejo/wax-play/briefing.md` |
 | C-026 | Velas que podem e velas que nunca: o guia de segurança para wax play | Carrossel educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
-| C-027 | O calor não é só físico. No wax play, é linguagem. | Post de Frase | Todas | 🗂 Backlog | — |
-| C-028 | Wax play: o que é, como funciona e como praticar com segurança | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
-| C-029 | Vela de aniversário vs. vela para wax play — a diferença que muda tudo | Rapidinha Instagram | Mariana | 🗂 Backlog | — |
+| C-027 | O calor não é só físico. No wax play, é linguagem. | Post de Frase | Todas | 🗃 Arquivado (revisão de voz, 28/10/2026: Frases curtas, antítese e "calor" no padrão do "calor controlado" (ninguém fala).) | — |
+| C-028 | Wax play: o que é, para quem faz sentido e como começar com cuidado | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
+| C-029 | A vela de aniversário serve para wax play? | Rapidinha Instagram | Mariana | 🗂 Backlog | — |
 
 ---
 
@@ -109,9 +111,9 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-030 | Como fazer o single column tie — o nó que está na base de tudo no shibari | Carrossel Tutorial Instagram | Mariana, Thiago | 🗂 Backlog | — |
-| C-031 | Single column vs. double column — qual usar e quando | Rapidinha Instagram | Mariana | 🗂 Backlog | — |
-| C-032 | Single column tie: o nó fundamental do shibari — passo a passo com foco em segurança | Post para Blog | Mariana, Thiago | 🗂 Backlog | — |
+| C-030 | Como fazer o single column tie, com a circulação e a outra pessoa em primeiro lugar | Carrossel Tutorial Instagram | Mariana, Thiago | 🗂 Backlog | — |
+| C-031 | Single column ou double column: quando cada um faz sentido | Rapidinha Instagram | Mariana | 🗂 Backlog | — |
+| C-032 | Single column tie: o nó fundamental do shibari — passo a passo com foco em segurança | Post para Blog | Mariana, Thiago | 🗃 Arquivado (fundido no C-030 na revisão de voz, 28/10/2026) | — |
 
 ---
 
@@ -120,9 +122,9 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-033 | O que é karada — o harness de corda que iniciantes podem fazer | Post educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
-| C-034 | Antes da amarração: o harness que ensina o corpo a confiar na corda | Post de Frase | Todas | 🗂 Backlog | — |
-| C-035 | Karada: o vestido de corda japonês — o que é, como fazer e por que é perfeito para começar | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
+| C-033 | O que é karada, o harness que envolve o corpo | Post educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
+| C-034 | Antes da amarração: o harness que ensina o corpo a confiar na corda | Post de Frase | Todas | 🗃 Arquivado (revisão de voz, 28/10/2026: Frase poética que ninguém diz em voz alta.) | — |
+| C-035 | Karada: o que é, como fazer e para quem faz sentido começar por ele | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
 
 ---
 
@@ -131,9 +133,9 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-036 | O que é sensation play — o jogo dos sentidos como prática BDSM | Post educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
+| C-036 | O que é sensation play e como começar | Post educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
 | C-037 | Tirar um sentido para ampliar todos os outros | Post Por Trás do Desejo | Mariana, Alex | ✅ Publicado (02/07) | `conteudos/instagram-post-por-tras-do-desejo/sensation-play/briefing.md` |
-| C-038 | Sensation play: como começar com o jogo dos sentidos no BDSM | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
+| C-038 | Sensation play: como começar com o jogo dos sentidos no BDSM | Post para Blog | Mariana, Alex | 🗃 Arquivado (fundido no C-036 na revisão de voz, 28/10/2026) | — |
 
 ---
 
@@ -142,10 +144,10 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-039 | O que é dinâmica D/s — dominação, submissão e a troca de poder que vai além da cena | Post educativo Instagram | Mariana, Alex, Thiago | 🗂 Backlog | — |
-| C-040 | Não é sobre quem manda — é sobre quem confia. | Post de Frase | Todas | 🗂 Backlog | — |
-| C-041 | Switch: o que é quem transita entre dominante e submisso | Rapidinha Instagram | Alex, Mariana | 🗂 Backlog | — |
-| C-042 | Dinâmica D/s: o que é dominação e submissão no BDSM — e o que separa de abuso | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
+| C-039 | O que é dinâmica D/s — dominação, submissão e a troca de poder que vai além da cena | Post educativo Instagram | Mariana, Alex, Thiago | 🗃 Arquivado (revisão de voz, 28/10/2026: Já coberto pelo C-092 (Por Trás do Desejo "dinâmica D/s", publicado 30/09).) | — |
+| C-040 | Não é sobre quem manda — é sobre quem confia. | Post de Frase | Todas | 🗃 Arquivado (revisão de voz, 28/10/2026: Antítese de efeito e sentencia a conduta dos outros.) | — |
+| C-041 | Switch: quem transita entre dominar e se submeter | Rapidinha Instagram | Alex, Mariana | 🗂 Backlog | — |
+| C-042 | Dinâmica D/s: o que é e o que a diferencia de abuso | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
 | C-106 | 5 mitos sobre submissão | Post Desatando Mitos | Mariana, Alex | 📄 Briefing criado | `conteudos/instagram-post-desatando-mitos/desatando-mitos-submissao/briefing.md` |
 
 ---
@@ -155,9 +157,9 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-043 | O que é impact play — flogger, paddle, crop e os tipos de impacto | Post educativo Instagram | Mariana, Thiago | 🗂 Backlog | — |
-| C-044 | Flogger, paddle ou crop — qual implemento para cada tipo de cena | Carrossel educativo Instagram | Mariana, Thiago | 🗂 Backlog | — |
-| C-045 | Impact play: guia de segurança — zonas certas, intensidade e comunicação na cena | Post para Blog | Mariana, Thiago | 🗂 Backlog | — |
+| C-043 | O que é impact play — flogger, paddle, crop e os tipos de impacto | Post educativo Instagram | Mariana, Thiago | 🗃 Arquivado (revisão de voz, 28/10/2026: Já coberto pelo C-093 (Por Trás do Desejo, publicado 21/09).) | — |
+| C-044 | Flogger, paddle ou crop: a sensação de cada implemento e como a intensidade se ajusta | Carrossel educativo Instagram | Mariana, Thiago | 🗂 Backlog | — |
+| C-045 | Impact play: onde bater, onde evitar e como combinar a intensidade | Post para Blog | Mariana, Thiago | 🗂 Backlog | — |
 | C-074 | Por Trás do Desejo: Impact Play | Post Por Trás do Desejo | Mariana, Alex | 🗃 Arquivado | — |
 
 ---
@@ -168,9 +170,9 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
 | C-046 | O que o fetiche revela sobre você que outras experiências não revelam | Carrossel Livre Instagram | Mariana, Alex | 📄 Briefing criado | `conteudos/instagram-carrossel-livre/o-que-o-fetiche-revela/briefing.md` |
-| C-047 | Antes de saber o que você quer fazer, descubra quem você quer ser. | Post de Frase | Todas | 🗂 Backlog | — |
-| C-048 | Pessoas antes do fetiche: por que quem você é vem antes do que você pratica | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
-| C-049 | O que a negociação de cena ensina sobre você fora da cena | Rapidinha Instagram | Mariana, Alex | 🗂 Backlog | — |
+| C-047 | Antes de saber o que você quer fazer, descubra quem você quer ser. | Post de Frase | Todas | 🗃 Arquivado (revisão de voz, 28/10/2026: Comando ("descubra"), motivacional e sentencia.) | — |
+| C-048 | Pessoas antes do fetiche: por que quem você é vem antes do que você pratica | Post para Blog | Mariana, Alex | 🗃 Arquivado (revisão de voz, 28/10/2026: Tradução do conceito de um podcast em inglês, antítese e determinístico.) | — |
+| C-049 | O que a negociação da cena ensina sobre comunicação fora dela | Rapidinha Instagram | Mariana, Alex | 🗂 Backlog | — |
 
 ---
 
@@ -179,10 +181,10 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-050 | Ter uma identidade fetichista e viver no mundo — como as pessoas integram | Carrossel educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
-| C-051 | Discreção não é armário. A diferença importa. | Post de Frase | Todas | 🗂 Backlog | — |
-| C-052 | Identidade fetichista e vida cotidiana: como integrar quem você é na cena com quem você é fora dela | Post para Blog | Mariana, Alex, Thiago | 🗂 Backlog | — |
-| C-053 | Por que pessoas fetichistas buscam comunidade — e o que encontram quando chegam lá | Post educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
+| C-050 | Ter uma identidade fetichista e viver no mundo: como as pessoas convivem com isso | Carrossel educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
+| C-051 | Discreção não é armário. A diferença importa. | Post de Frase | Todas | 🗃 Arquivado (revisão de voz, 28/10/2026: Frases curtas em sequência; o termo "armário" aguarda sua decisão.) | — |
+| C-052 | Identidade fetichista e vida cotidiana: como integrar quem você é na cena com quem você é fora dela | Post para Blog | Mariana, Alex, Thiago | 🗃 Arquivado (fundido no C-050 na revisão de voz, 28/10/2026) | — |
+| C-053 | Por que muita gente busca comunidade no fetiche e o que encontra | Post educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
 
 ---
 
@@ -191,9 +193,9 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-054 | O que é cultura Leather — e por que vai muito além do couro | Post educativo Instagram | Thiago, Alex | 🗂 Backlog | — |
-| C-055 | Leather não é fantasia: história, valores e identidade de uma subcultura | Carrossel educativo Instagram | Thiago, Alex | 🗂 Backlog | — |
-| C-056 | Cultura Leather: de onde vem, o que significa e por que ainda importa | Post para Blog | Thiago, Alex | 🗂 Backlog | — |
+| C-054 | O que é cultura Leather, a história e os valores, em português simples | Post educativo Instagram | Thiago, Alex | 🗂 Backlog (adiado na revisão de voz, 28/10/2026) | — |
+| C-055 | Leather não é fantasia: história, valores e identidade de uma subcultura | Carrossel educativo Instagram | Thiago, Alex | 🗃 Arquivado (revisão de voz, 28/10/2026: Frase de efeito negativa; coberto pelo C-095.) | — |
+| C-056 | Cultura Leather: de onde vem, o que significa e por que ainda importa | Post para Blog | Thiago, Alex | 🗂 Backlog (adiado na revisão de voz, 28/10/2026) | — |
 
 ---
 
@@ -204,9 +206,9 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 |---|---|---|---|---|---|
 | C-057 | Red flags em dinâmicas BDSM: como a linguagem revela o perigo antes de a cena começar | Carrossel Livre Instagram | Mariana, Alex | ✅ Publicado (27/06) | `conteudos/instagram-carrossel-livre/red-flags-dinamicas-bdsm/texto.md` |
 | C-058 | Uma frase não é prova. Um padrão é razão para desacelerar. | Post de Frase | Todas | 🗃 Arquivado | — |
-| C-059 | O que um Dom/Domme diz antes da cena diz mais do que parece | Post educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
+| C-059 | O que a conversa antes da cena já mostra sobre quem está dominando | Post educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
 | C-060 | Red flags em dinâmicas BDSM: padrões de linguagem que sinalizam uma relação insegura | Post para Blog | Mariana, Alex | 🎨 Design em Produção | `conteudos/site-post-para-blog/red-flags-linguagem-bdsm/texto.md` |
-| C-079 | Red flags em dinâmicas BDSM: padrões de linguagem que sinalizam uma relação insegura | Carrossel educativo Instagram | Mariana, Alex | ✅ Aguardando Publicação | `conteudos/instagram-carrossel-livre/red-flags-linguagem-bdsm/texto.md` |
+| C-079 | Red flags em dinâmicas BDSM: padrões de linguagem que sinalizam uma relação insegura | Carrossel educativo Instagram | Mariana, Alex | 🗃 Arquivado (mesmo conteúdo da C-057, no ar em 18/09; confirmado em 28/10/2026) | `conteudos/instagram-carrossel-livre/red-flags-linguagem-bdsm/texto.md` |
 
 ---
 
@@ -217,8 +219,8 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 |---|---|---|---|---|---|
 | C-061 | Minha submissão é um ato de liberdade. | Post de Frase | Mariana, Alex | ✅ Publicado (04/07) | `conteudos/instagram-post-de-frase/submissao-e-liberdade/briefing.md` |
 | C-062 | Ser submissa me faz menos feminista? O equívoco que precisa ser desfeito | Carrossel educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
-| C-063 | A submissão que liberta e a que aprisiona — como reconhecer a diferença | Post educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
-| C-064 | Feminismo e BDSM: por que submissão e autonomia não se contradizem | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
+| C-063 | A submissão que liberta e a que aprisiona — como reconhecer a diferença | Post educativo Instagram | Mariana, Alex | 🗃 Arquivado (revisão de voz, 28/10/2026: Antítese de efeito.) | — |
+| C-064 | Feminismo e BDSM: submissão e autonomia podem andar juntas? | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
 
 ---
 
@@ -227,9 +229,9 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-065 | O que é o tesão por elogios | Post Por Trás do Desejo | Mariana, Alex | 🗂 Backlog | — |
-| C-066 | As palavras que constroem a cena — como linguagem, tom e escolha de palavras mudam tudo | Carrossel educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
-| C-067 | O elogio na prática: o que dizer, quando dizer e como calibrar | Rapidinha Instagram | Mariana, Alex | 🗂 Backlog | — |
+| C-065 | O que é o fetiche por elogios | Post Por Trás do Desejo | Mariana, Alex | 🗂 Backlog | — |
+| C-066 | Como as palavras, o tom e a escolha delas mudam a cena | Carrossel educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
+| C-067 | O elogio na prática: o que dizer, quando dizer e como calibrar | Rapidinha Instagram | Mariana, Alex | 🗃 Arquivado (revisão de voz, 28/10/2026: Regra jogada na cabeça da pessoa.) | — |
 
 ---
 
@@ -238,9 +240,9 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-068 | Sub drop e Dom drop: a queda emocional que ninguém te conta sobre o BDSM | Carrossel educativo Instagram | Mariana, Thiago, Alex | 🗂 Backlog | — |
-| C-069 | Dom drop: a queda que o lado dominante sente — e que quase ninguém fala | Post educativo Instagram | Thiago | 🗂 Backlog | — |
-| C-070 | O que são sub drop e Dom drop — e como atravessar a queda emocional pós-cena | Post para Blog | Mariana, Thiago, Alex | 🗂 Backlog | — |
+| C-068 | O que é drop, a queda emocional depois da cena | Carrossel educativo Instagram | Mariana, Thiago, Alex | 🗂 Backlog | — |
+| C-069 | O drop de quem estava dominando: o que se sente depois | Post educativo Instagram | Thiago | 🗂 Backlog | — |
+| C-070 | O que são sub drop e Dom drop — e como atravessar a queda emocional pós-cena | Post para Blog | Mariana, Thiago, Alex | 🗃 Arquivado (fundido no C-068 na revisão de voz, 28/10/2026) | — |
 
 ---
 
@@ -259,9 +261,9 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-071 | Neurodivergência e fetiche: por que a estrutura explícita do BDSM ressoa com autistas e TDAHers | Carrossel educativo Instagram | Mariana, Alex | 🗂 Backlog | — |
-| C-072 | Shutdown vs. subspace — como diferenciar dois estados que parecem iguais na cena | Rapidinha Instagram | Mariana, Alex | 🗂 Backlog | — |
-| C-073 | Neurodivergência e BDSM: o que parceiros precisam entender — e o que raramente se fala | Post para Blog | Mariana, Alex | 🗂 Backlog | — |
+| C-071 | Por que a comunicação explícita do meio pode ressoar com pessoas neurodivergentes | Carrossel educativo Instagram | Mariana, Alex | 🗂 Backlog (adiado na revisão de voz, 28/10/2026) | — |
+| C-072 | Shutdown vs. subspace — como diferenciar dois estados que parecem iguais na cena | Rapidinha Instagram | Mariana, Alex | 🗃 Arquivado (revisão de voz, 28/10/2026: Diferenciação clínica: fora do escopo da marca.) | — |
+| C-073 | O que a outra pessoa pode combinar antes para a cena ser confortável | Post para Blog | Mariana, Alex | 🗂 Backlog (adiado na revisão de voz, 28/10/2026) | — |
 
 ---
 
@@ -307,7 +309,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-083 | seu amigo fetichista não é o que você imagina | Carrossel Livre Instagram | Alex | 🎨 Design em Produção | `conteudos/instagram-carrossel-livre/antes-de-julgar-fetichista/texto.md` |
+| C-083 | seu amigo fetichista não é o que você imagina | Carrossel Livre Instagram | Alex | 🗃 Arquivado (Hugo, 28/10/2026: não gostou da peça) | `conteudos/instagram-carrossel-livre/antes-de-julgar-fetichista/texto.md` |
 
 ---
 
@@ -373,7 +375,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-090 | falar também é parte do jogo, talvez a sua parte mais importante | Post de Frase | Mariana, Thiago | ✅ Aguardando Publicação | `conteudos/instagram-post-de-frase/conversa-antes-da-cena/texto.md` |
+| C-090 | falar também é parte do jogo, talvez a sua parte mais importante | Post de Frase | Mariana, Thiago | 🗃 Arquivado (Hugo, 28/10/2026: descartada do feed) | `conteudos/instagram-post-de-frase/conversa-antes-da-cena/texto.md` |
 | C-091 | a conversa antes da cena pode ser mais importante que ela inteira | Post de Frase | Mariana, Thiago | ✅ Publicado (14/09) | `conteudos/instagram-post-de-frase/conversa-mais-importante-que-a-cena/texto.md` |
 
 ---
@@ -446,7 +448,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-097 | Juta, algodão, cânhamo e sintético: o que muda de verdade (quadro de consulta) | Quadro salvável (F1, a cadastrar) | Thiago, Mariana | 🗂 Backlog | — |
+| C-097 | Juta, algodão, cânhamo e sintético lado a lado | Quadro salvável (F1, a cadastrar) | Thiago, Mariana | 🗂 Backlog | — |
 
 ## Território: Dúvida de iniciante — corda sem dor
 > *Shibari · Mariana · Refs: posts 64, 16, 71, 54 · Abre série fixa "Dúvida de iniciante" (próximas: "Preciso de parceiro?", "Qual corda comprar primeiro?")*
@@ -460,7 +462,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-099 | Anatomia de uma cena de corda: antes, durante, depois | Antes · durante · depois (F3, a cadastrar) | Thiago, Mariana | 🗂 Backlog | — |
+| C-099 | Uma cena de corda: antes, durante e depois | Antes · durante · depois (F3, a cadastrar) | Thiago, Mariana | 🗂 Backlog | — |
 
 ## Território: Guia calmo dos riscos da corda
 > *Shibari · Thiago · Refs: posts 17 e 8 · Exige revisão por praticante experiente e frase "não substitui aula presencial"*
@@ -474,14 +476,14 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-101 | Você guarda sua corda do jeito errado? | Erro comum → jeito certo (F6, a cadastrar) | Thiago | 🗂 Backlog | — |
+| C-101 | Você guarda sua corda do jeito errado? | Erro comum → jeito certo (F6, a cadastrar) | Thiago | 🗃 Arquivado (revisão de voz, 28/10/2026: Acusa quem lê; o Reel C "três passos para guardar a corda" (fila, 09/11) já cobre o tema.) | — |
 
 ## Território: Corda não é sobre X. É sobre Y.
 > *Shibari · Todas · Refs: posts 39, 49, 61, 70 · Variações: força/atenção, prender/presença, pressa/confiança · Evitar sobreposição com C-089 e C-091*
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-102 | Corda não é sobre força. É sobre atenção. | Série "não é X, é Y" (F5, a cadastrar) | Todas | 🗂 Backlog | — |
+| C-102 | Corda não é sobre força. É sobre atenção. | Série "não é X, é Y" (F5, a cadastrar) | Todas | 🗃 Arquivado (revisão de voz, 28/10/2026: Antítese "não é X, é Y" em frases curtas; já reprovada como padrão. Vale para a série inteira.) | — |
 
 ## Território: Perguntas antes da primeira amarração
 > *Shibari · Mariana · Refs: posts 14, 28, 55, 58, 33 · Salvável e fácil de mandar ao parceiro*
@@ -495,7 +497,7 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-104 | 5 sinais de um bom instrutor de shibari (e 3 de alerta) | Colaboração com educador (F12, a cadastrar) | Mariana, Thiago | 🗂 Backlog | — |
+| C-104 | Como escolher um instrutor de shibari: o que a gente observa | Colaboração com educador (F12, a cadastrar) | Mariana, Thiago | 🗂 Backlog (adiado na revisão de voz, 28/10/2026) | — |
 
 ---
 

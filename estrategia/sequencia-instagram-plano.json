@@ -1,6 +1,6 @@
 {
-  "versao": "v11 (rascunho, não aprovado)",
-  "atualizado_em": "2026-10-22",
+  "versao": "v12 (rascunho, não aprovado)",
+  "atualizado_em": "2026-10-28",
   "nota": "Fonte do plano exibido no artefato. O texto narrativo e as decisões ficam em 'Sequência de Conteúdo Instagram.md'. Ao mudar a sequência, atualizar os dois e republicar o artefato (scripts/gerar_artefato_sequencia.py). Planejamento por mês de calendário; pelo menos 3 de cerca de 12 posts por mês diretamente sobre produto; arcos só para produto; assuntos próximos avaliados caso a caso com o Hugo.",
   "cashback": {
     "linha_legenda": "toda compra na Shibari Brasil gera 10% de cashback para a próxima.",
@@ -31,7 +31,7 @@
       "id": 3,
       "nome": "Cuidar da corda",
       "ancora": "Tratamento, óleo e guarda",
-      "produto": "Óleo e cera de tratamento (carrossel, foto de produto e Reel C) e curadoria de cordas (C-003, post de produto)",
+      "produto": "Óleo e cera de tratamento (foto de produto e Reel C)",
       "hipotese": "Ensinar a cuidar da corda antes de mostrar o produto; o Reel de guardar teve histórico de salvamento alto em 2024.",
       "metrica": "Envio e salvamento do carrossel e do Reel; visitas ao perfil e cliques na bio.",
       "alerta": "Conferir o estoque das variações de óleo e cera antes de 02/11."
@@ -106,7 +106,7 @@
       "prazo": "2026-10-25",
       "responsavel": "Hugo",
       "proximo": "Gravar na sessão 1 (22 ou 23/10) e editar; roteiro pronto; end card do cashback",
-      "obs": "Roteiro pronto em estrategia/material/roteiros. Se não ficar pronto, a C-079 sobe para o dia 26 e o Reel vai para a semana seguinte. Conta como produto direto: o kit é o assunto do vídeo.",
+      "obs": "Roteiro pronto em estrategia/material/roteiros. Se não ficar pronto, a foto de prática do banco cobre o dia 26 e o Reel vai para a semana seguinte. Conta como produto direto: o kit é o assunto do vídeo.",
       "assunto": "primeira sessão com o kit",
       "assunto_alerta": "O roteiro cita conversar antes e palavra de segurança, assunto também da C-088 (04/11) e da C-086 (11/11).",
       "produto_direto": true
@@ -127,7 +127,7 @@
       "prazo": "2026-10-30",
       "responsavel": "Julia, Ana, Bia",
       "proximo": "Briefing criado em 21/10 (Hugo valida até 22/10); texto até 23/10, revisão da Ana até 24/10, arte até 26/10. Passou de 28/10 para 02/11 em 28/10 (Hugo): a C-106 foi ao ar no dia 28/10, então a C-046 desce para o slot de 02/11; nova entrega da arte até 30/10",
-      "obs": "Entra no lugar da C-083 (estigma sobre quem é fetichista), que o Hugo tirou do slot em 21/10; a C-083 fica pausada na reserva, com texto pronto. Sem produto, sem cashback.",
+      "obs": "Entra no lugar da C-083 (estigma sobre quem é fetichista), que o Hugo tirou do slot em 21/10; a C-083 foi arquivada pelo Hugo em 28/10. Sem produto, sem cashback.",
       "assunto": "fetiche como pista do que a pessoa busca (autoconhecimento)",
       "assunto_alerta": "Fetiche também no Por trás do desejo de 30/10 (pet play), a dois dias: ângulos diferentes (identidade × prática); ler o resultado em 72 h."
     },
@@ -140,8 +140,8 @@
       "categoria": "Educativo",
       "formato": "Por trás do desejo (4 páginas)",
       "titulo": "Por trás do desejo · pet play",
-      "fundo": "Warm Light",
-      "fundo_nota": "",
+      "fundo": "Deep Plum",
+      "fundo_nota": "Mudou de Warm Light em 28/10: o post anterior, a C-106, saiu em Warm Light (claro); alternar para escuro. A Bia confere o contraste.",
       "metrica": "Envio ≥ 1,6% (mediana do formato) e seguidores por mil views",
       "producao": "a_produzir",
       "prazo": "2026-10-29",
@@ -257,23 +257,22 @@
     {
       "id": "P11",
       "data": "2026-11-13",
-      "formato_marca": "produto",
-      "arco": 3,
-      "passo": "Produto direto (post de produto)",
-      "categoria": "Produto",
-      "formato": "Post de produto",
-      "titulo": "C-003 · a curadoria de cordas da Shibari Brasil, cada uma no seu propósito",
-      "fundo": "Warm Light",
-      "fundo_nota": "",
-      "metrica": "Visitas ao perfil e cliques na bio",
-      "producao": "design",
+      "formato_marca": "carrossel_livre",
+      "arco": null,
+      "passo": "Conteúdo avulso (shibari)",
+      "categoria": "Educativo",
+      "formato": "Carrossel livre",
+      "titulo": "C-004 · de onde vem a corda: do hojojutsu ao shibari",
+      "fundo": "Carbon Black",
+      "fundo_nota": "Mudou de Warm Light em 28/10: o post anterior, a C-026, é Skin Nude (claro); alternar para escuro. A Bia confere o contraste.",
+      "metrica": "Envio ≥ 1,0% e salvamento (carrossel educativo de shibari)",
+      "producao": "a_produzir",
       "prazo": "2026-11-12",
-      "responsavel": "Bia",
-      "proximo": "Entregar a arte (texto pronto desde 26/08); Julia inclui a linha do cashback na legenda",
-      "obs": "Produto direto: post de produto. Volta para este ciclo porque o ciclo tem 12 posts e pelo menos 3 são sobre produto.",
-      "assunto": "curadoria de cordas (produto)",
-      "assunto_alerta": "",
-      "produto_direto": true
+      "responsavel": "Julia, Ana, Bia",
+      "proximo": "Hugo diz a posição e o ângulo até 04/11; Julia consolida o briefing; texto, Ana e Bia até 12/11. Fontes: niten.org.br e kinbakutoday.com, com a origem dita 'segundo as fontes' e o termo explicado em português simples na primeira vez",
+      "obs": "Entra no lugar da C-003 (post de produto) por pedido do Hugo em 28/10. Escolhido pelo Hugo entre as opções do Leo. Sem âncora ainda no núcleo (a biblioteca não traz o tema): a posição do Hugo é a pergunta aberta. Sem produto e sem cashback.",
+      "assunto": "origem do shibari (hojojutsu)",
+      "assunto_alerta": "Shibari educativo; o C-080 (shibari, kinbaku e bondage) foi ao ar em 28/09, com vocabulário próximo."
     },
     {
       "id": "P12",
@@ -654,26 +653,26 @@
   "ordens_producao": [
     {
       "para": "Bia",
-      "o_que": "Destravar a arte, nesta ordem: C-086 (feita em 21/10), C-046, Por trás do desejo (pet play), mitos sobre submissão (C-106), C-107, C-026 (velas de wax play), C-003, C-062, carrossel \"qual kit\". Pausar C-082, C-083 e C-084 e não abrir arte fora da fila",
-      "prazo": "C-046 26/10; pet play 29/10; C-106 30/10; C-107 03/11; C-026 10/11; C-003 12/11; C-062 13/11; \"qual kit\" 17/11",
-      "obs": "C-086 entregue em 21/10. C-082 saiu do ciclo; C-083 pausada; C-088 substituída pela C-107"
+      "o_que": "Destravar a arte, nesta ordem: C-086 (feita em 21/10), C-046, Por trás do desejo (pet play), mitos sobre submissão (C-106), C-107, C-026 (velas de wax play), hojojutsu (C-004), C-062, carrossel \"qual kit\". Pausar C-082 e C-084 (a C-083 foi arquivada em 28/10) e não abrir arte fora da fila",
+      "prazo": "C-046 26/10; pet play 29/10; C-106 30/10; C-107 03/11; C-026 10/11; C-004 12/11; C-062 13/11; \"qual kit\" 17/11",
+      "obs": "C-086 entregue em 21/10. C-082 saiu do ciclo; C-083 arquivada (28/10); C-088 substituída pela C-107; fundos revistos em 28/10: pet play em Deep Plum (a C-106 saiu em Warm Light) e C-004 em Carbon Black (a C-026 é Skin Nude)"
     },
     {
       "para": "Ana",
-      "o_que": "Marcar no histórico que a C-079 e a C-057 são o mesmo conteúdo (no ar em 18/09, fundo Carbon Black) e arquivar a C-079; revisar o texto do Por trás do desejo, da C-026 e da C-062 quando chegarem",
+      "o_que": "Marcar no histórico que a C-079 e a C-057 são o mesmo conteúdo (no ar em 18/09, fundo Carbon Black) e arquivar a C-079 e a C-083 (arquivada pelo Hugo em 28/10); revisar o texto do Por trás do desejo, da C-026 e da C-062 quando chegarem",
       "prazo": "23/10 (histórico); revisões conforme o prazo da Bia",
-      "obs": "Sem arte para liberar em 28/10: o dia agora é da C-083"
+      "obs": "Sem arte para liberar em 28/10: a C-106 foi ao ar"
     },
     {
       "para": "Julia",
-      "o_que": "Briefings criados em 21/10 (C-046, pet play, C-106 e C-107), a validar pelo Hugo; briefing da C-026 (velas); briefing da C-062; briefing do carrossel \"qual kit para cada momento\". O carrossel de cuidar da corda volta ao banco (C-101)",
-      "prazo": "Validação dos briefings 22 e 23/10; C-026 28/10; C-062 04/11; \"qual kit\" 04/11",
+      "o_que": "Briefings criados em 21/10 (C-046, pet play, C-106 e C-107), a validar pelo Hugo; briefing da C-026 (velas); briefing da C-062; briefing do carrossel \"qual kit para cada momento\"; briefing do hojojutsu (C-004), depois da posição do Hugo. O carrossel de cuidar da corda volta ao banco (C-101)",
+      "prazo": "Validação dos briefings 22 e 23/10; C-026 28/10; C-062 04/11; \"qual kit\" 04/11; C-004 04/11",
       "obs": "O karada e o sensation play saíram da fila; a produção textual é conduzida pelo Hugo direto no time de marketing"
     },
     {
       "para": "Julia",
-      "o_que": "Frase da foto de prática (23/10), legenda curta da foto de produto de óleo e cera (06/11) e legendas dos Reels A e C e dos posts C-003 e C-026, com a linha do cashback em tudo que tem produto",
-      "prazo": "Frase da foto 22/10; legendas: Reel A 24/10, foto de produto 05/11, Reel C 06/11, C-026 10/11, C-003 11/11, \"qual kit\" 16/11, Reel B 18/11",
+      "o_que": "Frase da foto de prática (23/10), legenda curta da foto de produto de óleo e cera (06/11) e legendas dos Reels A e C e do post C-026, com a linha do cashback em tudo que tem produto",
+      "prazo": "Frase da foto 22/10; legendas: Reel A 24/10, foto de produto 05/11, Reel C 06/11, C-026 10/11, \"qual kit\" 16/11, Reel B 18/11",
       "obs": "Legenda de vídeo: 60 a 150 palavras, no máximo 5 hashtags (formato instagram-video)"
     },
     {
@@ -933,12 +932,6 @@
       "nota": "Fora do ciclo por decisão do Hugo (21/10); sem arte"
     },
     {
-      "codigo": "C-083",
-      "titulo": "seu amigo fetichista não é o que você imagina",
-      "fundo": "Skin Nude",
-      "nota": "Pausada por decisão do Hugo (21/10); texto pronto, arte não iniciada"
-    },
-    {
       "codigo": "C-088",
       "titulo": "usar a safeword também merece elogio",
       "fundo": "Carbon Black",
@@ -949,7 +942,7 @@
     {
       "codigo": "C-090",
       "titulo": "falar também é parte do jogo, talvez a sua parte mais importante",
-      "nota": "Proposta: descartar do feed (frase quase igual à de @kyntv101 e tema já coberto pela C-091); se a ideia for aproveitada, reescrever com ângulo próprio"
+      "nota": "Descartada do feed por decisão do Hugo (28/10/2026); só volta se a Julia reescrever com ângulo próprio"
     }
   ],
   "classificacao_manual": {
@@ -1002,7 +995,7 @@
       "slots": "C-086 (21/10) e C-107 (04/11, limite); o Reel A (26/10) e o Reel B (20/11) também tratam de conversa e segurança",
       "opcoes": [
         "Manter e ler cada um em 72 h: se o anterior ficar abaixo da mediana, o seguinte troca por outro assunto.",
-        "Trocar a C-107 por uma frase do banco (C-108 ou C-109) ou por uma prática do banco (single column tie C-030, hojojutsu C-004, switch C-041).",
+        "Trocar a C-107 por uma frase do banco (C-108 ou C-109) ou por uma prática do banco (single column tie C-030, switch C-041).",
         "Outra ordem ou outro conjunto, a seu critério."
       ]
     },
@@ -1032,7 +1025,7 @@
     },
     {
       "titulo": "Produto direto: outubro e novembro",
-      "slots": "Outubro (restam 5 slots): 1 produto direto, o Reel A. Novembro: 3 (foto de óleo e cera, C-003 e \"qual kit\") mais os 4 slots reservados da Black Friday",
+      "slots": "Outubro (restam 5 slots): 1 produto direto, o Reel A. Novembro: 3 (foto de óleo e cera, velas C-026 e \"qual kit\"; o post de produto C-003 saiu em 28/10) mais os 4 slots reservados da Black Friday",
       "opcoes": [
         "Aceitar outubro como mês de retomada (1 de 5).",
         "Antecipar a foto de produto de óleo e cera para 30/10 e passar a karada para 02/11 (2 de 5 em outubro).",
@@ -1060,9 +1053,9 @@
       "titulo": "Equilíbrio entre shibari e BDSM/fetiche",
       "slots": "21/10 a 30/11 (14 posts, sem os reservados e os extras)",
       "opcoes": [
-        "Manter: 8 posts de corda/shibari (a maioria é produto) e 6 de BDSM/fetiche (C-086, C-083, Por trás do desejo, C-088, wax play, C-062).",
+        "Manter: 8 posts de corda/shibari (a maioria é produto) e 6 de BDSM/fetiche (C-086, Por trás do desejo, C-088, wax play, C-062).",
         "Trocar a foto de produto de óleo e cera de 06/11 por foto das velas de wax play (cuidar da corda fica em 2 slots e o BDSM sobe para 7).",
-        "Subir mais um post de fetiche no lugar do C-003 ou do carrossel \"qual kit\"."
+        "Subir mais um post de fetiche no lugar do carrossel \"qual kit\"."
       ]
     }
   ],

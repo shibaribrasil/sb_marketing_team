@@ -17,10 +17,10 @@ import os
 import re
 import subprocess
 import sys
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
-from datetime import date
+from datetime import date, timedelta
 
 import pandas as pd
 import requests
@@ -182,7 +182,7 @@ def capa_em_cache(cd_midia, tok_holder):
 
 ETAPAS = [("BRIEFING", "Slot aprovado (Julia)"), ("PRODUCAO", "Em produção (Julia)"), ("REVISAO", "Aguardando aprovação do Hugo"), ("DESIGN", "Design em produção (Bia)"),
           ("CANVA", "Ajuste no Canva (Hugo)"), ("PRONTO_AGUARDANDO", "Pronto, aguardando publicação"), ("PRONTO_AGENDADO", "Pronto, agendado"), ("SO_HISTORICO", "Pronto (só no histórico)")]
-EM_ESPERA = {"C-090": "em espera (decisão do Hugo)"}
+EM_ESPERA = {"C-090": "descartada (decisão do Hugo, 28/10)"}
 
 
 def _dias(d):
@@ -218,6 +218,36 @@ def pipeline_e_backlog(ig, itens):
                 if nome and not any(nome.lower() in t or t in nome.lower() for t in territorios_banco):
                     leo.append({"territorio": re.sub(r"\*+", "", r.get("Território", "")).strip(), "persona": r.get("Persona", ""), "gancho": (r.get("Gancho de Produto", "") or "")[:140]})
     return fila, backlog, leo
+
+
+def checar_cores(posts, slots):
+    """Confere a cor de fundo de cada slot PLANEJADO contra o post imediatamente anterior (real ou planejado):
+    1) não repete a mesma cor em posts seguidos; 2) alternar claro e escuro. Sai um aviso por slot em `alerta_cor`.
+    Slot atrasado e reservado ficam fora; foto e vídeo (sem fundo) não geram aviso."""
+    claro, escuro = {"Warm Light", "Skin Nude"}, {"Deep Plum", "Carbon Black"}
+    def tom(f):
+        if not f:
+            return None
+        if "×" in f:
+            return "escuro" if "Carbon Black" in f else None
+        return "claro" if f in claro else ("escuro" if f in escuro else None)
+    hoje = date.today().isoformat()
+    seq = [(p["data"], 0, p.get("peca") or p["titulo"][:30], p.get("fundo"), None) for p in posts if p["data"] >= (date.today() - timedelta(days=21)).isoformat()]
+    seq += [(s["data"], 1, s["titulo"][:48], s.get("fundo"), s) for s in slots if not s.get("reservado") and s["data"] >= hoje]
+    seq.sort(key=lambda x: (x[0], x[1]))
+    avisos = []
+    for a, b in zip(seq, seq[1:]):
+        if b[4] is None or not a[3] or not b[3]:
+            continue
+        msg = None
+        if a[3] == b[3]:
+            msg = f"mesma cor do anterior ({a[3]})"
+        elif tom(a[3]) and tom(a[3]) == tom(b[3]):
+            msg = f"{tom(b[3])} depois de {tom(a[3])} ({a[3]} → {b[3]}): alternar"
+        if msg:
+            b[4]["alerta_cor"] = msg
+            avisos.append(f"{b[0][8:]}/{b[0][5:7]} {b[2]}: {msg}; anterior: {a[2]}")
+    return avisos
 
 
 def chave_tipo(tipo):
@@ -304,6 +334,20 @@ def main():
 
     # posts agendados na fila de publicação: moldura no slot; o que já foi ao ar e já foi extraído vira post real
     plano["plano"], virou_post = aplicar_agendamentos(plano["plano"], posts, agendamentos())
+    # post publicado FORA do publicador (ex.: mLabs): o slot sai do plano se o código da peça já está num post real,
+    # ou se há um post real exatamente no dia do slot (cadência de um post por slot)
+    hoje_iso = date.today().isoformat()
+    cod_no_ar = {p["peca"] for p in posts if str(p.get("peca", "")).startswith("C-")}
+    datas_no_ar = {p["data"] for p in posts}
+    restam, fora = [], []
+    for s in plano["plano"]:
+        m = re.match(r"(C-\d+)", s["titulo"])
+        if s["data"] <= hoje_iso and ((m and m.group(1) in cod_no_ar) or s["data"] in datas_no_ar):
+            fora.append(s["id"])
+        else:
+            restam.append(s)
+    plano["plano"] = restam
+    virou_post = list(virou_post) + fora
     n_ag = sum(1 for s in plano["plano"] if s.get("agendamento"))
 
     fila, backlog, leo = pipeline_e_backlog(ig, itens)
@@ -311,11 +355,12 @@ def main():
     for sl in plano["plano"]:
         m = re.match(r"(C-\d+)", sl["titulo"])
         sl["etapa_real"] = by_code.get(m.group(1)) if m else None
+    alertas_cor = checar_cores(posts, plano["plano"])
     extracao = df["ts_extracao"].max()
     dados = {
         "meta": {"hoje": date.today().isoformat(), "extracao": extracao.strftime("%d/%m/%Y %H:%M UTC") if pd.notna(extracao) else "",
                  "versao": plano["versao"], "atualizado_em": plano["atualizado_em"], "desde": args.desde},
-        "posts": posts, "formatos_stats": estatistica_por_formato(posts), "fila": fila, "backlog": backlog, "leo_sem_briefing": leo, "etapas": [{"id": i, "nome": n} for i, n in ETAPAS],
+        "cores_alerta": alertas_cor, "posts": posts, "formatos_stats": estatistica_por_formato(posts), "fila": fila, "backlog": backlog, "leo_sem_briefing": leo, "etapas": [{"id": i, "nome": n} for i, n in ETAPAS],
         **{k: v for k, v in plano.items() if k not in ("nota",)},
     }
     html = TEMPLATE.read_text(encoding="utf-8")
@@ -323,6 +368,14 @@ def main():
     assert "/*__DADOS__*/null" in html
     html = html.replace("/*__DADOS__*/null", blob, 1)
     Path(args.out).write_text(html, encoding="utf-8")
+    atrasados = [f"{s['id']} ({s['data']}) {s['titulo'][:60]}" for s in plano["plano"]
+                 if s["data"] < date.today().isoformat() and not (s.get("agendamento") and s["agendamento"].get("status") == "publicado")]
+    if atrasados:
+        print("REPROGRAMAR: slot(s) com data vencida e sem post no ar (saem da grade e vão para o bloco Atrasados):")
+        for a in atrasados:
+            print("  - " + a)
+    for a in alertas_cor:
+        print("COR: " + a)
     print(f"gravado em {args.out} ({len(posts)} posts reais, {sem_capa} sem capa, {len(plano['plano'])} slots planejados, "
           f"{n_ag} agendados na fila, {len(virou_post)} já no ar e tirados do plano {virou_post}, {len(html) // 1024} KB)")
 

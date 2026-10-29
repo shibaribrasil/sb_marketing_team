@@ -95,6 +95,9 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outlin
 .card .ct { font-size: 13px; line-height: 1.3; overflow-wrap: anywhere; }
 .card .cm { font-size: 11px; color: var(--muted); font-variant-numeric: tabular-nums; margin-top: 2px; }
 .silence { color: var(--muted); font-style: italic; font-size: 13px; }
+.atraso { border: 1.5px solid var(--alert); border-radius: 8px; padding: 12px; margin: 0 0 14px; background: color-mix(in srgb, var(--alert) 7%, transparent); display: flex; flex-direction: column; gap: 8px; }
+.atraso h3 { color: var(--alert); font-size: 15px; }
+.atraso .grid { max-width: 420px; }
 .hojemark { text-align: center; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--alert); font-weight: 600; padding: 8px 0; border-top: 2px solid var(--alert); }
 /* arcos, tabelas */
 .arcos { display: flex; flex-direction: column; gap: 18px; }
@@ -183,6 +186,7 @@ details.rot > summary::-webkit-details-marker { display: none; }
     <div class="view on" id="v-grade">
       <div class="split">
         <div>
+          <div id="atrasados"></div>
           <div class="legend"><span><i class="lg-plan"></i>Planejado (ainda não existe)</span><span><i class="lg-sched"></i>Agendado (na fila de publicação, com dia e hora)</span><span><i class="lg-real"></i>Já publicado (capa real)</span><span>Do mais novo para o mais antigo, como no perfil</span></div>
           <div class="grid" id="grid"></div>
         </div>
@@ -216,8 +220,11 @@ const items = [
   ...D.plano.map((p) => ({...p, kind: "plano", views: null, pago: false, capa: p.agendamento ? p.agendamento.capa : null})),
 ].sort((a, b) => (a.data < b.data ? -1 : a.data > b.data ? 1 : a.kind === "real" ? -1 : 1));
 items.forEach((it, i) => { it.d = parse(it.data); it.ix = i; it.fundoHex = it.fundo ? FUNDOS[it.fundo] : null; });
-items.forEach((it, i) => { const p = items[i - 1]; it.repete = !!(p && p.fundo && it.fundo && p.fundo === it.fundo); });
 const hoje = parse(D.meta.hoje);
+/* slot planejado com data vencida e que não foi ao ar NÃO entra entre os posts reais: vai para o bloco "Atrasados" até a sequência ser reprogramada */
+items.forEach((it) => { it.atrasado = it.kind === "plano" && it.data < D.meta.hoje && !(it.agendamento && it.agendamento.status === "publicado"); });
+const naGrade = items.filter((x) => !x.atrasado);
+naGrade.forEach((it, i) => { const p = naGrade[i - 1]; it.repete = !!(p && p.fundo && it.fundo && p.fundo === it.fundo); });
 const tipoTxt = (it) => (it.kind === "plano" ? it.formato : ({carrossel: "Carrossel", imagem: "Imagem", reel: "Reel"}[it.formato] || it.formato));
 let sel = null;
 const marcaSel = () => document.querySelectorAll(".tile").forEach((t) => t.classList.toggle("sel", Number(t.dataset.ix) === sel));
@@ -246,7 +253,7 @@ function tileEl(it) {
       return b;
     }
     const faixa = ag ? `<span class="ribbon"><span>${esc(AG_CURTO[ag.status] || ag.status_txt)}</span><span>${esc(agQuando(ag))}</span></span>` : "";
-    b.innerHTML = faixa + `<span class="t-top"><span>${esc(fmtNome)}</span><span>${it.extra ? "extra" : (it.produto_direto ? "PRODUTO" : (it.arco ? "Arco " + it.arco : ""))}</span></span><span class="t-title">${esc(it.titulo)}</span>` +
+    b.innerHTML = (it.alerta_cor ? `<span class="flag" style="z-index:3">${esc(it.alerta_cor)}</span>` : "") + faixa + `<span class="t-top"><span>${esc(fmtNome)}</span><span>${it.extra ? "extra" : (it.produto_direto ? "PRODUTO" : (it.arco ? "Arco " + it.arco : ""))}</span></span><span class="t-title">${esc(it.titulo)}</span>` +
       `<span class="t-bot"><span>${ag ? esc(agQuando(ag)) : DIA[it.d.getDay()] + " " + fd(it.d)}</span><span class="badge">${STATUS[it.producao]}</span></span>` + nota;
   } else {
     const ic = it.formato === "reel" ? "REEL" : (it.formato === "carrossel" ? "CARROSSEL" : "");
@@ -262,7 +269,21 @@ function drawGrid() {
   const g = $("#grid"); g.innerHTML = "";
   let marcou = false, mesAtual = null;
   const MES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"];
+  const atr = items.filter((x) => x.atrasado), blocoAtr = $("#atrasados"); blocoAtr.innerHTML = "";
+  if (atr.length) {
+    const box = el("div", "atraso");
+    box.appendChild(el("h3", "", `Atrasado: ${atr.length} slot(s) passou(aram) da data sem ir ao ar`));
+    box.appendChild(el("div", "note", "Não aparecem entre os posts já publicados. A sequência precisa ser reprogramada com o Hugo: o Leo propõe a nova data e a ordem dos próximos slots."));
+    const gg = el("div", "grid"); atr.forEach((it) => gg.appendChild(tileEl(it))); box.appendChild(gg); blocoAtr.appendChild(box);
+  }
+  if ((D.cores_alerta || []).length) {
+    const cx = el("div", "atraso");
+    cx.appendChild(el("h3", "", `Cor de fundo: ${D.cores_alerta.length} slot(s) para ajustar`));
+    cx.appendChild(el("div", "note", "A cor de cada slot planejado é conferida contra o post anterior, o último já publicado inclusive: não repetir a mesma cor e alternar claro e escuro."));
+    const ul = el("ul", "mini"); D.cores_alerta.forEach((a) => ul.appendChild(el("li", "", a))); cx.appendChild(ul); blocoAtr.appendChild(cx);
+  }
   [...items].reverse().forEach((it) => {
+    if (it.atrasado) return;
     if (!marcou && it.kind === "real") { g.appendChild(el("div", "divider", "Hoje · " + fdy(hoje))); marcou = true; }
     if (it.kind === "plano") {
       const chave = it.data.slice(0, 7);
