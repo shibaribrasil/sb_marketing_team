@@ -103,11 +103,11 @@
   },
   "P11": {
    "data": "2026-11-13",
-   "titulo": "C-004 · de onde vem a corda: do hojojutsu ao shibari",
+   "titulo": "C-004 · hojojutsu e shibari: o que as fontes dizem",
    "formato": "Carrossel livre",
    "prazo": "2026-11-12",
    "responsavel": "Julia, Ana, Bia",
-   "assunto": "origem do shibari (hojojutsu)",
+   "assunto": "hojojutsu: influência, não origem direta (visão da kinbakutoday)",
    "arco": null
   },
   "X2": {
@@ -184,10 +184,9 @@
   }
  },
  "ultimas_mudancas": {
-  "quando": "28/10/2026 20:55",
+  "quando": "28/10/2026 21:56",
   "itens": [
-   "slot P11: 'C-003 · a curadoria de cordas da Shibari Brasil, cada uma no seu propósito' virou 'C-004 · de onde vem a corda: do hojojutsu ao shibari'",
-   "C-004 · de onde vem a corda: do hojojutsu ao shibari: responsável Bia -> Julia, Ana, Bia"
+   "slot P11: 'C-004 · de onde vem a corda: do hojojutsu ao shibari' virou 'C-004 · hojojutsu e shibari: o que as fontes dizem'"
   ]
  }
 }

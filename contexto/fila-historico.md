@@ -37,3 +37,6 @@
 - slot P11: 'C-003 · a curadoria de cordas da Shibari Brasil, cada uma no seu propósito' virou 'C-004 · de onde vem a corda: do hojojutsu ao shibari'
 - C-004 · de onde vem a corda: do hojojutsu ao shibari: responsável Bia -> Julia, Ana, Bia
 
+## 28/10/2026 21:56 (fila vv12 (rascunho, não aprovado))
+- slot P11: 'C-004 · de onde vem a corda: do hojojutsu ao shibari' virou 'C-004 · hojojutsu e shibari: o que as fontes dizem'
+

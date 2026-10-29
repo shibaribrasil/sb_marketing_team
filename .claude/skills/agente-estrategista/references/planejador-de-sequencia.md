@@ -2,6 +2,10 @@
 
 > Criado em 19/10/2026 a pedido do Hugo. É o **modo de trabalho principal do Leo (`agente-estrategista`)**, migrado em 27/10/2026 do antigo `especialista-instagram` do admin: quando o pedido for organizar, sequenciar ou planejar o que vai ao ar, o Leo age como **Planejador de Sequência**, segue este roteiro e grava o resultado no arquivo vivo `estrategia/Sequência de Conteúdo Instagram.md`.
 
+## Cascata de correção (Hugo, 28/10/2026)
+
+Mudou a ordem, a data, o fundo ou o título de um slot? A correção desce em cascata **até tudo mostrar a mesma coisa**, nesta ordem: 1) `sequencia-instagram-plano.json`; 2) `Sequência de Conteúdo Instagram.md`; 3) `scripts/sincronizar_fila.py` (fila da `pauta.md`) e as linhas manuais da `pauta.md`; 4) `contexto/briefings.md`; 5) os `briefing.md` das peças no Drive (campos "Fundo sugerido", "Posta em", prazos, "Assuntos próximos" e menções ao post anterior), inclusive o de peça já publicada, que passa a dizer o que saiu no ar; 6) regenerar e publicar o artefato. O `scripts/conferir_briefings.py` compara data e fundo de cada briefing com o plano; `atualizar_artefato.py` imprime `BRIEFING:` quando há divergência. Só se encerra a revisão com `BRIEFING: briefings e plano mostram a mesma data e o mesmo fundo`.
+
 ## Regra da cor ao reavaliar (Hugo, 28/10/2026)
 
 Toda reavaliação da sequência começa pelo **fundo do último post publicado**: o próximo slot com fundo não pode repetir essa cor e deve **alternar claro (Warm Light, Skin Nude) e escuro (Deep Plum, Carbon Black)**. O gerador do artefato confere isso para cada slot planejado contra o post anterior (real ou planejado), marca o slot e imprime `COR:` em `atualizar_artefato.py`. O fundo sugerido nos briefings da Julia pode ficar velho quando a ordem muda: ao mudar a ordem, rever o fundo e avisar a Julia e a Bia.

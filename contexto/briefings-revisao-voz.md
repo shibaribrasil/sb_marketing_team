@@ -18,10 +18,10 @@
 
 | # | Título original | Veredito | Título novo | Por quê |
 |---|---|---|---|---|
-| C-004 | De técnica policial a arte — como o hojojutsu se tornou shibari | **Reescrever** | De onde vem a corda: do hojojutsu ao shibari | Origem entra como "segundo as fontes", com a fonte na legenda; termo do meio explicado na primeira vez. |
+| C-004 | De técnica policial a arte — como o hojojutsu se tornou shibari | **Reescrever** | Hojojutsu e shibari: o que as fontes dizem | Origem entra como "segundo as fontes", com a fonte na legenda; termo do meio explicado na primeira vez. |
 | C-005 | A corda sempre teve poder. O que mudou foi quem decide como ele é usado. | **Arquivar** | — | Frases curtas em sequência, fecho de efeito e sentencia. |
 | C-006 | O que é hojojutsu — e o que tem a ver com a corda nas suas mãos | **Reescrever** | O que é hojojutsu e o que ele tem a ver com o shibari | "Nas suas mãos" é retórica de efeito. |
-| C-018 | Hojojutsu: a técnica marcial japonesa que originou o shibari e o kinbaku | **Reescrever** | Hojojutsu: de onde vem o shibari, segundo as fontes que lemos | Blog. Afirmação de origem categórica vira expositiva, com fonte. |
+| C-018 | Hojojutsu: a técnica marcial japonesa que originou o shibari e o kinbaku | **Reescrever** | Hojojutsu e shibari: o que as fontes dizem | Blog. Afirmação de origem categórica vira expositiva, com fonte. |
 
 ## Aftercare
 

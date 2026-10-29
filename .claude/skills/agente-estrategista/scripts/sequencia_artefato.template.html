@@ -222,8 +222,8 @@ const items = [
 items.forEach((it, i) => { it.d = parse(it.data); it.ix = i; it.fundoHex = it.fundo ? FUNDOS[it.fundo] : null; });
 const hoje = parse(D.meta.hoje);
 /* slot planejado com data vencida e que não foi ao ar NÃO entra entre os posts reais: vai para o bloco "Atrasados" até a sequência ser reprogramada */
-items.forEach((it) => { it.atrasado = it.kind === "plano" && it.data < D.meta.hoje && !(it.agendamento && it.agendamento.status === "publicado"); });
-const naGrade = items.filter((x) => !x.atrasado);
+items.forEach((it) => { it.suspenso = it.kind === "plano" && !!it.suspenso; it.atrasado = it.kind === "plano" && !it.suspenso && it.data < D.meta.hoje && !(it.agendamento && it.agendamento.status === "publicado"); });
+const naGrade = items.filter((x) => !x.atrasado && !x.suspenso);
 naGrade.forEach((it, i) => { const p = naGrade[i - 1]; it.repete = !!(p && p.fundo && it.fundo && p.fundo === it.fundo); });
 const tipoTxt = (it) => (it.kind === "plano" ? it.formato : ({carrossel: "Carrossel", imagem: "Imagem", reel: "Reel"}[it.formato] || it.formato));
 let sel = null;
@@ -282,8 +282,15 @@ function drawGrid() {
     cx.appendChild(el("div", "note", "A cor de cada slot planejado é conferida contra o post anterior, o último já publicado inclusive: não repetir a mesma cor e alternar claro e escuro."));
     const ul = el("ul", "mini"); D.cores_alerta.forEach((a) => ul.appendChild(el("li", "", a))); cx.appendChild(ul); blocoAtr.appendChild(cx);
   }
+  const susp = items.filter((x) => x.suspenso);
+  if (susp.length) {
+    const sb = el("div", "atraso"); sb.style.borderColor = "var(--muted)"; sb.style.background = "transparent";
+    sb.appendChild(el("h3", "", `Suspenso por decisão do Hugo: ${susp.length} slot(s)`)); sb.querySelector("h3").style.color = "var(--muted)";
+    sb.appendChild(el("div", "note", "Fora da grade até o Hugo retomar. Não conta como atrasado."));
+    const sg = el("div", "grid"); susp.forEach((it) => sg.appendChild(tileEl(it))); sb.appendChild(sg); blocoAtr.appendChild(sb);
+  }
   [...items].reverse().forEach((it) => {
-    if (it.atrasado) return;
+    if (it.atrasado || it.suspenso) return;
     if (!marcou && it.kind === "real") { g.appendChild(el("div", "divider", "Hoje · " + fdy(hoje))); marcou = true; }
     if (it.kind === "plano") {
       const chave = it.data.slice(0, 7);

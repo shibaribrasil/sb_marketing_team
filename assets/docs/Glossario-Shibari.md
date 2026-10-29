@@ -81,7 +81,7 @@ Método de tortura histórico baseado na posição do camarão. Referência do h
 Suspensão na posição do camarão.
 
 **Edo**
-Período histórico japonês (1603–1868). Contexto de origem do hojojutsu e das primeiras formas do que viria a ser o kinbaku.
+Período histórico japonês (1603–1868). Contexto do hojojutsu. A ligação com as primeiras formas do kinbaku é debatida (ver Hojojutsu).
 
 ---
 
@@ -150,7 +150,8 @@ Variação do Gote com o padrão de diamante (hishi) incorporado.
 Combinação de técnicas do hojojutsu com padrões de diamante.
 
 **Hojojutsu**
-Arte japonesa tradicional de imobilizar uma pessoa com cordas. Origem marcial — técnica policial e militar. Antecedente direto do kinbaku. Referência: Instituto Niten (niten.org.br, PT).
+Arte japonesa tradicional de imobilizar uma pessoa com cordas (hojonawa), usada em contextos de captura, policiamento e punição, como no período Edo. Origem marcial. Referência: Instituto Niten (niten.org.br, PT); a página inicial do site não trata do tema, então conferir se há página específica.
+> _Nota da Shibari Brasil (28/10/2026):_ a leitura que adotamos, segundo a kinbakutoday.com ("Exploring the Origins of Kinbaku"), é que o hojojutsu **não é a origem direta nem uma tradição contínua** do kinbaku. Foi uma influência entre várias, reaproveitada e reclassificada no erotismo do pós-guerra, e o grau de influência é debatido. O livro _Essence of Shibari_ o trata como a raiz do kinbaku. Em texto da marca, dizer "influência" e citar a fonte (P87 no `sb_cerebro`).
 
 **Honmusubi**
 Nó direito. Nó básico do repertório técnico.

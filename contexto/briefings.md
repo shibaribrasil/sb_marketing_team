@@ -43,14 +43,14 @@ Leo (território) → Caio (banco de briefings) → Hugo seleciona → Caio cria
 ---
 
 ## Território: Hojojutsu — a origem marcial do shibari
-> *Shibari · Thiago, Mariana · Ref: niten.org.br + kinbakutoday.com*
+> *Shibari · Thiago, Mariana · Ref: kinbakutoday.com + Essence of Shibari (cap. 1)*
 
 | # | Título provisório | Formato | Persona | Status | Arquivo |
 |---|---|---|---|---|---|
-| C-004 | De onde vem a corda: do hojojutsu ao shibari | Post educativo Instagram | Thiago, Mariana | 🗂 Backlog (slot 13/11 da sequência v12, aguardando a posição do Hugo) | — |
+| C-004 | Hojojutsu e shibari: o que as fontes dizem | Post educativo Instagram | Thiago, Mariana | 🗂 Backlog (slot 13/11 da sequência v12; ângulo escolhido pelo Hugo: influência, não origem direta) | — |
 | C-005 | A corda sempre teve poder. O que mudou foi quem decide como ele é usado. | Post conceitual Instagram | Todas | 🗃 Arquivado (revisão de voz, 28/10/2026: Frases curtas em sequência, fecho de efeito e sentencia.) | — |
 | C-006 | O que é hojojutsu e o que ele tem a ver com o shibari | Rapidinha Instagram | Mariana | 🗂 Backlog | — |
-| C-018 | Hojojutsu: de onde vem o shibari, segundo as fontes que lemos | Post para Blog | Thiago, Mariana | 🗂 Backlog | — |
+| C-018 | Hojojutsu e shibari: o que as fontes dizem | Post para Blog | Thiago, Mariana | 🗂 Backlog | — |
 
 ---
 

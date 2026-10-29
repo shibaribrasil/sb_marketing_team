@@ -2,6 +2,10 @@
 
 > Decisões do Hugo e regras de leitura. Acrescente com data a cada nova decisão. Não repita erro já pago.
 
+## Decisão de 28/10/2026 (Hugo): correção em cascata
+
+- Ao corrigir a sequência, **corrigir também os briefings** (e tudo que cite a data, o fundo ou o post anterior), em cascata, até o plano, a pauta, o banco, os briefings e o artefato mostrarem a mesma coisa. Ferramenta: `conferir_briefings.py`. Passos em `planejador-de-sequencia.md` ("Cascata de correção").
+
 ## Decisão de 28/10/2026 (Hugo): reavaliar a sequência olhando o fundo do último post
 
 - Ao reavaliar, o fundo do último post publicado entra na conta. Exemplo que motivou: a C-106 saiu em Warm Light (claro) e o pet play seguinte estava sugerido em Warm Light. Regra: não repetir a cor e alternar claro e escuro. Implementado em `checar_cores` (gerador do artefato).

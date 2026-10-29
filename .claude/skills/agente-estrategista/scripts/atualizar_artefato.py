@@ -51,6 +51,8 @@ def main():
     for l in linhas:
         if l.startswith("COR:"):
             print(l)
+    import conferir_briefings
+    print(chr(10).join(conferir_briefings.divergencias()) or "BRIEFING: briefings e plano mostram a mesma data e o mesmo fundo")
     if any(l.startswith("REPROGRAMAR") for l in linhas):
         i = [n for n, l in enumerate(linhas) if l.startswith("REPROGRAMAR")][0]
         print(chr(10).join(linhas[i:i + 12]))

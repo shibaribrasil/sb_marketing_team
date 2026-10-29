@@ -233,11 +233,11 @@ def checar_cores(posts, slots):
         return "claro" if f in claro else ("escuro" if f in escuro else None)
     hoje = date.today().isoformat()
     seq = [(p["data"], 0, p.get("peca") or p["titulo"][:30], p.get("fundo"), None) for p in posts if p["data"] >= (date.today() - timedelta(days=21)).isoformat()]
-    seq += [(s["data"], 1, s["titulo"][:48], s.get("fundo"), s) for s in slots if not s.get("reservado") and s["data"] >= hoje]
+    seq += [(s["data"], 1, s["titulo"][:48], s.get("fundo"), s) for s in slots if not s.get("reservado") and not s.get("suspenso") and s["data"] >= hoje]
     seq.sort(key=lambda x: (x[0], x[1]))
     avisos = []
     for a, b in zip(seq, seq[1:]):
-        if b[4] is None or not a[3] or not b[3]:
+        if b[4] is None or not a[3] or not b[3] or b[4].get("cor_aceita"):
             continue
         msg = None
         if a[3] == b[3]:
@@ -369,7 +369,7 @@ def main():
     html = html.replace("/*__DADOS__*/null", blob, 1)
     Path(args.out).write_text(html, encoding="utf-8")
     atrasados = [f"{s['id']} ({s['data']}) {s['titulo'][:60]}" for s in plano["plano"]
-                 if s["data"] < date.today().isoformat() and not (s.get("agendamento") and s["agendamento"].get("status") == "publicado")]
+                 if s["data"] < date.today().isoformat() and not s.get("suspenso") and not (s.get("agendamento") and s["agendamento"].get("status") == "publicado")]
     if atrasados:
         print("REPROGRAMAR: slot(s) com data vencida e sem post no ar (saem da grade e vão para o bloco Atrasados):")
         for a in atrasados:

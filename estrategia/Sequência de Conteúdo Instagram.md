@@ -44,7 +44,7 @@
 | 8 | sex 06/11 | **Foto de produto** | **Óleo e cera de tratamento em uso** (sem arte e sem comando de venda) · **PRODUTO** | óleo e cera | foto, fundo natural | 05/11 | Hugo + Julia |
 | 9 | seg 09/11 | **Reel C** | **Três passos para guardar a corda** (óleo e pano em uso) | guardar a corda | — | 08/11 | Hugo |
 | 10 | qua 11/11 | Carrossel educativo (velas) | **C-026 velas que podem e velas que nunca**: guia de segurança do wax play · **PRODUTO** | wax play (velas e segurança) | Skin Nude | 10/11 | Julia, Ana, Bia |
-| 11 | sex 13/11 | Carrossel livre | **C-004** de onde vem a corda: do hojojutsu ao shibari (**no lugar da C-003, por pedido do Hugo em 28/10**; precisa da posição do Hugo até 04/11) | origem do shibari (hojojutsu) | Warm Light | 12/11 | Julia, Ana, Bia |
+| 11 | sex 13/11 | Carrossel livre | **C-004** hojojutsu e shibari: o que as fontes dizem (**no lugar da C-003, por pedido do Hugo em 28/10**; ângulo escolhido pelo Hugo: a visão da kinbakutoday, influência e não origem direta) | origem do shibari (hojojutsu) | Warm Light | 12/11 | Julia, Ana, Bia |
 | extra | sáb 14/11 | Casual | **Extra 2**: ideia do Hugo (muda 1 fator do extra 1) | a definir | a definir | 13/11 | Hugo, Julia/Bia |
 | 12 | seg 16/11 | Carrossel livre | **C-062** ser submissa me faz menos feminista? | submissão e feminismo | Deep Plum | 13/11 | Julia, Ana, Bia |
 | 13 | qua 18/11 | Carrossel livre (explicativo de produto) | **Qual kit para cada momento**: Kit Iniciante, Kit para Estudo e Kit Corda a Corda · **PRODUTO** | qual kit escolher | Warm Light | 17/11 | Julia, Ana, Bia |

@@ -6,7 +6,7 @@
 
 | # | Regra | O que apareceu | Exemplos |
 |---|---|---|---|
-| R1 | A antítese "não é X, é Y" e a sequência de frases curtas são marca de IA mesmo quando o conteúdo é verdadeiro. Vale para título, frase de post e "por que é SB". | 16 itens | "Consentimento não é uma conversa, é uma prática"; "Corda não é sobre força. É sobre atenção."; "A corda sai. A presença, não." |
+| R1 | A antítese de efeito "não é X, é Y" e a sequência de frases curtas são marca de IA mesmo quando o conteúdo é verdadeiro. **Nuance aprovada em 28/10:** a negação que defende uma posição clara passa (C-089). Vale para título, frase de post e "por que é SB". | 16 itens | "Consentimento não é uma conversa, é uma prática"; "Corda não é sobre força. É sobre atenção."; "A corda sai. A presença, não." |
 | R2 | Palavras de clique saem: "de verdade", "reais", "ninguém te conta", "quase ninguém fala", "muda tudo", "descubra". "De verdade" apareceu em 8 títulos e em peças prontas. | 11 itens | "uma safeword que funciona de verdade"; "os riscos reais do TK"; "a diferença que muda tudo" |
 | R3 | A marca não se coloca acima do mercado: nada de "o mercado faz X, a SB faz Y", "a SB pode ser a primeira" ou "a referência". A voz é de quem estudou, cita a fonte e admite que aprende. | quase todos os territórios | "Nenhuma marca BR faz isso com seriedade"; "a SB pode ser a primeira a tratar o Dom drop" |
 | R4 | Afirmação única para o que depende da pessoa vira expositiva ("costuma", "segundo as fontes", "pode"). Superlativo e promessa saem: "o maior cuidado", "perfeito para começar", "base de tudo", "guia completo". | 20 itens | "a técnica que originou o shibari"; "o nó que está na base de tudo" |
@@ -34,7 +34,7 @@
 - **Consentimento:** "uma prática, não uma conversa" nega a conversa. Passou a "combinar antes é o ponto de partida; durante a cena a pessoa pode mudar de ideia".
 - **D/s:** "não é sobre quem manda, é sobre quem confia" virou antítese. Passou a "quem se submete cede o controle e quem domina assume a responsabilidade".
 - **Wax play:** "calor como linguagem" caiu. A imagem do Hugo é "descoberta controlada", com gradação de temperatura.
-- **Hojojutsu:** origem categórica passou a "segundo as fontes", com fonte na legenda.
+- **Hojojutsu:** origem categórica passou a "segundo as fontes", com fonte na legenda. Em 28/10 conferi a fonte citada: a kinbakutoday.com **não** afirma que o shibari nasceu do hojojutsu (diz que não é origem direta nem tradição contínua e que o grau de influência é debatido), e a página inicial da niten.org.br não trata do tema. O livro Essence of Shibari e o glossário da loja dizem que é a raiz. A premissa do backlog ("nasceu como técnica de guerra e controle policial") estava mais forte do que a fonte.
 - **Takate Kote:** "a amarração mais arriscada" virou "também pede cuidado".
 - **Fetiche e autoconhecimento:** "descubra quem você quer ser" sentenciava. Passou a "o fetiche também mostra o que a pessoa busca".
 - **Feminismo e BDSM:** "o equívoco que precisa ser desfeito" tinha pose de mestre. Passou a pergunta aberta, com fonte e posição do Hugo.
