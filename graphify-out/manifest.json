@@ -13,16 +13,16 @@
     "ast_empty": true
   },
   ".claude/skills/agente-estrategista/scripts/atualizar_artefato.py": {
-    "mtime": 1793233537.1723003,
-    "seen": 1793233956.6523163,
-    "ast_hash": "d1c08bea2de7bf490703b4087f44f533",
-    "semantic_hash": "d1c08bea2de7bf490703b4087f44f533"
+    "mtime": 1793235417.7528198,
+    "seen": 1793238263.8800142,
+    "ast_hash": "389323612456f636381820b780e09ed4",
+    "semantic_hash": "389323612456f636381820b780e09ed4"
   },
   ".claude/skills/agente-estrategista/scripts/gerar_artefato_sequencia.py": {
-    "mtime": 1793233537.1723003,
-    "seen": 1793233956.6523163,
-    "ast_hash": "421134e1f40508db8d2f5a61b2a125cf",
-    "semantic_hash": "421134e1f40508db8d2f5a61b2a125cf"
+    "mtime": 1793235456.7453463,
+    "seen": 1793238263.8800142,
+    "ast_hash": "c6a742fdaa9c0ff56bde79baf88ce08f",
+    "semantic_hash": "c6a742fdaa9c0ff56bde79baf88ce08f"
   },
   ".claude/skills/agente-estrategista/scripts/insumos_sequencia.py": {
     "mtime": 1793231708.5079072,
@@ -127,16 +127,16 @@
     "semantic_hash": "2f3ea2a68b8dc4dcf8eecd53767c7468"
   },
   ".claude/skills/agente-estrategista/references/planejador-de-sequencia.md": {
-    "mtime": 1793233537.1738055,
-    "seen": 1793233956.6523163,
-    "ast_hash": "892130a6ceba3ef7685269376515fae4",
-    "semantic_hash": "892130a6ceba3ef7685269376515fae4"
+    "mtime": 1793235417.7528198,
+    "seen": 1793238263.8800142,
+    "ast_hash": "4d3fffbb891f8265cf7f23312127f937",
+    "semantic_hash": "4d3fffbb891f8265cf7f23312127f937"
   },
   ".claude/skills/agente-estrategista/references/regras-e-decisoes.md": {
-    "mtime": 1793233537.1738055,
-    "seen": 1793233956.6523163,
-    "ast_hash": "d327f3d3472f4a0a89930253554864d5",
-    "semantic_hash": "d327f3d3472f4a0a89930253554864d5"
+    "mtime": 1793235417.7528198,
+    "seen": 1793238263.8800142,
+    "ast_hash": "0e7dbc14cf434fefd173213fe04ac980",
+    "semantic_hash": "0e7dbc14cf434fefd173213fe04ac980"
   },
   ".claude/skills/agente-estrategista/references/risco-de-alcance-nicho.md": {
     "mtime": 1793153780.9694312,
@@ -151,10 +151,10 @@
     "semantic_hash": "a61478d1f8641fd697d0de5672ca5674"
   },
   ".claude/skills/agente-estrategista/scripts/sequencia_artefato.template.html": {
-    "mtime": 1793233537.1738055,
-    "seen": 1793233956.6523163,
-    "ast_hash": "c5cb949394b5598e6b9ae1817b74ca72",
-    "semantic_hash": "c5cb949394b5598e6b9ae1817b74ca72"
+    "mtime": 1793235456.7453463,
+    "seen": 1793238263.8800142,
+    "ast_hash": "899adbc4290d1462926d824e7badb36a",
+    "semantic_hash": "899adbc4290d1462926d824e7badb36a"
   },
   ".claude/skills/agente-revisor/SKILL.md": {
     "mtime": 1793154363.838133,
@@ -229,10 +229,10 @@
     "semantic_hash": "ad739d3e9a9a2e15acc80735ab50b130"
   },
   "assets/docs/Glossario-Shibari.md": {
-    "mtime": 1781539669.4405699,
-    "seen": 1793206293.46227,
-    "ast_hash": "0445461809e06922327ee9e463d7f027",
-    "semantic_hash": "0445461809e06922327ee9e463d7f027"
+    "mtime": 1793238061.731421,
+    "seen": 1793238263.8800142,
+    "ast_hash": "863d1b603052c0c00292a6c5c4052ecb",
+    "semantic_hash": "863d1b603052c0c00292a6c5c4052ecb"
   },
   "assets/docs/Guia da marca - Shibari Brasil.md": {
     "mtime": 1793150304.2599444,
@@ -343,10 +343,10 @@
     "semantic_hash": "800a9ed74d7453c679217dcfff9844ab"
   },
   "contexto/pauta.md": {
-    "mtime": 1793233597.565341,
-    "seen": 1793233956.6523163,
-    "ast_hash": "9215b0449f480c4bdef3d99cbe173cc3",
-    "semantic_hash": "9215b0449f480c4bdef3d99cbe173cc3"
+    "mtime": 1793236354.551394,
+    "seen": 1793238263.8800142,
+    "ast_hash": "97809a5e0c23f79d68a9e31552cef986",
+    "semantic_hash": "97809a5e0c23f79d68a9e31552cef986"
   },
   "contexto/personas.md": {
     "mtime": 1782502245.2597194,
@@ -373,10 +373,10 @@
     "semantic_hash": "18945d9d9305f1dab0f7f96569e1ea2b"
   },
   "estrategia/Sequ\u00eancia de Conte\u00fado Instagram.md": {
-    "mtime": 1793231775.7358034,
-    "seen": 1793233956.6523163,
-    "ast_hash": "61404ee75c30e725ebe08b48377cf839",
-    "semantic_hash": "61404ee75c30e725ebe08b48377cf839"
+    "mtime": 1793236354.366347,
+    "seen": 1793238263.8800142,
+    "ast_hash": "dee540d5e911ffe8ffa651f8acdf9cb4",
+    "semantic_hash": "dee540d5e911ffe8ffa651f8acdf9cb4"
   },
   "estrategia/historico-especialista-instagram.md": {
     "mtime": 1793153780.978323,
@@ -421,21 +421,27 @@
     "semantic_hash": "a87a74b526d18bc040ad04e3bf9e16d7"
   },
   "contexto/briefings-revisao-voz.md": {
-    "mtime": 1793226532.9521577,
-    "seen": 1793233956.6523163,
-    "ast_hash": "05e32beb4ff7233b4eca757e2a9907a6",
-    "semantic_hash": "05e32beb4ff7233b4eca757e2a9907a6"
+    "mtime": 1793235405.8638575,
+    "seen": 1793238263.8800142,
+    "ast_hash": "a49cf7c9fdaee82e1c8b4ec226564515",
+    "semantic_hash": "a49cf7c9fdaee82e1c8b4ec226564515"
   },
   "contexto/revisao-voz-resumo-para-cerebro.md": {
-    "mtime": 1793226741.629833,
-    "seen": 1793233956.6523163,
-    "ast_hash": "96d3b9324f03a5a6102832be1a2c50ea",
-    "semantic_hash": "96d3b9324f03a5a6102832be1a2c50ea"
+    "mtime": 1793236354.36944,
+    "seen": 1793238263.8800142,
+    "ast_hash": "4305b34e52b2e5dd4c99a2c969241644",
+    "semantic_hash": "4305b34e52b2e5dd4c99a2c969241644"
   },
   "estrategia/revisao-voz-sequencia-2026-10-28.md": {
     "mtime": 1793226741.631582,
     "seen": 1793233956.6523163,
     "ast_hash": "2b5754a043dc8b2c68a699ebf874079d",
     "semantic_hash": "2b5754a043dc8b2c68a699ebf874079d"
+  },
+  ".claude/skills/agente-estrategista/scripts/conferir_briefings.py": {
+    "mtime": 1793235324.7173893,
+    "seen": 1793238263.8800142,
+    "ast_hash": "2cd041fecbc9e26803f4e299a0ad7c6d",
+    "semantic_hash": "2cd041fecbc9e26803f4e299a0ad7c6d"
   }
 }
