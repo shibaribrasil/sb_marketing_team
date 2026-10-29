@@ -13,22 +13,22 @@
     "ast_empty": true
   },
   ".claude/skills/agente-estrategista/scripts/atualizar_artefato.py": {
-    "mtime": 1793155012.897342,
-    "seen": 1793205294.0979676,
-    "ast_hash": "36e6bf66ecc9a87689655587c0ed5a94",
-    "semantic_hash": "36e6bf66ecc9a87689655587c0ed5a94"
+    "mtime": 1793233537.1723003,
+    "seen": 1793233956.6523163,
+    "ast_hash": "d1c08bea2de7bf490703b4087f44f533",
+    "semantic_hash": "d1c08bea2de7bf490703b4087f44f533"
   },
   ".claude/skills/agente-estrategista/scripts/gerar_artefato_sequencia.py": {
-    "mtime": 1793154526.5518756,
-    "seen": 1793205294.0979676,
-    "ast_hash": "731c1788524d19b1a7e7e874ca0fa238",
-    "semantic_hash": "731c1788524d19b1a7e7e874ca0fa238"
+    "mtime": 1793233537.1723003,
+    "seen": 1793233956.6523163,
+    "ast_hash": "421134e1f40508db8d2f5a61b2a125cf",
+    "semantic_hash": "421134e1f40508db8d2f5a61b2a125cf"
   },
   ".claude/skills/agente-estrategista/scripts/insumos_sequencia.py": {
-    "mtime": 1793154505.876132,
-    "seen": 1793205294.0979676,
-    "ast_hash": "98596b52e0c864d6dc2f3f2cf9eab35d",
-    "semantic_hash": "98596b52e0c864d6dc2f3f2cf9eab35d"
+    "mtime": 1793231708.5079072,
+    "seen": 1793233956.6523163,
+    "ast_hash": "4b7d070ce3a97d226d231f2743f448e2",
+    "semantic_hash": "4b7d070ce3a97d226d231f2743f448e2"
   },
   ".claude/skills/agente-estrategista/scripts/produzido_x_postado.py": {
     "mtime": 1793154505.871158,
@@ -85,10 +85,10 @@
     "semantic_hash": "a34a4086d4083c9c621e080bde47c407"
   },
   ".claude/skills/agente-estrategista/SKILL.md": {
-    "mtime": 1793155085.4891493,
-    "seen": 1793206293.46227,
-    "ast_hash": "49f244acf997b87b984fdf1b746a31a4",
-    "semantic_hash": "49f244acf997b87b984fdf1b746a31a4"
+    "mtime": 1793231775.7358034,
+    "seen": 1793233956.6523163,
+    "ast_hash": "a3f3b2d30570329c1680c848d060931d",
+    "semantic_hash": "a3f3b2d30570329c1680c848d060931d"
   },
   ".claude/skills/agente-estrategista/references/algoritmo-e-plataforma.md": {
     "mtime": 1793153752.5607543,
@@ -109,10 +109,10 @@
     "semantic_hash": "c8f3194b0169307fccb2f8e822845af1"
   },
   ".claude/skills/agente-estrategista/references/estado-atual.md": {
-    "mtime": 1793153970.4533799,
-    "seen": 1793206293.46227,
-    "ast_hash": "5abc69998e5d122cec5aa76ad3ca4bea",
-    "semantic_hash": "5abc69998e5d122cec5aa76ad3ca4bea"
+    "mtime": 1793233092.372323,
+    "seen": 1793233956.6523163,
+    "ast_hash": "0acf3d119ff4766b2ff99a5a98f72b11",
+    "semantic_hash": "0acf3d119ff4766b2ff99a5a98f72b11"
   },
   ".claude/skills/agente-estrategista/references/fontes-externas.md": {
     "mtime": 1793153970.3960283,
@@ -127,16 +127,16 @@
     "semantic_hash": "2f3ea2a68b8dc4dcf8eecd53767c7468"
   },
   ".claude/skills/agente-estrategista/references/planejador-de-sequencia.md": {
-    "mtime": 1793153907.298035,
-    "seen": 1793206293.46227,
-    "ast_hash": "514ca55068cced113844483efe129de0",
-    "semantic_hash": "514ca55068cced113844483efe129de0"
+    "mtime": 1793233537.1738055,
+    "seen": 1793233956.6523163,
+    "ast_hash": "892130a6ceba3ef7685269376515fae4",
+    "semantic_hash": "892130a6ceba3ef7685269376515fae4"
   },
   ".claude/skills/agente-estrategista/references/regras-e-decisoes.md": {
-    "mtime": 1793153907.298035,
-    "seen": 1793206293.46227,
-    "ast_hash": "d35bbd178d22290ab0edae993a62c236",
-    "semantic_hash": "d35bbd178d22290ab0edae993a62c236"
+    "mtime": 1793233537.1738055,
+    "seen": 1793233956.6523163,
+    "ast_hash": "d327f3d3472f4a0a89930253554864d5",
+    "semantic_hash": "d327f3d3472f4a0a89930253554864d5"
   },
   ".claude/skills/agente-estrategista/references/risco-de-alcance-nicho.md": {
     "mtime": 1793153780.9694312,
@@ -151,10 +151,10 @@
     "semantic_hash": "a61478d1f8641fd697d0de5672ca5674"
   },
   ".claude/skills/agente-estrategista/scripts/sequencia_artefato.template.html": {
-    "mtime": 1793154962.4654548,
-    "seen": 1793206293.46227,
-    "ast_hash": "55a5332f8e532793d9aa65d04ebd9d25",
-    "semantic_hash": "55a5332f8e532793d9aa65d04ebd9d25"
+    "mtime": 1793233537.1738055,
+    "seen": 1793233956.6523163,
+    "ast_hash": "c5cb949394b5598e6b9ae1817b74ca72",
+    "semantic_hash": "c5cb949394b5598e6b9ae1817b74ca72"
   },
   ".claude/skills/agente-revisor/SKILL.md": {
     "mtime": 1793154363.838133,
@@ -343,10 +343,10 @@
     "semantic_hash": "800a9ed74d7453c679217dcfff9844ab"
   },
   "contexto/pauta.md": {
-    "mtime": 1793218539.8758984,
-    "seen": 1793222947.4870393,
-    "ast_hash": "e9d5fecc802839456a0104795d0a0659",
-    "semantic_hash": "e9d5fecc802839456a0104795d0a0659"
+    "mtime": 1793233597.565341,
+    "seen": 1793233956.6523163,
+    "ast_hash": "9215b0449f480c4bdef3d99cbe173cc3",
+    "semantic_hash": "9215b0449f480c4bdef3d99cbe173cc3"
   },
   "contexto/personas.md": {
     "mtime": 1782502245.2597194,
@@ -373,10 +373,10 @@
     "semantic_hash": "18945d9d9305f1dab0f7f96569e1ea2b"
   },
   "estrategia/Sequ\u00eancia de Conte\u00fado Instagram.md": {
-    "mtime": 1793218486.711589,
-    "seen": 1793222947.4870393,
-    "ast_hash": "061ac33c2cd7dbee94c41ab4c53d46b0",
-    "semantic_hash": "061ac33c2cd7dbee94c41ab4c53d46b0"
+    "mtime": 1793231775.7358034,
+    "seen": 1793233956.6523163,
+    "ast_hash": "61404ee75c30e725ebe08b48377cf839",
+    "semantic_hash": "61404ee75c30e725ebe08b48377cf839"
   },
   "estrategia/historico-especialista-instagram.md": {
     "mtime": 1793153780.978323,
@@ -419,5 +419,23 @@
     "seen": 1793206293.46227,
     "ast_hash": "a87a74b526d18bc040ad04e3bf9e16d7",
     "semantic_hash": "a87a74b526d18bc040ad04e3bf9e16d7"
+  },
+  "contexto/briefings-revisao-voz.md": {
+    "mtime": 1793226532.9521577,
+    "seen": 1793233956.6523163,
+    "ast_hash": "05e32beb4ff7233b4eca757e2a9907a6",
+    "semantic_hash": "05e32beb4ff7233b4eca757e2a9907a6"
+  },
+  "contexto/revisao-voz-resumo-para-cerebro.md": {
+    "mtime": 1793226741.629833,
+    "seen": 1793233956.6523163,
+    "ast_hash": "96d3b9324f03a5a6102832be1a2c50ea",
+    "semantic_hash": "96d3b9324f03a5a6102832be1a2c50ea"
+  },
+  "estrategia/revisao-voz-sequencia-2026-10-28.md": {
+    "mtime": 1793226741.631582,
+    "seen": 1793233956.6523163,
+    "ast_hash": "2b5754a043dc8b2c68a699ebf874079d",
+    "semantic_hash": "2b5754a043dc8b2c68a699ebf874079d"
   }
 }
