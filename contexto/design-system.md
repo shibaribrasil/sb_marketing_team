@@ -224,7 +224,8 @@ Nenhum texto ou elemento importante deve ultrapassar essa área.
 - Ideal para: conteúdo educativo, explicações técnicas, conceitos de shibari e BDSM
 
 **2. Layout de Frase**
-- Estrutura: Frase curta dominante — sem subtítulo ou texto adicional
+- Estrutura: frase dominante em até 5 linhas, tarja lateral de cor na borda esquerda e uma palavra sobre bloco da mesma cor ("tarja e etiqueta", desde 30/10/2026); sem subtítulo ou texto adicional
+- Medidas, cores pelo fundo e modelo no Canva: `contexto/formatos/post-de-frase.md`
 - Ideal para: posicionamento da marca, reflexões, conceitos sobre prática e desejo
 
 **3. Layout Informativo**
@@ -252,7 +253,7 @@ Nenhum texto ou elemento importante deve ultrapassar essa área.
 |---|---|---|
 | **Rapidinha** | Warm Light · Skin Nude | Conteúdo educativo rápido, construção de autoridade |
 | **Educativo aprofundado** | Warm Light · Skin Nude | Segurança, consentimento, prática responsável, técnica |
-| **Conceitual / frase** | Deep Plum · Carbon Black | Atmosfera, reflexão, intensidade emocional |
+| **Conceitual / frase** | Carbon · Deep Plum · Warm Light · Skin Nude · Wine Knot (tabela em `formatos/post-de-frase.md`) | Atmosfera, reflexão, intensidade emocional |
 | **Minimalista** | Carbon Black · Deep Plum · Scarlet (ocasional) | Impacto visual e pausas no ritmo do feed |
 | **Produto** | Skin Nude · Warm Light | Valorizar textura, materialidade e qualidade |
 | **Institucional** | Warm Light · Deep Plum | Valores da marca, bastidores, posicionamento |

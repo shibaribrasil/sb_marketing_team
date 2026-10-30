@@ -103,7 +103,7 @@ Espessura: 3px · Cor: Scarlet Pulse · Posição: 80px da margem esquerda.
 
 **1. Editorial** — Título + Subtítulo + Texto explicativo. Pode incluir linha Scarlet. Ideal para conteúdo educativo e conceitos técnicos.
 
-**2. Frase** — Frase curta dominante, sem subtítulo ou texto adicional. Ideal para posicionamento e reflexões.
+**2. Frase** — Frase dominante em até 5 linhas, tarja lateral de cor e uma palavra sobre bloco da mesma cor ("tarja e etiqueta", desde 30/10/2026); sem subtítulo ou texto adicional. Medidas, cores pelo fundo e template do Canva ("Post Frase - Modelo 2") em `contexto/formatos/post-de-frase.md`. Ideal para posicionamento e reflexões.
 
 **3. Informativo** — Título + Lista ou pequenos blocos. Ideal para produto, diferenciais, características técnicas.
 
@@ -119,7 +119,7 @@ Espessura: 3px · Cor: Scarlet Pulse · Posição: 80px da margem esquerda.
 |---|---|
 | Rapidinha | Warm Light · Skin Nude |
 | Educativo aprofundado | Warm Light · Skin Nude |
-| Conceitual / frase | Deep Plum · Carbon Black |
+| Conceitual / frase | Carbon · Deep Plum · Warm Light · Skin Nude · Wine Knot (ver `formatos/post-de-frase.md`) |
 | Minimalista | Carbon Black · Deep Plum · Scarlet (ocasional) |
 | Produto | Skin Nude · Warm Light |
 | Institucional | Warm Light · Deep Plum |

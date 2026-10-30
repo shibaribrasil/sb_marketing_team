@@ -230,8 +230,8 @@ Os formatos são definidos de forma incremental. Cada formato tem seu próprio a
 
 **Formatos cadastrados:**
 1. Post para Blog → `contexto/formatos/post-para-blog.md`
-2. Post de Frase → `contexto/formatos/post-de-frase.md`
-3. Post Por Trás do Desejo → `contexto/formatos/post-por-tras-do-desejo.md` — layout "dicionário" desde 30/10/2026: carrossel de 5 páginas (capa com origem e definição, acepções, figura, termos ligados, finalização fixa com bibliografia e índice de letras); cores pela tabela do fundo do slot; pipeline: Julia (texto + legenda) → Ana (revisão) → Bia (arte e foto)
+2. Post de Frase → `contexto/formatos/post-de-frase.md` — layout "tarja e etiqueta" desde 30/10/2026: imagem única com tarja lateral, frase em até 5 linhas e uma palavra sobre bloco; cores pela tabela do fundo do slot; template do Canva "Post Frase - Modelo 2" (link no formato); pipeline: Julia (frase, palavra marcada e legenda) → Ana (revisão) → Bia (arte)
+3. Post Por Trás do Desejo → `contexto/formatos/post-por-tras-do-desejo.md` — layout "dicionário" desde 30/10/2026: carrossel de 5 páginas (capa com origem e definição, acepções, figura, termos ligados, finalização fixa com bibliografia e índice de letras); cores pela tabela do fundo do slot; pipeline: Julia (texto + legenda) → Ana (revisão) → Bia (arte e foto, a partir do modelo no Canva)
 4. Post Inspiração de Amarração → `contexto/formatos/post-inspiracao-de-amarracao.md`
 5. Carrossel Livre → `contexto/formatos/carrossel-livre.md`
 6 e 7. (Os formatos de descrição de produto saíram do marketing em 27/10/2026: são do cadastrador, no `sb_admin_team`. A numeração dos demais formatos não muda.)

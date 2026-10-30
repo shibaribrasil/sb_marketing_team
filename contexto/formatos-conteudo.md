@@ -71,7 +71,7 @@ Quando o usuário solicitar um tipo de conteúdo ainda não registrado:
 ## Formatos Cadastrados
 
 1. [Post para Blog](formatos/post-para-blog.md)
-2. [Post de Frase](formatos/post-de-frase.md)
+2. [Post de Frase](formatos/post-de-frase.md) — layout "tarja e etiqueta" desde 30/10/2026; modelo no Canva "Post Frase - Modelo 2"
 3. [Post Por Trás do Desejo](formatos/post-por-tras-do-desejo.md)
 4. [Post Inspiração de Amarração](formatos/post-inspiracao-de-amarracao.md)
 5. [Carrossel Livre](formatos/carrossel-livre.md)
