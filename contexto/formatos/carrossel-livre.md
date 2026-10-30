@@ -48,6 +48,8 @@ Dois blocos de texto com hierarquia visual distinta:
 
 As duas frases são exibidas em cores contrastantes conforme o design system da marca (ex: branco e coral sobre fundo escuro, ou preto e scarlet sobre fundo claro). A Bia define as cores conforme o fundo escolhido.
 
+**Carrossel temático** (sobre uma prática, material ou fetiche específico): o **nome do tema** precisa estar na capa, dentro da frase dominante ou como palavra de destaque dela, escrito como as pessoas o chamam ("wax play"), em corpo de título e legível na miniatura do grid. Frase dominante sem o nome do tema não serve para carrossel temático. Regra geral em `contexto/formatos-conteudo.md`.
+
 **2–6. Slides de conteúdo (Slides 1, 2, 3, 4 e 5)**
 Cada slide desenvolve um ponto do tema. Estrutura obrigatória:
 - **Frase de destaque** (topo, Playfair Display Bold) — frase curta de ancoragem. Pode ser uma afirmação, uma citação ou uma pergunta. Referência: 5 a 12 palavras. Deve funcionar sozinha, fora de contexto.
@@ -86,6 +88,7 @@ Encerramento do raciocínio + CTA. Dois blocos distintos:
 ### Checklist de entrega (Julia preenche antes de passar para a Bia)
 
 - [ ] Capa: frase dominante (5–10 palavras) + frase de contraste (4–8 palavras)
+- [ ] Carrossel temático: nome do tema na frase dominante, legível na miniatura do grid
 - [ ] Slides 1–5: frase de destaque + desenvolvimento (40–70 palavras cada)
 - [ ] Respiro: frase única com referente claro, 10–20 palavras
 - [ ] Finalização: bloco de conclusão (40–60 palavras) + CTA (1–2 frases)

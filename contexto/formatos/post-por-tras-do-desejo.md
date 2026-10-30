@@ -16,7 +16,7 @@ O arquivo `texto.md` de um Post Por Trás do Desejo deve conter os campos abaixo
 
 **1. Capa**
 O que aparece na primeira página do carrossel:
-- Nome do tema (fetiche ou prática) — palavra(s) ou expressão curta, em minúsculas
+- Nome do tema (fetiche ou prática) — palavra(s) ou expressão curta, em minúsculas, como as pessoas chamam e buscam. É o título da capa e precisa ser lido na miniatura do grid (regra geral em `contexto/formatos-conteudo.md`)
 - Subtítulo fixo: "por trás do desejo" (nome do quadro)
 - Chamada de abertura — 1 frase curta que desperta curiosidade e convida a passar de página. Não ser genérico: a chamada deve provocar o leitor com algo específico do tema
 
@@ -54,6 +54,7 @@ O que aparece na primeira página do carrossel:
 - **Template no Canva:** "Post Por Trás do Desejo" — a Bia produz o design completo no Canva usando este template
 - **Tipo de Grid:** Educativo aprofundado → **Fundo recomendado:** Warm Light (`#f4ece7`) ou Skin Nude (`#e6cfc3`)
 - **Tipografia:** Playfair Display Bold para frase de efeito e título da capa; Montserrat para explicação, chamada e texto da finalização
+- **Tema no grid:** nome do tema na capa em corpo de título (110–150px, nunca abaixo de 96px), com contraste alto; testar a capa reduzida a ~130px de largura
 - **Alinhamento:** à esquerda em todas as páginas — exceto página 4 (finalização), que é centralizado
 - **Elemento gráfico:** linha vertical Scarlet (`#d10f2f`, 3px) apenas na página 1 (capa), conforme template
 - **Wordmark:** "shibari brasil" presente em todas as páginas exceto a foto
@@ -65,6 +66,7 @@ O que aparece na primeira página do carrossel:
 ### Checklist de entrega (Julia preenche antes de passar para a Bia)
 
 - [ ] Capa com tema, nome do quadro e chamada que introduz a explicação (não teaseia — começa a contar)
+- [ ] Nome do tema na capa como as pessoas o chamam, legível na miniatura do grid
 - [ ] Frase de efeito curta que captura o ponto central da prática ou fetiche
 - [ ] Parágrafo de explicação conciso (40–70 palavras), sem julgamento, em voz ativa
 - [ ] Conceito visual da foto indicado para a Bia (página 3 — sem texto)

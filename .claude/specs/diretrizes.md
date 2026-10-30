@@ -241,6 +241,7 @@ Os formatos são definidos de forma incremental. Cada formato tem seu próprio a
 11. Instagram Vídeo → `contexto/formatos/instagram-video.md` — legenda de apoio a vídeo demonstrativo; pipeline: Julia (legenda) → Ana (revisão)
 12. Post de Bingo (Instagram) → `contexto/formatos/post-de-bingo.md` — post casual de identificação (cartela 3×3, 9 situações); eventual, sob demanda do Hugo; pipeline: Julia (cartela + legenda) → Bia (arte) → Ana (revisão)
 13. Post de Duelo (Instagram) → `contexto/formatos/post-de-duelo.md` — post casual de identificação (duas colunas "time A × time B", 4 itens paralelos); eventual, em teste; pipeline: Julia (colunas + legenda) → Bia (arte) → Ana (revisão)
+14. Post de 5 Motivos (Instagram) → `contexto/formatos/post-5-motivos.md` — post único com tema no topo, 5 motivos de uma linha e foto lateral; limites de caracteres e cores por fundo definidos no formato; pipeline: Julia (texto + legenda) → Ana (revisão) → Bia (arte a partir do modelo no Canva)
 
 ---
 

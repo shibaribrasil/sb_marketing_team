@@ -154,7 +154,7 @@ O grid é referência de ritmo, não sequência obrigatória. Alternar posts cla
 
 **Wordmark:** SHIBARI BRASIL (caixa alta) · shibaribrasil (sem espaço) · shibariBR (abreviado) · efeitos visuais.
 
-**Layout:** layouts carregados ou poluídos · múltiplos estilos no mesmo post · elementos sem hierarquia clara · texto ultrapassando os 80px de margem.
+**Layout:** layouts carregados ou poluídos · múltiplos estilos no mesmo post · elementos sem hierarquia clara · texto ultrapassando os 80px de margem · post temático sem o nome do tema legível na miniatura do grid (regra em `sb_cerebro/03_visual/gramatica-visual.md`, seção "Tema legível no grid": nome do tema escrito, em corpo de título, nunca abaixo de 96px, com contraste alto; no carrossel, na capa) · post sem ordem de leitura única, com texto encostado na margem ou abaixo dos corpos mínimos (regra na seção "Composição do post único" do mesmo arquivo: margem de 108px nos quatro lados para todo texto, card ou pílula no máximo até 80px, 64px livres antes da assinatura, item de lista com 38px no título e 28px na explicação; se não cabe, pedir corte de texto à Julia).
 
 ---
 
@@ -184,7 +184,7 @@ Um arquivo `visual-spec.md` salvo em `conteudos/[slug-do-tipo]/[slug-do-titulo]/
 - **Formato e dimensões:** tamanho da peça
 - **Estilo fotográfico/visual:** lifestyle, produto isolado, editorial, flat lay, bastidores, etc.
 - **Paleta de cores:** cores predominantes e de destaque a usar ou evitar
-- **Elementos obrigatórios:** logo, produto específico, texto sobreposto, etc.
+- **Elementos obrigatórios:** logo, produto específico, texto sobreposto, etc. Em post temático, onde e em que tamanho o nome do tema aparece no post ou na capa (teste da miniatura a ~130px)
 - **Referências visuais:** descrição de imagens de referência ou links
 - **Palavras-chave para banco de imagens:** termos de busca para Unsplash, Pexels ou similares (quando aplicável)
 - **Observações para o Revisor:** pontos de atenção visual que devem ser checados

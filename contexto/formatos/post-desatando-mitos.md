@@ -120,6 +120,7 @@ A última página é fixa e idêntica em todos os posts do quadro. Não deve ser
 ### Checklist de entrega (Julia preenche antes de passar para a Bia)
 
 - [ ] Tema definido (1–4 palavras, minúsculas)
+- [ ] Tema da capa em corpo de título, legível na miniatura do grid (regra geral em `contexto/formatos-conteudo.md`)
 - [ ] 5 mitos — cada um com frase (5–12 palavras, minúsculas, sem ponto final, até 3 linhas na caixa) + desenvolvimento (40–70 palavras)
 - [ ] 5 mitos fechados; depois, a Mari pergunta ao Hugo quais 3 vão na capa e em que ordem
 - [ ] Tom da desconstrução: educativo, sem condescendência, voz ativa
