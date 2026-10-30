@@ -9,11 +9,8 @@ estrategia/material/
 contexto/design-system.md
 
 # Skills de habilidade — carregadas apenas quando explicitamente invocadas
-.claude/skills/hab-book-to-skill/
 .claude/skills/hab-meta-ads/
 .claude/skills/hab-google-ads/
-.claude/skills/hab-leitor-pdf/
-.claude/skills/livro-essence-of-shibari/
 
 # Arquivos de desenvolvimento (não usados em produção)
 **/*.pyc

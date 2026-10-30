@@ -231,7 +231,7 @@ Os formatos são definidos de forma incremental. Cada formato tem seu próprio a
 **Formatos cadastrados:**
 1. Post para Blog → `contexto/formatos/post-para-blog.md`
 2. Post de Frase → `contexto/formatos/post-de-frase.md`
-3. Post Por Trás do Desejo → `contexto/formatos/post-por-tras-do-desejo.md`
+3. Post Por Trás do Desejo → `contexto/formatos/post-por-tras-do-desejo.md` — layout "dicionário" desde 30/10/2026: carrossel de 5 páginas (capa com origem e definição, acepções, figura, termos ligados, finalização fixa com bibliografia e índice de letras); cores pela tabela do fundo do slot; pipeline: Julia (texto + legenda) → Ana (revisão) → Bia (arte e foto)
 4. Post Inspiração de Amarração → `contexto/formatos/post-inspiracao-de-amarracao.md`
 5. Carrossel Livre → `contexto/formatos/carrossel-livre.md`
 6 e 7. (Os formatos de descrição de produto saíram do marketing em 27/10/2026: são do cadastrador, no `sb_admin_team`. A numeração dos demais formatos não muda.)
@@ -242,21 +242,6 @@ Os formatos são definidos de forma incremental. Cada formato tem seu próprio a
 12. Post de Bingo (Instagram) → `contexto/formatos/post-de-bingo.md` — post casual de identificação (cartela 3×3, 9 situações); eventual, sob demanda do Hugo; pipeline: Julia (cartela + legenda) → Bia (arte) → Ana (revisão)
 13. Post de Duelo (Instagram) → `contexto/formatos/post-de-duelo.md` — post casual de identificação (duas colunas "time A × time B", 4 itens paralelos); eventual, em teste; pipeline: Julia (colunas + legenda) → Bia (arte) → Ana (revisão)
 14. Post de 5 Motivos (Instagram) → `contexto/formatos/post-5-motivos.md` — post único com tema no topo, 5 motivos de uma linha e foto lateral; limites de caracteres e cores por fundo definidos no formato; pipeline: Julia (texto + legenda) → Ana (revisão) → Bia (arte a partir do modelo no Canva)
-
----
-
-## 📄 Protocolo de Leitura de PDFs (Obrigatório)
-
-Toda vez que o usuário pedir para ler ou consultar um arquivo PDF — seja diretamente ou indiretamente durante uma tarefa — o agente deve acionar a skill `hab-leitor-pdf` **antes de tentar acessar o PDF**.
-
-A skill verifica se já existe um arquivo markdown espelho (`.md`) com o mesmo nome na mesma pasta do PDF. Se existir, usa o markdown. Se não existir, extrai o texto do PDF e cria o espelho.
-
-**Nunca ler ou citar um PDF diretamente sem passar pela skill.**
-
-Exemplos de situações que ativam este protocolo:
-- Usuário pede: "lê o guia da marca a partir da página X"
-- Agente precisa consultar um documento técnico em PDF para embasar uma decisão
-- Qualquer referência a `assets/docs/[nome].pdf` durante a produção
 
 ---
 

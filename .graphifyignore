@@ -19,7 +19,5 @@ estrategia/sequencia-instagram-plano.json
 estrategia/sequencia-instagram.html
 estrategia/.hash-artefato
 
-# Ferramentas e livros convertidos (não são conhecimento do projeto)
+# Ferramentas (não são conhecimento do projeto)
 .claude/skills/graphify/
-.claude/skills/hab-book-to-skill/
-.claude/skills/livro-essence-of-shibari/

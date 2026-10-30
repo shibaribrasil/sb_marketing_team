@@ -8,7 +8,7 @@ O projeto opera com um time de agentes especializados, redefinido em 27/10/2026 
 ## Estrutura de Skills
 - `.claude/skills/agente-*/` — código de cada membro do time (ex: `agente-coordenador`, `agente-escritor`, `agente-estrategista`)
 - `estrategia/` — plano da sequência do Instagram, arquivo vivo, capas e material do Leo
-- `.claude/skills/hab-*/` — habilidades especializadas carregadas pelos agentes (ex: `hab-produtor-textual`, `hab-leitor-pdf`)
+- `.claude/skills/hab-*/` — habilidades especializadas carregadas pelos agentes (ex: `hab-produtor-textual`, `hab-meta-ads`)
 
 ## Especificações de Tarefas e Rotinas
 O projeto conta com a pasta `.claude/specs/` que contém o arquivo `diretrizes.md`. Nesse arquivo estão as orientações de tarefas específicas e obrigatórias, como a rotina de atualização da pauta, a rotina de armazenamento de conteúdo, a rotina que estrutura novos formatos de conteúdo feitos pelo usuário e diversas outras. Além disso, características gerais dos integrantes do time estão definidas nesse arquivo. Esse arquivo define a expectativa e as regras de execução de processos dentro do projeto.

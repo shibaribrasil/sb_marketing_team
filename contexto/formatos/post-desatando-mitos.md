@@ -44,7 +44,7 @@
 **Finalização (7)**
 - "qual desses você já ouviu?" (com "já ouviu?" em itálico Deep Plum)
 - **campo de comentário simulado** ("comenta aqui qual você já ouviu") com botão de enviar
-- "**Salva** pra consultar depois e **compartilha** com quem precisa ler."
+- "**Salva** pra consultar depois e **compartilha** com quem vai gostar de ler." (trocado de "quem precisa ler" em 30/10/2026, P91 do núcleo; o template no Canva ainda precisa da troca)
 - wordmark
 
 ---
@@ -100,7 +100,7 @@ Quais 3 dos 5 mitos entram nas faixas da capa, na ordem em que aparecem. **O Hug
 
 A última página é fixa e idêntica em todos os posts do quadro. Não deve ser incluída no `texto.md`:
 
-> qual desses você já ouviu? comenta aqui qual você já ouviu. Salva pra consultar depois e compartilha com quem precisa ler.
+> qual desses você já ouviu? comenta aqui qual você já ouviu. Salva pra consultar depois e compartilha com quem vai gostar de ler.
 
 (Substitui o CTA antigo: "já ouviu algum desses mitos? conta aqui nos comentários e compartilha pra espalhar conhecimento".)
 
