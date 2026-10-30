@@ -14,7 +14,7 @@
 
 **Fluxo de produção:** Leo (slot na fila, com fundo) → Julia (texto + legenda, checando os limites de caracteres) → Ana (revisão) → Bia (arte no Canva a partir do modelo) → Mari (publicação).
 
-**Referência visual:** modelo "Post 5 Motivos - Modelo" no Canva (design `DAHZf-__wsg`) e artboard "3c · foto lateral" no canvas "5 motivos para…" do Claude.
+**Referência visual:** modelo "Post 5 Motivos - Modelo" no Canva (https://www.canva.com/design/DAHZf-__wsg/w4-DR_hgBOL8fIyN-ihsJQ/edit) e artboard "3c · foto lateral" no canvas "5 motivos para…" do Claude.
 
 ---
 
@@ -103,7 +103,7 @@ O fundo vem do slot do Leo (campo Fundo), seguindo o ritmo do feed (`sb_cerebro/
 
 ### Direção visual (referência para a Bia)
 
-- **Template no Canva:** "Post 5 Motivos - Modelo", design `DAHZf-__wsg` (https://www.canva.com/design/DAHZf-__wsg/edit). Copiar com `copy-design` e só trocar textos, cores e foto.
+- **Template no Canva:** "Post 5 Motivos - Modelo", https://www.canva.com/design/DAHZf-__wsg/w4-DR_hgBOL8fIyN-ihsJQ/edit (design `DAHZf-__wsg`). É a referência visual e a base de todo post novo: duplicar (no Canva, ou com `copy-design` pelo MCP) e só trocar textos, cores e foto. Nunca editar o modelo em si.
 - **Dimensões:** 1080 × 1350px.
 - **Coluna de texto:** de 108 a 532px (424px de largura). Margem de 108px em cima, embaixo e à esquerda.
 - **Foto:** coluna da direita, de 640 a 1080px, sangrando em cima, embaixo e à direita (440 × 1350). Foto de prática ou de produto ligada ao tema, do banco do Drive (`01_PRODUTOS`, `02_GERAL`), com o caminho registrado no `visual-spec.md`. Sem texto na foto; a Lívia não aparece de rosto. No modelo, a foto é o retângulo taupe: apagar e colocar a foto no lugar.
