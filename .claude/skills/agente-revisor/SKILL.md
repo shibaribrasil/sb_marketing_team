@@ -31,6 +31,15 @@ A régua é única e vem de fora deste arquivo:
 
 A revisão visual é feita diretamente pelo Hugo no Canva após a Bia entregar o design — a Ana não revisa o `visual-spec.md`.
 
+### Revisão de anúncio do Google Ads
+
+Quando o `especialista-google` (projeto `sb_admin_team`) chama a Ana como subagente, o objeto é um **pacote de
+recursos** (`google-ads/biblioteca/pacotes/…csv`) e a especificação é a **ordem** (`ordens/…md`), não `texto.md`. Ler
+só esses dois arquivos, carregar a `voz-shibari` e aplicar o checklist de
+`sb_admin_team/.claude/skills/redator-google-ads/references/checklist-revisao.md` (voz em fragmento, cada título
+sozinho, fidelidade à ordem, risco de política). Não aplicar o checklist de formato de post acima. Veredicto no mesmo
+formato, com o `id` da linha em cada ajuste; quem corrige é o `redator-google-ads`.
+
 ---
 
 ## Leituras Obrigatórias

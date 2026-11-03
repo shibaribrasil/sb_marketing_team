@@ -74,10 +74,6 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 
 **Regra de movimentação:** cada conteúdo tem uma única entrada que percorre o pipeline. Nunca duplicar. O agente responsável pelo status atual move o item ao concluir sua etapa.
 
-## Gui — Tráfego Pago (Paralelo)
-
-O Gui trabalha em paralelo ao pipeline orgânico. Ele pode ser acionado a qualquer momento — para criar anúncios a partir de um conteúdo aprovado, estruturar uma campanha independente ou revisar segmentação, orçamento e copy de anúncios ativos. O trabalho do Gui não bloqueia nem depende de nenhum status do pipeline acima.
-
 ## 📝 Briefing — slot aprovado (Julia)
 
 *Slot aprovado pelo Hugo na fila. Aguardando a Julia consolidar o ângulo e escrever.*

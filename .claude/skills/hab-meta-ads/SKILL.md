@@ -1,11 +1,13 @@
 ---
 name: hab-meta-ads
-description: Use esta skill quando o Gui (agente-trafego) for criar, revisar ou otimizar anúncios e campanhas no Meta Ads focados em Instagram para a Shibari Brasil. Cobre estrutura de campanhas, formatos, criativos, segmentação, orçamento, Advantage+, testes A/B, políticas do Meta e estratégias para operar no nicho sensível (fetiche/BDSM) de forma compliant.
+description: GUARDADA, sem dono desde 03/11/2026 (o Gui foi extinto e o Meta Ads está parado). Use só quando o Hugo pedir explicitamente para criar, revisar ou otimizar anúncios e campanhas no Meta Ads focados em Instagram para a Shibari Brasil. Cobre estrutura de campanhas, formatos, criativos, segmentação, orçamento, Advantage+, testes A/B, políticas do Meta e estratégias para operar no nicho sensível (fetiche/BDSM) de forma compliant.
 ---
 
 # Manual de Meta Ads — Shibari Brasil
 
-> Habilidade do Gui para criar e gerenciar campanhas pagas no Meta Ads com foco em Instagram. Combina a documentação oficial do Meta com boas práticas do mercado e diretrizes específicas para o nicho sensível da Shibari Brasil.
+> **Guardada (03/11/2026):** o Gui foi extinto e o Meta Ads está parado (domínio bloqueado no pixel). Quando o Meta for retomado, o dono será redefinido (candidatos: Julia e Bia). Este manual fica como referência.
+>
+> Habilidade para criar e gerenciar campanhas pagas no Meta Ads com foco em Instagram. Combina a documentação oficial do Meta com boas práticas do mercado e diretrizes específicas para o nicho sensível da Shibari Brasil.
 
 ---
 

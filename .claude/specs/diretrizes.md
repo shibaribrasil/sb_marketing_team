@@ -15,7 +15,8 @@ A produção das tarefas é dividida entre agentes especializados. Cada um tem u
 | **Julia** | Autora | Recebe um **slot aprovado** na fila, consolida o ângulo (o antigo briefing vira o cabeçalho do `texto.md`), escreve texto e legenda na voz da marca, **aciona a Ana** (revisão com contexto limpo) e entrega ao Hugo um pacote único. É a dona da voz de ponta a ponta | Quando o Hugo aprovar um slot da fila | `agente-escritor` | Briefing → Em Produção → Aguardando Revisão → Design em Produção |
 | **Ana** | Revisora | Segunda leitura com contexto limpo, invocada pela Julia (ou pelo Hugo, direto): aplica o teste de voz e a técnica sobre `texto.md` e `legenda.txt` e devolve o veredicto. Não move status. A aprovação visual é feita pelo Hugo no Canva | Ao fechar o rascunho (pela Julia) ou sob pedido | `agente-revisor` | Nenhum (devolve relatório) |
 | **Bia** | Diretora de Arte | Produz a direção visual e as referências e leva o design ao Canva. Pode começar o conceito visual em paralelo à aprovação do texto; a arte final vai depois dela. Preenche o Fundo no `visual-spec.md`. Se houver ajustes manuais pendentes, lista-os em "Pendências no Canva" | Quando o texto estiver aprovado (conceito pode começar antes) | `agente-diretor-de-arte` | Design em Produção → Pendente de Alteração no Canva ou Pronto - Aguardando Publicação |
-| **Gui** | Tráfego Pago | Criação e otimização de anúncios pagos em dois canais: **Instagram** (Meta Ads) e **Google Ads**. Identifica a plataforma e carrega a skill correspondente (`hab-meta-ads` para Instagram; `hab-google-ads` para Google). Pode ser acionado a qualquer momento, independente do pipeline orgânico | Quando quiser trabalhar com campanhas pagas | `agente-trafego` + skill da plataforma | *(sem status fixo — atua em paralelo)* |
+
+**Anúncios não são deste time (Hugo, 03/11/2026):** Google Ads é do `especialista-google` (`sb_admin_team`), pelo fluxo da biblioteca de recursos; Meta Ads está parado e sem dono. O Gui (`agente-trafego`) e a `hab-google-ads` foram extintos.
 
 Cada agente lê os arquivos de contexto relevantes e atualiza a pauta ao concluir sua etapa. As instruções completas de cada um estão em `.claude/skills/[nome-do-agente]/SKILL.md`.
 
@@ -176,12 +177,6 @@ Variação de: [título do conteúdo]
 ```
 Aciona a Julia (Escritora) para gerar uma segunda versão, salva como arquivo separado na mesma pasta.
 
-**Trabalhar com anúncios pagos:**
-```
-Tráfego: [o que precisa]
-```
-Aciona o Gui (Tráfego Pago). Ele pergunta em qual plataforma estamos trabalhando — **Instagram** ou **Google Ads** — e carrega a skill correspondente antes de executar. Trabalha em paralelo ao time, independente do pipeline orgânico.
-
 **Produtos (cadastro, descrição e características):** não são do marketing. São do cadastrador (`sb_admin_team`) e ficam no Notion, na base Catálogo — Produtos (Notion). O time consulta o Notion para qualquer dado de produto; fato que faltar vai ao Hugo.
 
 **Confirmar que um conteúdo foi postado:**
@@ -290,15 +285,15 @@ conteudos/   (= G:\Meu Drive\SB Audiovisual\03_CONTEUDO\)
 
 ### Meta Ads (Instagram)
 
-Acesso via MCP da Meta disponível para outras contas vinculadas, mas **ainda não liberado para a conta Shibari Brasil** (rollout gradual do lado do Meta). Não requer configuração adicional quando liberado — o Gui conecta diretamente via MCP.
-
-> **Nota:** o Gui atua exclusivamente na produção de anúncios (copy, estrutura de campanha, criativos). Análise de performance e dados de BigQuery não fazem parte do escopo deste projeto.
+Acesso via MCP da Meta disponível para outras contas vinculadas, mas **ainda não liberado para a conta Shibari Brasil** (rollout gradual do lado do Meta). Meta Ads está parado e sem dono desde 03/11/2026; quando for retomado, o dono e o acesso serão redefinidos. Google Ads não é deste projeto: é do `especialista-google` (`sb_admin_team`).
 
 ---
 
 ## 📣 Protocolo de Armazenamento de Anúncios (Obrigatório)
 
-Todos os materiais gerados pelo Gui para campanhas pagas são salvos na pasta `anuncios/`, seguindo esta hierarquia:
+> **Histórico (03/11/2026):** a pasta `anuncios/` guarda os materiais de Meta Ads produzidos pelo Gui (extinto). Nada novo entra aqui: anúncios de Google vivem em `sb_admin_team/google-ads/biblioteca/`; o Meta, quando voltar, terá a estrutura redefinida.
+
+Hierarquia usada até então:
 
 ```
 anuncios/

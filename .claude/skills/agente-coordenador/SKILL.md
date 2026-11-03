@@ -75,7 +75,7 @@ Quando o Hugo disser `Confirmar postagem: [título]`: mover o item para **Pronto
 | Revisar um texto direto | Ana (agente-revisor) |
 | Definir o visual (texto aprovado) | Bia (agente-diretor-de-arte) |
 | Publicar uma peça pronta | Você (pacote de publicação) |
-| Anúncios pagos | Gui (agente-trafego), por ora como está: anúncios são projeto à parte |
+| Anúncios pagos | Não é do marketing. Google Ads: `especialista-google` (`sb_admin_team`). Meta Ads: parado, sem dono (falar com o Hugo) |
 | Cadastrar produto ou criar descrição | Não é do marketing: cadastrador (`sb_admin_team`) |
 | Dado de produto | Catálogo — Produtos (Notion); fato que faltar vai ao Hugo |
 

@@ -1,6 +1,6 @@
 # Shibari Brasil — Informações da Marca
 
-> ⚠️ **Nota de manutenção:** Alguns skills de agentes (`agente-redator`, `agente-escritor`, `agente-revisor`, `agente-pescador`, `agente-diretor-de-arte`, `agente-trafego`) contêm resumos embutidos das informações deste arquivo para reduzir o carregamento de contexto. Se este arquivo for atualizado, verificar se os resumos embutidos em cada skill ainda refletem as informações corretas — e atualizar onde for relevante.
+> ⚠️ **Nota de manutenção:** Alguns skills de agentes (`agente-redator`, `agente-escritor`, `agente-revisor`, `agente-pescador`, `agente-diretor-de-arte`) contêm resumos embutidos das informações deste arquivo para reduzir o carregamento de contexto. Se este arquivo for atualizado, verificar se os resumos embutidos em cada skill ainda refletem as informações corretas — e atualizar onde for relevante.
 
 > Fonte: Guia da Marca - Shibari Brasil (páginas 1–3, até antes da seção "tom de voz")
 > Site: shibaribrasil.com.br

@@ -1,6 +1,6 @@
 # Personas da Shibari Brasil
 
-> ⚠️ **Nota de manutenção:** Alguns skills de agentes (`agente-redator`, `agente-escritor`, `agente-revisor`, `agente-pescador`, `agente-trafego`) contêm resumos embutidos das personas deste arquivo para reduzir o carregamento de contexto. Se este arquivo for atualizado, verificar se os resumos embutidos em cada skill ainda refletem as informações corretas — e atualizar onde for relevante.
+> ⚠️ **Nota de manutenção:** Alguns skills de agentes (`agente-redator`, `agente-escritor`, `agente-revisor`, `agente-pescador`) contêm resumos embutidos das personas deste arquivo para reduzir o carregamento de contexto. Se este arquivo for atualizado, verificar se os resumos embutidos em cada skill ainda refletem as informações corretas — e atualizar onde for relevante.
 
 > Fontes: Guia da Marca - Shibari Brasil (p. 1 — seção "público") + briefing de personas fornecido pelo Hugo.
 

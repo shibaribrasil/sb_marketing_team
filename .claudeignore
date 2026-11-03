@@ -10,7 +10,6 @@ contexto/design-system.md
 
 # Skills de habilidade — carregadas apenas quando explicitamente invocadas
 .claude/skills/hab-meta-ads/
-.claude/skills/hab-google-ads/
 
 # Arquivos de desenvolvimento (não usados em produção)
 **/*.pyc
