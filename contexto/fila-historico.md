@@ -56,3 +56,6 @@
 - saiu da fila: Reel C · três passos para guardar a corda (óleo e pano em uso) (09/11)
 - saiu da fila: Reel B · o que a gente confere antes de amarrar (tesoura em cena) (20/11)
 
+## 03/11/2026 11:03 (fila vv13 (rascunho, não aprovado))
+- Por trás do desejo · pet play: data de postagem 02/11 -> 03/11
+

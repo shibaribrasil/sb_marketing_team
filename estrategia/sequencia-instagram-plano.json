@@ -146,7 +146,7 @@
     },
     {
       "id": "P5",
-      "data": "2026-11-02",
+      "data": "2026-11-03",
       "formato_marca": "por_tras",
       "arco": null,
       "passo": "Conteúdo avulso (prática)",
@@ -162,7 +162,19 @@
       "proximo": "Julia escreve o texto no layout dicionário (5 páginas), Ana revisa, Bia faz a arte no modelo do Canva; arte até domingo 01/11 para postar segunda 02/11",
       "obs": "Era de 30/10; o Hugo passou para segunda 02/11 em 31/10. Fundo conferido pelo checador de cores.",
       "assunto": "pet play (prática de papel)",
-      "assunto_alerta": "Pode ficar perto do extra de 31/10 (Time doce × Time travessura, spanking): são práticas diferentes, mas ambas de BDSM; ler em 72 h."
+      "assunto_alerta": "Pode ficar perto do extra de 31/10 (Time doce × Time travessura, spanking): são práticas diferentes, mas ambas de BDSM; ler em 72 h.",
+      "agendamento": {
+        "status": "publicado",
+        "status_txt": "No ar (agendado no mLabs)",
+        "data": "2026-11-03",
+        "dia_semana": "ter",
+        "hora": "08:30",
+        "media_id": "17996928260840561",
+        "permalink": "https://www.instagram.com/p/DfRs46DF82D/",
+        "liberado": true,
+        "erro": null,
+        "capa": null
+      }
     },
     {
       "id": "P8",
