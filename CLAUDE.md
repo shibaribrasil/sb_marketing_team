@@ -23,6 +23,9 @@ Fotos e vídeos do banco (produtos, prática, acervo) ficam em `G:\Meu Drive\SB 
 ## Voz (Hugo, 27/10/2026)
 A voz da marca mora no núcleo `sb_cerebro`, e a skill `voz-shibari` a carrega. **Antes de escrever, revisar ou aprovar qualquer texto, carregue a `voz-shibari`**; ela vence qualquer resumo de tom embutido nas skills dos agentes. O antigo `contexto/tom-de-voz.md` foi apagado em 27/10/2026. Os repositórios `sb_admin_team`, `sb_marketing_team` e `sb_cerebro` precisam estar clonados lado a lado e atualizados.
 
+## Biblioteca: só pelo bibliotecário (Hugo, 01/11/2026)
+A biblioteca de shibari e BDSM (`sb_cerebro/06_biblioteca/` e `sb_cerebro/05_conhecimento/`: fontes, extrações, tutoriais, fotos, referências) **não é explorada direto**. Para achar fonte, trecho, tutorial, foto ou conferir se uma ideia tem fonte, **chame o agente `bibliotecario`** (agente de usuário; manual em `sb_cerebro/06_biblioteca/bibliotecario.md`). Ele só lê e devolve a citação com `S-###`, página ou passo e o estatuto da fonte. Leitura direta só quando o Hugo pedir ou para conferir uma citação com ID e página já conhecidos. Quem escreve conteúdo recebe a fonte dele e a voz vem da `voz-shibari`; o bibliotecário não escreve nem opina. Se ele não responder ou o `sb_cerebro` não estiver na máquina, avisar o Hugo.
+
 ## Produtos: o marketing não gerencia produto (Hugo, 27/10/2026)
 O time de marketing **não cadastra, não descreve nem define produto**. Isso é do **cadastrador** (projeto `sb_admin_team`). Para saber a descrição, as características, o diferencial ou o uso de **qualquer produto da loja**, consulte o **Notion**, na base **Catálogo — Produtos** (database `f8dbad60-7e2a-45b9-ac22-cbebe11420d4`; hub "Catálogo — Base de Produtos"). Ela cobre todos os produtos. Fato que faltar no Notion vai ao Hugo; nunca se inventa dado de produto.
 

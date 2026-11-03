@@ -1,6 +1,10 @@
 # Post Por Trás do Desejo `instagram-post-por-tras-do-desejo`
 
 > **Formato novo desde 30/10/2026 (layout "dicionário").** Aprovado pelo Hugo em 30/10/2026, a partir da página de modernização do formato (artefato "Por Trás do Desejo v2": https://claude.ai/artifact/E55jR1chxzegaXEiWBEFwP, aba Post v2). Modelo no Canva: https://www.canva.com/d/PdNvdtGaiJzKyja (ver "Template no Canva"). Substitui por inteiro o carrossel de 4 páginas (capa, explicação, foto, "explore com segurança"), usado de 19/06 a 30/09/2026 (wax play, sensation play, impact play, D/s). Pontos marcados **(confirmar)** aguardam o Hugo.
+>
+> **Ordem das páginas alterada em 02/11/2026 (Hugo, no pet play):** os termos ligados passaram para a página 3 e a figura para a página 4, logo antes da finalização.
+>
+> **Corpo do texto corrido aumentado em 03/11/2026 (Hugo, no modelo do Canva):** origem, definição, acepções, explicações dos termos, legenda da figura e linha de apoio subiram de 2 a 5px. Títulos, números, cabeçalho, rótulos, bibliografia e assinatura não mudaram. As medidas do Layout já estão atualizadas.
 
 **Objetivo:** Explicar o significado de um termo, uma prática ou um fetiche do meio fetichista e BDSM, do jeito que um dicionário explica uma palavra: o que é, os papéis, os termos que andam junto e de onde vem a informação. Gera salvamento (conteúdo de consulta) e envio para quem já viu o termo e ficou sem entender.
 
@@ -8,7 +12,7 @@
 
 **Pasta de conteúdos:** `conteudos/instagram-post-por-tras-do-desejo/[slug-do-tema]/` (= `03_CONTEUDO\instagram-post-por-tras-do-desejo\` no Drive)
 
-**Temas:** um termo, prática ou fetiche do campo do desejo (pet play, spanking, worship, controle de orgasmo, brat). Amarração de shibari não entra (karada foi descartado em 21/10/2026). Antes de propor o tema, conferir o que já saiu no quadro: wax play (19/06), sensation play (02/07), impact play (21/09), D/s (30/09), pet play (30/10).
+**Temas:** um termo, prática ou fetiche do campo do desejo (pet play, spanking, worship, controle de orgasmo, brat). Amarração de shibari não entra (karada foi descartado em 21/10/2026). Antes de propor o tema, conferir o que já saiu no quadro: wax play (19/06), sensation play (02/07), impact play (21/09), D/s (30/09), pet play (C-110, 03/11).
 
 **Fluxo de produção:** Leo (slot na fila, com o **fundo**) → Julia (`texto.md` e legenda) → Ana (revisão) → Bia (arte no template e foto) → Mari (publicação). Fato de prática ou de risco que não está nas fontes vai ao Hugo antes de entrar no texto.
 
@@ -20,8 +24,8 @@ Cada post é uma **entrada de dicionário da Shibari Brasil**. O conceito aparec
 
 - a capa abre com a **origem da palavra** e uma **definição de uma linha**, como a cabeça de uma entrada de dicionário;
 - a explicação vem em **acepções numeradas** (1., 2.), curtas, no lugar de um parágrafo único;
-- a foto vira **figura** ("fig. 1"), com legenda que diz o que se vê;
 - os **termos ligados** ao tema ganham uma página própria, cada um explicado em português;
+- a foto vira **figura** ("fig. 1"), com legenda que diz o que se vê;
 - o post fecha com a **bibliografia** e um convite para o leitor sugerir o próximo termo, com o **índice de letras** na borda, como as abas de um dicionário de papel.
 
 **A palavra "verbete" não aparece em nenhum texto do post nem na legenda** (Hugo, 30/10/2026). O dicionário é a ideia visual do formato, não um recurso de linguagem: nada de "salva esse verbete", "próximo verbete" ou "subst." solto na página.
@@ -35,8 +39,8 @@ A voz é a da marca, expositiva e com fonte: o post diz o que leu e de onde tiro
 ```
 1. Capa: origem + tema + rótulo do quadro + definição
 2. O que é: acepções numeradas
-3. Figura: foto + legenda "fig. 1"
-4. Termos ligados
+3. Termos ligados
+4. Figura: foto + legenda "fig. 1"
 5. Finalização: CTA fixo + bibliografia
 ```
 
@@ -57,13 +61,13 @@ A voz é a da marca, expositiva e com fonte: o post diz o que leu e de onde tiro
 - A 2 traz o contexto que desfaz a ideia mais comum sobre o tema (se é sexual ou não, se exige dor, como cada dupla combina o que entra), sem virar aula de segurança.
 - **Destaque:** até duas palavras por acepção em SemiBold (gramática visual). A Julia indica o trecho entre `**`; o Hugo confirma no Canva.
 
-### 3. Figura
-- Foto ligada ao tema, sem texto sobre ela. Pedido para a Bia no `texto.md`: o que a foto mostra, luz, sem rosto de terceiros, sem pele marcada. Banco próprio primeiro (`G:\Meu Drive\SB Audiovisual\01_PRODUTOS` e `02_GERAL`), com o caminho registrado no `visual-spec.md`. Banco externo só se não houver foto própria. Se a foto mostra produto vendido na loja, avisar o Pedro.
-- **Legenda da figura:** "fig. 1" (fixo, a arte escreve) + uma frase de até **15 palavras** que diz o que se vê na foto e por que isso importa no tema.
-
-### 4. Termos ligados
+### 3. Termos ligados
 - **2 ou 3 termos** que quem pesquisar o tema vai encontrar. O termo fica como o meio usa (inglês ou japonês) e se explica em português, **sem outro termo em inglês na explicação**.
 - Cada explicação com até **25 palavras**. Ex.: **handler** · "o tutor: cuida, dá comandos e recompensa. ser handler no pet play não obriga ninguém a dominar em outras práticas."
+
+### 4. Figura
+- Foto ligada ao tema, sem texto sobre ela. Pedido para a Bia no `texto.md`: o que a foto mostra, luz, sem rosto de terceiros, sem pele marcada. Banco próprio primeiro (`G:\Meu Drive\SB Audiovisual\01_PRODUTOS` e `02_GERAL`), com o caminho registrado no `visual-spec.md`. Banco externo só se não houver foto própria. Se a foto mostra produto vendido na loja, avisar o Pedro.
+- **Legenda da figura:** "fig. 1" (fixo, a arte escreve) + uma frase de até **15 palavras** que diz o que se vê na foto e por que isso importa no tema.
 
 ### 5. Finalização (fixa, a Julia só escreve a bibliografia)
 - **Pergunta fixa:** "qual termo a gente explica no *próximo post?*"
@@ -84,9 +88,9 @@ O briefing é o cabeçalho do `texto.md` (tema, persona, objetivo, ângulo, **fu
 | **3. Definição (capa)** | prática em que uma pessoa assume a persona de um animal, num jogo de papéis com outra pessoa. | até 20 palavras |
 | **4. Acepção 1** | quem está se submetendo assume a persona de um animal, como cachorro, gato ou pônei, com os comportamentos do bicho e, se quiser, acessórios como **coleira**, orelhas e rabo. quem está dominando faz o papel de tutor. | 25 a 45 palavras |
 | **5. Acepção 2** | pode ser sexual ou não. para muita gente, a prática é sobre **cuidado**, brincadeira e presença, e cada dupla combina o que entra no jogo. | 25 a 45 palavras |
-| **6. Figura: pedido para a Bia** | coleira de couro, orelhas, luz baixa, sem rosto | — |
-| **7. Figura: legenda** | coleira e orelhas, os acessórios que mais aparecem na prática. | até 15 palavras |
-| **8. Termos ligados (2 ou 3)** | **pet** · quem assume a persona do animal. / **handler** · o tutor: cuida, dá comandos e recompensa. ser handler no pet play não obriga ninguém a dominar em outras práticas. / **pet space** · o estado de quem entra na persona, mais instintivo e presente, longe das preocupações do dia. | até 25 palavras cada |
+| **6. Termos ligados (2 ou 3)** | **pet** · quem assume a persona do animal. / **handler** · o tutor: cuida, dá comandos e recompensa. ser handler no pet play não obriga ninguém a dominar em outras práticas. / **pet space** · o estado de quem entra na persona, mais instintivo e presente, longe das preocupações do dia. | até 25 palavras cada |
+| **7. Figura: pedido para a Bia** | coleira de couro, orelhas, luz baixa, sem rosto | — |
+| **8. Figura: legenda** | coleira e orelhas, os acessórios que mais aparecem na prática. | até 15 palavras |
 | **9. Bibliografia** | 1 Glossário BDSM, Shibari Brasil / 2 Dicionário BDSM, Shibari Brasil (pet e handler) / 3 kynk101.com, 2025 | 2 a 4 fontes |
 | **10. Legenda** | ver abaixo | 60 a 120 palavras |
 
@@ -104,39 +108,39 @@ O briefing é o cabeçalho do `texto.md` (tema, persona, objetivo, ângulo, **fu
 
 ## Layout (referência para a Bia)
 
-Medidas no canvas 1080 × 1350. **Margem de 108px nos quatro lados** (`post-margem`); área de texto de 864 × 1134px. Só a foto da página 3 e o índice de letras da página 5 encostam na borda. Fontes: Playfair Display, Montserrat e Cormorant Garamond (assinatura).
+Medidas no canvas 1080 × 1350. **Margem de 108px nos quatro lados** (`post-margem`); área de texto de 864 × 1134px. Só a foto da página 4 e o índice de letras da página 5 encostam na borda. Fontes: Playfair Display, Montserrat e Cormorant Garamond (assinatura).
 
 ### Elementos comuns
-- **Assinatura** "shibari brasil" em todas as páginas, inclusive a 3: Cormorant Garamond Bold 40px, espaçamento 0,015, **60% de opacidade**, canto inferior esquerdo, base a 108px da borda. Cor conforme o fundo (tabela de cores).
-- **Cabeçalho corrente** (páginas 2, 3 e 4): no topo, a 108px; o tema à esquerda e o nome da seção à direita ("o que é", "fig. 1", "termos ligados"); Montserrat SemiBold 26px, caixa alta, espaçamento 0,16. Fio de 2px logo abaixo, a 22px do texto, na largura da área de texto. A capa e a finalização não têm cabeçalho.
+- **Assinatura** "shibari brasil" em todas as páginas, inclusive a 4 (figura): Cormorant Garamond Bold 40px, espaçamento 0,015, **60% de opacidade**, canto inferior esquerdo, base a 108px da borda. Cor conforme o fundo (tabela de cores).
+- **Cabeçalho corrente** (páginas 2, 3 e 4): no topo, a 108px; o tema à esquerda e o nome da seção à direita ("o que é", "termos ligados", "fig. 1"); Montserrat SemiBold 26px, caixa alta, espaçamento 0,16. Fio de 2px logo abaixo, a 22px do texto, na largura da área de texto. A capa e a finalização não têm cabeçalho.
 - Texto à esquerda em todas as páginas. Sem linha vertical Scarlet (era do layout antigo).
 
 ### Página 1: capa
 - Bloco centrado na altura da página e alinhado à esquerda, com 35px entre os itens:
-  1. **Origem:** Playfair Display SemiBold Italic 36px, entrelinha 1,3; as palavras estrangeiras em redondo (sem itálico).
+  1. **Origem:** Playfair Display SemiBold Italic 39px (38,67 no modelo), entrelinha 1,3; as palavras estrangeiras em redondo (sem itálico).
   2. **Tema:** Playfair Display Bold **150px**, entrelinha 0,88, espaçamento −0,035. Nunca abaixo de 120px. Se não couber em uma linha de 864px, quebrar em duas; acima de duas linhas, o tema não serve como está (usar o nome mais curto que o meio usa). Testar a capa reduzida a ~130px de largura.
   3. **Fio** de 2px na largura da área de texto.
   4. **Rótulo** "POR TRÁS DO DESEJO": Montserrat SemiBold 28px, caixa alta, espaçamento 0,16.
-  5. **Definição:** Montserrat Regular 34px, entrelinha 1,5, até 3 linhas.
+  5. **Definição:** Montserrat Regular 39px (39,33 no modelo), entrelinha 1,5, até 3 linhas.
 
 ### Página 2: o que é
 - Cabeçalho corrente; depois as acepções, a 22px do fio e com 45px entre elas.
-- Cada acepção numa grade de duas colunas: **número** ("1.", "2.") em Playfair Display Bold 97px, entrelinha 0,8, numa coluna de 97px; 22px de espaço; **texto** em Montserrat Regular 34px, entrelinha 1,5; destaque em Montserrat SemiBold.
+- Cada acepção numa grade de duas colunas: **número** ("1.", "2.") em Playfair Display Bold 97px, entrelinha 0,8, numa coluna de 97px; 22px de espaço; **texto** em Montserrat Regular 38px, entrelinha 1,5; destaque em Montserrat SemiBold.
 - O topo do número alinha com a primeira linha do texto.
 
-### Página 3: figura
+### Página 3: termos ligados
+- Cabeçalho corrente; depois os termos empilhados, cada um num bloco com 32px de respiro em cima e embaixo e um fio de 2px entre os blocos (o último também leva fio).
+- **Termo:** Playfair Display Bold 56px, entrelinha 1. **Explicação:** Montserrat Regular 36px (36,33 no modelo), entrelinha 1,5, a 11px do termo.
+
+### Página 4: figura
 - Cabeçalho corrente.
 - **Foto** logo abaixo do cabeçalho, sangrando nas duas laterais (1080px de largura), com cerca de **756px de altura** (56% da página). Recorte que mantenha o assunto no terço central.
-- **Legenda da figura** a 43px abaixo da foto: "fig. 1" em Playfair Display SemiBold Italic 32px, seguido da frase em Montserrat Regular 32px, entrelinha 1,5, até 2 linhas.
-
-### Página 4: termos ligados
-- Cabeçalho corrente; depois os termos empilhados, cada um num bloco com 32px de respiro em cima e embaixo e um fio de 2px entre os blocos (o último também leva fio).
-- **Termo:** Playfair Display Bold 56px, entrelinha 1. **Explicação:** Montserrat Regular 31px, entrelinha 1,5, a 11px do termo.
+- **Legenda da figura** a 43px abaixo da foto: "fig. 1" em Playfair Display SemiBold Italic 35px (34,67 no modelo), seguido da frase em Montserrat Regular 36px, entrelinha 1,5, até 2 linhas.
 
 ### Página 5: finalização
 - **Sem cabeçalho.**
 - **Pergunta** a partir de ~280px do topo: Playfair Display Bold 90px, entrelinha 1,04, largura máxima de 780px. "próximo post?" em Playfair Display SemiBold Italic, na cor de destaque (tabela).
-- **Linha de apoio** a 39px da pergunta: Montserrat Regular 34px, entrelinha 1,45, largura máxima de 756px; "Comenta aqui." e "compartilha" em SemiBold.
+- **Linha de apoio** a 39px da pergunta: Montserrat Regular 37px (36,67 no modelo), entrelinha 1,5, largura máxima de 756px; "Comenta aqui." e "compartilha" em SemiBold.
 - **Bibliografia** ancorada embaixo, terminando a 97px acima da assinatura, largura máxima de 800px: fio de 2px em cima; 32px abaixo, o rótulo "BIBLIOGRAFIA" em Montserrat SemiBold 22px, caixa alta, espaçamento 0,18; depois as fontes em Montserrat Regular 27px, entrelinha 1,35, 15px entre linhas. Cada fonte numa grade: **número** em Montserrat Bold numa coluna de 37px, **texto** alinhado à mesma margem em todas as linhas (o texto que quebra volta para a margem do texto, não para a do número).
 - **Índice de letras** na borda direita, de 86px do topo a 86px da base: as 26 letras de A a Z em abas distribuídas por igual, encostadas na borda. Aba inativa: 48px de largura, cantos de 11px só do lado esquerdo, letra em Montserrat SemiBold 22px centralizada. **Aba ativa** (inicial do tema): 76px de largura, letra em Montserrat SemiBold 28px. A pergunta, a linha e a bibliografia nunca invadem a coluna das abas (largura máxima de texto já respeita isso). O índice existe **só na página 5** (Hugo, 30/10/2026); as páginas 1 a 4 não têm abas.
 
@@ -144,7 +148,7 @@ Medidas no canvas 1080 × 1350. **Margem de 108px nos quatro lados** (`post-marg
 
 ## Cores conforme o fundo
 
-O **fundo vem do slot do Leo** (campo Fundo do briefing), seguindo o ritmo do feed (`sb_cerebro/03_visual/gramatica-visual.md`). Ele vale para as páginas 1 a 4; a página 5 usa o **fundo par**, para marcar o fim do post. A foto da página 3 não muda de cor. Valores de `sb_cerebro/03_visual/tokens.json`.
+O **fundo vem do slot do Leo** (campo Fundo do briefing), seguindo o ritmo do feed (`sb_cerebro/03_visual/gramatica-visual.md`). Ele vale para as páginas 1 a 4; a página 5 usa o **fundo par**, para marcar o fim do post. A foto da página 4 não muda de cor. Valores de `sb_cerebro/03_visual/tokens.json`.
 
 ### Páginas 1 a 4 (e a 5, pelo fundo par)
 
@@ -168,20 +172,21 @@ Na página 5, aplicar a linha **do fundo par** (ex.: post em Warm Light → pág
 ### Regras de cor
 - **Scarlet nunca sobre Deep Plum ou Plum 900**: a tabela já troca por Scarlet 200.
 - **Wine Knot, Jute Gold e fundo totalmente Scarlet não se usam neste formato** (texto longo demais para esses fundos). Se o slot vier com um deles, o Leo troca com o Hugo: Wine Knot → Deep Plum; Jute Gold → Skin Nude.
-- **Fundo escuro pede menos texto** (gramática visual): em Carbon, Deep Plum e Plum 900, a página 2 fica em até 60 palavras e a página 4 em 2 termos.
+- **Fundo escuro pede menos texto** (gramática visual): em Carbon, Deep Plum e Plum 900, a página 2 fica em até 60 palavras e a página 3 (termos ligados) em 2 termos.
 - Destaque em SemiBold usa a mesma cor do texto, só muda o peso.
 
 ---
 
 ## Template no Canva
 
-- **Modelo: "Post Por Trás do Desejo — Dicionário (modelo)"**, https://www.canva.com/d/PdNvdtGaiJzKyja (design `DAHZg0jgFs4`, criado em 30/10/2026 com o pet play como exemplo). É a referência visual e a base de todo post novo: **duplicar** (no Canva, ou com `copy-design` pelo MCP) e só trocar textos, foto, letra ativa do índice e cores do fundo. Nunca editar o modelo em si.
-- **Páginas do modelo**, na ordem em que baixam: `01 capa`, `02 o que é`, `03 figura`, `04 termos ligados`, `05 finalização`. Ao baixar em PNG, cada arquivo leva o título do design e o número da página.
+- **Modelo: "Post Por Trás do Desejo - Modelo 2"**, https://www.canva.com/d/PdNvdtGaiJzKyja (design `DAHZg0jgFs4`, criado em 30/10/2026 com o pet play como exemplo; corpo do texto corrido aumentado pelo Hugo em 03/11/2026). É a referência visual e a base de todo post novo: **duplicar** (no Canva, ou com `copy-design` pelo MCP) e só trocar textos, foto, letra ativa do índice e cores do fundo. Nunca editar o modelo em si. Quando o modelo e este arquivo divergirem em medida, vale o modelo; avisar para atualizar aqui.
+- **Nome do post duplicado:** `C-### — tema`, com o código do post e o tema em minúsculas (ex.: "C-110 — pet play", "C-093 — o que é impact play"). Sem data nem nome do quadro no título. Post sem código: pedir o próximo livre ao Leo antes de duplicar.
+- **Páginas do modelo**, na ordem em que baixam (desde 02/11/2026): `01 capa`, `02 o que é`, `04 termos ligados`, `03 figura`, `05 finalização`. Os títulos das páginas no Canva continuam com o número antigo; vale a posição. Ao baixar em PNG, cada arquivo leva o título do design e o número da página.
 - **Elementos do modelo (IDs para edição pelo MCP do Canva):**
   - **Página 1, capa** (`PBrx5Q2KMyq8Cd6W`): origem `LBsG2g1Y4BGb0l4P`; tema `LBPLPnG29XCyG5lr`; fio `LBwlgMWdb3BF3YXs`; rótulo `LBGFfJMTqWGJKtrd`; definição `LBT4yQyMS8YHl2rB`; assinatura `LBLMgK3JhtHD2XCp`.
   - **Página 2, o que é** (`PBrrrgN3PRhnwhQj`): cabeçalho `LBHQGNLSBS3KBnRC` (tema) e `LBTM0v4KKNWl1WzW` (seção); fio `LByxb3x1SsJ9zyLj`; números das acepções `LBxNgf2lCjM0GrLl` (uma caixa só, "1.", linha em branco, "2.": se a acepção 1 mudar de tamanho, ajustar as linhas em branco ou a entrelinha para o "2." alinhar com a acepção 2); texto das acepções `LBJxkqtxrD2jLHgW` (uma caixa, acepções separadas por uma linha em branco); assinatura `LBwcyz0SR8M4mk13`.
-  - **Página 3, figura** (`PBq29ysGBTRjHXCx`): cabeçalho `LBl1fNNK44xgslkv` e `LBd3dwQj2nXjQL00`; fio `LBkXSk1PtkZykc1X`; área da foto `LBWhZkt5gDkWwXFw` (forma 1080 × 756 que aceita imagem: arrastar a foto para dentro, ou `update_fill` pelo MCP); aviso "foto: substituir" `LB0qcvQFrf6vXfyP` (apagar ao colocar a foto); "fig. 1" `LBjrCd80sgFsk1D4`; legenda `LBg8FmyKS1snxvHV`; assinatura `LBFTbCTFhVHzgcT6`.
-  - **Página 4, termos ligados** (`PBwbR6xx8crFyxj3`): cabeçalho `LBf0VhFHyykVxcHH` e `LBMB0p79vJXzc8LY`; termos `LBR3n6TbhcTyfSKS`, `LBNyDffnqd8TGgYk`, `LBVhtLYxS62yy52K`; explicações `LB06NJMb0Xx7sNKX`, `LBxYGCxQQrdW5WMq`, `LBmxM6qJz7HqkBhL`; fios `LBY3vWvfdKD88MXp` (cabeçalho), `LBwwJVLJXV88fLf0`, `LBGsRl8XSVcPTWsX`, `LBSbxjRVMNQK7Rs4`; assinatura `LB3MlLLG0qWt15DH`. Com 2 termos, apagar o terceiro bloco (termo, explicação e fio).
+  - **Página 4, figura** (`PBq29ysGBTRjHXCx`): cabeçalho `LBl1fNNK44xgslkv` e `LBd3dwQj2nXjQL00`; fio `LBkXSk1PtkZykc1X`; área da foto `LBWhZkt5gDkWwXFw` (forma 1080 × 756 que aceita imagem: arrastar a foto para dentro, ou `update_fill` pelo MCP); aviso "foto: substituir" `LB0qcvQFrf6vXfyP` (apagar ao colocar a foto); "fig. 1" `LBjrCd80sgFsk1D4`; legenda `LBg8FmyKS1snxvHV`; assinatura `LBFTbCTFhVHzgcT6`.
+  - **Página 3, termos ligados** (`PBwbR6xx8crFyxj3`): cabeçalho `LBf0VhFHyykVxcHH` e `LBMB0p79vJXzc8LY`; termos `LBR3n6TbhcTyfSKS`, `LBNyDffnqd8TGgYk`, `LBVhtLYxS62yy52K`; explicações `LB06NJMb0Xx7sNKX`, `LBxYGCxQQrdW5WMq`, `LBmxM6qJz7HqkBhL`; fios `LBY3vWvfdKD88MXp` (cabeçalho), `LBwwJVLJXV88fLf0`, `LBGsRl8XSVcPTWsX`, `LBSbxjRVMNQK7Rs4`; assinatura `LB3MlLLG0qWt15DH`. Com 2 termos, apagar o terceiro bloco (termo, explicação e fio).
   - **Página 5, finalização** (`PB4654Gn9FLWD54w`): fundo `LBvXSgH8nxwShL9W` (retângulo na cor do fundo par); pergunta `LB8D37VGX0zfT3fN` e linha de apoio `LB1WBM20cprCDjZM` (fixas, não mexer); fio da bibliografia `LByTPk09tnJcPVlP`; rótulo "BIBLIOGRAFIA" `LB4G1QgtC4dVYrTd`; números das fontes `LBwKtS3fLnpYVdsF` e texto das fontes `LB1DGmKJ9qyCyY14` (uma fonte por linha, as duas caixas com a mesma entrelinha); letras do índice `LBMZtQPBQgsvNTr0` (a linha da letra ativa fica com um espaço); aba ativa `LB25cyBhcfB99Sfr` e letra ativa `LBhpDRdTDBdrCLy1`; assinatura `LB62SdLXP0QWTHlR`.
 - **Trocar a letra ativa do índice:** na caixa das letras, devolver a letra antiga e trocar a nova por um espaço; mover a aba ativa e a letra ativa para a posição da nova letra (cada aba fica 45,68px abaixo da anterior, a primeira a 86px do topo; a aba ativa sobe 7px em relação à posição da aba inativa).
 - **Limites do MCP:** ele não troca fonte nem espaçamento entre letras. Por isso o modelo é sempre copiado (as fontes vêm dele). Se um texto novo for criado pelo MCP, ele nasce em fonte genérica e precisa ser corrigido à mão no Canva.

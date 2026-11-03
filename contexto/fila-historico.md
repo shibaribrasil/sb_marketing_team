@@ -40,3 +40,19 @@
 ## 28/10/2026 21:56 (fila vv12 (rascunho, não aprovado))
 - slot P11: 'C-004 · de onde vem a corda: do hojojutsu ao shibari' virou 'C-004 · hojojutsu e shibari: o que as fontes dizem'
 
+## 31/10/2026 01:37 (fila vv13 (rascunho, não aprovado))
+- Por trás do desejo · pet play: data de postagem 30/10 -> 02/11
+- Por trás do desejo · pet play: prazo de entrega 29/10 -> 01/11
+- Wax play e shibari juntos: carrossel de 3 fotos do acervo, com o novo mix de velas e o cartão de remoção: data de postagem 06/11 -> 04/11
+- slot P8: 'Foto de produto: óleo e cera de tratamento em uso (Hugo na cena, sem comando de venda)' virou 'Wax play e shibari juntos: carrossel de 3 fotos do acervo, com o novo mix de velas e o cartão de remoção'
+- Wax play e shibari juntos: carrossel de 3 fotos do acervo, com o novo mix de velas e o cartão de remoção: prazo de entrega 05/11 -> 03/11
+- Wax play e shibari juntos: carrossel de 3 fotos do acervo, com o novo mix de velas e o cartão de remoção: responsável Hugo + Julia -> Hugo (escolhe as fotos), Julia, Ana
+- C-026 · velas que podem e velas que nunca: o guia de segurança do wax play: data de postagem 11/11 -> 06/11
+- C-026 · velas que podem e velas que nunca: o guia de segurança do wax play: prazo de entrega 10/11 -> 05/11
+- entrou na fila: C-107 · o limite de alguém não é um desafio pra você vencer (07/11)
+- saiu da fila: Reel A · primeiros minutos com a corda (Kit Shibari Iniciante em uso) (26/10)
+- saiu da fila: C-046 · o que o fetiche revela sobre você que outras experiências não revelam (02/11)
+- saiu da fila: C-107 · o limite de alguém não é um desafio pra você vencer (04/11)
+- saiu da fila: Reel C · três passos para guardar a corda (óleo e pano em uso) (09/11)
+- saiu da fila: Reel B · o que a gente confere antes de amarrar (tesoura em cena) (20/11)
+

@@ -2,6 +2,12 @@
 
 > Decisões do Hugo e regras de leitura. Acrescente com data a cada nova decisão. Não repita erro já pago.
 
+## Decisão de 31/10/2026 (Hugo): vídeo fora da sequência, só como extra
+
+- O Hugo ainda está testando e estudando vídeo. **Nenhum vídeo entra na sequência (slots de segunda, quarta e sexta) neste mês.** Se ele gravar, o vídeo é **post extra**. Saíram os Reels A (26/10), C (09/11) e B (20/11); roteiros guardados em `estrategia/material/roteiros/`.
+- **Mudanças da v13 (31/10):** pet play passa para segunda 02/11; C-046 sai do slot e fica sem data; quarta 04/11 é um **carrossel de 3 fotos do acervo de wax play**, só com legenda (nova linha de velas de 47 °C e 65 °C e cartão de remoção de cera, fatos do Notion); sexta 06/11 é a C-026 (guia de segurança do wax play, antecipada de 11/11); sábado 07/11 é a frase C-107 como **extra**. A foto de óleo e cera de 06/11 saiu do slot e fica sem data. Slots livres: 09, 11 e 20/11 (a decidir).
+- **Hashtags:** nunca `#bdsm` nem `#impactplay` (Hugo, 23/10); tirado do `texto.md` e do briefing da C-107 em 31/10. **Nunca `#fetiche`** (Hugo, 02/11, ao revisar o pet play já agendado). A regra das hashtags proibidas mora no núcleo da voz (`sb_cerebro/02_voz/voz.md`, "O que evitar").
+
 ## Decisão de 28/10/2026 (Hugo): correção em cascata
 
 - Ao corrigir a sequência, **corrigir também os briefings** (e tudo que cite a data, o fundo ou o post anterior), em cascata, até o plano, a pauta, o banco, os briefings e o artefato mostrarem a mesma coisa. Ferramenta: `conferir_briefings.py`. Passos em `planejador-de-sequencia.md` ("Cascata de correção").

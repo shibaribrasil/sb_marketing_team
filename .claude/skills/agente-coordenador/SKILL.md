@@ -54,7 +54,7 @@ Depois responda com:
 **Pacote:** conferir e entregar tudo junto, em um só bloco.
 1. A pasta do Drive abre e tem os arquivos esperados.
 2. **Mídia validada** conforme o padrão para publicação via API (JPEG sRGB, proporção, dimensões, peso; a Bia registra a linha "Mídia validada para API" no `visual-spec.md`). Se faltar ou fugir do padrão, devolver à Bia, não publicar.
-3. **`legenda.txt`:** só o texto publicável, até 2200 caracteres, até 5 hashtags, nunca `#bdsm` nem `#impactplay`, sem emoji. Peça com produto leva a linha do cashback conforme as regras da marca (nunca inventar condição).
+3. **`legenda.txt`:** só o texto publicável, até 2200 caracteres, até 5 hashtags, nunca `#bdsm`, `#impactplay` nem `#fetiche`, sem emoji. Peça com produto leva a linha do cashback conforme as regras da marca (nunca inventar condição).
 4. **Data e hora:** a data é a do slot. Para a hora, **não pergunte ao Hugo**: peça ao Leo a hora de pico do dia da semana (receita de horário de pico) e mostre também o segundo lugar. A aprovação do Hugo inclui o horário. Hora específica só quando ele disser.
 5. Produto no post: o Catálogo — Produtos (Notion) confere o que a legenda afirma.
 
