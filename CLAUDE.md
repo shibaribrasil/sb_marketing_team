@@ -23,6 +23,11 @@ Fotos e vídeos do banco (produtos, prática, acervo) ficam em `G:\Meu Drive\SB 
 ## Voz (Hugo, 27/10/2026)
 A voz da marca mora no núcleo `sb_cerebro`, e a skill `voz-shibari` a carrega. **Antes de escrever, revisar ou aprovar qualquer texto, carregue a `voz-shibari`**; ela vence qualquer resumo de tom embutido nas skills dos agentes. O antigo `contexto/tom-de-voz.md` foi apagado em 27/10/2026. Os repositórios `sb_admin_team`, `sb_marketing_team` e `sb_cerebro` precisam estar clonados lado a lado e atualizados.
 
+**Briefing também é texto (Hugo, 03/11/2026).** Ideia, proposta de slot, briefing, título, gancho e ângulo nascem com a voz carregada; esse era um dos maiores problemas de qualidade das ideias. Valem três regras:
+1. **Assumir um agente é invocar a skill dele** (ferramenta Skill), nunca trabalhar de memória, nem depois de a conversa ser compactada. Briefing = `agente-estrategista` + `voz-shibari`; texto = `agente-escritor` + `voz-shibari`.
+2. Ler `voz.md`, `tom.md`, `ajustes-recorrentes.md` e as posições (P#) do tema antes de escrever. Fato de um tema com fonte de referência definida pelo Hugo (ex.: P92, wax play) parte dessa fonte.
+3. **Carimbo:** `briefing.md` e `texto.md` levam no topo a linha `**Voz carregada:** <o que foi lido> em DD/MM/AAAA; teste das 4 perguntas em <título, gancho...>: <resultado>`. O hook `scripts/guarda_voz.py` recusa a gravação sem ela. A Julia devolve ao Leo briefing sem carimbo, e a Ana devolve texto sem carimbo.
+
 ## Biblioteca: só pelo bibliotecário (Hugo, 01/11/2026)
 A biblioteca de shibari e BDSM (`sb_cerebro/06_biblioteca/` e `sb_cerebro/05_conhecimento/`: fontes, extrações, tutoriais, fotos, referências) **não é explorada direto**. Para achar fonte, trecho, tutorial, foto ou conferir se uma ideia tem fonte, **chame o agente `bibliotecario`** (agente de usuário; manual em `sb_cerebro/06_biblioteca/bibliotecario.md`). Ele só lê e devolve a citação com `S-###`, página ou passo e o estatuto da fonte. Leitura direta só quando o Hugo pedir ou para conferir uma citação com ID e página já conhecidos. Quem escreve conteúdo recebe a fonte dele e a voz vem da `voz-shibari`; o bibliotecário não escreve nem opina. Se ele não responder ou o `sb_cerebro` não estiver na máquina, avisar o Hugo.
 

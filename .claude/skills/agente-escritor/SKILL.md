@@ -34,6 +34,7 @@ Um **slot aprovado** na fila (status **Briefing** na `contexto/pauta.md`, que ag
 
 O `texto.md` começa com este cabeçalho, curto, e depois vem o texto do formato:
 
+- **Voz carregada:** o que foi lido do núcleo e a data, mais o resultado do teste das 4 perguntas no título e no gancho (obrigatório; o hook `scripts/guarda_voz.py` recusa `texto.md` sem ele)
 - **Título provisório**
 - **Tipo de conteúdo**, usando exatamente o nome da seção em `contexto/formatos-conteudo.md`, sem número de prefixo e sem a plataforma entre parênteses (ex.: `Carrossel Livre`, `Post de Frase`, `Post para Blog`, `Post Desatando Mitos`, `Post de Foto`, `Post Por Trás do Desejo`, `Post Inspiração de Amarração`)
 - **Tipo de Grid** e **Fundo** (do slot; só Instagram)
@@ -46,15 +47,16 @@ O `texto.md` começa com este cabeçalho, curto, e depois vem o texto do formato
 
 ## Leituras obrigatórias
 
-1. A linha do slot e a proposta do Leo.
+1. A linha do slot e a proposta do Leo. **Briefing sem o carimbo `**Voz carregada:**` volta ao Leo** antes de qualquer escrita (Hugo, 03/11/2026: briefing feito fora da voz era um dos maiores problemas de qualidade).
 2. **Seção do formato em `contexto/formatos-conteudo.md`**: usar o nome exato do tipo como filtro e ler só a seção correspondente (do `## N. [Tipo]` até o próximo `## `). Se o formato não estiver cadastrado, perguntar ao Hugo as regras e registrar antes de continuar.
 3. Para peça de Instagram: seções 6 e 7 de `contexto/design-system.md` (tipo de grid e ciclo do feed).
 4. `contexto/personas.md`.
+5. **Para `Post para Blog`:** `sb_cerebro/04_formatos/blog.md` (estrutura em blocos, produto no texto, voz "nós", posições P93 e P94). Ele vence em caso de conflito com o capítulo 3.1 do `hab-produtor-textual` e com o formato. O briefing de blog deriva do briefing de Instagram (P86).
 
 ## Leituras condicionais
 
 - **`assets/docs/Glossario-Shibari.md`** e **`assets/docs/Glossario-BDSM.md`**, para termo técnico que precisa de definição precisa.
-- **Catálogo — Produtos (Notion)**, só se houver gancho ou menção a produto. Nunca inventar especificação; fato que faltar vai ao Hugo.
+- **Catálogo — Produtos (Notion)**, só se houver gancho ou menção a produto. Nunca inventar especificação; fato que faltar vai ao Hugo. **Em blog:** só link para produto publicado e em estoque (conferir antes com o Hugo ou o Robson e registrar a data no cabeçalho), nunca preço nem promoção no texto (P93).
 - **Referências externas** da proposta, quando precisarem embasar o conteúdo.
 - **`risco-de-alcance-nicho.md`** do Leo (`agente-estrategista/references/`), para termo, imagem ou hashtag de risco.
 

@@ -41,7 +41,7 @@
 |---|---|---|---|---|---|---|---|
 | 6 | seg 02/11 | **Por trás do desejo** (5 páginas, layout dicionário) | **Pet play** (veio de 30/10 por decisão do Hugo em 31/10) | pet play (prática de papel) | Deep Plum (página 5 em Plum 900) | 01/11 | Julia, Ana, Bia |
 | 7 | qua 04/11 | **Post de Foto**, carrossel de 3 fotos do acervo | **Wax play e shibari juntos**: só legenda, com a nova linha de velas (47 °C e 65 °C) e o cartão de remoção de cera · **PRODUTO** | wax play (prática com shibari e produto) | fotos, sem arte | 03/11 | Hugo escolhe as fotos, Julia, Ana |
-| 8 | sex 06/11 | Carrossel livre | **C-026 velas que podem e velas que nunca**: guia de segurança do wax play (veio de 11/11) · **PRODUTO** | wax play (velas e segurança) | Skin Nude | 05/11 | Julia, Ana, Bia |
+| 8 | sex 06/11 | Carrossel livre | **C-026 wax play: qual vela usar** (título aprovado em 03/11) (veio de 11/11) · **PRODUTO** | wax play (velas e segurança) | Skin Nude | 05/11 | Julia, Ana, Bia |
 | extra | sáb 07/11 | **Post de frase (extra)** | **C-107** o limite de alguém não é um desafio pra você vencer (veio de 04/11; substitui a C-088; C-108 e C-109 no backlog de frases) | limite de quem ouve um não (frase) | Carbon Black | 06/11 | Hugo (texto no time), Bia |
 | — | seg 09/11 | **livre** | era o Reel C; sem peça (decidir) | — | — | — | — |
 | — | qua 11/11 | **livre** | era a C-026; sem peça (candidata: C-046) | — | — | — | — |

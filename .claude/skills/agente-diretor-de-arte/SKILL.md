@@ -101,7 +101,7 @@ Espessura: 3px · Cor: Scarlet Pulse · Posição: 80px da margem esquerda.
 
 ### Sistema de Layout — 4 Formatos
 
-**1. Editorial** — Título + Subtítulo + Texto explicativo. Pode incluir linha Scarlet. Ideal para conteúdo educativo e conceitos técnicos.
+**1. Editorial** — Título + Subtítulo + Texto explicativo. Pode incluir linha Scarlet. Ideal para conteúdo educativo e conceitos técnicos. O **Carrossel Livre** não usa este layout: tem o seu, desde 03/11/2026 (duas cantoneiras em L nos cantos de todos os slides, sem barra vertical nem horizontal, finalização com convite em bloco de cor e bibliografia). Medidas, cores pelo fundo e modelo no Canva em `contexto/formatos/carrossel-livre.md`; enquanto o modelo não existe, montar pelas medidas do manual.
 
 **2. Frase** — Frase dominante em até 5 linhas, tarja lateral de cor e uma palavra sobre bloco da mesma cor ("tarja e etiqueta", desde 30/10/2026); sem subtítulo ou texto adicional. Medidas, cores pelo fundo e template do Canva ("Post Frase - Modelo 2") em `contexto/formatos/post-de-frase.md`. Ideal para posicionamento e reflexões.
 
@@ -118,7 +118,7 @@ Espessura: 3px · Cor: Scarlet Pulse · Posição: 80px da margem esquerda.
 | Tipo de Post | Fundos Recomendados |
 |---|---|
 | Rapidinha | Warm Light · Skin Nude |
-| Educativo aprofundado | Warm Light · Skin Nude |
+| Educativo aprofundado | Warm Light · Skin Nude (Carrossel Livre também Carbon · Deep Plum · Plum 900; ver `formatos/carrossel-livre.md`) |
 | Conceitual / frase | Carbon · Deep Plum · Warm Light · Skin Nude · Wine Knot (ver `formatos/post-de-frase.md`) |
 | Minimalista | Carbon Black · Deep Plum · Scarlet (ocasional) |
 | Produto | Skin Nude · Warm Light |

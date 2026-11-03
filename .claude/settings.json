@@ -23,6 +23,16 @@
     ],
     "PreToolUse": [
       {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python scripts/guarda_voz.py",
+            "timeout": 10
+          }
+        ]
+      },
+      {
         "matcher": "Bash|Grep",
         "hooks": [
           {

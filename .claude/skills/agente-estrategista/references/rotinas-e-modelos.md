@@ -54,7 +54,10 @@ Regras: comparar com a **mediana do mesmo formato** (não com o recorde); dizer 
 
 Toda ideia nasce **na voz** e **com âncora no núcleo** (`sb_cerebro`). Sem âncora, a ideia não é proposta. Se o tema não tem posição do Hugo, o Leo **não inventa a visão**: registra uma pergunta curta para ele e a resposta alimenta o núcleo. Formato curto, autossuficiente, com evidência e sem escrever a peça:
 
+**Antes de escrever a proposta ou o `briefing.md`:** invocar `voz-shibari` (ferramenta Skill), ler `voz.md`, `tom.md`, `ajustes-recorrentes.md` e as posições do tema, e abrir o arquivo com o carimbo `**Voz carregada:** ...` (regra do `CLAUDE.md`, 03/11/2026; o hook `scripts/guarda_voz.py` recusa `briefing.md` sem ele). Em 03/11 um briefing da C-026 saiu sem a voz e ainda contrariou a P92; foi refeito.
+
 ```
+**Voz carregada:** <voz.md, tom.md, ajustes-recorrentes.md, P# do tema> em DD/MM/AAAA; teste das 4 perguntas em <título, gancho, ângulo>: <passou / o que mudou>
 SLOT / IDEIA: <título provisório>
 Âncora no núcleo: <posição P# do Hugo | nota da biblioteca | resultado medido nosso> (obrigatória; sem ela vira PERGUNTA ao Hugo)
 Tese em uma frase (na voz do Hugo, primeira pessoa quando couber):

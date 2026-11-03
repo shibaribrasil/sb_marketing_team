@@ -69,9 +69,9 @@ Mora no núcleo: `sb_cerebro/02_voz/vocabulario.md` e `termos-do-meio.md` (via s
 
 ### 2.2. Blogs e SEO (Google e Motores de Resposta IA)
 * **Formato "Atomic Answers":** Imediatamente após um subtítulo (H2/H3) que faça uma pergunta, gere um bloco de texto isolado de 40 a 60 palavras respondendo diretamente e cirurgicamente ao termo, sem introduções.
-* **Introduções Invertidas (Search Intent):** Elimine introduções históricas ou conceituais ("Desde os primórdios da civilização..."). O primeiro parágrafo deve validar a dor exata do leitor, apresentar o benefício e resumir o que ele vai aprender em até 3 linhas.
+* **Introduções Invertidas (Search Intent):** Elimine introduções históricas ou conceituais ("Desde os primórdios da civilização..."). Logo abaixo do título vai a **resposta rápida** (40 a 60 palavras); se houver introdução, ela é curta (até 2 frases), nomeia a pergunta do leitor e diz o que ele vai encontrar, **sem sentenciar o que a pessoa sente ou pensa** (P85). Estrutura completa do post em `sb_cerebro/04_formatos/blog.md`.
 * **SEO Semântico (LSI):** Mantenha a densidade da palavra-chave foco abaixo de 1% a 1.5%. Enriqueça o texto usando termos correlatos, sinônimos naturais e variações de cauda longa (Long Tail) em vez de repetir o termo principal de forma bizarra.
-* **Injeção de E-E-A-T Narrativo:** Abandone listas puramente teóricas. Toda recomendação técnica do texto deve vir acompanhada de um exemplo prático de aplicação ("Como fazer na prática"), um cenário de bastidores ou uma métrica/resultado de validação simulada.
+* **Injeção de E-E-A-T Narrativo:** Abandone listas puramente teóricas. Toda recomendação técnica do texto deve vir acompanhada de um exemplo prático de aplicação ("Como fazer na prática"), um relato real da equipe ("na nossa prática"). **Nunca simule experiência, resultado, métrica ou dado de validação**: o que não existe não entra, e fato de segurança vem do Hugo ou de praticante experiente (P86).
 * **Alucinações e Links:** Você está terminantemente proibido de inventar dados estatísticos ou criar links externos quebrados/URLs inexistentes.
 
 ### 2.3. E-mail Marketing (Escrita para Cliques e Entregabilidade)
@@ -89,6 +89,8 @@ Esta seção define as regras específicas de cada formato de produção. Sempre
 
 ### 3.1 Blog — Postagem para Google
 
+> **Fonte única das orientações de blog (Hugo, 03/11/2026):** `sb_cerebro/04_formatos/blog.md` (estrutura do post, produto no texto, voz "nós", rastreio) e o formato `contexto/formatos/post-para-blog.md`. **Em caso de conflito com este capítulo, vencem eles.** Este capítulo guarda só a técnica de SEO e de legibilidade.
+
 #### Antes de escrever
 
 - **Intenção de busca primeiro:** identifique o que o leitor quer quando digita o termo. Conteúdo informacional (o que é, como fazer), comparativo (X vs Y) ou transacional (comprar, escolher). Escreva para essa intenção — não para outra.
@@ -99,39 +101,39 @@ Esta seção define as regras específicas de cada formato de produção. Sempre
 #### Estrutura obrigatória do artigo
 
 ```
-H1 — Título do artigo (único, contém a keyword principal)
-  Introdução (máx. 3 parágrafos — ver regra abaixo)
-  H2 — Subtítulo de seção principal
-    Parágrafo de resposta direta (40–60 palavras)
-    Desenvolvimento com exemplo prático
+Título (o tema já o mostra como H1; não repetir H1 no corpo)
+  Resposta rápida (40–60 palavras, em caixa destacada)
+  Linha de confiança (atualizado em, tempo de leitura, assinatura)
+  Índice (só com 3 seções ou mais, ou mais de 800 palavras)
+  H2 — Pergunta da seção
+    Frase-resposta
+    Desenvolvimento (lista, tabela, aviso de segurança, "Na prática da casa", imagem)
     H3 — Subtópico (se necessário)
   H2 — Próxima seção
     ...
-  Conclusão (sem resumo óbvio — termina com próximo passo ou CTA)
+  Bloco "Na loja" (papel "decisão"; sem preço nem promoção)
+  Perguntas frequentes (sempre visíveis)
+  Fontes (com link)
+  "Leia a seguir" (2 posts) e convite ao e-mail
 ```
 
-- Mínimo 1.000 palavras por artigo. Para temas técnicos ou comparativos: 1.500 a 2.000.
+- **Extensão pela pergunta, sem mínimo fixo.** O mínimo de 1.000 palavras do formato antigo saiu (enchimento não é conteúdo).
 - Cada H2 deve ter pelo menos um parágrafo de resposta + um exemplo de aplicação prática.
 - Não use mais de dois H3 por H2 — hierarquia profunda demais quebra a escaneabilidade.
 
-#### Regra da introdução invertida
+#### Regra da abertura
 
-**Proibido:** introduções históricas, contextualizações genéricas ou saudações ("Desde os primórdios...", "No mundo do shibari...", "Olá, seja bem-vindo...").
+**Proibido:** introduções históricas, contextualizações genéricas ou saudações ("Desde os primórdios...", "No mundo do shibari...", "Olá, seja bem-vindo..."), e dizer ao leitor o que ele sente ou pensa (P85).
 
-**Obrigatório:** a introdução deve, nessa ordem:
-1. Validar a dor ou pergunta exata do leitor (1 frase)
-2. Apresentar o benefício de ler até o final (1 frase)
-3. Resumir o que ele vai aprender (2 a 4 pontos, em lista ou em texto corrido curto)
-
-Total: máximo 3 parágrafos ou 80 palavras.
+**Obrigatório:** o post abre com a **resposta rápida** (40 a 60 palavras), que responde a pergunta do título. Se houver introdução, ela vem depois, tem até 2 frases e diz o que o leitor vai encontrar no texto.
 
 #### Formato "Atomic Answer" (para rankeamento em featured snippets)
 
 Imediatamente após cada H2 ou H3 formulado como pergunta, escreva um bloco de 40 a 60 palavras respondendo diretamente ao termo — sem introduções, sem contexto histórico, direto ao ponto. Esse bloco é o que o Google usa para featured snippets e respostas de IA.
 
-Exemplo:
-> **H2: O que é Takate Kote?**
-> Takate Kote é uma amarração de ombros e torso originária do Japão, base de muitas fotos de shibari. É tecnicamente complexa e envolve riscos reais de compressão nervosa. Não é indicada para iniciantes sem acompanhamento de um rigger experiente.
+Exemplo de forma (o conteúdo é só ilustração; **fato de segurança nunca é escrito pela IA**, vem do Hugo ou de praticante experiente, P86):
+> **H2: O que é corda de juta tratada?**
+> Corda de juta tratada é a corda de fibra natural que já passou por preparo para ficar mais macia e maleável, pronta para a primeira amarração. A juta crua é mais áspera e pede tratamento antes do uso.
 
 #### Legibilidade e formatação
 
@@ -139,23 +141,24 @@ Exemplo:
 - Use listas com marcadores para enumerações de 3 ou mais itens — não as escreva em prosa corrida.
 - Use **negrito** para termos-chave e frases de impacto — nunca para frases inteiras ou parágrafos.
 - Varie o comprimento das frases. Frases longas de desenvolvimento + frases curtas de conclusão. Nunca frases do mesmo tamanho em sequência.
-- Escreva em tom conversacional, primeira ou segunda pessoa. Linguagem acessível — o leitor é iniciante ou intermediário, não especialista.
+- Escreva em tom conversacional, na voz do blog: **"nós"** (primeira pessoa do plural; o Hugo fala pela equipe), **sem "eu"** (P94), e "você" para o leitor quando couber. Linguagem acessível — o leitor é iniciante ou intermediário, não especialista.
 
 #### SEO técnico
 
 | Elemento | Regra |
 |---|---|
 | **URL** | Descritiva, com a keyword. Sem anos, posições ou números que envelhecem (ex: evite "5-passos-para-..."). Formato: `/como-escolher-corda-shibari/` |
-| **H1 (título)** | Contém a keyword principal. Único por página. Claro e direto. |
+| **H1 (título)** | Contém a keyword principal. Único por página: o tema já mostra o título como H1, então o corpo começa em H2. Claro e direto. |
 | **Meta description** | 120–160 caracteres. Resume o artigo, inclui a keyword, é um convite — não um resumo técnico. |
 | **Alt text de imagens** | Descreve a imagem e inclui a keyword quando relevante. Nunca deixar em branco. |
-| **Keyword na introdução** | Deve aparecer nas primeiras 100 palavras do texto. |
+| **Keyword na abertura** | Deve aparecer na resposta rápida ou nas primeiras 100 palavras do texto. |
 
 #### Links
 
 - **Links internos:** mínimo 2 por artigo. Aponte para outros conteúdos do blog da SB ou páginas de produto relevantes. Use texto âncora descritivo — nunca "clique aqui".
 - **Links externos:** use apenas para fontes confiáveis que reforcem um dado ou aprofundem um conceito (ex: glossários, estudos, referências técnicas). Máximo 2–3 por artigo. Abrem em nova aba.
 - **Nunca inventar links:** se não tiver uma fonte real para citar, não cite. Use `[Insira fonte]` se o dado precisar de referência e ela não estiver no briefing.
+- **Produto no texto (P93):** o teste é "se a menção sumisse, o leitor perderia alguma coisa?". Nunca preço nem promoção; só link para produto publicado e em estoque, com fato do Notion; limite de menções pelo papel do post; equipamento de risco só depois do trecho de segurança. Regra completa em `sb_cerebro/04_formatos/blog.md`, seção 2.
 
 #### E-E-A-T — Demonstração de autoridade e experiência
 
@@ -176,6 +179,10 @@ Nunca listas teóricas soltas sem contexto de aplicação.
 - Conclusão com resumo óbvio do que foi dito ("Neste artigo vimos que...")
 - Parágrafos com mais de 5 linhas
 - URL com data, ano ou posição numérica
+- Bloco de fecho fixo com emoji ("siga no Instagram", "👉", "🔗"): o fecho é "Leia a seguir" e o convite ao e-mail; a linha "Reprodução proibida sem autorização" continua, junto da assinatura (decisão do Hugo)
+- Preço, desconto, frete grátis ou "garanta já" dentro do texto
+- Link para produto inexistente, despublicado ou esgotado
+- Simular experiência, resultado ou métrica; preencher fato de segurança
 
 ---
 

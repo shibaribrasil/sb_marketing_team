@@ -59,3 +59,6 @@
 ## 03/11/2026 11:03 (fila vv13 (rascunho, não aprovado))
 - Por trás do desejo · pet play: data de postagem 02/11 -> 03/11
 
+## 03/11/2026 18:51 (fila vv13 (rascunho, não aprovado))
+- slot P10: 'C-026 · velas que podem e velas que nunca: o guia de segurança do wax play' virou 'C-026 · wax play: qual vela usar'
+

@@ -8,17 +8,18 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 
 ## 🎯 Fila prioritária (sequência do Instagram)
 
-> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v13 (rascunho, não aprovado)**, atualizada em **2026-10-31**. Sincronizada em 03/11/2026 11:03 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
+> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v13 (rascunho, não aprovado)**, atualizada em **2026-10-31**. Sincronizada em 03/11/2026 18:51 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
 
-**Mudanças na fila (03/11/2026 11:03):**
-- Por trás do desejo · pet play: data de postagem 02/11 -> 03/11
+**Mudanças na fila (03/11/2026 18:51):**
+- slot P10: 'C-026 · velas que podem e velas que nunca: o guia de segurança do wax play' virou 'C-026 · wax play: qual vela usar'
 
 **Atenção:**
 - 23/10: a pauta tem 'Foto de prática com uma frase [fila:P2]' no slot de 'Cinco segundos: quase uma foto'; registrar a troca na fila
 - 23/10 Cinco segundos: quase uma foto (vídeo de prática d: há post no ar nesse dia (https://www.instagram.com/reel/De1ZF0uFbkc/); confirmar a postagem na pauta
 - 23/10 Cinco segundos: quase uma foto (vídeo de prática do acervo, : entrega de 22/10 atrasada (Briefing)
+- 03/11 Por trás do desejo · pet play: há post no ar nesse dia (https://www.instagram.com/p/DfRs46DF82D/); confirmar a postagem na pauta
 
-> Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 03/11/2026 10:59. Atualizar: `python scripts/status_instagram.py`.
+> Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 03/11/2026 18:51. Atualizar: `python scripts/status_instagram.py`.
 
 | Posta em | Peça | Formato | Assunto | Arco | Entrega | Quem | Status na pauta | Alerta |
 |---|---|---|---|---|---|---|---|---|
@@ -26,9 +27,9 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 | 23/10 | Cinco segundos: quase uma foto (vídeo de prática do acervo, com legenda do Hugo) | Reel curto (5 s) de prática | identificação (memória e desejo) | — | 22/10 | Hugo | Briefing | a peça da pauta não bate com a da fila; post no ar nesse dia; ENTREGA ATRASADA |
 | 28/10 | C-106 · 5 mitos sobre submissão | Desatando mitos | submissão (mitos) | — | 28/10 | Julia, Ana, Bia | Publicado |  |
 | 31/10 (extra) | Extra casual 1 · Time doce × Time travessura (spanking: formas brandas × intensas, Halloween) | Post de Duelo (time doce × time travessura) | spanking: do brando ao intenso (identificação e compartilhamento) | — | 30/10 | Hugo | Agendado |  |
-| 03/11 | Por trás do desejo · pet play | Por trás do desejo (5 páginas, layout dicionário) | pet play (prática de papel) | — | 01/11 | Julia, Ana, Bia | Publicado (Instagram: no ar) | Instagram: NO AR 03/11 08:30 (https://www.instagram.com/p/DfRs46DF82D/) |
+| 03/11 | Por trás do desejo · pet play | Por trás do desejo (5 páginas, layout dicionário) | pet play (prática de papel) | — | 01/11 | Julia, Ana, Bia | Agendado | post no ar nesse dia |
 | 04/11 | Wax play e shibari juntos: carrossel de 3 fotos do acervo, com o novo mix de velas e o cartão de remoção | Carrossel de 3 fotos do acervo (wax play na prática de shibari) | wax play (prática com shibari e produto) | — | 03/11 | Hugo (escolhe as fotos), Julia, Ana | Briefing |  |
-| 06/11 | C-026 · velas que podem e velas que nunca: o guia de segurança do wax play | Carrossel educativo (densidade do carrossel livre) | wax play (velas e segurança) | — | 05/11 | Julia, Ana, Bia | Briefing |  |
+| 06/11 | C-026 · wax play: qual vela usar | Carrossel educativo (densidade do carrossel livre) | wax play (velas e segurança) | — | 05/11 | Julia, Ana, Bia | Aguardando Revisão |  |
 | 07/11 (extra) | C-107 · o limite de alguém não é um desafio pra você vencer | Post de frase | limite de quem ouve um não (frase) | — | 06/11 | Hugo (texto no time), Bia | Briefing |  |
 | 13/11 | C-004 · hojojutsu e shibari: o que as fontes dizem | Carrossel livre | hojojutsu: influência, não origem direta (visão da kinbakutoday) | — | 12/11 | Julia, Ana, Bia | Briefing |  |
 | 14/11 (extra) | Extra casual 2 · ideia que o Hugo trouxer, com mudança de um fator em relação ao primeiro | Post casual (ideia do Hugo) | a definir com a ideia do Hugo | — | 13/11 | Hugo traz a ideia; Julia/Bia produzem | Briefing |  |
@@ -84,7 +85,6 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 | Reel A · primeiros minutos com a corda [pausada] (saiu da sequência em 31/10/2026: o Hugo ainda estuda vídeo; se gravar, entra como post extra) | Instagram Vídeo | roteiro pronto em `estrategia/material/roteiros/roteiros-reels-fase1-2026-10-19.md` | Kit Shibari Iniciante em uso; end card do cashback |
 | Foto de produto: óleo e cera de tratamento [pausada] (sem data desde 31/10/2026: o guia de wax play ocupou o slot de 06/11; fotografar na sessão 1 e reabrir em um slot livre) | Post de Foto (Instagram) | a criar: Julia escreve a legenda curta com a linha do cashback | Produto direto, sem arte e sem comando de venda |
 | Reel C · três passos para guardar a corda [pausada] (saiu da sequência em 31/10/2026; se gravar, entra como post extra) | Instagram Vídeo | roteiro pronto em `estrategia/material/roteiros/roteiros-reels-fase1-2026-10-19.md` | Cuidar da corda; end card do cashback; a fala sobre o óleo só com confirmação do Hugo |
-| C-026 · velas que podem e velas que nunca [fila:P10] (posta sexta 06/11; antecipada de 11/11 em 31/10; texto 03/11, Ana 04/11, arte 05/11) | Carrossel educativo (Instagram) | `conteudos/instagram-carrossel-livre/velas-wax-play-guia-seguranca/briefing.md` (fatos das velas já no Notion; "velas que nunca" depende do Hugo) | Wax play, produto direto; linha do cashback |
 | Carrossel de 3 fotos: wax play e shibari juntos [fila:P8] (posta quarta 04/11; Hugo indica as 3 fotos até 02/11; legenda 03/11; só legenda, sem arte; produto direto com linha do cashback) | Post de Foto (Instagram) | `conteudos/instagram-post-foto/wax-play-e-shibari/briefing.md` | Wax play junto das práticas de shibari; nova linha de velas (47 °C e 65 °C) e cartão de remoção de cera |
 | C-004 · hojojutsu e shibari: o que as fontes dizem [fila:P11] (posta 13/11; briefing até 04/11; no lugar da C-003) | Carrossel Livre (Instagram) | a criar: Julia | Hojojutsu: influência, não origem direta (visão da kinbakutoday, escolhida pelo Hugo em 28/10); o livro Essence of Shibari entra como a versão que muita gente aprendeu; sem produto e sem cashback |
 | Extra casual 2 [fila:X2] (sábado, posta 14/11; ideia do Hugo até 11/11) | Post Casual (Instagram) | aguardando a ideia do Hugo | Muda 1 fator em relação ao extra 1 |
@@ -128,6 +128,7 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 
 | Título | Tipo de Conteúdo | Arquivo | Entrou em revisão |
 |---|---|---|---|
+| C-026 · wax play: qual vela usar [fila:P10] (posta sexta 06/11; Ana aprovou com ajustes, já aplicados; aguardando o Hugo; arte 05/11) | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/velas-wax-play-guia-seguranca/texto.md` + `legenda.txt` | 03/11/2026 |
 
 ---
 
