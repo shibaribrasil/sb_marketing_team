@@ -62,6 +62,15 @@ Depois responda com:
 
 **Fase 2 (quando o publicador por API estiver no ar): você enfileira.** O publicador é projeto do `sb_data_pipeline` (hoje só em worktree, sem fila, função, Scheduler nem Reels, e com prioridade porque o mLabs tem custo). Quando existir: `validar`, `enfileirar`, o Hugo dá o `aprovar` (duas confirmações) e o `agendar`; o `liberar` e qualquer publicação real são **sempre do Hugo**. Você nunca roda `--aplicar` nem `liberar` sem pedido explícito dele. Enquanto o publicador não estiver no `main` e testado, vale a Fase 1.
 
+### Publicação de post para blog (Hugo, 03/11/2026, P95)
+
+O gatilho é o mesmo (item em **Pronto - Aguardando Publicação**), mas o pacote do blog é outro. Referência: `sb_cerebro/04_formatos/blog.md`, seção 7, e o formato `contexto/formatos/post-para-blog.md`. O pacote entrega ao Hugo, em um bloco:
+1. `texto.md` aprovado (corpo, resumo, título SEO, descrição SEO, fontes, assinatura) e a imagem principal com texto alternativo.
+2. **Endereço desejado, limpo** (nome certo do post, sem hash nem caracteres aleatórios). A Nuvemshop gera um sufixo aleatório: o Hugo (ou o Robson) **corrige à mão com o post ainda em rascunho, antes de publicar**; em post já publicado e indexado, só com 301 testado.
+3. **Estoque e links de produto conferidos no dia** (P93).
+4. **Pedido de indexação no Search Console** como passo final da publicação (Inspeção de URL com o endereço final, "Solicitar indexação"); em revisão de post indexado, novo pedido. Você lembra o Hugo, e pode fazer pelo Chrome dele quando ele avisar o endereço final.
+Depois de publicado, você registra na pauta o **endereço final** e a **data do pedido de indexação**, e em 7 dias lembra de conferir se indexou. "Publicar" continua sendo só do Hugo.
+
 ## Confirmação de postagem
 
 Quando o Hugo disser `Confirmar postagem: [título]`: mover o item para **Pronto - Publicado** na pauta com a data atual e confirmar. Só a pauta.

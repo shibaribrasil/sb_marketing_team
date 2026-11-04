@@ -51,7 +51,7 @@ O arquivo `texto.md` de um post para blog tem o cabeçalho da Julia (ver `agente
 9. **Resumo** (para a listagem do blog): 2 a 3 frases, máximo 300 caracteres; convite à leitura, não resumo técnico.
 10. **Título SEO:** máximo 65 caracteres, com a palavra-chave.
 11. **Descrição SEO (meta description):** 120 a 160 caracteres, com a palavra-chave, como convite ao clique.
-12. **Endereço (slug):** descritivo, sem hash, ano nem número que envelhece.
+12. **Endereço (slug) desejado:** o nome certo do post, em minúsculas, sem acento, com hífens e a palavra-chave, **sem hash, sem caracteres aleatórios, sem ano nem número que envelhece** (exemplo: `historia-do-shibari`). A Nuvemshop gera um sufixo aleatório e **o endereço é corrigido à mão na publicação** (ver "Publicação do post" abaixo).
 13. **Imagem principal:** a Bia produz separadamente; o briefing informa o tema ou conceito visual. PNG, 1024 × 630 px, comprimida para web (peso-alvo abaixo de 200 KB). Foto própria do acervo, sem banner de promoção.
 
 **Linha de uso do texto (decisão do Hugo, 03/11/2026):** continua **"Reprodução proibida sem autorização"**, na mesma linha da assinatura. Não trocar por "pode citar".
@@ -86,8 +86,18 @@ Documentos do acervo interno (glossários, guias, extrações da biblioteca, `S-
 - [ ] Fontes com link e página; nenhuma `S-###` no corpo
 - [ ] "Leia a seguir" com 2 posts e convite ao e-mail; **nenhum bloco fixo antigo** (Instagram com emoji)
 - [ ] Assinatura "Escrito por Hugo Barcellos (The Priest), da Shibari Brasil. Reprodução proibida sem autorização."
-- [ ] Resumo (até 300), título SEO (até 65), descrição SEO (120 a 160) e endereço escritos
+- [ ] Resumo (até 300), título SEO (até 65), descrição SEO (120 a 160) e **endereço desejado** (limpo, sem hash) escritos
+- [ ] Plano de publicação registrado no cabeçalho: endereço a ajustar à mão em rascunho e pedido de indexação depois de publicar (seção "Publicação do post")
 - [ ] Especificação da imagem principal informada para a Bia
 - [ ] Autorrevisão em 4 camadas executada (capítulo 4 da skill de produção)
+
+### Publicação do post (parte obrigatória; P95, Hugo, 03/11/2026)
+
+Detalhe e checklist completo em `sb_cerebro/04_formatos/blog.md`, seção 7. Publicar de verdade é sempre do Hugo. Duas etapas fazem parte da publicação de todo post:
+
+1. **Endereço limpo.** A Nuvemshop gera o endereço do post com sufixo aleatório. Corrigir à mão, com o nome certo do post, **com o post ainda em rascunho, antes de publicar** (post já publicado e indexado só muda de endereço com redirecionamento 301 testado, como nos produtos). Conferir o endereço final aberto no navegador, com a barra final.
+2. **Pedido de indexação no Search Console**, logo depois de publicar e conferir: Inspeção de URL com o endereço final, "Testar o URL publicado" e "Solicitar indexação" (propriedade de domínio `shibaribrasil.com.br`). Em revisão de post já indexado, novo pedido. Uma vez só: enviar o `sitemap_blog.xml` em Sitemaps. Conferir a indexação em 7 dias.
+
+Quem faz: quem tem o login (Hugo ou Robson), ou o agente pelo Chrome do Hugo quando ele avisar o endereço final (autorização dada só para esse passo). Registrar na pauta o endereço final e a data do pedido.
 
 **Pendente (não bloqueia a escrita):** o modelo visual em HTML dos posts (a ser montado com o Claude Design; estilo em linha, blocos marcados por `data-sb`, ver `sb_cerebro/04_formatos/blog.md`, seções 2 e 3) e o rastreio do clique do blog para a loja (já publicado no GTM; a posição do link depende do modelo).
