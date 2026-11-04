@@ -64,10 +64,10 @@ Depois responda com:
 
 ### Publicação de post para blog (Hugo, 03/11/2026, P95)
 
-O gatilho é o mesmo (item em **Pronto - Aguardando Publicação**), mas o pacote do blog é outro. Referência: `sb_cerebro/04_formatos/blog.md`, seção 7, e o formato `contexto/formatos/post-para-blog.md`. O pacote entrega ao Hugo, em um bloco:
-1. `texto.md` aprovado (corpo, resumo, título SEO, descrição SEO, fontes, assinatura) e a imagem principal com texto alternativo.
-2. **Endereço desejado, limpo** (nome certo do post, sem hash nem caracteres aleatórios). A Nuvemshop gera um sufixo aleatório: o Hugo (ou o Robson) **corrige à mão com o post ainda em rascunho, antes de publicar**; em post já publicado e indexado, só com 301 testado.
-3. **Estoque e links de produto conferidos no dia** (P93).
+O gatilho é o mesmo (item em **Pronto - Aguardando Publicação**), mas o pacote do blog é outro. Referência: `sb_cerebro/04_formatos/blog.md` (seções 7 e 8, e a P98), o formato `contexto/formatos/post-para-blog.md` e o guia operacional `contexto/formatos/post-para-blog-html.md` (passo a passo, lições e conferência final). **Você monta o `publicacao.html` a partir do modelo** `contexto/formatos/modelos/post-para-blog-modelo.html` (nunca reescrever os estilos à mão), guarda o backup do HTML que está no ar e, com a autorização do Hugo, cola e publica pelo Chrome dele, **sem passar por "Rascunho" em post já indexado**. O pacote entrega ao Hugo, em um bloco:
+1. `texto.md` aprovado (corpo, resumo, título SEO, descrição SEO, fontes, assinatura), o `publicacao.html`, as imagens do corpo com legenda, texto alternativo e crédito (cópias em `imagens/` na pasta do post) e a imagem principal (o upload dela é do Hugo; o editor não tem campo de texto alternativo para ela).
+2. **Nome do endereço desejado, limpo** (nome certo do post, sem ano nem número). A Nuvemshop acrescenta sozinha um final fixo de 12 caracteres, que não sai: o Hugo (ou o Robson) **corrige o nome à mão com o post ainda em rascunho, antes de publicar**; em post já publicado e indexado, só com o 301 criado logo depois (passo a passo em `blog.md`, seção 7).
+3. **Estoque e links de produto conferidos no dia** (P93). **"Leia a seguir" com 3 posts** (capa, título e subtítulo), cada um conferido (publicado, SEO e endereço certos).
 4. **Pedido de indexação no Search Console** como passo final da publicação (Inspeção de URL com o endereço final, "Solicitar indexação"); em revisão de post indexado, novo pedido. Você lembra o Hugo, e pode fazer pelo Chrome dele quando ele avisar o endereço final.
 Depois de publicado, você registra na pauta o **endereço final** e a **data do pedido de indexação**, e em 7 dias lembra de conferir se indexou. "Publicar" continua sendo só do Hugo.
 

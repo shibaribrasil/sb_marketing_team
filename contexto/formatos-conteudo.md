@@ -70,7 +70,7 @@ Quando o usuário solicitar um tipo de conteúdo ainda não registrado:
 
 ## Formatos Cadastrados
 
-1. [Post para Blog](formatos/post-para-blog.md) — reescrito em 03/11/2026: estrutura em blocos (resposta rápida, corpo em perguntas, bloco "Na loja", FAQ visível, fontes, "leia a seguir", assinatura), voz "nós", produto sem preço nem promoção e só com item em estoque; fonte única em `sb_cerebro/04_formatos/blog.md` (P93 e P94); pipeline: Julia (texto) → Ana (revisão) → Bia (imagem principal)
+1. [Post para Blog](formatos/post-para-blog.md) — reescrito em 03/11/2026: estrutura em blocos (resposta rápida, corpo em perguntas, bloco "Na loja", FAQ visível, fontes, "leia a seguir", assinatura), voz "nós", produto sem preço nem promoção e só com item em estoque; fonte única em `sb_cerebro/04_formatos/blog.md` (P93 a P98); HTML, imagens, grade do "Leia a seguir" e publicação em [post-para-blog-html.md](formatos/post-para-blog-html.md) (modelo em `formatos/modelos/post-para-blog-modelo.html`); pipeline: Julia (texto) → Ana (revisão) → Mari (HTML e publicação) → Bia (imagem principal)
 2. [Post de Frase](formatos/post-de-frase.md) — layout "tarja e etiqueta" desde 30/10/2026; modelo no Canva "Post Frase - Modelo 2"
 3. [Post Por Trás do Desejo](formatos/post-por-tras-do-desejo.md)
 4. [Post Inspiração de Amarração](formatos/post-inspiracao-de-amarracao.md)

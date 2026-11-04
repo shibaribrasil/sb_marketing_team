@@ -51,7 +51,7 @@ O `texto.md` começa com este cabeçalho, curto, e depois vem o texto do formato
 2. **Seção do formato em `contexto/formatos-conteudo.md`**: usar o nome exato do tipo como filtro e ler só a seção correspondente (do `## N. [Tipo]` até o próximo `## `). Se o formato não estiver cadastrado, perguntar ao Hugo as regras e registrar antes de continuar.
 3. Para peça de Instagram: seções 6 e 7 de `contexto/design-system.md` (tipo de grid e ciclo do feed).
 4. `contexto/personas.md`.
-5. **Para `Post para Blog`:** `sb_cerebro/04_formatos/blog.md` (estrutura em blocos, produto no texto, voz "nós", posições P93 e P94). Ele vence em caso de conflito com o capítulo 3.1 do `hab-produtor-textual` e com o formato. O briefing de blog deriva do briefing de Instagram (P86).
+5. **Para `Post para Blog`:** `sb_cerebro/04_formatos/blog.md` (estrutura em blocos, produto no texto, voz "nós", padrão de HTML; posições P93 a P98). O guia operacional de HTML, imagens, "Leia a seguir" em grade e publicação é `contexto/formatos/post-para-blog-html.md`, com o modelo em `contexto/formatos/modelos/post-para-blog-modelo.html`: entregue também as imagens previstas (contexto, legenda neutra, texto alternativo, crédito) e os 3 posts do "Leia a seguir". Ele vence em caso de conflito com o capítulo 3.1 do `hab-produtor-textual` e com o formato. O briefing de blog deriva do briefing de Instagram (P86).
 
 ## Leituras condicionais
 

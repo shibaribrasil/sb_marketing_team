@@ -114,7 +114,7 @@ Título (o tema já o mostra como H1; não repetir H1 no corpo)
   Bloco "Na loja" (papel "decisão"; sem preço nem promoção)
   Perguntas frequentes (sempre visíveis)
   Fontes (com link)
-  "Leia a seguir" (2 posts) e convite ao e-mail
+  "Leia a seguir" (3 posts em grade, com foto, título e subtítulo) e convite ao e-mail
 ```
 
 - **Extensão pela pergunta, sem mínimo fixo.** O mínimo de 1.000 palavras do formato antigo saiu (enchimento não é conteúdo).
