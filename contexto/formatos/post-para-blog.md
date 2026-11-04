@@ -76,9 +76,18 @@ O arquivo `texto.md` de um post para blog tem o cabeçalho da Julia (ver `agente
 - **Variedade:** variar os verbos de atribuição (diz, escreve, aponta, conta, registra, lembra, observa, segundo) e as expressões; hojojutsu, kinbaku, shibari e bakushi não têm sinônimo e ficam.
 - **Sem fórmula mecânica:** nada de "pelo que lemos", "nas fontes que lemos", "não há consenso", "conforme a fonte", "voltando à pergunta do começo". A leitura da casa se marca pelo rótulo "Na nossa leitura" e pela razão que a sustenta.
 
+### Regras para o iniciante (P99, Hugo, 04/11/2026)
+
+- **Informação primeiro:** o post fala de forma ampla do assunto; o produto entra natural no meio, sem orientar o texto ao catálogo.
+- **Referência contextualizada, uma vez:** autor e obra entram na hora de introduzir a referência ("Como conta Shin Nawakiri, no livro *Essence of Shibari*, ..."), sem repetir "fulano diz" nos parágrafos seguintes. Autor solto, sem obra, não diz nada ao iniciante. Isso ajusta a P96.
+- **Abertura com o mesmo termo do H2**, sem misturar shibari, kinbaku e bondage na mesma resposta.
+- **Sem afirmação negativa sobre a loja** ("não vendemos X"): envelhece.
+- **Sem sigla ou marca de material** que não ajude a decidir; **não reduzir um material a um atributo** (a juta também amacia).
+- **Relato do Hugo em primeira pessoa:** o quadro de experiência vivida ("Na prática da casa") usa "eu"; o resto segue em "nós". Nunca em terceira pessoa.
+
 ### Regra de referências
 
-**Como a fonte aparece no corpo (P96, Hugo, 04/11/2026):** só como citação direta de **livro**, com autor e título (e página só na afirmação central ou contestada; nas demais menções o nome do autor basta, porque a bibliografia é completa; ajuste do Hugo, 04/11/2026) ("Shin Nawakiri escreve, no livro *Essence of Shibari*, que... (p. 20)"). Artigo só se o tema for muito específico e o autor estiver claro, nunca o nome do site ou da página. O conteúdo de sites, artigos e verbetes pode ser usado, **sem menção no texto corrido**, e fica só em "Fontes" (livros primeiro, depois artigos, ensaios e verbetes consultados). **Título de referência sempre no original, sem tradução.** O texto é da casa ("nós"): a fonte sustenta a afirmação, não conduz o parágrafo. Livro da biblioteca só entra com a amostra de leitura do Hugo; resumo não literal precisa da leitura dele antes de publicar.
+**Como a fonte aparece no corpo (P96, ajustada pela P99, Hugo, 04/11/2026):** só como citação direta de **livro**, com autor e título, **uma única vez**, no ponto em que a referência é introduzida (página só na afirmação central ou contestada; depois, nada de repetir o nome: a bibliografia é completa) ("Shin Nawakiri escreve, no livro *Essence of Shibari*, que... (p. 20)"). Artigo só se o tema for muito específico e o autor estiver claro, nunca o nome do site ou da página. O conteúdo de sites, artigos e verbetes pode ser usado, **sem menção no texto corrido**, e fica só em "Fontes" (livros primeiro, depois artigos, ensaios e verbetes consultados). **Título de referência sempre no original, sem tradução.** O texto é da casa ("nós"): a fonte sustenta a afirmação, não conduz o parágrafo. Livro da biblioteca só entra com a amostra de leitura do Hugo; resumo não literal precisa da leitura dele antes de publicar.
 
 Documentos do acervo interno (glossários, guias, extrações da biblioteca, `S-###`) **nunca aparecem como link no corpo do artigo**, porque o leitor público não tem acesso a eles e porque o repositório guarda texto de terceiros. Eles entram só no cabeçalho do `texto.md`, para registro da equipe. No corpo e na seção "Fontes", citar a **fonte original** com link. Referências a conteúdo da marca apontam só para páginas públicas (site, Instagram, outros posts do blog).
 
