@@ -74,7 +74,7 @@ Quando o usuário solicitar um tipo de conteúdo ainda não registrado:
 2. [Post de Frase](formatos/post-de-frase.md) — layout "tarja e etiqueta" desde 30/10/2026; modelo no Canva "Post Frase - Modelo 2"
 3. [Post Por Trás do Desejo](formatos/post-por-tras-do-desejo.md)
 4. [Post Inspiração de Amarração](formatos/post-inspiracao-de-amarracao.md)
-5. [Carrossel Livre](formatos/carrossel-livre.md) — layout "cantoneira" desde 03/11/2026; modelo no Canva ainda por criar
+5. [Carrossel Livre](formatos/carrossel-livre.md) — layout "cantoneira" desde 03/11/2026; modelo no Canva "Post Carrossel Livre - Modelo 2 (cantoneira)" `DAHZ47lcb20` (desde 05/11/2026)
 6 e 7. (Os formatos de descrição de produto saíram do marketing em 27/10/2026: são do cadastrador, no `sb_admin_team`. A numeração dos demais formatos não muda.)
 8. [Post Desatando Mitos](formatos/post-desatando-mitos.md)
 9. [Post de Foto (Instagram)](formatos/post-de-foto.md)

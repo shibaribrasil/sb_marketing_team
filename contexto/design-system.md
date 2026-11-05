@@ -222,7 +222,7 @@ Nenhum texto ou elemento importante deve ultrapassar essa área.
 - Estrutura: Título + Subtítulo + Texto explicativo
 - Pode incluir linha vertical Scarlet
 - Ideal para: conteúdo educativo, explicações técnicas, conceitos de shibari e BDSM
-- O **Carrossel Livre** tem layout próprio desde 03/11/2026 (duas cantoneiras em L nos cantos de todos os slides, palavra do tema na capa, finalização com convite em bloco de cor e bibliografia); medidas, cores pelo fundo e modelo no Canva: `contexto/formatos/carrossel-livre.md`
+- O **Carrossel Livre** tem layout próprio desde 03/11/2026 (duas cantoneiras em L nos cantos de todos os slides, palavra do tema na capa, finalização com convite em bloco de cor e bibliografia); medidas, cores pelo fundo e modelo no Canva (`DAHZ47lcb20`, desde 05/11/2026): `contexto/formatos/carrossel-livre.md`
 
 **2. Layout de Frase**
 - Estrutura: frase dominante em até 5 linhas, tarja lateral de cor na borda esquerda e uma palavra sobre bloco da mesma cor ("tarja e etiqueta", desde 30/10/2026); sem subtítulo ou texto adicional

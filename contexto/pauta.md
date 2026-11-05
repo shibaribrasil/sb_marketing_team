@@ -8,7 +8,7 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 
 ## 🎯 Fila prioritária (sequência do Instagram)
 
-> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v13 (rascunho, não aprovado)**, atualizada em **2026-10-31**. Sincronizada em 04/11/2026 17:03 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
+> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v13 (rascunho, não aprovado)**, atualizada em **2026-10-31**. Sincronizada em 05/11/2026 11:05 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
 
 **Mudanças na fila (03/11/2026 18:51):**
 - slot P10: 'C-026 · velas que podem e velas que nunca: o guia de segurança do wax play' virou 'C-026 · wax play: qual vela usar'
@@ -20,7 +20,7 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 - 03/11 Por trás do desejo · pet play: há post no ar nesse dia (https://www.instagram.com/p/DfRs46DF82D/); confirmar a postagem na pauta
 - 04/11 Wax play e shibari juntos: carrossel de 3 fotos do: há post no ar nesse dia (https://www.instagram.com/p/DfUTZ51l8VI/); confirmar a postagem na pauta
 
-> Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 04/11/2026 17:03. Atualizar: `python scripts/status_instagram.py`.
+> Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 05/11/2026 11:05. Atualizar: `python scripts/status_instagram.py`.
 
 | Posta em | Peça | Formato | Assunto | Arco | Entrega | Quem | Status na pauta | Alerta |
 |---|---|---|---|---|---|---|---|---|
@@ -101,6 +101,7 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 
 | Título | Tipo de Conteúdo | Arquivo | O que falta |
 |---|---|---|---|
+| Consentimento no BDSM: como combinar, conferir e parar uma prática (artigo 3 da proposta de blog de 04/11; reescrita do post de junho, que não aparece no blog público) | Post para Blog | `conteudos/site-post-para-blog/consentimento-bdsm-shibari/texto.md` | v2 escrita em 05/11/2026 a partir das respostas do Hugo e do levantamento de fontes, revisada pela Ana (REQUER AJUSTES, aplicados nos itens que não dependem dele). Falta: aval do Hugo (e fatos de segurança, notas 3, 4 e 14), imagem principal (do Hugo), conferir no painel se existe rascunho antigo, criar em Rascunho e corrigir o endereço, publicação (Hugo) e pedido de indexação |
 ---
 
 ## 🎨 Design em Produção — Bia
@@ -140,7 +141,6 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 
 | Título | Tipo de Conteúdo | Arquivo | Aprovado em |
 |---|---|---|---|
-| Consentimento no BDSM e no shibari: o que é, por que é contínuo e como praticá-lo na cena | Post para Blog | `conteudos/site-post-para-blog/consentimento-bdsm-shibari/` | 15/06/2026 |
 | C-090 — falar também é parte do jogo, talvez a sua parte mais importante | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/conversa-antes-da-cena/` | 14/09/2026 (DESCARTADA pelo Hugo em 28/10/2026) |
 ---
 
@@ -162,6 +162,9 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 
 | Título | Tipo de Conteúdo | Arquivo | Publicado em |
 |---|---|---|---|
+| O que é shibari: significado, usos e relação com o BDSM (artigo 2 da proposta de blog de 04/11; texto aprovado pelo Hugo em 04/11/2026, revisado pela Ana) | Post para Blog | `conteudos/site-post-para-blog/o-que-e-shibari/` | 05/11/2026 (no ar em https://shibaribrasil.com.br/blog/posts/o-que-e-shibari-096445b09bd0/; conferido no ar em 05/11: h1 único, 10 h2, 2 imagens do corpo no CDN, âncoras do índice certas, 3 cartões do "Leia a seguir" com imagem; imagem principal colocada pelo Hugo, foto dele; **indexação solicitada no Search Console em 05/11/2026 (a inspeção mostrava "URL não está no Google" antes do pedido), conferir em 12/11/2026**; terceiro cartão do "Leia a seguir" segue provisório (Quantas Cordas), trocar quando o post for corrigido) |
+| Qual corda comprar para shibari: tipos e características (reescrita do post "Qual Corda Comprar?", item 1 da proposta de blog de 04/11) | Post para Blog | `conteudos/site-post-para-blog/qual-corda-comprar/` | 04/11/2026 (no ar em https://shibaribrasil.com.br/blog/posts/qual-corda-comprar-fdc47d7744e4/, mesmo endereço, sem passar por Rascunho; indexação solicitada no Search Console em 04/11/2026, conferir em 11/11/2026; imagem principal nova `imagens/capa-1024x630.jpg` pendente de upload do Hugo) |
+| Breve História do Shibari: de onde vem e quem moldou a prática (reescrita do post de história; 1º post de blog no padrão P93 a P98) | Post para Blog | `conteudos/site-post-para-blog/historia-do-shibari/` | 04/11/2026 (no ar em https://shibaribrasil.com.br/blog/posts/breve-historia-do-shibari-a25cefc50e41/; endereço corrigido de `breve-hisoria-...` com 301 conferido; indexação solicitada no Search Console em 04/11/2026, conferir em 11/11/2026) |
 | C-086 — sinais de que a pessoa pratica com responsabilidade | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/bandeiras-verdes-praticas/` | 21/10/2026 (18:00, confirmado pela fila de publicação) |
 | C-106 [fila:P6] — 5 mitos sobre submissão (1º post no layout novo do Desatando mitos; era de 02/11 e trocou de lugar com a C-046) | Post Desatando Mitos (Instagram) | `conteudos/instagram-post-desatando-mitos/desatando-mitos-submissao/` | 28/10/2026 (postado pelo Hugo; https://www.instagram.com/p/DfCfMXblz1i/) |
 | C-105 — bingo da primeira amarração | Post de Bingo (Instagram) | `conteudos/instagram-post-de-bingo/bingo-da-primeira-amarracao/` | 10/10/2026 (confirmado no perfil pela Mari em 21/10; formato em teste, 1º de 3) |

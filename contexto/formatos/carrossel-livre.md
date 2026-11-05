@@ -1,6 +1,6 @@
 # Carrossel Livre `instagram-carrossel-livre`
 
-> **Formato novo desde 03/11/2026 (layout "cantoneira").** Ideia Q da rodada 2 do artefato "Carrossel Livre" (https://claude.ai/artifact/C1ecKpE9f6J2Jn1MtZ22H1, aba Post v2), escolhida pelo Hugo em 31/10/2026 e aprovada em 03/11/2026, com a finalização refeita na mesma semana (frase de fecho centralizada, convite no bloco de cor e bibliografia). Substitui o template antigo "Post Carrossel Livre" (ID `EAHM8m_nVF4`: barra vertical Scarlet na capa, barra horizontal nos slides 1 a 5, finalização com bloco de conclusão de 40 a 60 palavras), usado até a C-086 (21/10/2026). **O modelo no Canva ainda não existe** (ver "Template no Canva"). Pontos marcados **(confirmar)** ainda aguardam o Hugo.
+> **Formato novo desde 03/11/2026 (layout "cantoneira").** Ideia Q da rodada 2 do artefato "Carrossel Livre" (https://claude.ai/artifact/C1ecKpE9f6J2Jn1MtZ22H1, aba Post v2), escolhida pelo Hugo em 31/10/2026 e aprovada em 03/11/2026, com a finalização refeita na mesma semana (frase de fecho centralizada, convite no bloco de cor e bibliografia). Substitui o template antigo "Post Carrossel Livre" (ID `EAHM8m_nVF4`: barra vertical Scarlet na capa, barra horizontal nos slides 1 a 5, finalização com bloco de conclusão de 40 a 60 palavras), usado até a C-086 (21/10/2026). **O modelo no Canva existe desde 05/11/2026** (ver "Template no Canva"). Pontos marcados **(confirmar)** ainda aguardam o Hugo.
 
 **Objetivo:** Explorar um tema com profundidade real em 8 slides: uma ideia por slide, uma pausa no meio e um fecho com convite. Gera salvamento e envio, porque é conteúdo para consultar e para mandar a alguém. O visual existe para o carrossel ser reconhecido no grid antes de ser lido.
 
@@ -100,7 +100,7 @@ O briefing é o cabeçalho do `texto.md` (tema, persona, objetivo, ângulo, **fu
 
 ## Layout (referência para a Bia)
 
-Medidas no canvas 1080 × 1350. Peça de referência: aba Post v2 do artefato citado no topo.
+Medidas no canvas 1080 × 1350. Peças de referência: o modelo no Canva (ver "Template no Canva"; quando divergir deste texto em medida, vale o modelo e este arquivo é atualizado) e a aba Post v2 do artefato citado no topo.
 
 ### Elementos comuns
 - **Margem de 108px** (`post-margem`) nos quatro lados para texto e assinatura; área de texto de 864 × 1134px.
@@ -109,20 +109,20 @@ Medidas no canvas 1080 × 1350. Peça de referência: aba Post v2 do artefato ci
 - **Fundo único** em todos os slides do carrossel (o do slot). Sem barra horizontal e sem barra vertical.
 
 ### Capa
-- **Título:** Playfair Display Bold, minúsculo, alinhado à esquerda em x = 108, largura máxima de 864px, espaçamento −0,02em, entrelinha 0,98, até 4 linhas quebradas à mão. O corpo depende da maior linha (contando espaços): até **14 caracteres → 132px** (entrelinha 129px); **15 a 16 → 120px**. Mais que isso, quebrar de outro jeito ou encurtar a frase. **(confirmar os limites; vieram do teste com a C-046)**. Nunca abaixo de 120px (regra do tema legível). A palavra do tema na cor de destaque.
-- **Frase de contraste:** Montserrat Medium 46px, caixa alta, espaçamento 0,12em, entrelinha 60px, a **44px** abaixo do título, cor de apoio (tabela).
+- **Título:** Playfair Display Bold, minúsculo, alinhado à esquerda em x = 108, largura máxima de 864px, espaçamento −0,035 (valor do modelo no Canva, o mesmo dos títulos do Hugo; o artefato usava −0,02em), entrelinha 0,98, até 4 linhas quebradas à mão. O corpo depende da maior linha (contando espaços): até **14 caracteres → 132px** (entrelinha 129px); **15 a 16 → 120px**. Mais que isso, quebrar de outro jeito ou encurtar a frase. **(confirmar os limites; vieram do teste com a C-046)**. Nunca abaixo de 120px (regra do tema legível). A palavra do tema na cor de destaque.
+- **Frase de contraste:** Montserrat Medium 46px, caixa alta, espaçamento 0,15 (valor do modelo no Canva; o artefato usava 0,12em), entrelinha 60px, a **44px** abaixo do título, cor de apoio (tabela).
 - O bloco (título + contraste) **termina a 96px acima da assinatura** (y = 1106) e cresce para cima.
 - Testar a capa reduzida a ~130px de largura: o nome do tema se lê.
 
 ### Slides de conteúdo
-- **Frase de destaque:** Playfair Display Bold 88px, entrelinha 92px, espaçamento −0,01em, à esquerda em x = 108, **topo a y = 216**, largura de 864px, até 3 linhas, linhas equilibradas.
+- **Frase de destaque:** Playfair Display Bold 88px, entrelinha 92px, espaçamento 0 (como no modelo do Canva), à esquerda em x = 108, **topo a y = 216**, largura de 864px, até 3 linhas, linhas equilibradas.
 - **Desenvolvimento:** a **56px** abaixo do destaque; Montserrat Regular 38px, entrelinha 57px; palavras marcadas em SemiBold. O texto precisa terminar até y = 1130; se passar, cortar palavras, nunca reduzir corpo ou margem.
 
 ### Respiro
-- Frase em Playfair Display Bold 84px, entrelinha 94px, espaçamento −0,01em, **centralizada**, bloco no centro da altura da página, largura de 864px.
+- Frase em Playfair Display Bold 84px, entrelinha 94px, espaçamento 0 (como no modelo do Canva), **centralizada**, bloco no centro da altura da página, largura de 864px.
 
 ### Finalização
-- **Frase de fecho:** Playfair Display Bold 88px, entrelinha 92px, **centralizada**, no centro da altura livre acima do bloco (de y = 150 até 80px acima do bloco do convite), até 3 linhas.
+- **Frase de fecho:** Playfair Display Bold 88px, entrelinha 92px, espaçamento −0,03 (modelo do Canva), **centralizada**, no centro da altura livre acima do bloco (de y = 150 até 80px acima do bloco do convite), até 3 linhas.
 - **Bloco do convite:** x = 108, largura de 864px, **sem raio**, na cor de destaque do fundo (tabela). Padding de 48px (alto e baixo) por 56px (laterais). Texto em Montserrat SemiBold 44px, entrelinha 62px, centralizado, na cor do texto do bloco (tabela).
 - **Bibliografia:** a **56px** abaixo do bloco, terminando a **96px acima da assinatura** (y = 1106). Rótulo "bibliografia" em Montserrat SemiBold 22px, caixa alta, espaçamento 0,18em; 14px abaixo, as fontes em Montserrat Regular 27px, entrelinha 36px, 12px entre elas; número em Montserrat Bold numa coluna de 37px e o texto alinhado à mesma margem; cor de apoio (tabela). O grupo (bloco + bibliografia) cresce para cima com o número de fontes.
 
@@ -153,10 +153,55 @@ O **fundo vem do slot do Leo** (campo Fundo do briefing), seguindo o ritmo do fe
 
 ## Template no Canva
 
-- **Ainda não existe.** O modelo será criado no formato "Instagram Post (4:5)" (o "Portrait" sai 1080 × 1440) e, depois do ok do Hugo na prévia, este manual passa a registrar o **link**, o **ID do design** e os **IDs dos elementos** de cada slide, para duplicar a cada carrossel novo (a cópia gera IDs novos; ler a cópia com `read-design`). **Nunca editar o original.**
-- **Limites do MCP do Canva:** não troca fonte nem espaçamento entre letras. Por isso o modelo é sempre copiado (as fontes vêm dele). A lista do que o Hugo precisa ajustar à mão no modelo entra aqui junto com os IDs.
-- **Enquanto o modelo não existe,** a Bia monta a arte pelas medidas desta página, em 1080 × 1350.
-- O template antigo "Post Carrossel Livre" (ID `EAHM8m_nVF4`) fica só para consulta dos carrosséis até 21/10/2026.
+**Modelo pronto desde 05/11/2026.** Criado em 03/11/2026 a partir de uma cópia do "Post Por Trás do Desejo - Modelo 2" (que não foi alterado; dele vêm as fontes). O Hugo ajustou o modelo à mão no Canva em 05/11/2026 e mandou registrá-lo como o modelo do formato. Os IDs abaixo foram lidos do modelo salvo nesse dia.
+
+| Item | Valor |
+|---|---|
+| Nome | Post Carrossel Livre - Modelo 2 (cantoneira) |
+| ID do design | `DAHZ47lcb20` (é a chave; o link curto muda de uma leitura para outra, e o ID não) |
+| Link para editar | https://www.canva.com/d/fk1UM27vWi555vn |
+| Link só para ver | https://www.canva.com/d/WRDPya2kF0_HL0E |
+| Formato | Instagram Post (4:5), 1080 × 1350, 8 páginas (o "Portrait" sai 1080 × 1440: não usar) |
+| Fundo do modelo | Skin Nude `#e6cfc3` |
+| Texto que está nele | exemplo da C-046 (proposta de 03/11/2026): trocar tudo em cada post novo |
+
+### Como fazer um post novo (Bia)
+1. **Duplicar, nunca editar o modelo.** No Canva, ou com `copy-design` pelo MCP. Nome da cópia: `C-### — tema`, com o código do post e o tema em minúsculas (ex.: "C-046 — fetiche"). Post sem código: pedir o próximo livre ao Leo antes de duplicar.
+2. **Ler a cópia** com `read-design` (`open_transaction: true`) e conferir os IDs. A cópia deste modelo veio do Por Trás do Desejo com os mesmos IDs de elemento, então a tabela abaixo costuma valer na cópia, mas o que vale é o que o `read-design` da cópia mostra.
+3. **Trocar os textos** página por página, na ordem da tabela de IDs. Slides de conteúdo, respiro, fecho, convite e bibliografia: `replace_text`.
+4. **Capa: não usar `replace_text` no título.** O título é um elemento só, com três trechos de formatação (o início, a palavra do tema em Scarlet e o resto). O `replace_text` junta tudo num trecho só e **apaga a cor da palavra do tema** (testado em 05/11/2026). Usar `find_and_replace_text`, trecho a trecho, com o ID completo `página-elemento` (ex.: `PBrx5Q2KMyq8Cd6W-LBPLPnG29XCyG5lr`; com o ID curto o MCP responde "Page ID did not match the expected pattern"). Ao trocar a palavra do tema, a quebra de linha que vem depois dela passa para dentro do trecho vermelho; não muda nada na arte. Depois de cada troca, conferir no `read-design` que só a palavra do tema está em `#d10f2f`. Se a cor se perder, pedir ao Hugo para repintar à mão.
+5. **Bibliografia:** uma fonte por linha, nas duas caixas (números e texto) com o mesmo número de linhas e a mesma entrelinha. Fonte com mais de ~63 caracteres quebra e desalinha o número: encurtar. Com 4 fontes o bloco termina perto de y = 1183, a ~10px da assinatura: conferir na prévia.
+6. **Fundo diferente do Skin Nude:** o Canva não muda a cor de fundo da página (o fundo real é o retângulo de cada página, na tabela abaixo). Trocar com `recolor_element` no retângulo das 8 páginas e pintar o resto pela tabela de cores deste manual (`format_text` com `color` nos textos, `recolor_element` nas cantoneiras e no bloco do convite). Warm Light ↔ Skin Nude só precisa trocar os retângulos: o texto, as cantoneiras e a assinatura têm a mesma cor nos dois. Em fundo escuro, o `format_text` pinta o título da capa inteiro, então a palavra do tema volta à cor de destaque à mão.
+7. **Prévia da cópia ao Hugo antes de salvar com `commit`** (regra do próprio MCP do Canva: as edições ficam em rascunho, que o link não mostra, até o `commit`).
+
+### O que o MCP não faz (ajuste à mão, no Canva)
+- **Fonte e espaçamento entre letras:** vêm do modelo (por isso se duplica). Texto novo criado pelo MCP nasce em fonte genérica.
+- **Palavras em SemiBold no corpo** (até duas por bloco, as marcadas com `**` no `texto.md`): o MCP só tem normal e bold e não formata parte do texto. **No modelo salvo os cinco corpos estão sem nenhuma palavra em SemiBold**: em cada post o Hugo marca à mão.
+- **Cor da palavra do tema** em fundo escuro (item 6) e **cor do trecho** se o `replace_text` for usado no título da capa por engano (item 4).
+- **Frase de contraste da capa:** o modelo salvo a traz em Montserrat de peso normal; o manual pede **Medium**. Conferir e ajustar à mão no modelo.
+- **Rótulo "bibliografia":** no modelo salvo está com espaçamento 0; o manual pede 0,18em. Ajustar à mão no modelo.
+- **Nome das páginas** ("01", "02"… "05") vem do Por Trás do Desejo e não importa: vale a posição. O MCP não renomeia página.
+
+### Valores medidos no modelo (05/11/2026)
+Capa: título Playfair Bold 132px, entrelinha 0,98, espaçamento −0,035, caixa em x 108, y ≈ 355, largura 864; contraste Montserrat 46px, entrelinha 1,3, espaçamento 0,15, `#685450`, y ≈ 968. Slides 1 a 5: destaque Playfair Bold 88px, entrelinha 1,045, espaçamento 0, x 108, y 216; corpo Montserrat 38px, entrelinha 1,5, x 108, y 548, largura 864. Respiro: Playfair Bold 84px, entrelinha 1,12, centralizado, y 487. Finalização: fecho Playfair Bold 88px, entrelinha 1,045, espaçamento −0,03, centralizado, y 217; bloco 864 × 282 em x 108, y 640, `#d10f2f`; convite Montserrat SemiBold 44px, entrelinha 1,41, `#f4ece7`, centralizado, x 164, y 688, largura 752; rótulo em y 978; números e fontes em y 1022 (números em x 108; fontes em x 145, largura 827; 27px, entrelinha 1,78, `#685450`). Assinatura em todas as páginas: Cormorant Bold 40,6px, espaçamento 0,015, 60% de opacidade, `#8c6f68`, x 108, y ≈ 1193. Cantoneiras em todas as páginas: 97 × 97px, `#d10f2f`; superior esquerda em x 54, y 54; inferior direita em x 929, y 1199.
+
+### IDs do modelo (lidos em 05/11/2026)
+Em cada página, o **fundo** é um retângulo 1080 × 1350 (`#e6cfc3`) e as duas cantoneiras são formas: **sup. esq.** e **inf. dir.**
+
+| Página | ID da página | Elementos |
+|---|---|---|
+| 1, capa | `PBrx5Q2KMyq8Cd6W` | fundo `LBMllcmhW6WJc5dc`; título com a palavra do tema `LBPLPnG29XCyG5lr`; frase de contraste `LBGFfJMTqWGJKtrd`; assinatura `LBLMgK3JhtHD2XCp`; cantoneiras `LBqj6RTcBZH16Wrh` (sup. esq.) e `LBFftmPm8n3Xtkzr` (inf. dir.) |
+| 2, slide 1 | `PBrrrgN3PRhnwhQj` | fundo `LBlQd2mJRvKjffLH`; destaque `LBxNgf2lCjM0GrLl`; corpo `LBJxkqtxrD2jLHgW`; assinatura `LBwcyz0SR8M4mk13`; cantoneiras `LBb4wBQgSDzC8q3p` e `LBQzmQp6jsMMmlHt` |
+| 3, slide 2 | `PBkPsn1G7RGDQsWd` | fundo `LBPV98lkwwJyKc1G`; destaque `LBNNqYV23mJSY71x`; corpo `LBvMf0f3XNklj2FP`; assinatura `LBYSN1H7Ts2LW70d`; cantoneiras `LBy2p1mQnhh7DNhp` e `LB3VvV9kptVHTpZW` |
+| 4, slide 3 | `PBcbKQFNHwSXXxK4` | fundo `LBn8HDD5klVNyVj3`; destaque `LB7swG7RrcQ7n5xZ`; corpo `LBb2cc9Gg9CTV4pz`; assinatura `LBwrx1jSZyZnzyQX`; cantoneiras `LByTpcqbqtP7rqyY` e `LB190HkzZzQQ1JY7` |
+| 5, slide 4 | `PBHGhP12KD3CHRQh` | fundo `LBN3qCkHXPgsknC1`; destaque `LBBNSqc4lC7CLnVh`; corpo `LBhLWfyzVKBw53nw`; assinatura `LBGVX4f4pVG3RC5c`; cantoneiras `LBQDSlXL25nCWdgL` e `LB63pSTLn1LXFPH1` |
+| 6, respiro | `PBYVcX7jBfVCFrhp` | fundo `LBZdkfk66Prgmcl7`; frase `LBPvyw9B2BSvW23x`; assinatura `LBFpLR6khGhQXDfZ`; cantoneiras `LB1dRZgyxQFDMttm` e `LBmBStJFX6PfWSl4` |
+| 7, slide 5 | `PBltqs5c3xkqCTYt` | fundo `LBZzXl11KrKM3msX`; destaque `LBnTwqrzVyX6rQ33`; corpo `LBr14jYMykdbv4mX`; assinatura `LB7Gcs8ShSSlC5b6`; cantoneiras `LBrQvHT7cSCb1v90` e `LBjPHPkhcJBYsw4s` |
+| 8, finalização | `PB4654Gn9FLWD54w` | fundo `LBvXSgH8nxwShL9W`; frase de fecho `LB8D37VGX0zfT3fN`; bloco do convite `LBCdwcM5Z3zR5dWT` (forma) e texto do convite `LB1WBM20cprCDjZM`; rótulo "bibliografia" `LB4G1QgtC4dVYrTd`; números das fontes `LBwKtS3fLnpYVdsF`; texto das fontes `LB1DGmKJ9qyCyY14`; assinatura `LB62SdLXP0QWTHlR`; cantoneiras `LBLTPh5yQ1cnXhR9` e `LBKXvR4HpfFhtPCR` |
+
+### Outros modelos
+- O template antigo "Post Carrossel Livre" (ID `EAHM8m_nVF4`) fica só para consulta dos carrosséis até 21/10/2026. Não usar em post novo.
+- O "Post Por Trás do Desejo - Modelo 2" (`DAHZg0jgFs4`) é o modelo de outro formato e a origem deste: não editar.
 
 ---
 
