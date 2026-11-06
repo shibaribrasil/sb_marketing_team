@@ -1,6 +1,8 @@
 # Carrossel Livre `instagram-carrossel-livre`
 
-> **Formato novo desde 03/11/2026 (layout "cantoneira").** Ideia Q da rodada 2 do artefato "Carrossel Livre" (https://claude.ai/artifact/C1ecKpE9f6J2Jn1MtZ22H1, aba Post v2), escolhida pelo Hugo em 31/10/2026 e aprovada em 03/11/2026, com a finalização refeita na mesma semana (frase de fecho centralizada, convite no bloco de cor e bibliografia). Substitui o template antigo "Post Carrossel Livre" (ID `EAHM8m_nVF4`: barra vertical Scarlet na capa, barra horizontal nos slides 1 a 5, finalização com bloco de conclusão de 40 a 60 palavras), usado até a C-086 (21/10/2026). **O modelo no Canva existe desde 05/11/2026** (ver "Template no Canva"). Pontos marcados **(confirmar)** ainda aguardam o Hugo.
+> **Formato novo desde 03/11/2026 (layout "cantoneira").** Ideia Q da rodada 2 do artefato "Carrossel Livre" (https://claude.ai/artifact/C1ecKpE9f6J2Jn1MtZ22H1, aba Post v2), escolhida pelo Hugo em 31/10/2026 e aprovada em 03/11/2026, com a finalização refeita na mesma semana (frase de fecho centralizada, convite no bloco de cor e referências). Substitui o template antigo "Post Carrossel Livre" (ID `EAHM8m_nVF4`: barra vertical Scarlet na capa, barra horizontal nos slides 1 a 5, finalização com bloco de conclusão de 40 a 60 palavras), usado até a C-086 (21/10/2026). **O modelo no Canva existe desde 05/11/2026** (ver "Template no Canva"). Pontos marcados **(confirmar)** ainda aguardam o Hugo.
+
+> **Ajustes do Hugo na C-026 (06/11/2026), já refletidos abaixo.** No Canva, na cópia da C-026: (1) o desenvolvimento dos slides subiu de 38px para **43,33px** e ficou **65px** abaixo do destaque (antes, 56px); (2) o destaque no corpo passou a ser **trecho em Montserrat Bold** (4 a 8 palavras), com um trecho por slide em **Scarlet** (slides 1, 2 e 4 e o respiro), no lugar de "até duas palavras em SemiBold"; (3) a frase de fecho tem 4 linhas; (4) a frase de contraste da capa fica a 29px do título; (5) o rótulo da finalização é **"referências"**, e não mais "bibliografia" (vale para todos os formatos, menos o blog). **O modelo do Canva (`DAHZ47lcb20`) recebeu os ajustes de tamanho, posição e rótulo em 06/11/2026**; os destaques em Bold e Scarlet continuam à mão em cada post.
 
 **Objetivo:** Explorar um tema com profundidade real em 8 slides: uma ideia por slide, uma pausa no meio e um fecho com convite. Gera salvamento e envio, porque é conteúdo para consultar e para mandar a alguém. O visual existe para o carrossel ser reconhecido no grid antes de ser lido.
 
@@ -58,17 +60,17 @@ Dados que orientam a escolha do tema (`contexto/status-instagram.md`, extração
 ### 2 a 5 e 7. Slides de conteúdo (Slides 1, 2, 3, 4 e 5)
 Cada slide desenvolve **um** ponto do tema. Estrutura:
 - **Frase de destaque:** frase curta de ancoragem, em **5 a 12 palavras**, até 3 linhas. Pode ser afirmação, citação ou pergunta. Funciona sozinha, fora de contexto. Não deixar palavra sozinha na última linha.
-- **Desenvolvimento:** texto que expande a frase de destaque, em **40 a 70 palavras** (**40 a 55 em fundo escuro**, ver Cores). Setup antes de exemplos e verbo de ligação antes de listas (`sb_cerebro/02_voz/ajustes-recorrentes.md`).
-- **Destaque no texto:** até **duas palavras** por bloco em SemiBold. A Julia marca entre `**`; o Hugo confirma no Canva.
+- **Desenvolvimento:** texto que expande a frase de destaque, em **40 a 70 palavras** (**40 a 55 em fundo escuro**, ver Cores). Setup antes de exemplos e verbo de ligação antes de listas (`sb_cerebro/02_voz/ajustes-recorrentes.md`). Com o corpo em 43,33px (desde 06/11/2026) cabem cerca de 8 linhas (~55 palavras) abaixo de um destaque de 3 linhas e 10 linhas (~65 palavras) abaixo de um de 2 linhas: conferir na prévia **(confirmar se o teto de 70 palavras continua)**.
+- **Destaque no texto:** 1 ou 2 **trechos** por bloco em Montserrat Bold (de 4 a 8 palavras: a ideia que o slide quer que fique), marcados pela Julia entre `**`. **Um** desses trechos por slide pode ir em **Scarlet**, escolha do Hugo na arte (na C-026: slides 1, 2 e 4 e o respiro) **(confirmar)**. Segue o que o Hugo fez na C-026 em 06/11/2026; o que está entre `**` no `texto.md` espelha o que está em negrito na arte.
 
 ### 6. Respiro
 Uma única frase, centralizada, sem outro elemento além das cantoneiras e da assinatura. Pausa visual e emocional no meio. **10 a 20 palavras.** Precisa de especificidade para fazer sentido isolada: nomear o assunto (não "isso", não "essas"), porque o slide é compartilhado sozinho. Pode ser uma pergunta ao leitor, sem chavão.
 
 ### 8. Finalização
 Página leve: **só três coisas**.
-- **Frase de fecho:** fecha o raciocínio sem repetir o que foi dito. **Até 12 palavras**, até 3 linhas, centralizada (como o respiro).
+- **Frase de fecho:** fecha o raciocínio sem repetir o que foi dito. **Até 12 palavras**, até 3 linhas, centralizada (como o respiro). A C-026 usa 13 palavras em 4 linhas, por escolha do Hugo (06/11/2026), e coube **(confirmar se o teto passa a 14 palavras e 4 linhas)**.
 - **Convite**, no bloco de cor: **1 a 2 frases curtas, até 15 palavras**. Nomeia as ações que a pessoa faz ("salva", "compartilha") e **convida em vez de prescrever** (P91: "compartilha com quem vai gostar de ler", nunca "com quem precisa ler"). O pedido de envio da legenda é outro: a legenda convida a comentar.
-- **Bibliografia:** rótulo "bibliografia" e **2 a 4 fontes** numeradas, uma por linha, no formato "Nome da fonte, autor ou site, ano". Fontes da casa primeiro: `assets/docs/Glossario-BDSM.md` ("Glossário BDSM, Shibari Brasil") e `assets/docs/Glossario-Shibari.md`. Nada se inventa: fonte sem data fica sem ano. **Atribuir uma ideia a uma fonte só vale se o texto da fonte confirma**; nota de pauta não basta.
+- **Referências:** rótulo "referências" e **2 a 4 fontes** numeradas, uma por linha, no formato "Nome da fonte, autor ou site, ano". Fontes da casa primeiro: `assets/docs/Glossario-BDSM.md` ("Glossário BDSM, Shibari Brasil") e `assets/docs/Glossario-Shibari.md`. Nada se inventa: fonte sem data fica sem ano. **Atribuir uma ideia a uma fonte só vale se o texto da fonte confirma**; nota de pauta não basta.
   **(confirmar)** Reflexão da marca que não vem de fonte externa (caso da C-046: slides 1, 2, 3 e 5) entra sem fonte ou o Hugo passa uma fonte? No Por Trás do Desejo, toda informação sai de uma fonte listada.
 
 ### Legenda (`legenda.txt`)
@@ -89,11 +91,11 @@ O briefing é o cabeçalho do `texto.md` (tema, persona, objetivo, ângulo, **fu
 | **1. Frase dominante** | o **fetiche** também mostra o que a pessoa busca | 5 a 10 palavras; palavra do tema entre `**` |
 | **2. Quebra de linhas da capa** | o fetiche / também / mostra o que / a pessoa busca | até 4 linhas; corpo pela maior linha (ver Layout) |
 | **3. Frase de contraste** | e dá pra começar por perguntas | 4 a 8 palavras |
-| **4 a 8. Slides 1 a 5** | frase de destaque + desenvolvimento (ex. slide 1: "o que atrai costuma ser o que a experiência dá") | destaque 5 a 12 palavras; desenvolvimento 40 a 70 (40 a 55 em fundo escuro); até 2 palavras em `**` |
+| **4 a 8. Slides 1 a 5** | frase de destaque + desenvolvimento (ex. slide 1: "o que atrai costuma ser o que a experiência dá") | destaque 5 a 12 palavras; desenvolvimento 40 a 70 (40 a 55 em fundo escuro); trechos em `**` (negrito, 4 a 8 palavras) |
 | **Respiro** (entre os slides 4 e 5) | quando você pensa no seu fetiche, o que ele te dá hoje? e o que você procura nele? | 10 a 20 palavras |
 | **Frase de fecho** | fazer essas perguntas já é praticar com mais consciência | até 12 palavras |
 | **Convite** | salva pra voltar quando quiser. compartilha com quem vai gostar de ler. | 1 a 2 frases, até 15 palavras |
-| **Bibliografia** | 1 Glossário BDSM, Shibari Brasil (limite rígido e limite flexível) / 2 People Before Kink, The Kink Collective, kinkcollective.net | 2 a 4 fontes |
+| **Referências** | 1 Glossário BDSM, Shibari Brasil (limite rígido e limite flexível) / 2 People Before Kink, The Kink Collective, kinkcollective.net | 2 a 4 fontes |
 | **Legenda** | ver `legenda.txt` | 80 a 200 palavras |
 
 ---
@@ -110,21 +112,21 @@ Medidas no canvas 1080 × 1350. Peças de referência: o modelo no Canva (ver "T
 
 ### Capa
 - **Título:** Playfair Display Bold, minúsculo, alinhado à esquerda em x = 108, largura máxima de 864px, espaçamento −0,035 (valor do modelo no Canva, o mesmo dos títulos do Hugo; o artefato usava −0,02em), entrelinha 0,98, até 4 linhas quebradas à mão. O corpo depende da maior linha (contando espaços): até **14 caracteres → 132px** (entrelinha 129px); **15 a 16 → 120px**. Mais que isso, quebrar de outro jeito ou encurtar a frase. **(confirmar os limites; vieram do teste com a C-046)**. Nunca abaixo de 120px (regra do tema legível). A palavra do tema na cor de destaque.
-- **Frase de contraste:** Montserrat Medium 46px, caixa alta, espaçamento 0,15 (valor do modelo no Canva; o artefato usava 0,12em), entrelinha 60px, a **44px** abaixo do título, cor de apoio (tabela).
+- **Frase de contraste:** Montserrat Medium 46px, caixa alta, espaçamento 0,15 (valor do modelo no Canva; o artefato usava 0,12em), entrelinha 60px, a **29px** abaixo do título (ajuste do Hugo na C-026; era 44px), cor de apoio (tabela).
 - O bloco (título + contraste) **termina a 96px acima da assinatura** (y = 1106) e cresce para cima.
 - Testar a capa reduzida a ~130px de largura: o nome do tema se lê.
 
 ### Slides de conteúdo
 - **Frase de destaque:** Playfair Display Bold 88px, entrelinha 92px, espaçamento 0 (como no modelo do Canva), à esquerda em x = 108, **topo a y = 216**, largura de 864px, até 3 linhas, linhas equilibradas.
-- **Desenvolvimento:** a **56px** abaixo do destaque; Montserrat Regular 38px, entrelinha 57px; palavras marcadas em SemiBold. O texto precisa terminar até y = 1130; se passar, cortar palavras, nunca reduzir corpo ou margem.
+- **Desenvolvimento:** a **65px** abaixo do destaque (ajuste do Hugo na C-026; era 56px); Montserrat Regular **43,33px** (era 38px), entrelinha 1,5 (65px); trechos de destaque em Montserrat Bold e, se houver, um deles em Scarlet. O texto precisa terminar até y = 1130; se passar, cortar palavras, nunca reduzir corpo ou margem.
 
 ### Respiro
 - Frase em Playfair Display Bold 84px, entrelinha 94px, espaçamento 0 (como no modelo do Canva), **centralizada**, bloco no centro da altura da página, largura de 864px.
 
 ### Finalização
-- **Frase de fecho:** Playfair Display Bold 88px, entrelinha 92px, espaçamento −0,03 (modelo do Canva), **centralizada**, no centro da altura livre acima do bloco (de y = 150 até 80px acima do bloco do convite), até 3 linhas.
+- **Frase de fecho:** Playfair Display Bold 88px, entrelinha 92px, espaçamento −0,03 (modelo do Canva), **centralizada**, no centro da altura livre acima do bloco (de y = 150 até 80px acima do bloco do convite), até 3 linhas (a C-026 tem 4: topo em y 171, termina a ~91px do bloco).
 - **Bloco do convite:** x = 108, largura de 864px, **sem raio**, na cor de destaque do fundo (tabela). Padding de 48px (alto e baixo) por 56px (laterais). Texto em Montserrat SemiBold 44px, entrelinha 62px, centralizado, na cor do texto do bloco (tabela).
-- **Bibliografia:** a **56px** abaixo do bloco, terminando a **96px acima da assinatura** (y = 1106). Rótulo "bibliografia" em Montserrat SemiBold 22px, caixa alta, espaçamento 0,18em; 14px abaixo, as fontes em Montserrat Regular 27px, entrelinha 36px, 12px entre elas; número em Montserrat Bold numa coluna de 37px e o texto alinhado à mesma margem; cor de apoio (tabela). O grupo (bloco + bibliografia) cresce para cima com o número de fontes.
+- **Referências:** a **56px** abaixo do bloco, terminando a **96px acima da assinatura** (y = 1106). Rótulo "referências" em Montserrat SemiBold 22px, caixa alta, espaçamento 0,18em; 14px abaixo, as fontes em Montserrat Regular 27px, entrelinha 36px, 12px entre elas; número em Montserrat Bold numa coluna de 37px e o texto alinhado à mesma margem; cor de apoio (tabela). O grupo (bloco + referências) cresce para cima com o número de fontes.
 
 ---
 
@@ -132,7 +134,7 @@ Medidas no canvas 1080 × 1350. Peças de referência: o modelo no Canva (ver "T
 
 O **fundo vem do slot do Leo** (campo Fundo do briefing), seguindo o ritmo do feed (`sb_cerebro/03_visual/gramatica-visual.md`). Valores de `sb_cerebro/03_visual/tokens.json`. Contraste calculado (WCAG); a assinatura já considera os 60% de opacidade.
 
-| Fundo | Título e frase de fecho | Desenvolvimento | Cantoneira, palavra do tema e bloco do convite | Texto no bloco do convite | Frase de contraste e bibliografia | Assinatura (60%) |
+| Fundo | Título e frase de fecho | Desenvolvimento | Cantoneira, palavra do tema e bloco do convite | Texto no bloco do convite | Frase de contraste e referências | Assinatura (60%) |
 |---|---|---|---|---|---|---|
 | **Warm Light** `#f4ece7` | Carbon `#141419` (15,7:1) | Carbon `#141419` (15,7:1) | Scarlet `#d10f2f` (4,7:1) | Warm Light `#f4ece7` (4,7:1) | Taupe 700 `#685450` (6,1:1) | Smoke Taupe `#8c6f68` (2,1:1) |
 | **Skin Nude** `#e6cfc3` | Carbon `#141419` (12,3:1) | Carbon `#141419` (12,3:1) | Scarlet `#d10f2f` (3,7:1) | Warm Light `#f4ece7` (4,7:1) | Taupe 700 `#685450` (4,7:1) | Smoke Taupe `#8c6f68` (1,9:1) |
@@ -143,7 +145,7 @@ O **fundo vem do slot do Leo** (campo Fundo do briefing), seguindo o ritmo do fe
 ### Regras de cor
 - **Scarlet nunca sobre Deep Plum ou Plum 900**: a tabela já troca por Scarlet 200.
 - **Scarlet sobre Skin Nude (3,7:1) e sobre Carbon (3,3:1)** só vale em tamanho grande: a palavra do tema tem 132px e a cantoneira e o bloco são forma, não texto. O texto no bloco tem 44px SemiBold, sobre Scarlet, como botão (Warm Light sobre Scarlet: 4,7:1).
-- **Um corte só:** o Scarlet fica na palavra do tema, nas cantoneiras e no bloco. A frase de contraste e a bibliografia vão em Taupe 700 (ou Skin Nude no escuro), nunca em Scarlet.
+- **Um corte só:** o Scarlet fica na palavra do tema, nas cantoneiras e no bloco. A frase de contraste e as referências vão em Taupe 700 (ou Skin Nude no escuro), nunca em Scarlet. **Na C-026 o Hugo pintou em Scarlet também um trecho de destaque por slide (slides 1, 2 e 4 e o respiro), em Bold e em corpo grande (3,7:1 sobre Skin Nude): vale como exceção ao "um corte só" (confirmar se vira regra).**
 - **Wine Knot e Jute Gold não se usam neste formato** (texto longo demais para esses fundos). Se o slot vier com um deles, o Leo troca com o Hugo: Wine Knot → Deep Plum; Jute Gold → Skin Nude. Fundo totalmente Scarlet também não.
 - **Fundo escuro pede menos texto** (gramática visual): em Carbon, Deep Plum e Plum 900, o desenvolvimento fica em 40 a 55 palavras **(confirmar: o número vem do Por Trás do Desejo)**.
 - **Assinatura em fundo claro** tem 2,1:1 (Warm Light) e 1,9:1 (Skin Nude) a 60% de opacidade. É o padrão fixo da casa, não escolha deste formato **(confirmar se vale revisar nos fundos claros)**.
@@ -153,7 +155,7 @@ O **fundo vem do slot do Leo** (campo Fundo do briefing), seguindo o ritmo do fe
 
 ## Template no Canva
 
-**Modelo pronto desde 05/11/2026.** Criado em 03/11/2026 a partir de uma cópia do "Post Por Trás do Desejo - Modelo 2" (que não foi alterado; dele vêm as fontes). O Hugo ajustou o modelo à mão no Canva em 05/11/2026 e mandou registrá-lo como o modelo do formato. Os IDs abaixo foram lidos do modelo salvo nesse dia.
+**Modelo pronto desde 05/11/2026.** Criado em 03/11/2026 a partir de uma cópia do "Post Por Trás do Desejo - Modelo 2" (que não foi alterado; dele vêm as fontes). O Hugo ajustou o modelo à mão no Canva em 05/11/2026 e mandou registrá-lo como o modelo do formato. Os IDs abaixo foram lidos do modelo salvo nesse dia. **Ajustado em 06/11/2026** (corpo em 43px, corpos a 65px do destaque em y 567,6, frase de contraste da capa em y 928,9, rótulo "REFERÊNCIAS"). O MCP só aceita tamanho de fonte inteiro: o modelo tem 43px e a C-026, 43,33px (0,3px de diferença, sem efeito visível). Os corpos do modelo seguem sem destaque.
 
 | Item | Valor |
 |---|---|
@@ -168,22 +170,25 @@ O **fundo vem do slot do Leo** (campo Fundo do briefing), seguindo o ritmo do fe
 ### Como fazer um post novo (Bia)
 1. **Duplicar, nunca editar o modelo.** No Canva, ou com `copy-design` pelo MCP. Nome da cópia: `C-### — tema`, com o código do post e o tema em minúsculas (ex.: "C-046 — fetiche"). Post sem código: pedir o próximo livre ao Leo antes de duplicar.
 2. **Ler a cópia** com `read-design` (`open_transaction: true`) e conferir os IDs. A cópia deste modelo veio do Por Trás do Desejo com os mesmos IDs de elemento, então a tabela abaixo costuma valer na cópia, mas o que vale é o que o `read-design` da cópia mostra.
-3. **Trocar os textos** página por página, na ordem da tabela de IDs. Slides de conteúdo, respiro, fecho, convite e bibliografia: `replace_text`.
+3. **Trocar os textos** página por página, na ordem da tabela de IDs. Slides de conteúdo, respiro, fecho, convite e referências: `replace_text`.
 4. **Capa: não usar `replace_text` no título.** O título é um elemento só, com três trechos de formatação (o início, a palavra do tema em Scarlet e o resto). O `replace_text` junta tudo num trecho só e **apaga a cor da palavra do tema** (testado em 05/11/2026). Usar `find_and_replace_text`, trecho a trecho, com o ID completo `página-elemento` (ex.: `PBrx5Q2KMyq8Cd6W-LBPLPnG29XCyG5lr`; com o ID curto o MCP responde "Page ID did not match the expected pattern"). Ao trocar a palavra do tema, a quebra de linha que vem depois dela passa para dentro do trecho vermelho; não muda nada na arte. Depois de cada troca, conferir no `read-design` que só a palavra do tema está em `#d10f2f`. Se a cor se perder, pedir ao Hugo para repintar à mão.
-5. **Bibliografia:** uma fonte por linha, nas duas caixas (números e texto) com o mesmo número de linhas e a mesma entrelinha. Fonte com mais de ~63 caracteres quebra e desalinha o número: encurtar. Com 4 fontes o bloco termina perto de y = 1183, a ~10px da assinatura: conferir na prévia.
+5. **Referências:** uma fonte por linha, nas duas caixas (números e texto) com o mesmo número de linhas e a mesma entrelinha. Fonte com mais de ~63 caracteres quebra e desalinha o número: encurtar. Com 4 fontes o bloco termina perto de y = 1183, a ~10px da assinatura: conferir na prévia.
 6. **Fundo diferente do Skin Nude:** o Canva não muda a cor de fundo da página (o fundo real é o retângulo de cada página, na tabela abaixo). Trocar com `recolor_element` no retângulo das 8 páginas e pintar o resto pela tabela de cores deste manual (`format_text` com `color` nos textos, `recolor_element` nas cantoneiras e no bloco do convite). Warm Light ↔ Skin Nude só precisa trocar os retângulos: o texto, as cantoneiras e a assinatura têm a mesma cor nos dois. Em fundo escuro, o `format_text` pinta o título da capa inteiro, então a palavra do tema volta à cor de destaque à mão.
 7. **Prévia da cópia ao Hugo antes de salvar com `commit`** (regra do próprio MCP do Canva: as edições ficam em rascunho, que o link não mostra, até o `commit`).
 
 ### O que o MCP não faz (ajuste à mão, no Canva)
 - **Fonte e espaçamento entre letras:** vêm do modelo (por isso se duplica). Texto novo criado pelo MCP nasce em fonte genérica.
-- **Palavras em SemiBold no corpo** (até duas por bloco, as marcadas com `**` no `texto.md`): o MCP só tem normal e bold e não formata parte do texto. **No modelo salvo os cinco corpos estão sem nenhuma palavra em SemiBold**: em cada post o Hugo marca à mão.
+- **Trechos em negrito e em Scarlet no corpo** (os marcados com `**` no `texto.md`): o MCP não formata parte do texto. **No modelo salvo os cinco corpos estão sem destaque**: em cada post o Hugo marca à mão (na C-026, em 06/11/2026, ele marcou em Montserrat Bold e Scarlet).
 - **Cor da palavra do tema** em fundo escuro (item 6) e **cor do trecho** se o `replace_text` for usado no título da capa por engano (item 4).
 - **Frase de contraste da capa:** o modelo salvo a traz em Montserrat de peso normal; o manual pede **Medium**. Conferir e ajustar à mão no modelo.
-- **Rótulo "bibliografia":** no modelo salvo está com espaçamento 0; o manual pede 0,18em. Ajustar à mão no modelo.
+- **Rótulo "referências":** no modelo salvo e na C-026 está com espaçamento 0; o manual pede 0,18em. Ajustar à mão.
 - **Nome das páginas** ("01", "02"… "05") vem do Por Trás do Desejo e não importa: vale a posição. O MCP não renomeia página.
 
-### Valores medidos no modelo (05/11/2026)
+### Valores medidos no modelo (05/11/2026; corpo, posição do corpo, contraste da capa e rótulo mudaram em 06/11, ver acima)
 Capa: título Playfair Bold 132px, entrelinha 0,98, espaçamento −0,035, caixa em x 108, y ≈ 355, largura 864; contraste Montserrat 46px, entrelinha 1,3, espaçamento 0,15, `#685450`, y ≈ 968. Slides 1 a 5: destaque Playfair Bold 88px, entrelinha 1,045, espaçamento 0, x 108, y 216; corpo Montserrat 38px, entrelinha 1,5, x 108, y 548, largura 864. Respiro: Playfair Bold 84px, entrelinha 1,12, centralizado, y 487. Finalização: fecho Playfair Bold 88px, entrelinha 1,045, espaçamento −0,03, centralizado, y 217; bloco 864 × 282 em x 108, y 640, `#d10f2f`; convite Montserrat SemiBold 44px, entrelinha 1,41, `#f4ece7`, centralizado, x 164, y 688, largura 752; rótulo em y 978; números e fontes em y 1022 (números em x 108; fontes em x 145, largura 827; 27px, entrelinha 1,78, `#685450`). Assinatura em todas as páginas: Cormorant Bold 40,6px, espaçamento 0,015, 60% de opacidade, `#8c6f68`, x 108, y ≈ 1193. Cantoneiras em todas as páginas: 97 × 97px, `#d10f2f`; superior esquerda em x 54, y 54; inferior direita em x 929, y 1199.
+
+### Valores medidos na C-026 (06/11/2026, depois dos ajustes do Hugo)
+Capa: título como no modelo (y 613, 132px, 2 linhas); contraste em y 928,9 (29px abaixo do título), 46px, escrito em caixa alta. Slides 1 a 5: destaque igual ao modelo (88px, y 216); **corpo Montserrat 43,33px, entrelinha 1,5, x 108, largura 864, y 567,6 sob destaque de 3 linhas (slides 1 e 2) e y 476,6 sob destaque de 2 linhas (slides 3 e 4)**. O slide 5 ficou em y 548 (45px abaixo do destaque de 3 linhas, como no modelo): é a única exceção aos 65px **(confirmar com o Hugo se foi proposital)**. Destaques do corpo em Montserrat Bold; um trecho em Scarlet `#d10f2f` nos slides 1, 2 e 4. Respiro: igual ao modelo (84px, y 440), com "limites" em Scarlet. Finalização: fecho 88px, entrelinha 1,045, espaçamento −0,03, centralizado, topo em y 171,1, 4 linhas (termina em y 549); bloco, convite e fontes iguais ao modelo; rótulo "REFERÊNCIAS" 22px Bold em y 978, espaçamento 0.
 
 ### IDs do modelo (lidos em 05/11/2026)
 Em cada página, o **fundo** é um retângulo 1080 × 1350 (`#e6cfc3`) e as duas cantoneiras são formas: **sup. esq.** e **inf. dir.**
@@ -197,7 +202,7 @@ Em cada página, o **fundo** é um retângulo 1080 × 1350 (`#e6cfc3`) e as duas
 | 5, slide 4 | `PBHGhP12KD3CHRQh` | fundo `LBN3qCkHXPgsknC1`; destaque `LBBNSqc4lC7CLnVh`; corpo `LBhLWfyzVKBw53nw`; assinatura `LBGVX4f4pVG3RC5c`; cantoneiras `LBQDSlXL25nCWdgL` e `LB63pSTLn1LXFPH1` |
 | 6, respiro | `PBYVcX7jBfVCFrhp` | fundo `LBZdkfk66Prgmcl7`; frase `LBPvyw9B2BSvW23x`; assinatura `LBFpLR6khGhQXDfZ`; cantoneiras `LB1dRZgyxQFDMttm` e `LBmBStJFX6PfWSl4` |
 | 7, slide 5 | `PBltqs5c3xkqCTYt` | fundo `LBZzXl11KrKM3msX`; destaque `LBnTwqrzVyX6rQ33`; corpo `LBr14jYMykdbv4mX`; assinatura `LB7Gcs8ShSSlC5b6`; cantoneiras `LBrQvHT7cSCb1v90` e `LBjPHPkhcJBYsw4s` |
-| 8, finalização | `PB4654Gn9FLWD54w` | fundo `LBvXSgH8nxwShL9W`; frase de fecho `LB8D37VGX0zfT3fN`; bloco do convite `LBCdwcM5Z3zR5dWT` (forma) e texto do convite `LB1WBM20cprCDjZM`; rótulo "bibliografia" `LB4G1QgtC4dVYrTd`; números das fontes `LBwKtS3fLnpYVdsF`; texto das fontes `LB1DGmKJ9qyCyY14`; assinatura `LB62SdLXP0QWTHlR`; cantoneiras `LBLTPh5yQ1cnXhR9` e `LBKXvR4HpfFhtPCR` |
+| 8, finalização | `PB4654Gn9FLWD54w` | fundo `LBvXSgH8nxwShL9W`; frase de fecho `LB8D37VGX0zfT3fN`; bloco do convite `LBCdwcM5Z3zR5dWT` (forma) e texto do convite `LB1WBM20cprCDjZM`; rótulo "REFERÊNCIAS" `LB4G1QgtC4dVYrTd`; números das fontes `LBwKtS3fLnpYVdsF`; texto das fontes `LB1DGmKJ9qyCyY14`; assinatura `LB62SdLXP0QWTHlR`; cantoneiras `LBLTPh5yQ1cnXhR9` e `LBKXvR4HpfFhtPCR` |
 
 ### Outros modelos
 - O template antigo "Post Carrossel Livre" (ID `EAHM8m_nVF4`) fica só para consulta dos carrosséis até 21/10/2026. Não usar em post novo.
@@ -211,10 +216,10 @@ Em cada página, o **fundo** é um retângulo 1080 × 1350 (`#e6cfc3`) e as duas
 - [ ] Carrossel temático: nome do tema na frase dominante, legível na miniatura do grid
 - [ ] Quebra de linhas da capa indicada (até 4 linhas) e corpo conferido pela maior linha
 - [ ] Slides 1 a 5: frase de destaque (5 a 12 palavras) e desenvolvimento (40 a 70; 40 a 55 em fundo escuro)
-- [ ] Até duas palavras em SemiBold por bloco
+- [ ] Trechos de destaque marcados com `**` (negrito, 4 a 8 palavras), no máximo um por slide em Scarlet
 - [ ] Respiro: frase única com referente claro, 10 a 20 palavras
 - [ ] Finalização: frase de fecho (até 12 palavras) e convite (1 a 2 frases, até 15 palavras) que convida em vez de prescrever (P91)
-- [ ] Bibliografia com 2 a 4 fontes; ideia atribuída a uma fonte só se o texto da fonte confirma; sem ano inventado
+- [ ] Referências com 2 a 4 fontes; ideia atribuída a uma fonte só se o texto da fonte confirma; sem ano inventado
 - [ ] "cantoneira" não aparece em nenhum texto nem na legenda
 - [ ] Legenda de 80 a 200 palavras, ângulo diferente do carrossel, sem repetir o pedido da página, até 3 hashtags
 - [ ] Nada que sentencie a conduta ou o sentimento dos outros (P51, P85); sem antítese só de efeito (P81); sem palavra de clique (P82); sem regra única (P84)

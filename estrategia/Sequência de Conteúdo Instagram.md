@@ -41,8 +41,8 @@
 |---|---|---|---|---|---|---|---|
 | 6 | seg 02/11 | **Por trás do desejo** (5 páginas, layout dicionário) | **Pet play** (veio de 30/10 por decisão do Hugo em 31/10) | pet play (prática de papel) | Deep Plum (página 5 em Plum 900) | 01/11 | Julia, Ana, Bia |
 | 7 | qua 04/11 | **Post de Foto**, carrossel de 3 fotos do acervo | **Wax play e shibari juntos**: só legenda, com a nova linha de velas (47 °C e 65 °C) e o cartão de remoção de cera · **PRODUTO** | wax play (prática com shibari e produto) | fotos, sem arte | 03/11 | Hugo escolhe as fotos, Julia, Ana |
-| 8 | sex 06/11 | Carrossel livre | **C-026 wax play: qual vela usar** (título aprovado em 03/11) (veio de 11/11) · **PRODUTO** | wax play (velas e segurança) | Skin Nude | 05/11 | Julia, Ana, Bia |
-| extra | sáb 07/11 | **Post de frase (extra)** | **C-107** o limite de alguém não é um desafio pra você vencer (veio de 04/11; substitui a C-088; C-108 e C-109 no backlog de frases) | limite de quem ouve um não (frase) | Carbon Black | 06/11 | Hugo (texto no time), Bia |
+| 8 | sex 06/11 | Carrossel livre | **C-026 wax play: qual vela usar** (título aprovado em 03/11) (veio de 11/11) · **PRODUTO** · **no ar em 06/11 às 08:40** (o slide 3 saiu com "sensasões") | wax play (velas e segurança) | Skin Nude | 05/11 | Julia, Ana, Bia |
+| extra | sáb 07/11 | **Post de frase (extra)** | **C-107** o limite de alguém não é um desafio pra você vencer (veio de 04/11; substitui a C-088; C-108 e C-109 no backlog de frases) · **agendada no mLabs para 07/11 às 18h** | limite de quem ouve um não (frase) | Carbon Black | 06/11 | Hugo (texto no time), Bia |
 | — | seg 09/11 | **livre** | era o Reel C; sem peça (decidir) | — | — | — | — |
 | — | qua 11/11 | **livre** | era a C-026; sem peça (candidata: C-046) | — | — | — | — |
 | 9 | sex 13/11 | Carrossel livre | **C-004** hojojutsu e shibari: o que as fontes dizem (ângulo escolhido pelo Hugo: a visão da kinbakutoday, influência e não origem direta) | origem do shibari (hojojutsu) | Warm Light (era Carbon Black; mudou em 31/10 para não repetir a frase C-107) | 12/11 | Julia, Ana, Bia |

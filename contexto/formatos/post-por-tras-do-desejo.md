@@ -4,7 +4,7 @@
 >
 > **Ordem das páginas alterada em 02/11/2026 (Hugo, no pet play):** os termos ligados passaram para a página 3 e a figura para a página 4, logo antes da finalização.
 >
-> **Corpo do texto corrido aumentado em 03/11/2026 (Hugo, no modelo do Canva):** origem, definição, acepções, explicações dos termos, legenda da figura e linha de apoio subiram de 2 a 5px. Títulos, números, cabeçalho, rótulos, bibliografia e assinatura não mudaram. As medidas do Layout já estão atualizadas.
+> **Corpo do texto corrido aumentado em 03/11/2026 (Hugo, no modelo do Canva):** origem, definição, acepções, explicações dos termos, legenda da figura e linha de apoio subiram de 2 a 5px. Títulos, números, cabeçalho, rótulos, referências e assinatura não mudaram. As medidas do Layout já estão atualizadas.
 
 **Objetivo:** Explicar o significado de um termo, uma prática ou um fetiche do meio fetichista e BDSM, do jeito que um dicionário explica uma palavra: o que é, os papéis, os termos que andam junto e de onde vem a informação. Gera salvamento (conteúdo de consulta) e envio para quem já viu o termo e ficou sem entender.
 
@@ -26,7 +26,7 @@ Cada post é uma **entrada de dicionário da Shibari Brasil**. O conceito aparec
 - a explicação vem em **acepções numeradas** (1., 2.), curtas, no lugar de um parágrafo único;
 - os **termos ligados** ao tema ganham uma página própria, cada um explicado em português;
 - a foto vira **figura** ("fig. 1"), com legenda que diz o que se vê;
-- o post fecha com a **bibliografia** e um convite para o leitor sugerir o próximo termo, com o **índice de letras** na borda, como as abas de um dicionário de papel.
+- o post fecha com as **referências** e um convite para o leitor sugerir o próximo termo, com o **índice de letras** na borda, como as abas de um dicionário de papel.
 
 **A palavra "verbete" não aparece em nenhum texto do post nem na legenda** (Hugo, 30/10/2026). O dicionário é a ideia visual do formato, não um recurso de linguagem: nada de "salva esse verbete", "próximo verbete" ou "subst." solto na página.
 
@@ -41,7 +41,7 @@ A voz é a da marca, expositiva e com fonte: o post diz o que leu e de onde tiro
 2. O que é: acepções numeradas
 3. Termos ligados
 4. Figura: foto + legenda "fig. 1"
-5. Finalização: CTA fixo + bibliografia
+5. Finalização: CTA fixo + referências
 ```
 
 ---
@@ -49,7 +49,7 @@ A voz é a da marca, expositiva e com fonte: o post diz o que leu e de onde tiro
 ## Conteúdo de cada página
 
 ### 1. Capa
-- **Origem do termo** (linha pequena, em itálico, acima do tema): de onde vem a palavra, em português simples. Ex.: "do inglês *pet*, bicho de estimação, e *play*, brincadeira". Sem trocadilho nem tradução inventada (regra dos termos do meio, `sb_cerebro/02_voz/termos-do-meio.md`). A origem precisa estar numa das fontes da bibliografia. Termo em português ou sem origem conhecida: a linha diz de onde o termo vem no meio ou a qual prática pertence **(confirmar com o Hugo o primeiro caso)**.
+- **Origem do termo** (linha pequena, em itálico, acima do tema): de onde vem a palavra, em português simples. Ex.: "do inglês *pet*, bicho de estimação, e *play*, brincadeira". Sem trocadilho nem tradução inventada (regra dos termos do meio, `sb_cerebro/02_voz/termos-do-meio.md`). A origem precisa estar numa das fontes das referências. Termo em português ou sem origem conhecida: a linha diz de onde o termo vem no meio ou a qual prática pertence **(confirmar com o Hugo o primeiro caso)**.
 - **Tema:** o nome como as pessoas chamam e buscam, em minúsculas. Precisa ser lido na miniatura do grid (regra geral em `contexto/formatos-conteudo.md`).
 - **Rótulo fixo:** "por trás do desejo".
 - **Definição:** uma frase de até **20 palavras** que diz o que a prática é, pelo mecanismo concreto. Sem gancho solto, sem pergunta retórica, sem provocação.
@@ -69,10 +69,10 @@ A voz é a da marca, expositiva e com fonte: o post diz o que leu e de onde tiro
 - Foto ligada ao tema, sem texto sobre ela. Pedido para a Bia no `texto.md`: o que a foto mostra, luz, sem rosto de terceiros, sem pele marcada. Banco próprio primeiro (`G:\Meu Drive\SB Audiovisual\01_PRODUTOS` e `02_GERAL`), com o caminho registrado no `visual-spec.md`. Banco externo só se não houver foto própria. Se a foto mostra produto vendido na loja, avisar o Pedro.
 - **Legenda da figura:** "fig. 1" (fixo, a arte escreve) + uma frase de até **15 palavras** que diz o que se vê na foto e por que isso importa no tema.
 
-### 5. Finalização (fixa, a Julia só escreve a bibliografia)
+### 5. Finalização (fixa, a Julia só escreve as referências)
 - **Pergunta fixa:** "qual termo a gente explica no *próximo post?*"
 - **Linha fixa:** "**Comenta aqui.** Salva pra consultar depois e **compartilha** com quem vai gostar de ler."
-- **Bibliografia:** rótulo pequeno "bibliografia" e de **2 a 4 fontes** numeradas, uma por linha, no formato "Nome da fonte, autor ou site, ano". Fontes da casa primeiro: `assets/docs/Glossario-BDSM.md` (Glossário BDSM, Shibari Brasil) e o dicionário do ebook (`conteudos/ebook/dicionario-bdsm/verbetes-revisado.md`, citado como "Dicionário BDSM, Shibari Brasil"). Toda informação do post sai de uma fonte listada; nada se inventa.
+- **Referências:** rótulo pequeno "referências" e de **2 a 4 fontes** numeradas, uma por linha, no formato "Nome da fonte, autor ou site, ano". Fontes da casa primeiro: `assets/docs/Glossario-BDSM.md` (Glossário BDSM, Shibari Brasil) e o dicionário do ebook (`conteudos/ebook/dicionario-bdsm/verbetes-revisado.md`, citado como "Dicionário BDSM, Shibari Brasil"). Toda informação do post sai de uma fonte listada; nada se inventa.
 - **Aba ativa do índice de letras:** a inicial do tema (pet play → P). A Bia aplica; não vai no `texto.md`.
 
 ---
@@ -91,7 +91,7 @@ O briefing é o cabeçalho do `texto.md` (tema, persona, objetivo, ângulo, **fu
 | **6. Termos ligados (2 ou 3)** | **pet** · quem assume a persona do animal. / **handler** · o tutor: cuida, dá comandos e recompensa. ser handler no pet play não obriga ninguém a dominar em outras práticas. / **pet space** · o estado de quem entra na persona, mais instintivo e presente, longe das preocupações do dia. | até 25 palavras cada |
 | **7. Figura: pedido para a Bia** | coleira de couro, orelhas, luz baixa, sem rosto | — |
 | **8. Figura: legenda** | coleira e orelhas, os acessórios que mais aparecem na prática. | até 15 palavras |
-| **9. Bibliografia** | 1 Glossário BDSM, Shibari Brasil / 2 Dicionário BDSM, Shibari Brasil (pet e handler) / 3 kynk101.com, 2025 | 2 a 4 fontes |
+| **9. Referências** | 1 Glossário BDSM, Shibari Brasil / 2 Dicionário BDSM, Shibari Brasil (pet e handler) / 3 kynk101.com, 2025 | 2 a 4 fontes |
 | **10. Legenda** | ver abaixo | 60 a 120 palavras |
 
 **Legenda (`legenda.txt`):**
@@ -141,8 +141,8 @@ Medidas no canvas 1080 × 1350. **Margem de 108px nos quatro lados** (`post-marg
 - **Sem cabeçalho.**
 - **Pergunta** a partir de ~280px do topo: Playfair Display Bold 90px, entrelinha 1,04, largura máxima de 780px. "próximo post?" em Playfair Display SemiBold Italic, na cor de destaque (tabela).
 - **Linha de apoio** a 39px da pergunta: Montserrat Regular 37px (36,67 no modelo), entrelinha 1,5, largura máxima de 756px; "Comenta aqui." e "compartilha" em SemiBold.
-- **Bibliografia** ancorada embaixo, terminando a 97px acima da assinatura, largura máxima de 800px: fio de 2px em cima; 32px abaixo, o rótulo "BIBLIOGRAFIA" em Montserrat SemiBold 22px, caixa alta, espaçamento 0,18; depois as fontes em Montserrat Regular 27px, entrelinha 1,35, 15px entre linhas. Cada fonte numa grade: **número** em Montserrat Bold numa coluna de 37px, **texto** alinhado à mesma margem em todas as linhas (o texto que quebra volta para a margem do texto, não para a do número).
-- **Índice de letras** na borda direita, de 86px do topo a 86px da base: as 26 letras de A a Z em abas distribuídas por igual, encostadas na borda. Aba inativa: 48px de largura, cantos de 11px só do lado esquerdo, letra em Montserrat SemiBold 22px centralizada. **Aba ativa** (inicial do tema): 76px de largura, letra em Montserrat SemiBold 28px. A pergunta, a linha e a bibliografia nunca invadem a coluna das abas (largura máxima de texto já respeita isso). O índice existe **só na página 5** (Hugo, 30/10/2026); as páginas 1 a 4 não têm abas.
+- **Referências** ancoradas embaixo, terminando a 97px acima da assinatura, largura máxima de 800px: fio de 2px em cima; 32px abaixo, o rótulo "REFERÊNCIAS" em Montserrat SemiBold 22px, caixa alta, espaçamento 0,18; depois as fontes em Montserrat Regular 27px, entrelinha 1,35, 15px entre linhas. Cada fonte numa grade: **número** em Montserrat Bold numa coluna de 37px, **texto** alinhado à mesma margem em todas as linhas (o texto que quebra volta para a margem do texto, não para a do número).
+- **Índice de letras** na borda direita, de 86px do topo a 86px da base: as 26 letras de A a Z em abas distribuídas por igual, encostadas na borda. Aba inativa: 48px de largura, cantos de 11px só do lado esquerdo, letra em Montserrat SemiBold 22px centralizada. **Aba ativa** (inicial do tema): 76px de largura, letra em Montserrat SemiBold 28px. A pergunta, a linha e as referências nunca invadem a coluna das abas (largura máxima de texto já respeita isso). O índice existe **só na página 5** (Hugo, 30/10/2026); as páginas 1 a 4 não têm abas.
 
 ---
 
@@ -152,7 +152,7 @@ O **fundo vem do slot do Leo** (campo Fundo do briefing), seguindo o ritmo do fe
 
 ### Páginas 1 a 4 (e a 5, pelo fundo par)
 
-| Fundo | Tema, termos e pergunta | Destaque em itálico (origem, "fig. 1", "próximo post?") | Rótulo do quadro, números, número das fontes, aba ativa | Texto (definição, acepções, legenda, termos, fontes) | Cabeçalho e "bibliografia" | Fios | Assinatura (60%) | Fundo par (página 5) |
+| Fundo | Tema, termos e pergunta | Destaque em itálico (origem, "fig. 1", "próximo post?") | Rótulo do quadro, números, número das fontes, aba ativa | Texto (definição, acepções, legenda, termos, fontes) | Cabeçalho e "referências" | Fios | Assinatura (60%) | Fundo par (página 5) |
 |---|---|---|---|---|---|---|---|---|
 | **Warm Light** `#f4ece7` | Carbon `#141419` | Deep Plum `#5b1e4b` | Scarlet `#d10f2f` | Carbon `#141419` | Taupe 700 `#685450` | Carbon a 25% | Smoke Taupe `#8c6f68` | Skin Nude |
 | **Skin Nude** `#e6cfc3` | Carbon `#141419` | Deep Plum `#5b1e4b` | Scarlet `#d10f2f` | Carbon `#141419` | Taupe 700 `#685450` | Carbon a 25% | Smoke Taupe `#8c6f68` | Warm Light |
@@ -187,7 +187,7 @@ Na página 5, aplicar a linha **do fundo par** (ex.: post em Warm Light → pág
   - **Página 2, o que é** (`PBrrrgN3PRhnwhQj`): cabeçalho `LBHQGNLSBS3KBnRC` (tema) e `LBTM0v4KKNWl1WzW` (seção); fio `LByxb3x1SsJ9zyLj`; números das acepções `LBxNgf2lCjM0GrLl` (uma caixa só, "1.", linha em branco, "2.": se a acepção 1 mudar de tamanho, ajustar as linhas em branco ou a entrelinha para o "2." alinhar com a acepção 2); texto das acepções `LBJxkqtxrD2jLHgW` (uma caixa, acepções separadas por uma linha em branco); assinatura `LBwcyz0SR8M4mk13`.
   - **Página 4, figura** (`PBq29ysGBTRjHXCx`): cabeçalho `LBl1fNNK44xgslkv` e `LBd3dwQj2nXjQL00`; fio `LBkXSk1PtkZykc1X`; área da foto `LBWhZkt5gDkWwXFw` (forma 1080 × 756 que aceita imagem: arrastar a foto para dentro, ou `update_fill` pelo MCP); aviso "foto: substituir" `LB0qcvQFrf6vXfyP` (apagar ao colocar a foto); "fig. 1" `LBjrCd80sgFsk1D4`; legenda `LBg8FmyKS1snxvHV`; assinatura `LBFTbCTFhVHzgcT6`.
   - **Página 3, termos ligados** (`PBwbR6xx8crFyxj3`): cabeçalho `LBf0VhFHyykVxcHH` e `LBMB0p79vJXzc8LY`; termos `LBR3n6TbhcTyfSKS`, `LBNyDffnqd8TGgYk`, `LBVhtLYxS62yy52K`; explicações `LB06NJMb0Xx7sNKX`, `LBxYGCxQQrdW5WMq`, `LBmxM6qJz7HqkBhL`; fios `LBY3vWvfdKD88MXp` (cabeçalho), `LBwwJVLJXV88fLf0`, `LBGsRl8XSVcPTWsX`, `LBSbxjRVMNQK7Rs4`; assinatura `LB3MlLLG0qWt15DH`. Com 2 termos, apagar o terceiro bloco (termo, explicação e fio).
-  - **Página 5, finalização** (`PB4654Gn9FLWD54w`): fundo `LBvXSgH8nxwShL9W` (retângulo na cor do fundo par); pergunta `LB8D37VGX0zfT3fN` e linha de apoio `LB1WBM20cprCDjZM` (fixas, não mexer); fio da bibliografia `LByTPk09tnJcPVlP`; rótulo "BIBLIOGRAFIA" `LB4G1QgtC4dVYrTd`; números das fontes `LBwKtS3fLnpYVdsF` e texto das fontes `LB1DGmKJ9qyCyY14` (uma fonte por linha, as duas caixas com a mesma entrelinha); letras do índice `LBMZtQPBQgsvNTr0` (a linha da letra ativa fica com um espaço); aba ativa `LB25cyBhcfB99Sfr` e letra ativa `LBhpDRdTDBdrCLy1`; assinatura `LB62SdLXP0QWTHlR`.
+  - **Página 5, finalização** (`PB4654Gn9FLWD54w`): fundo `LBvXSgH8nxwShL9W` (retângulo na cor do fundo par); pergunta `LB8D37VGX0zfT3fN` e linha de apoio `LB1WBM20cprCDjZM` (fixas, não mexer); fio das referências `LByTPk09tnJcPVlP`; rótulo ("BIBLIOGRAFIA" no modelo do Canva, a trocar para "REFERÊNCIAS") `LB4G1QgtC4dVYrTd`; números das fontes `LBwKtS3fLnpYVdsF` e texto das fontes `LB1DGmKJ9qyCyY14` (uma fonte por linha, as duas caixas com a mesma entrelinha); letras do índice `LBMZtQPBQgsvNTr0` (a linha da letra ativa fica com um espaço); aba ativa `LB25cyBhcfB99Sfr` e letra ativa `LBhpDRdTDBdrCLy1`; assinatura `LB62SdLXP0QWTHlR`.
 - **Trocar a letra ativa do índice:** na caixa das letras, devolver a letra antiga e trocar a nova por um espaço; mover a aba ativa e a letra ativa para a posição da nova letra (cada aba fica 45,68px abaixo da anterior, a primeira a 86px do topo; a aba ativa sobe 7px em relação à posição da aba inativa).
 - **Limites do MCP:** ele não troca fonte nem espaçamento entre letras. Por isso o modelo é sempre copiado (as fontes vêm dele). Se um texto novo for criado pelo MCP, ele nasce em fonte genérica e precisa ser corrigido à mão no Canva.
 - O template antigo "Post Por Trás do Desejo" (4 páginas) fica só para consulta dos posts de 19/06 a 30/09/2026.
@@ -198,14 +198,14 @@ Na página 5, aplicar a linha **do fundo par** (ex.: post em Warm Light → pág
 ## Checklist de entrega (Julia preenche antes de passar para a Ana)
 
 - [ ] Tema como as pessoas buscam, legível na miniatura do grid
-- [ ] Origem do termo em português simples, sem trocadilho, com fonte na bibliografia
+- [ ] Origem do termo em português simples, sem trocadilho, com fonte nas referências
 - [ ] Definição da capa com até 20 palavras, pelo mecanismo concreto
 - [ ] 2 acepções (no máximo 3), 25 a 45 palavras cada, até 80 no total (60 em fundo escuro)
 - [ ] Papéis com "quem está se submetendo" e "quem está dominando"; nada que sentencie a conduta dos outros
 - [ ] Destaque de até duas palavras por acepção
 - [ ] Pedido de foto para a Bia e legenda da figura com até 15 palavras
 - [ ] 2 ou 3 termos ligados, explicados em português, sem outro termo em inglês na explicação
-- [ ] Bibliografia com 2 a 4 fontes; toda informação do post sai delas
+- [ ] Referências com 2 a 4 fontes; toda informação do post sai delas
 - [ ] A palavra "verbete" não aparece em nenhum texto nem na legenda
 - [ ] Legenda com ângulo complementar, sem a abertura "um dos temas mais buscados", 60 a 120 palavras, CTA de envio, até 3 hashtags, sem emoji
 - [ ] Fundo do slot anotado no cabeçalho, para a Bia aplicar a tabela de cores

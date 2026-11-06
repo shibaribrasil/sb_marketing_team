@@ -8,7 +8,7 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 
 ## 🎯 Fila prioritária (sequência do Instagram)
 
-> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v13 (rascunho, não aprovado)**, atualizada em **2026-10-31**. Sincronizada em 05/11/2026 11:05 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
+> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v13 (rascunho, não aprovado)**, atualizada em **2026-10-31**. Sincronizada em 05/11/2026 23:09 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
 
 **Mudanças na fila (03/11/2026 18:51):**
 - slot P10: 'C-026 · velas que podem e velas que nunca: o guia de segurança do wax play' virou 'C-026 · wax play: qual vela usar'
@@ -20,7 +20,7 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 - 03/11 Por trás do desejo · pet play: há post no ar nesse dia (https://www.instagram.com/p/DfRs46DF82D/); confirmar a postagem na pauta
 - 04/11 Wax play e shibari juntos: carrossel de 3 fotos do: há post no ar nesse dia (https://www.instagram.com/p/DfUTZ51l8VI/); confirmar a postagem na pauta
 
-> Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 05/11/2026 11:05. Atualizar: `python scripts/status_instagram.py`.
+> Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 05/11/2026 23:09. Atualizar: `python scripts/status_instagram.py`.
 
 | Posta em | Peça | Formato | Assunto | Arco | Entrega | Quem | Status na pauta | Alerta |
 |---|---|---|---|---|---|---|---|---|
@@ -30,7 +30,7 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 | 31/10 (extra) | Extra casual 1 · Time doce × Time travessura (spanking: formas brandas × intensas, Halloween) | Post de Duelo (time doce × time travessura) | spanking: do brando ao intenso (identificação e compartilhamento) | — | 30/10 | Hugo | Agendado |  |
 | 03/11 | Por trás do desejo · pet play | Por trás do desejo (5 páginas, layout dicionário) | pet play (prática de papel) | — | 01/11 | Julia, Ana, Bia | Agendado | post no ar nesse dia |
 | 04/11 | Wax play e shibari juntos: carrossel de 3 fotos do acervo, com o novo mix de velas e o cartão de remoção | Carrossel de 3 fotos do acervo (wax play na prática de shibari) | wax play (prática com shibari e produto) | — | 03/11 | Hugo (escolhe as fotos), Julia, Ana | Agendado | post no ar nesse dia |
-| 06/11 | C-026 · wax play: qual vela usar | Carrossel educativo (densidade do carrossel livre) | wax play (velas e segurança) | — | 05/11 | Julia, Ana, Bia | Aguardando Revisão |  |
+| 06/11 | C-026 · wax play: qual vela usar | Carrossel educativo (densidade do carrossel livre) | wax play (velas e segurança) | — | 05/11 | Julia, Ana, Bia | Design em Produção |  |
 | 07/11 (extra) | C-107 · o limite de alguém não é um desafio pra você vencer | Post de frase | limite de quem ouve um não (frase) | — | 06/11 | Hugo (texto no time), Bia | Briefing |  |
 | 13/11 | C-004 · hojojutsu e shibari: o que as fontes dizem | Carrossel livre | hojojutsu: influência, não origem direta (visão da kinbakutoday) | — | 12/11 | Julia, Ana, Bia | Briefing |  |
 | 14/11 (extra) | Extra casual 2 · ideia que o Hugo trouxer, com mudança de um fator em relação ao primeiro | Post casual (ideia do Hugo) | a definir com a ideia do Hugo | — | 13/11 | Hugo traz a ideia; Julia/Bia produzem | Briefing |  |
@@ -91,7 +91,6 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 | C-062 · ser submissa me faz menos feminista? [fila:P12] (posta 16/11; briefing até 04/11) | Carrossel Livre (Instagram) | a criar: Julia; a Ana revisa o tom com atenção | Submissão e feminismo; fundo Deep Plum |
 | Qual kit para cada momento [fila:P13] (posta 18/11; briefing até 04/11 com o Hugo) | Carrossel Livre (Instagram) | a criar: Julia; a Julia confirma a composição dos kits com o Hugo | Produto direto, arco 1; depende da Black Friday; linha do cashback |
 | Reel B · o que a gente confere antes de amarrar [pausada] (saiu da sequência em 31/10/2026; se gravar, entra como post extra) | Instagram Vídeo | roteiro pronto em `estrategia/material/roteiros/roteiros-reels-fase1-2026-10-19.md` | Tesoura de segurança em cena, arco 2; end card do cashback |
-| C-107 [fila:X3] — o limite de alguém não é um desafio pra você vencer (extra de sábado 07/11, antes quarta 04/11; arte 06/11; substitui a C-088, que vai para a reserva; legenda-base no briefing; Hugo conduz a produção textual direto no time; C-108 e C-109 no backlog) | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/limite-nao-e-desafio/briefing.md` | Frase com posição clara sobre quem ouve um limite |
 | C-046 [pausada] — o que o fetiche revela sobre você que outras experiências não revelam (sem data desde 31/10/2026: o pet play passou para 02/11; candidata ao slot livre de 11/11) | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/o-que-o-fetiche-revela/briefing.md` | Fetiche como pista do que a pessoa busca na experiência; perguntas de autoconhecimento, sem psicologizar |
 ---
 
@@ -101,7 +100,7 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 
 | Título | Tipo de Conteúdo | Arquivo | O que falta |
 |---|---|---|---|
-| Consentimento no BDSM: como combinar, conferir e parar uma prática (artigo 3 da proposta de blog de 04/11; reescrita do post de junho, que não aparece no blog público) | Post para Blog | `conteudos/site-post-para-blog/consentimento-bdsm-shibari/texto.md` | v2 escrita em 05/11/2026 a partir das respostas do Hugo e do levantamento de fontes, revisada pela Ana (REQUER AJUSTES, aplicados nos itens que não dependem dele). Falta: aval do Hugo (e fatos de segurança, notas 3, 4 e 14), imagem principal (do Hugo), conferir no painel se existe rascunho antigo, criar em Rascunho e corrigir o endereço, publicação (Hugo) e pedido de indexação |
+| Consentimento no BDSM: como combinar, conferir e parar uma prática (artigo 3 da proposta de blog de 04/11) | Post para Blog | `conteudos/site-post-para-blog/consentimento-bdsm-shibari/texto.md` | v2 escrita em 05/11/2026 a partir das respostas do Hugo e do levantamento de fontes, revisada pela Ana (REQUER AJUSTES, aplicados nos itens que não dependem dele). Falta: aval do Hugo (e fatos de segurança, notas 3, 4 e 14), imagem principal (do Hugo), criar em Rascunho e corrigir o endereço, publicação (Hugo) e pedido de indexação |
 ---
 
 ## 🎨 Design em Produção — Bia
@@ -129,7 +128,6 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 
 | Título | Tipo de Conteúdo | Arquivo | Entrou em revisão |
 |---|---|---|---|
-| C-026 · wax play: qual vela usar [fila:P10] (posta sexta 06/11; Ana aprovou com ajustes, já aplicados; aguardando o Hugo; arte 05/11) | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/velas-wax-play-guia-seguranca/texto.md` + `legenda.txt` | 03/11/2026 |
 
 ---
 
@@ -150,6 +148,7 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 
 | Título | Tipo de Conteúdo | Arquivo | Aprovado em | Publicação agendada |
 |---|---|---|---|---|
+| C-107 [fila:X3] — o limite de alguém não é um desafio pra você vencer (extra de sábado 07/11; texto e legenda aprovados pelo Hugo em 06/11; arte exportada em JPEG 1080×1350, Canva "C-107 — limite", DAHaKewggXI; sem produto, sem cashback; agendada pelo Hugo no mLabs) | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/limite-nao-e-desafio/` (imagem.jpg, legenda.txt, visual-spec.md) | 06/11/2026 | 07/11/2026 às 18:00 |
 | Carrossel de 3 fotos: wax play e shibari juntos [fila:P8] (era quarta 04/11; só legenda, sem arte; legenda aprovada pelo Hugo em 04/11 e agendada por ele no mLabs) | Post de Foto (Instagram) | `conteudos/instagram-post-foto/wax-play-e-shibari/legenda.txt` | 04/11/2026 | 05/11/2026 (horário no mLabs) |
 | C-110 — Por trás do desejo · pet play [fila:P5] (código dado em 03/11, para o nome do design no Canva "C-110 — pet play"; 5 JPEG na ordem capa, o que é, termos ligados, figura, finalização; legenda igual ao `legenda.txt`; Canva https://www.canva.com/d/ST50kaSWuEQiD2R) | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/pet-play/` | 02/11/2026 | 03/11/2026 às 08:30 (mLabs, agendado pela Mari em 02/11 a pedido do Hugo; confirmação "Agendamento salvo com sucesso") |
 | Extra casual 1 [fila:X1] · Time doce × Time travessura (spanking) | Post de Duelo (Instagram, formato novo em teste) | `conteudos/instagram-post-de-duelo/time-doce-time-travessura/` (imagem.jpg + legenda.txt) | 23/10/2026 | 31/10/2026 às 09:00 (o Hugo agenda no Instagram) |
@@ -162,6 +161,7 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 
 | Título | Tipo de Conteúdo | Arquivo | Publicado em |
 |---|---|---|---|
+| C-026 · wax play: qual vela usar [fila:P10] (carrossel livre de 8 páginas; no ar em 06/11/2026 por confirmação do Hugo; o slide 3 saiu com "sensasões" no lugar de "sensações"; arquivo corrigido `04-corrigido.png` na pasta) | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/velas-wax-play-guia-seguranca/` | 06/11/2026 às 08:40 (no ar em https://www.instagram.com/p/DfZcZm-l2HF/) |
 | O que é shibari: significado, usos e relação com o BDSM (artigo 2 da proposta de blog de 04/11; texto aprovado pelo Hugo em 04/11/2026, revisado pela Ana) | Post para Blog | `conteudos/site-post-para-blog/o-que-e-shibari/` | 05/11/2026 (no ar em https://shibaribrasil.com.br/blog/posts/o-que-e-shibari-096445b09bd0/; conferido no ar em 05/11: h1 único, 10 h2, 2 imagens do corpo no CDN, âncoras do índice certas, 3 cartões do "Leia a seguir" com imagem; imagem principal colocada pelo Hugo, foto dele; **indexação solicitada no Search Console em 05/11/2026 (a inspeção mostrava "URL não está no Google" antes do pedido), conferir em 12/11/2026**; terceiro cartão do "Leia a seguir" segue provisório (Quantas Cordas), trocar quando o post for corrigido) |
 | Qual corda comprar para shibari: tipos e características (reescrita do post "Qual Corda Comprar?", item 1 da proposta de blog de 04/11) | Post para Blog | `conteudos/site-post-para-blog/qual-corda-comprar/` | 04/11/2026 (no ar em https://shibaribrasil.com.br/blog/posts/qual-corda-comprar-fdc47d7744e4/, mesmo endereço, sem passar por Rascunho; indexação solicitada no Search Console em 04/11/2026, conferir em 11/11/2026; imagem principal nova `imagens/capa-1024x630.jpg` pendente de upload do Hugo) |
 | Breve História do Shibari: de onde vem e quem moldou a prática (reescrita do post de história; 1º post de blog no padrão P93 a P98) | Post para Blog | `conteudos/site-post-para-blog/historia-do-shibari/` | 04/11/2026 (no ar em https://shibaribrasil.com.br/blog/posts/breve-historia-do-shibari-a25cefc50e41/; endereço corrigido de `breve-hisoria-...` com 301 conferido; indexação solicitada no Search Console em 04/11/2026, conferir em 11/11/2026) |
