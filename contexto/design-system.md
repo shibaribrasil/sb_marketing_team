@@ -106,6 +106,8 @@ Subtítulo:  45–65pt
 Texto:      32–40pt
 ```
 
+**Exceção — tema de post temático:** o nome da prática na peça que vai para o grid (post único ou capa) usa **150px no mínimo, ideal 180–200px**, ocupando pelo menos 60% da largura, numa faixa própria de largura total no topo, centralizado. Regra em `sb_cerebro/03_visual/gramatica-visual.md`, seção "Tema legível no grid" (06/11/2026).
+
 Espaçamento entre linhas:
 - Títulos: levemente apertados
 - Texto corrido: confortável

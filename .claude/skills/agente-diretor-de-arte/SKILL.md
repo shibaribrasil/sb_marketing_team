@@ -67,7 +67,7 @@ Smoke Taupe   →  até 10%
 
 **Regra do H1:** letra inicial sempre minúscula. Nunca Playfair em parágrafos longos.
 
-**Escala — Instagram (1080×1350):** Título: 110–150pt · Subtítulo: 45–65pt · Texto: 32–40pt
+**Escala — Instagram (1080×1350):** Título: 110–150pt · Subtítulo: 45–65pt · Texto: 32–40pt · **Tema de post temático (nome da prática na peça do grid): 150px no mínimo, ideal 180–200px**, numa faixa de largura total no topo (regra em `sb_cerebro/03_visual/gramatica-visual.md`, seção "Tema legível no grid")
 
 **Alinhamento:** sempre à esquerda. Centralização apenas em frases de impacto e palavras únicas.
 
@@ -154,7 +154,7 @@ O grid é referência de ritmo, não sequência obrigatória. Alternar posts cla
 
 **Wordmark:** SHIBARI BRASIL (caixa alta) · shibaribrasil (sem espaço) · shibariBR (abreviado) · efeitos visuais.
 
-**Layout:** layouts carregados ou poluídos · múltiplos estilos no mesmo post · elementos sem hierarquia clara · texto ultrapassando os 80px de margem · post temático sem o nome do tema legível na miniatura do grid (regra em `sb_cerebro/03_visual/gramatica-visual.md`, seção "Tema legível no grid": nome do tema escrito, em corpo de título, nunca abaixo de 96px, com contraste alto; no carrossel, na capa) · post sem ordem de leitura única, com texto encostado na margem ou abaixo dos corpos mínimos (regra na seção "Composição do post único" do mesmo arquivo: margem de 108px nos quatro lados para todo texto, card ou pílula no máximo até 80px, 64px livres antes da assinatura, item de lista com 38px no título e 28px na explicação; se não cabe, pedir corte de texto à Julia).
+**Layout:** layouts carregados ou poluídos · múltiplos estilos no mesmo post · elementos sem hierarquia clara · texto ultrapassando os 80px de margem · post temático sem o nome do tema legível na miniatura do grid (regra em `sb_cerebro/03_visual/gramatica-visual.md`, seção "Tema legível no grid": quem vê só o grid precisa ler o assunto: nome do tema escrito, com corpo mínimo de 150px, ocupando pelo menos 60% da largura, numa faixa própria de largura total no topo, centralizado, com contraste alto; no carrossel, na capa) · post sem ordem de leitura única, com texto encostado na margem ou abaixo dos corpos mínimos (regra na seção "Composição do post único" do mesmo arquivo: margem de 108px nos quatro lados para todo texto, card ou pílula no máximo até 80px, 64px livres antes da assinatura, item de lista com 38px no título e 28px na explicação; se não cabe, pedir corte de texto à Julia).
 
 ---
 

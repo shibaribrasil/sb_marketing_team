@@ -7,8 +7,10 @@ Este arquivo é o índice dos formatos cadastrados. Cada formato tem seu própri
 Vale para **todo formato temático** (que trata de uma prática, material ou fetiche específico): Post de 5 motivos, Por Trás do Desejo, Carrossel Livre, Desatando Mitos, Post de Produto, Post de Foto com texto. Quem passa pelo perfil precisa identificar o assunto **pela miniatura do grid, sem abrir o post**.
 
 - O **nome do tema** aparece escrito no post único ou na **capa** do carrossel, como as pessoas o chamam e buscam ("wax play"). Metáfora, foto ou ilustração reforçam, mas não substituem o nome.
-- **Corpo de título** (110–150px no canvas 1080, nunca abaixo de 96px). Nunca só no subtítulo, num rótulo, num texto vertical, no rodapé ou na legenda.
-- **Contraste alto**; sobre foto, só em área calma. Dentro da margem de 80px (o grid corta as laterais em 3:4).
+- **Diretriz central (Hugo, 06/11/2026):** quem abre o perfil e vê só o grid precisa ler de que trata o post.
+- **Tamanho:** corpo mínimo de 150px (ideal 180–200px), ocupando pelo menos 60% da largura do post. Nunca só no subtítulo, num rótulo, num texto vertical, no rodapé ou na legenda.
+- **Faixa própria no topo:** tema centralizado numa faixa de largura total, sem dividir espaço com foto, ilustração ou coluna; subtítulo numa linha logo abaixo.
+- **Contraste alto**; sobre foto, só em área calma. Dentro da margem de 108px (o grid corta as laterais em 3:4).
 - **Teste da miniatura:** reduzir a peça a ~130px de largura. Se o tema não se lê, volta para a Julia (texto da capa) ou para a Bia (arte).
 
 Regra completa: `sb_cerebro/03_visual/gramatica-visual.md`, seção "Tema legível no grid".
@@ -82,4 +84,4 @@ Quando o usuário solicitar um tipo de conteúdo ainda não registrado:
 11. [Instagram Vídeo](formatos/instagram-video.md)
 12. [Post de Bingo (Instagram)](formatos/post-de-bingo.md) — post casual de identificação: cartela 3×3 com 9 situações; eventual, sob demanda
 13. [Post de Duelo (Instagram)](formatos/post-de-duelo.md) — post casual de identificação: duas colunas "time A × time B" com 4 itens paralelos; eventual, em teste
-14. [Post de 5 Motivos (Instagram)](formatos/post-5-motivos.md) — post único: tema grande no topo, cinco motivos de uma linha com explicação e foto lateral; limites de caracteres por campo e tabela de cores por fundo; modelo no Canva `DAHZf-__wsg`
+14. [Post de 5 Motivos (Instagram)](formatos/post-5-motivos.md) — post único: tema em faixa de largura total no topo (legível no grid), cinco motivos de uma linha com explicação e foto à direita; limites de caracteres por campo e tabela de cores por fundo; modelo no Canva `DAHZf-__wsg`
