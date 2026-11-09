@@ -1,6 +1,6 @@
 {
- "versao": "v13 (rascunho, não aprovado)",
- "atualizado_em": "2026-10-31",
+ "versao": "v14 (rascunho: vídeo de 10/11 agendado no lugar da foto de quarta; demais propostas aguardam o Hugo)",
+ "atualizado_em": "2026-11-09",
  "itens": {
   "P1": {
    "data": "2026-10-21",
@@ -74,41 +74,32 @@
    "assunto": "limite de quem ouve um não (frase)",
    "arco": null
   },
-  "P11": {
+  "X4": {
+   "data": "2026-11-10",
+   "titulo": "Castiçal (trend de fornifilia): \"Já montou um móvel desses?\"",
+   "formato": "Reel de trend (vídeo editado pelo Hugo)",
+   "prazo": "2026-11-09",
+   "responsavel": "Hugo",
+   "assunto": "fornifilia (humor de dentro do meio) com vela",
+   "arco": null
+  },
+  "P20": {
    "data": "2026-11-13",
-   "titulo": "C-004 · hojojutsu e shibari: o que as fontes dizem",
-   "formato": "Carrossel livre",
+   "titulo": "Kit Shibari para Estudo",
+   "formato": "Foto de produto",
    "prazo": "2026-11-12",
-   "responsavel": "Julia, Ana, Bia",
-   "assunto": "hojojutsu: influência, não origem direta (visão da kinbakutoday)",
+   "responsavel": "Fotógrafo (tratamento), Julia, Ana, Bia",
+   "assunto": "Kit Shibari para Estudo (produto)",
    "arco": null
   },
-  "X2": {
-   "data": "2026-11-14",
-   "titulo": "Extra casual 2 · ideia que o Hugo trouxer, com mudança de um fator em relação ao primeiro",
-   "formato": "Post casual (ideia do Hugo)",
-   "prazo": "2026-11-13",
-   "responsavel": "Hugo traz a ideia; Julia/Bia produzem",
-   "assunto": "a definir com a ideia do Hugo",
-   "arco": null
-  },
-  "P12": {
+  "P21": {
    "data": "2026-11-16",
-   "titulo": "C-062 · ser submissa me faz menos feminista? o equívoco que precisa ser desfeito",
-   "formato": "Carrossel livre",
+   "titulo": "Por trás do desejo · controle do orgasmo (edging)",
+   "formato": "Por trás do desejo (5 páginas, layout dicionário)",
    "prazo": "2026-11-13",
-   "responsavel": "Julia, Ana, Bia",
-   "assunto": "submissão e feminismo",
+   "responsavel": "Hugo (posição), Leo, Julia, Ana, Bia",
+   "assunto": "controle do orgasmo (edging)",
    "arco": null
-  },
-  "P13": {
-   "data": "2026-11-18",
-   "titulo": "Qual kit para cada momento: Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda",
-   "formato": "Carrossel livre (explicativo de produto)",
-   "prazo": "2026-11-17",
-   "responsavel": "Julia, Ana, Bia",
-   "assunto": "qual kit escolher (produto)",
-   "arco": 1
   },
   "P15": {
    "data": "2026-11-23",
@@ -148,9 +139,9 @@
   }
  },
  "ultimas_mudancas": {
-  "quando": "03/11/2026 18:51",
+  "quando": "09/11/2026 00:14",
   "itens": [
-   "slot P10: 'C-026 · velas que podem e velas que nunca: o guia de segurança do wax play' virou 'C-026 · wax play: qual vela usar'"
+   "saiu da fila: Foto de prática com uma frase (a definir com o Hugo) (11/11)"
   ]
  }
 }

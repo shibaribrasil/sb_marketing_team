@@ -90,6 +90,21 @@ def capa_do_agendado(item_id, midias_hash, primeira):
     return buf.getvalue()
 
 
+def arte_do_slot(caminho):
+    """Arte pronta do slot (campo `arte` do plano: caminho do JPG, ex.: capa.jpg na pasta do conteúdo no Drive).
+    Regra do Hugo (09/11/2026): todo post futuro com arte pronta aparece no artefato com a arte. Devolve data URI ou None."""
+    arq = Path(caminho)
+    if not arq.exists():
+        print(f"aviso: arte do slot não encontrada: {caminho}")
+        return None
+    im = Image.open(arq).convert("RGB")
+    if im.width > LARGURA_CAPA:
+        im = im.resize((LARGURA_CAPA, round(im.height * LARGURA_CAPA / im.width)), Image.LANCZOS)
+    buf = io.BytesIO()
+    im.save(buf, "JPEG", quality=72, optimize=True)
+    return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
+
+
 def agendamentos():
     """Itens da fila de publicação do sb_data_pipeline (`raw_instagram.fila_publicacao`), por id do plano (P1, P2...).
     Somente leitura. Sem a tabela (ainda não criada) ou sem acesso: devolve {} e o artefato sai como antes."""
@@ -332,6 +347,15 @@ def main():
             "pago": bool(r.fg_impulsionada), "link": r.ds_permalink,
         })
 
+    # arte pronta: o slot mostra a arte (campo `arte`); slot marcado "pronto" sem arte é cobrado no fim da execução
+    sem_arte = []
+    for sl in plano["plano"]:
+        if sl.get("arte"):
+            sl["capa_arte"] = arte_do_slot(sl["arte"])
+        if sl.get("producao") == "pronto" and sl["data"] >= date.today().isoformat() and not sl.get("capa_arte") \
+                and not (sl.get("agendamento") or {}).get("capa"):
+            sem_arte.append(f"{sl['id']} ({sl['data']}) {sl['titulo'][:60]}")
+
     # posts agendados na fila de publicação: moldura no slot; o que já foi ao ar e já foi extraído vira post real
     plano["plano"], virou_post = aplicar_agendamentos(plano["plano"], posts, agendamentos())
     # post publicado FORA do publicador (ex.: mLabs): o slot sai do plano se o código da peça já está num post real,
@@ -376,6 +400,8 @@ def main():
             print("  - " + a)
     for a in alertas_cor:
         print("COR: " + a)
+    for a in sem_arte:
+        print("SEM ARTE NO ARTEFATO: slot pronto sem arte (preencher `arte` no plano com o caminho da capa): " + a)
     print(f"gravado em {args.out} ({len(posts)} posts reais, {sem_capa} sem capa, {len(plano['plano'])} slots planejados, "
           f"{n_ag} agendados na fila, {len(virou_post)} já no ar e tirados do plano {virou_post}, {len(html) // 1024} KB)")
 

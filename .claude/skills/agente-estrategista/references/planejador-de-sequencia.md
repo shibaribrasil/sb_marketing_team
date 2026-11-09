@@ -69,6 +69,7 @@ Regras de leitura: pago separado de orgânico; mesma janela de idade; dizer o n;
 8. **Originalidade:** nenhuma peça copia referência; repostagem do próprio conteúdo só com valor novo e registrada.
 9. **Itens em espera por decisão do Hugo** (C-090, C-079) **não entram** sem ele retomar; perguntar na abertura da sessão.
 10. **Nada com risco de plataforma/marca** (age play, blood play, sexo explícito, pele marcada, produto adulto impulsionado) sem passar por `risco-de-alcance-nicho.md` e pelo Hugo.
+11. **Produto do slot (Hugo, 08/11/2026, P105):** o produto principal do post é de **alta visibilidade e impacto** (kit de shibari ou de BDSM, item de ticket mais alto ou premium); **cera, óleo e item sem apelo visual só como coadjuvante**, junto de outro produto ou em contexto. **O post de produto vai para o fim da semana** (sexta; quinta quando houver), porque o início da semana já vende bem; segunda e quarta ficam para conteúdo e prática. Conferir o estoque do kit nos componentes antes de propor.
 
 ### 4.2 Regras macias (ajustam a ordem; dizer qual pesou)
 - **Descoberta × relacionamento × negócio:** em cada semana, 1 peça de descoberta (Reel/carrossel conceitual), 1 de ensino salvável e 1 de negócio/vínculo (produto, Primeiras Cordas, bio). O funil que vende é "conteúdo orgânico → perfil → bio → home ou Primeiras Cordas".

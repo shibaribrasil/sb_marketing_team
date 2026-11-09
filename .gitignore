@@ -13,3 +13,9 @@ graphify-out/.graphify_root
 graphify-out/cache/hook_sessions/
 
 __pycache__/
+
+# código de vídeo (Remotion): dependências, renders e cache não entram no repositório
+video/node_modules/
+video/out/
+video/build/
+video/.remotion/

@@ -16,6 +16,8 @@ A produção das tarefas é dividida entre agentes especializados. Cada um tem u
 | **Ana** | Revisora | Segunda leitura com contexto limpo, invocada pela Julia (ou pelo Hugo, direto): aplica o teste de voz e a técnica sobre `texto.md` e `legenda.txt` e devolve o veredicto. Não move status. A aprovação visual é feita pelo Hugo no Canva | Ao fechar o rascunho (pela Julia) ou sob pedido | `agente-revisor` | Nenhum (devolve relatório) |
 | **Bia** | Diretora de Arte | Produz a direção visual e as referências e leva o design ao Canva. Pode começar o conceito visual em paralelo à aprovação do texto; a arte final vai depois dela. Preenche o Fundo no `visual-spec.md`. Se houver ajustes manuais pendentes, lista-os em "Pendências no Canva" | Quando o texto estiver aprovado (conceito pode começar antes) | `agente-diretor-de-arte` | Design em Produção → Pendente de Alteração no Canva ou Pronto - Aguardando Publicação |
 
+| **Davi** | Editor de Vídeo | Edita peças em vídeo (Reel, vídeo de feed, story em vídeo) com Remotion, no código de `video/`: cortes, legenda na tela, título, marca, capa e exportação no padrão de publicação. Mostra um rascunho ao Hugo antes do render final. Não escreve texto (Julia), não define a identidade visual (Bia) e não publica (Mari) | Quando a peça for vídeo, com o texto aprovado, o `visual-spec.md` e o `briefing-video.md` da Bia | `agente-video` | Design em Produção → Pronto - Aguardando Publicação |
+
 **Anúncios não são deste time (Hugo, 03/11/2026):** Google Ads é do `especialista-google` (`sb_admin_team`), pelo fluxo da biblioteca de recursos; Meta Ads está parado e sem dono. O Gui (`agente-trafego`) e a `hab-google-ads` foram extintos.
 
 Cada agente lê os arquivos de contexto relevantes e atualiza a pauta ao concluir sua etapa. As instruções completas de cada um estão em `.claude/skills/[nome-do-agente]/SKILL.md`.
@@ -27,6 +29,7 @@ Leo: lê resultados + núcleo + biblioteca → propõe slots com âncora → Hug
 Julia: cabeçalho (ângulo) + texto + legenda → aciona Ana (contexto limpo) → pacote único ao Hugo (Aguardando Revisão)
   ↓ Hugo aprova
 Bia: conceito (pode começar antes) → Canva → Hugo aprova a arte (Design em Produção → Pronto - Aguardando Publicação)
+  (peça em vídeo: Bia define o `visual-spec.md` e o `briefing-video.md` com o Hugo; sem o briefing o Davi não edita; Davi edita no Remotion → rascunho → Hugo aprova → render final + capa)
   ↓
 Mari: pacote de publicação → mLabs (Fase 1) ou fila por API (Fase 2) → Pronto - Agendado → Pronto - Publicado (do perfil)
   ↓

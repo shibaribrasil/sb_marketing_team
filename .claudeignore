@@ -13,3 +13,9 @@ contexto/design-system.md
 
 # Arquivos de desenvolvimento (não usados em produção)
 **/*.pyc
+
+# Código de vídeo (Remotion): dependências e renders não são lidos
+video/node_modules/
+video/out/
+video/build/
+video/.remotion/

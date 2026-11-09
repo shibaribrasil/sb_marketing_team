@@ -8,34 +8,31 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 
 ## 🎯 Fila prioritária (sequência do Instagram)
 
-> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v13 (rascunho, não aprovado)**, atualizada em **2026-10-31**. Sincronizada em 05/11/2026 23:09 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
+> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v14 (rascunho: vídeo de 10/11 agendado no lugar da foto de quarta; demais propostas aguardam o Hugo)**, atualizada em **2026-11-09**. Sincronizada em 09/11/2026 00:14 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
 
-**Mudanças na fila (03/11/2026 18:51):**
-- slot P10: 'C-026 · velas que podem e velas que nunca: o guia de segurança do wax play' virou 'C-026 · wax play: qual vela usar'
+**Mudanças na fila (09/11/2026 00:14):**
+- saiu da fila: Foto de prática com uma frase (a definir com o Hugo) (11/11)
 
 **Atenção:**
 - 23/10: a pauta tem 'Foto de prática com uma frase [fila:P2]' no slot de 'Cinco segundos: quase uma foto'; registrar a troca na fila
 - 23/10 Cinco segundos: quase uma foto (vídeo de prática d: há post no ar nesse dia (https://www.instagram.com/reel/De1ZF0uFbkc/); confirmar a postagem na pauta
 - 23/10 Cinco segundos: quase uma foto (vídeo de prática do acervo, : entrega de 22/10 atrasada (Briefing)
-- 03/11 Por trás do desejo · pet play: há post no ar nesse dia (https://www.instagram.com/p/DfRs46DF82D/); confirmar a postagem na pauta
-- 04/11 Wax play e shibari juntos: carrossel de 3 fotos do: há post no ar nesse dia (https://www.instagram.com/p/DfUTZ51l8VI/); confirmar a postagem na pauta
 
-> Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 05/11/2026 23:09. Atualizar: `python scripts/status_instagram.py`.
+> Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 08/11/2026 23:48. Atualizar: `python scripts/status_instagram.py`.
 
 | Posta em | Peça | Formato | Assunto | Arco | Entrega | Quem | Status na pauta | Alerta |
 |---|---|---|---|---|---|---|---|---|
 | 21/10 | C-086 · sinais de que a pessoa pratica com responsabilidade (bandeiras verdes) | Carrossel livre | sinais de quem pratica com responsabilidade | — | 21/10 | Bia | Publicado (Instagram: no ar) | Instagram: NO AR 21/10 18:00 |
 | 23/10 | Cinco segundos: quase uma foto (vídeo de prática do acervo, com legenda do Hugo) | Reel curto (5 s) de prática | identificação (memória e desejo) | — | 22/10 | Hugo | Briefing | a peça da pauta não bate com a da fila; post no ar nesse dia; ENTREGA ATRASADA |
 | 28/10 | C-106 · 5 mitos sobre submissão | Desatando mitos | submissão (mitos) | — | 28/10 | Julia, Ana, Bia | Publicado |  |
-| 31/10 (extra) | Extra casual 1 · Time doce × Time travessura (spanking: formas brandas × intensas, Halloween) | Post de Duelo (time doce × time travessura) | spanking: do brando ao intenso (identificação e compartilhamento) | — | 30/10 | Hugo | Agendado |  |
-| 03/11 | Por trás do desejo · pet play | Por trás do desejo (5 páginas, layout dicionário) | pet play (prática de papel) | — | 01/11 | Julia, Ana, Bia | Agendado | post no ar nesse dia |
-| 04/11 | Wax play e shibari juntos: carrossel de 3 fotos do acervo, com o novo mix de velas e o cartão de remoção | Carrossel de 3 fotos do acervo (wax play na prática de shibari) | wax play (prática com shibari e produto) | — | 03/11 | Hugo (escolhe as fotos), Julia, Ana | Agendado | post no ar nesse dia |
-| 06/11 | C-026 · wax play: qual vela usar | Carrossel educativo (densidade do carrossel livre) | wax play (velas e segurança) | — | 05/11 | Julia, Ana, Bia | Design em Produção |  |
-| 07/11 (extra) | C-107 · o limite de alguém não é um desafio pra você vencer | Post de frase | limite de quem ouve um não (frase) | — | 06/11 | Hugo (texto no time), Bia | Briefing |  |
-| 13/11 | C-004 · hojojutsu e shibari: o que as fontes dizem | Carrossel livre | hojojutsu: influência, não origem direta (visão da kinbakutoday) | — | 12/11 | Julia, Ana, Bia | Briefing |  |
-| 14/11 (extra) | Extra casual 2 · ideia que o Hugo trouxer, com mudança de um fator em relação ao primeiro | Post casual (ideia do Hugo) | a definir com a ideia do Hugo | — | 13/11 | Hugo traz a ideia; Julia/Bia produzem | Briefing |  |
-| 16/11 | C-062 · ser submissa me faz menos feminista? o equívoco que precisa ser desfeito | Carrossel livre | submissão e feminismo | — | 13/11 | Julia, Ana, Bia | Briefing |  |
-| 18/11 | Qual kit para cada momento: Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda | Carrossel livre (explicativo de produto) | qual kit escolher (produto) | 1 | 17/11 | Julia, Ana, Bia | Briefing |  |
+| 31/10 (extra) | Extra casual 1 · Time doce × Time travessura (spanking: formas brandas × intensas, Halloween) | Post de Duelo (time doce × time travessura) | spanking: do brando ao intenso (identificação e compartilhamento) | — | 30/10 | Hugo | Publicado |  |
+| 03/11 | Por trás do desejo · pet play | Por trás do desejo (5 páginas, layout dicionário) | pet play (prática de papel) | — | 01/11 | Julia, Ana, Bia | Publicado |  |
+| 04/11 | Wax play e shibari juntos: carrossel de 3 fotos do acervo, com o novo mix de velas e o cartão de remoção | Carrossel de 3 fotos do acervo (wax play na prática de shibari) | wax play (prática com shibari e produto) | — | 03/11 | Hugo (escolhe as fotos), Julia, Ana | Publicado |  |
+| 06/11 | C-026 · wax play: qual vela usar | Carrossel educativo (densidade do carrossel livre) | wax play (velas e segurança) | — | 05/11 | Julia, Ana, Bia | Publicado |  |
+| 07/11 (extra) | C-107 · o limite de alguém não é um desafio pra você vencer | Post de frase | limite de quem ouve um não (frase) | — | 06/11 | Hugo (texto no time), Bia | Agendado |  |
+| 10/11 | Castiçal (trend de fornifilia): "Já montou um móvel desses?" | Reel de trend (vídeo editado pelo Hugo) | fornifilia (humor de dentro do meio) com vela | — | 09/11 | Hugo | Agendado |  |
+| 13/11 | Kit Shibari para Estudo | Foto de produto | Kit Shibari para Estudo (produto) | — | 12/11 | Fotógrafo (tratamento), Julia, Ana, Bia | sem linha na pauta | abrir linha na pauta |
+| 16/11 | Por trás do desejo · controle do orgasmo (edging) | Por trás do desejo (5 páginas, layout dicionário) | controle do orgasmo (edging) | — | 13/11 | Hugo (posição), Leo, Julia, Ana, Bia | sem linha na pauta | abrir linha na pauta |
 | 23/11 | Reservado: Black Friday, semana da campanha | Black Friday (conversa separada) | Black Friday | — | 20/11 | Hugo + Planejador | reservado (Black Friday) |  |
 | 25/11 | Reservado: Black Friday, semana da campanha | Black Friday (conversa separada) | Black Friday | — | 23/11 | Hugo + Planejador | reservado (Black Friday) |  |
 | 27/11 | Reservado: Black Friday (sexta, 27/11) | Black Friday (conversa separada) | Black Friday | — | 24/11 | Hugo + Planejador | reservado (Black Friday) |  |
@@ -49,6 +46,9 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 - **Mari** (Esta semana): Confirmar a postagem da C-105 (bingo, no ar em 10/10) e passar a fila acima como prioridade da produção
 - **Julia e Hugo** (Kits e cashback: 04/11): Confirmar com o Hugo a composição de cada kit (Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda) e os termos do cashback. Os fatos das velas (47 °C e 65 °C) e do cartão de remoção de cera já estão no Notion (Catálogo — Produtos)
 - **Mari** (Esta semana (reserva) e 16/11 (dezembro)): Reservar na pauta os slots de 23, 25, 27 e 30/11 para a Black Friday; abrir o planejamento de dezembro a partir de 16/11
+- **Hugo** (2026-11-10): Decidir: posição sobre o edging de 16/11; reposição da juta 8m antes do Kit para Estudo de 13/11; se 11/11 fica livre ou ganha outra peça.
+- **Fotógrafo** (2026-11-11): Tratar as 7 fotos brutas do Kit Shibari para Estudo (01_PRODUTOS/236067242_kit-shibari-para-estudo/foto/bruto) se o Hugo aprovar o slot de 13/11.
+- **Mari** (2026-11-10): Confirmar na pauta a postagem do vídeo do castiçal (10/11 às 08:20) quando o perfil mostrar.
 
 <!-- FILA-PRIORITARIA:FIM -->
 
@@ -84,12 +84,8 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 |---|---|---|---|
 | Foto de prática com uma frase [fila:P2] (posta 23/10; escolher a foto e a frase até 22/10) | Post de Foto (Instagram) | a criar: Hugo escolhe a foto, Julia escreve a frase | Identificação; Hugo aparece, amarrado sem rosto |
 | Reel A · primeiros minutos com a corda [pausada] (saiu da sequência em 31/10/2026: o Hugo ainda estuda vídeo; se gravar, entra como post extra) | Instagram Vídeo | roteiro pronto em `estrategia/material/roteiros/roteiros-reels-fase1-2026-10-19.md` | Kit Shibari Iniciante em uso; end card do cashback |
-| Foto de produto: óleo e cera de tratamento [pausada] (sem data desde 31/10/2026: o guia de wax play ocupou o slot de 06/11; fotografar na sessão 1 e reabrir em um slot livre) | Post de Foto (Instagram) | a criar: Julia escreve a legenda curta com a linha do cashback | Produto direto, sem arte e sem comando de venda |
+| Foto de produto: óleo e cera de tratamento [pausada; rebaixada em 08/11/2026 pelo Hugo (P105): óleo e cera não são produto principal de post, só coadjuvantes junto de kit, prática ou conteúdo de cuidado; não reabrir como slot de produto] (sem data desde 31/10/2026: o guia de wax play ocupou o slot de 06/11) | Post de Foto (Instagram) | a criar: Julia escreve a legenda curta com a linha do cashback | Produto direto, sem arte e sem comando de venda |
 | Reel C · três passos para guardar a corda [pausada] (saiu da sequência em 31/10/2026; se gravar, entra como post extra) | Instagram Vídeo | roteiro pronto em `estrategia/material/roteiros/roteiros-reels-fase1-2026-10-19.md` | Cuidar da corda; end card do cashback; a fala sobre o óleo só com confirmação do Hugo |
-| C-004 · hojojutsu e shibari: o que as fontes dizem [fila:P11] (posta 13/11; briefing até 04/11; no lugar da C-003) | Carrossel Livre (Instagram) | a criar: Julia | Hojojutsu: influência, não origem direta (visão da kinbakutoday, escolhida pelo Hugo em 28/10); o livro Essence of Shibari entra como a versão que muita gente aprendeu; sem produto e sem cashback |
-| Extra casual 2 [fila:X2] (sábado, posta 14/11; ideia do Hugo até 11/11) | Post Casual (Instagram) | aguardando a ideia do Hugo | Muda 1 fator em relação ao extra 1 |
-| C-062 · ser submissa me faz menos feminista? [fila:P12] (posta 16/11; briefing até 04/11) | Carrossel Livre (Instagram) | a criar: Julia; a Ana revisa o tom com atenção | Submissão e feminismo; fundo Deep Plum |
-| Qual kit para cada momento [fila:P13] (posta 18/11; briefing até 04/11 com o Hugo) | Carrossel Livre (Instagram) | a criar: Julia; a Julia confirma a composição dos kits com o Hugo | Produto direto, arco 1; depende da Black Friday; linha do cashback |
 | Reel B · o que a gente confere antes de amarrar [pausada] (saiu da sequência em 31/10/2026; se gravar, entra como post extra) | Instagram Vídeo | roteiro pronto em `estrategia/material/roteiros/roteiros-reels-fase1-2026-10-19.md` | Tesoura de segurança em cena, arco 2; end card do cashback |
 | C-046 [pausada] — o que o fetiche revela sobre você que outras experiências não revelam (sem data desde 31/10/2026: o pet play passou para 02/11; candidata ao slot livre de 11/11) | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/o-que-o-fetiche-revela/briefing.md` | Fetiche como pista do que a pessoa busca na experiência; perguntas de autoconhecimento, sem psicologizar |
 ---
@@ -100,7 +96,6 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 
 | Título | Tipo de Conteúdo | Arquivo | O que falta |
 |---|---|---|---|
-| Consentimento no BDSM: como combinar, conferir e parar uma prática (artigo 3 da proposta de blog de 04/11) | Post para Blog | `conteudos/site-post-para-blog/consentimento-bdsm-shibari/texto.md` | v2 escrita em 05/11/2026 a partir das respostas do Hugo e do levantamento de fontes, revisada pela Ana (REQUER AJUSTES, aplicados nos itens que não dependem dele). Falta: aval do Hugo (e fatos de segurança, notas 3, 4 e 14), imagem principal (do Hugo), criar em Rascunho e corrigir o endereço, publicação (Hugo) e pedido de indexação |
 ---
 
 ## 🎨 Design em Produção — Bia
@@ -109,7 +104,6 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 
 | Título | Tipo de Conteúdo | Arquivo | Texto entregue em |
 |---|---|---|---|
-| C-060 — Red flags em dinâmicas BDSM: padrões de linguagem que sinalizam uma relação insegura | Post para Blog | `conteudos/site-post-para-blog/red-flags-linguagem-bdsm/texto.md` | 26/08/2026 |
 | C-082 — por que desacelerar também é progresso na prática | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/desacelerar-e-progresso/texto.md` | 12/09/2026 |
 | C-084 — você não precisa de rótulo pra ser curioso | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/curiosidade-sem-rotulo/texto.md` | 12/09/2026 |
 ---
@@ -149,9 +143,7 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 | Título | Tipo de Conteúdo | Arquivo | Aprovado em | Publicação agendada |
 |---|---|---|---|---|
 | C-107 [fila:X3] — o limite de alguém não é um desafio pra você vencer (extra de sábado 07/11; texto e legenda aprovados pelo Hugo em 06/11; arte exportada em JPEG 1080×1350, Canva "C-107 — limite", DAHaKewggXI; sem produto, sem cashback; agendada pelo Hugo no mLabs) | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/limite-nao-e-desafio/` (imagem.jpg, legenda.txt, visual-spec.md) | 06/11/2026 | 07/11/2026 às 18:00 |
-| Carrossel de 3 fotos: wax play e shibari juntos [fila:P8] (era quarta 04/11; só legenda, sem arte; legenda aprovada pelo Hugo em 04/11 e agendada por ele no mLabs) | Post de Foto (Instagram) | `conteudos/instagram-post-foto/wax-play-e-shibari/legenda.txt` | 04/11/2026 | 05/11/2026 (horário no mLabs) |
-| C-110 — Por trás do desejo · pet play [fila:P5] (código dado em 03/11, para o nome do design no Canva "C-110 — pet play"; 5 JPEG na ordem capa, o que é, termos ligados, figura, finalização; legenda igual ao `legenda.txt`; Canva https://www.canva.com/d/ST50kaSWuEQiD2R) | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/pet-play/` | 02/11/2026 | 03/11/2026 às 08:30 (mLabs, agendado pela Mari em 02/11 a pedido do Hugo; confirmação "Agendamento salvo com sucesso") |
-| Extra casual 1 [fila:X1] · Time doce × Time travessura (spanking) | Post de Duelo (Instagram, formato novo em teste) | `conteudos/instagram-post-de-duelo/time-doce-time-travessura/` (imagem.jpg + legenda.txt) | 23/10/2026 | 31/10/2026 às 09:00 (o Hugo agenda no Instagram) |
+| Castiçal (trend de fornifilia): "Já montou um móvel desses?" [fila:X4] (extra de vídeo) | Instagram Vídeo | `conteudos/instagram-videos/vídeo-castical-trend/` (video.mp4, capa.jpg, texto.md, legenda.txt) | 09/11/2026 (Hugo) | 10/11/2026 às 08:20 (mLabs; legenda do Hugo, sem passar pela Ana) |
 
 ---
 
@@ -161,7 +153,12 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 
 | Título | Tipo de Conteúdo | Arquivo | Publicado em |
 |---|---|---|---|
+| Red flags no BDSM: como reconhecer sinais de alerta numa pessoa ou numa dinâmica (reescrita do post de blog C-060 de 26/08/2026, sequência do artigo 3 da proposta de blog de 04/11; texto v2 revisado pela Ana; P101 gravada no `sb_cerebro`) | Post para Blog | `conteudos/site-post-para-blog/red-flags-linguagem-bdsm/` | 07/11/2026 (**publicado pelo Hugo na Nuvemshop**, `https://shibaribrasil.com.br/blog/posts/red-flags-bdsm-7af58e6b77ce/`; página pública conferida: título, h1, 11 h2, capa carregada; **indexação solicitada no Search Console em 07/11/2026**; conferir indexação em 14/11/2026) |
+| Carrossel de 3 fotos: wax play e shibari juntos [fila:P8] (só legenda, sem arte; legenda aprovada pelo Hugo em 04/11) | Post de Foto (Instagram) | `conteudos/instagram-post-foto/wax-play-e-shibari/legenda.txt` | 04/11/2026 (no ar em https://www.instagram.com/p/DfUTZ51l8VI/; o plano dizia 05/11, o perfil mostra 04/11; movido pela Mari em 06/11 pelo perfil) |
+| C-110 — Por trás do desejo · pet play [fila:P5] (5 JPEG na ordem capa, o que é, termos ligados, figura, finalização; Canva https://www.canva.com/d/ST50kaSWuEQiD2R) | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/pet-play/` | 03/11/2026 às 08:30 (no ar em https://www.instagram.com/p/DfRs46DF82D/; movido pela Mari em 06/11 pelo perfil) |
+| Extra casual 1 [fila:X1] · Time doce × Time travessura (spanking; formato de duelo em teste) | Post de Duelo (Instagram) | `conteudos/instagram-post-de-duelo/time-doce-time-travessura/` (imagem.jpg + legenda.txt) | 31/10/2026 (no ar pelo perfil; movido pela Mari em 06/11) |
 | C-026 · wax play: qual vela usar [fila:P10] (carrossel livre de 8 páginas; no ar em 06/11/2026 por confirmação do Hugo; o slide 3 saiu com "sensasões" no lugar de "sensações"; arquivo corrigido `04-corrigido.png` na pasta) | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/velas-wax-play-guia-seguranca/` | 06/11/2026 às 08:40 (no ar em https://www.instagram.com/p/DfZcZm-l2HF/) |
+| Consentimento no BDSM: como combinar, conferir e parar uma prática (artigo 3 da proposta de blog de 04/11; texto v2 revisado pela Ana; pendências de cabeçalho dispensadas pelo Hugo) | Post para Blog | `conteudos/site-post-para-blog/consentimento-bdsm-shibari/` | 06/11/2026 (no ar em https://shibaribrasil.com.br/blog/posts/consentimento-no-bdsm-fe24ee641623/; conferido no ar em 06/11: 200, h1 único, 15 h2, título SEO, descrição SEO e canonical certos, blocos `data-sb` presentes, capa no CDN, 3 links do "Leia a seguir" respondem 200; imagem principal colocada pelo Hugo (foto tratada pelo fotógrafo, `imagens/consentimento-no-bdsm_capa.jpg`); **indexação solicitada no Search Console em 06/11/2026 (a inspeção mostrava "URL não está no Google" antes do pedido; resultado "Indexação solicitada"), conferir em 13/11/2026**) |
 | O que é shibari: significado, usos e relação com o BDSM (artigo 2 da proposta de blog de 04/11; texto aprovado pelo Hugo em 04/11/2026, revisado pela Ana) | Post para Blog | `conteudos/site-post-para-blog/o-que-e-shibari/` | 05/11/2026 (no ar em https://shibaribrasil.com.br/blog/posts/o-que-e-shibari-096445b09bd0/; conferido no ar em 05/11: h1 único, 10 h2, 2 imagens do corpo no CDN, âncoras do índice certas, 3 cartões do "Leia a seguir" com imagem; imagem principal colocada pelo Hugo, foto dele; **indexação solicitada no Search Console em 05/11/2026 (a inspeção mostrava "URL não está no Google" antes do pedido), conferir em 12/11/2026**; terceiro cartão do "Leia a seguir" segue provisório (Quantas Cordas), trocar quando o post for corrigido) |
 | Qual corda comprar para shibari: tipos e características (reescrita do post "Qual Corda Comprar?", item 1 da proposta de blog de 04/11) | Post para Blog | `conteudos/site-post-para-blog/qual-corda-comprar/` | 04/11/2026 (no ar em https://shibaribrasil.com.br/blog/posts/qual-corda-comprar-fdc47d7744e4/, mesmo endereço, sem passar por Rascunho; indexação solicitada no Search Console em 04/11/2026, conferir em 11/11/2026; imagem principal nova `imagens/capa-1024x630.jpg` pendente de upload do Hugo) |
 | Breve História do Shibari: de onde vem e quem moldou a prática (reescrita do post de história; 1º post de blog no padrão P93 a P98) | Post para Blog | `conteudos/site-post-para-blog/historia-do-shibari/` | 04/11/2026 (no ar em https://shibaribrasil.com.br/blog/posts/breve-historia-do-shibari-a25cefc50e41/; endereço corrigido de `breve-hisoria-...` com 301 conferido; indexação solicitada no Search Console em 04/11/2026, conferir em 11/11/2026) |
@@ -229,6 +226,10 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 | **O que significa BDSM, letra por letra** | A sigla é usada por todo mundo e pouco explicada. Dá para explicar o que cada letra significa em português simples, sem reduzir o meio a "só dor" (fonte: @zerobaunilha). Usar "disciplina", não "doutrinação". | 1. Carrossel: o que cada letra de BDSM significa e por que o meio é mais do que dor | Mariana | BDSM / Fetichista | instagram.com/p/CsCVoIVuFqK (@zerobaunilha) | Nenhum |
 | **Confiança na prática: o que a gente imaginava × o que a prática mostrou** | Confiança na prática é feita de coisas pequenas do dia a dia, e a gente conta o que imaginava e o que a prática mostrou (fonte: @the.dressrehearsal). **Exemplos têm que vir da vivência do Hugo; a IA não inventa nenhum.** | 1. Carrossel: o que a gente imaginava ser confiança na prática e o que a prática mostrou | Mariana, Thiago | Shibari | instagram.com/p/Db8za9EKzvK (@the.dressrehearsal) | Nenhum |
 | **Elogiar quem usa a safeword** (fundido com o consentimento contínuo) | Usar a safeword é cuidar da cena, e a reação de quem ouve importa. É segurança como valor central da marca (fonte: @dominantdiscourse). | 1. Post de Frase: usar a safeword também merece elogio (texto final com o Hugo, como no C-107) · 2. Carrossel: o que o momento da safeword mostra sobre quem está dominando | Thiago, Alex | BDSM / Fetichista | instagram.com/p/DcQ0esAjFYu (@dominantdiscourse) | Nenhum |
+| C-004 · hojojutsu e shibari: o que as fontes dizem | Ângulo da kinbakutoday escolhido pelo Hugo em 28/10; saiu do slot de 13/11 em 08/11/2026 (replanejamento) | Hojojutsu como influência, não origem direta | — | shibari | kinbakutoday.com | — |
+| C-062 · ser submissa me faz menos feminista? | Saiu do slot de 16/11 em 08/11/2026 (replanejamento); a Ana revisa o tom com atenção | Submissão e feminismo | — | BDSM | — | — |
+| Qual kit para cada momento (guia de kits) | Saiu do slot de 18/11 em 08/11/2026; depende da Black Friday e da composição dos kits | Kit Iniciante, Kit para Estudo e Kit Corda a Corda | — | produto | — | Kits |
+| Extra casual 2 (ideia do Hugo, mudando um fator) | Saiu do slot de 14/11 em 08/11/2026; o vídeo do castiçal (10/11) ocupa o extra da quinzena | A definir com o Hugo | — | casual | — | — |
 
 
 ### Histórico da revisão de voz do backlog (Hugo, 28/10/2026)

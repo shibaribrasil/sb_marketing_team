@@ -67,6 +67,8 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outlin
 .tile.plan.sched { border: 3px solid var(--sched); padding-top: 30px; }
 .tile.plan.sched.has-capa { padding: 0; background: var(--chip); }
 .tile.plan.has-capa::after { display: none; }
+.tile.plan.has-capa { padding: 0; background: var(--chip); }
+.tile.plan.has-capa:not(.sched) { padding-top: 0; }
 .tile.sched.ag-ok { --sched: var(--ok); --sched-ink: var(--bg); }
 .tile.sched.ag-alerta { --sched: var(--alert); --sched-ink: var(--bg); }
 .tile .ribbon { position: absolute; left: 0; right: 0; top: 0; z-index: 2; background: var(--sched); color: var(--sched-ink); font-size: 10px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; padding: 4px 8px; display: flex; justify-content: space-between; gap: 6px; font-variant-numeric: tabular-nums; white-space: nowrap; }
@@ -217,7 +219,7 @@ const inkOn = (hex) => { const n = parseInt(hex.slice(1), 16), r = n >> 16, g = 
 
 const items = [
   ...D.posts.map((p) => ({...p, kind: "real"})),
-  ...D.plano.map((p) => ({...p, kind: "plano", views: null, pago: false, capa: p.agendamento ? p.agendamento.capa : null})),
+  ...D.plano.map((p) => ({...p, kind: "plano", views: null, pago: false, capa: p.capa_arte || (p.agendamento ? p.agendamento.capa : null)})),
 ].sort((a, b) => (a.data < b.data ? -1 : a.data > b.data ? 1 : a.kind === "real" ? -1 : 1));
 items.forEach((it, i) => { it.d = parse(it.data); it.ix = i; it.fundoHex = it.fundo ? FUNDOS[it.fundo] : null; });
 const hoje = parse(D.meta.hoje);
@@ -239,7 +241,7 @@ const agCor = (s) => (s === "publicado" ? " ag-ok" : (["falhou", "atrasado", "in
 const agQuando = (ag) => `${ag.dia_semana} ${fd(parse(ag.data))} · ${ag.hora}`;
 function tileEl(it) {
   const ag = it.kind === "plano" ? it.agendamento : null;
-  const b = el("button", "tile" + (it.kind === "plano" ? " plan" : "") + (it.kind === "plano" && !it.fundoHex ? " nofundo" : "") + (ag ? " sched" + agCor(ag.status) : "") + (ag && it.capa ? " has-capa" : ""));
+  const b = el("button", "tile" + (it.kind === "plano" ? " plan" : "") + (it.kind === "plano" && !it.fundoHex ? " nofundo" : "") + (ag ? " sched" + agCor(ag.status) : "") + (it.kind === "plano" && it.capa ? " has-capa" : ""));
   b.type = "button"; b.dataset.ix = it.ix; b.title = ag ? `${AG_CURTO[ag.status] || ag.status_txt}: ${agQuando(ag)} · ${it.titulo}` : it.titulo;
   if (it.kind === "plano") {
     if (it.fundoHex) { b.style.background = it.fundoHex; b.style.color = inkOn(it.fundoHex); }
@@ -249,6 +251,13 @@ function tileEl(it) {
       b.innerHTML = `<span class="ribbon"><span>${esc(AG_CURTO[ag.status] || ag.status_txt)}</span><span>${esc(agQuando(ag))}</span></span>` +
         `<img src="${it.capa}" alt="Capa do post agendado: ${esc(it.titulo)}" loading="lazy">` +
         `<span class="shade"><span>${esc(agQuando(ag))}</span><span>${it.formato ? esc(it.formato) : ""}</span></span>`;
+      b.addEventListener("click", () => { sel = it.ix; marcaSel(); drawDetail(); });
+      return b;
+    }
+    if (!ag && it.capa) {   // arte pronta, ainda sem agendamento: mostra a arte (regra do Hugo, 09/11/2026), com a faixa "arte pronta"
+      b.innerHTML = `<span class="ribbon"><span>Arte pronta</span><span>${DIA[it.d.getDay()]} ${fd(it.d)}</span></span>` +
+        `<img src="${it.capa}" alt="Arte pronta: ${esc(it.titulo)}" loading="lazy">` +
+        `<span class="shade"><span>${DIA[it.d.getDay()]} ${fd(it.d)}</span><span>${it.formato ? esc(it.formato) : ""}</span></span>`;
       b.addEventListener("click", () => { sel = it.ix; marcaSel(); drawDetail(); });
       return b;
     }

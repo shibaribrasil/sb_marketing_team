@@ -35,7 +35,7 @@
 
 **Produto direto em outubro:** nenhum nos slots restantes depois que o Reel A saiu. Outubro foi mês de retomada.
 
-### Novembro (v13, 31/10/2026: vídeos fora, wax play em 04 e 06/11, frase como extra de sábado)
+### Novembro (v14, 09/11/2026: replanejado depois de 07/11; vídeo de 10/11 agendado; demais propostas aguardam o Hugo)
 
 | # | Posta | Formato | Peça | Assunto | Fundo | Entrega | Quem |
 |---|---|---|---|---|---|---|---|
@@ -43,13 +43,12 @@
 | 7 | qua 04/11 | **Post de Foto**, carrossel de 3 fotos do acervo | **Wax play e shibari juntos**: só legenda, com a nova linha de velas (47 °C e 65 °C) e o cartão de remoção de cera · **PRODUTO** | wax play (prática com shibari e produto) | fotos, sem arte | 03/11 | Hugo escolhe as fotos, Julia, Ana |
 | 8 | sex 06/11 | Carrossel livre | **C-026 wax play: qual vela usar** (título aprovado em 03/11) (veio de 11/11) · **PRODUTO** · **no ar em 06/11 às 08:40** (o slide 3 saiu com "sensasões") | wax play (velas e segurança) | Skin Nude | 05/11 | Julia, Ana, Bia |
 | extra | sáb 07/11 | **Post de frase (extra)** | **C-107** o limite de alguém não é um desafio pra você vencer (veio de 04/11; substitui a C-088; C-108 e C-109 no backlog de frases) · **agendada no mLabs para 07/11 às 18h** | limite de quem ouve um não (frase) | Carbon Black | 06/11 | Hugo (texto no time), Bia |
-| — | seg 09/11 | **livre** | era o Reel C; sem peça (decidir) | — | — | — | — |
-| — | qua 11/11 | **livre** | era a C-026; sem peça (candidata: C-046) | — | — | — | — |
-| 9 | sex 13/11 | Carrossel livre | **C-004** hojojutsu e shibari: o que as fontes dizem (ângulo escolhido pelo Hugo: a visão da kinbakutoday, influência e não origem direta) | origem do shibari (hojojutsu) | Warm Light (era Carbon Black; mudou em 31/10 para não repetir a frase C-107) | 12/11 | Julia, Ana, Bia |
-| extra | sáb 14/11 | Casual | **Extra 2**: ideia do Hugo (muda 1 fator do extra 1) | a definir | a definir | 13/11 | Hugo, Julia/Bia |
-| 10 | seg 16/11 | Carrossel livre | **C-062** ser submissa me faz menos feminista? | submissão e feminismo | Deep Plum | 13/11 | Julia, Ana, Bia |
-| 11 | qua 18/11 | Carrossel livre (explicativo de produto) | **Qual kit para cada momento**: Kit Iniciante, Kit para Estudo e Kit Corda a Corda · **PRODUTO** | qual kit escolher | Warm Light | 17/11 | Julia, Ana, Bia |
-| — | sex 20/11 | **livre** | era o Reel B; sem peça (decidir) | — | — | — | — |
+| — | seg 09/11 | **livre** | sem peça (o Hugo mandou repensar do zero depois de 07/11; segunda não dá para produzir do zero) | — | — | — | — |
+| 9 | ter 10/11 | **Reel de trend (vídeo)** | **Castiçal (fornifilia)**: "Já montou um móvel desses?" · vídeo do Hugo, **agendado no mLabs para 10/11 às 08:20**, **no lugar da foto de prática de quarta** (adiantado) · legenda do Hugo, com #waxplay (pede atenção: wax play em 3 posts em 7 dias) | fornifilia (humor de dentro do meio) com vela | — (vídeo) | pronto | Hugo |
+| — | qua 11/11 | **livre** | a foto de prática foi substituída pelo vídeo de 10/11; sem peça (decidir) | — | — | — | — |
+| 10 | sex 13/11 | Foto de produto | **Kit Shibari para Estudo** · **PRODUTO** · **PROPOSTA, não aprovada** (P105: produto de alto impacto no fim da semana; juta 8m com cobertura de cerca de 7 dias, confirmar reposição) | Kit Shibari para Estudo | — | 12/11 | Fotógrafo, Julia, Ana, Bia |
+| 11 | seg 16/11 | Por trás do desejo (5 páginas, layout dicionário) | **Controle do orgasmo (edging)** · **PROPOSTA, não aprovada e sem briefing**: falta a posição do Hugo; fontes em inglês (Veaux, Megatron no Kinkly, Bad Girls Bible, Submissive Guide) | controle do orgasmo | **Warm Light** (claro; sugestão do Leo: a frase de 07/11 foi Carbon Black e o pet play de 03/11 usou Deep Plum; alternativa Skin Nude; a Bia confere) | 13/11 | Hugo, Leo, Julia, Ana, Bia |
+| — | qua 18/11 e sex 20/11 | **livres** | sem peça (C-004 e C-062 voltam à reserva; o guia "qual kit" também) | — | — | — | — |
 | — | seg 23/11, qua 25/11, sex 27/11, seg 30/11 | **Reservados: Black Friday** | Conteúdo definido na conversa separada da Black Friday | Black Friday | a definir | 20 a 26/11 | Hugo + Planejador |
 
 **Sem data:** **C-046** (o que o fetiche revela sobre você) saiu do slot de 02/11 e espera decisão; **foto de produto de óleo e cera** saiu do slot de 06/11 e sai da captação da sessão 1 (09 a 16/11). **Vídeos (Reels A, B e C):** fora da sequência por decisão do Hugo (31/10): ele ainda está testando e estudando vídeo; se gravar, entra como **post extra**. Os roteiros ficam guardados em `estrategia/material/roteiros/`.
@@ -131,6 +130,10 @@ Tratada em conversa derivada, só com esse assunto (aberta em 19/10). Insumos: n
 | 12 | Fila de produção | Prioridade do marketing | Levar à Mari o briefing de mudanças |
 | 13 | Experimento Out/Nov | Pendente | Remarcar a leitura de 23/10 para 06/11? |
 
+**Regra de arte no artefato (Hugo, 09/11/2026):** todo post futuro que já tiver arte pronta precisa aparecer no artefato com a arte. O slot recebe o campo `arte` no plano (caminho do JPG, normalmente a `capa.jpg` da pasta do conteúdo no Drive) e o gerador desenha a arte na grade; se o slot estiver "pronto" e sem arte, o gerador avisa `SEM ARTE NO ARTEFATO`. Quem entrega a arte (Bia, Davi, Hugo) avisa o Leo, que preenche o campo e republica.
+
+**Fundo nos posts de conteúdo (Hugo, 09/11/2026):** toda proposta de slot de conteúdo com fundo (carrossel, Por trás do desejo, mitos, frase) já sai com o fundo sugerido e o motivo (alternar claro e escuro, não repetir cor em posts seguidos, Scarlet no máximo 1 em 9). Foto e vídeo ficam sem fundo.
+
 ## 10. Histórico de versões e decisões
 
 | Data | Versão | O que mudou |
@@ -147,3 +150,4 @@ Tratada em conversa derivada, só com esse assunto (aberta em 19/10). Insumos: n
 | 22/10/2026 | **v11 (rascunho)** | **Sex 23/10 vira Reel curto de prática ("Cinco segundos: quase uma foto"), vídeo do acervo do Hugo no lugar da foto; agendado no mLabs para 08:40 (Brasília), legenda do Hugo.** A foto de prática volta ao banco. O publicador por API ainda não aceita Reels (fica para 23/10 em diante) |
 | 28/10/2026 | **v12 (rascunho)** | **Hugo não gostou da C-079, da C-090, da C-083 e da C-003.** C-003 sai do slot de 13/11 e entra o carrossel do hojojutsu (C-004, escolhido pelo Hugo); C-083 arquivada, C-090 descartada, C-079 confirmada como o mesmo conteúdo da C-057; novembro fica com 3 posts diretos de produto |
 | 31/10/2026 | **v13 (rascunho)** | **Vídeos saem da sequência** (Reels A, B e C; se o Hugo gravar, entram como extra). **Pet play passa para 02/11**; C-046 sai do slot e fica sem data; **04/11 vira carrossel de 3 fotos do acervo de wax play** (só legenda); **C-026 antecipada de 11/11 para 06/11**; **C-107 vira extra de frase em sábado 07/11**; C-004 muda para Warm Light; fundo da C-106 corrigido para Warm Light (como saiu). Briefings reescritos na voz atual. Slots livres: 09, 11 e 20/11 |
+| 09/11/2026 | **v14 (rascunho)** | **Replanejamento do Hugo (08 e 09/11): tudo o que vinha depois de 07/11 foi repensado do zero.** C-004, C-062, o guia "qual kit" e o Extra casual 2 saem do plano e vão para a reserva e o backlog. **Entra o vídeo do castiçal (fornifilia), extra de 10/11 às 08:20, agendado pelo Hugo.** **O vídeo ocupa o lugar da foto de prática de quarta (11/11 fica livre)**, sai como slot normal e não como extra. Propostas ainda sem aprovação: **Kit Shibari para Estudo** (13/11, P105) e **Por trás do desejo: controle do orgasmo** (16/11, falta a posição do Hugo). 18 e 20/11 ficam livres; Black Friday segue reservada. | **Regra nova:** arte pronta aparece no artefato; proposta de conteúdo já traz o fundo (16/11: Warm Light).

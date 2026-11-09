@@ -209,6 +209,10 @@ Um arquivo `visual-spec.md` salvo em `conteudos/[slug-do-tipo]/[slug-do-titulo]/
 
 Apresentar a produção visual ao usuário informando que o link do Canva está disponível para aprovação.
 
+### Peça em vídeo: briefing de vídeo para o Davi (Hugo, 08/11/2026)
+
+Quando a peça for vídeo (Reel, vídeo de feed, story em vídeo), além do `visual-spec.md` você prepara o **`briefing-video.md`** na pasta do conteúdo, a partir de `contexto/formatos/modelos/briefing-video-modelo.md`. **Pergunte ao Hugo** o que o modelo pede e ele ainda não disse (momento-chave, preferência de efeitos, texto na tela, legenda queimada, áudio, capa), mapeie o bruto com tempos e só então marque o briefing como aprovado. O Davi não começa sem ele. Texto na tela vem do `texto.md` aprovado, nunca é escrito aqui.
+
 ---
 
 ## Padrão de mídia para publicação via API (obrigatório na exportação)

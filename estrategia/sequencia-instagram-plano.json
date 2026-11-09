@@ -1,6 +1,6 @@
 {
-  "versao": "v13 (rascunho, não aprovado)",
-  "atualizado_em": "2026-10-31",
+  "versao": "v14 (rascunho: vídeo de 10/11 agendado no lugar da foto de quarta; demais propostas aguardam o Hugo)",
+  "atualizado_em": "2026-11-09",
   "nota": "Fonte do plano exibido no artefato. O texto narrativo e as decisões ficam em 'Sequência de Conteúdo Instagram.md'. Ao mudar a sequência, atualizar os dois e republicar o artefato (scripts/gerar_artefato_sequencia.py). Planejamento por mês de calendário; pelo menos 3 de cerca de 12 posts por mês diretamente sobre produto; arcos só para produto; assuntos próximos avaliados caso a caso com o Hugo.",
   "cashback": {
     "linha_legenda": "toda compra na Shibari Brasil gera 10% de cashback para a próxima.",
@@ -264,86 +264,79 @@
       }
     },
     {
-      "id": "P11",
-      "data": "2026-11-13",
-      "formato_marca": "carrossel_livre",
+      "id": "X4",
+      "data": "2026-11-10",
+      "extra": false,
+      "formato_marca": "video",
       "arco": null,
-      "passo": "Conteúdo avulso (shibari)",
-      "categoria": "Educativo",
-      "formato": "Carrossel livre",
-      "titulo": "C-004 · hojojutsu e shibari: o que as fontes dizem",
-      "fundo": "Warm Light",
-      "fundo_nota": "Mudou de Carbon Black para Warm Light em 31/10: a frase C-107 (07/11) é Carbon Black e não pode repetir a cor em posts seguidos.",
-      "metrica": "Envio ≥ 1,0% e salvamento (carrossel educativo de shibari)",
+      "passo": "Conteúdo avulso (prática), vídeo no lugar da foto de quarta",
+      "categoria": "Vídeo",
+      "formato": "Reel de trend (vídeo editado pelo Hugo)",
+      "titulo": "Castiçal (trend de fornifilia): \"Já montou um móvel desses?\"",
+      "fundo": null,
+      "fundo_nota": "vídeo",
+      "metrica": "Envio ≥ 2,5% e comentários (a legenda pede resposta); seguidores por mil views; % de não seguidores",
+      "producao": "pronto",
+      "prazo": "2026-11-09",
+      "responsavel": "Hugo",
+      "proximo": "Agendado pelo Hugo no mLabs para ter 10/11 às 08:20; ler em 72 h (13/11)",
+      "obs": "Adiantado pelo Hugo em 09/11/2026: o vídeo ocupa o lugar da foto de prática de quarta (11/11) e sai na terça. Pedido direto do Hugo, fora da fila do Leo. Pasta: 03_CONTEUDO/instagram-videos/vídeo-castical-trend (video.mp4, capa.jpg, texto.md, legenda.txt). Legenda escolhida pelo Hugo: \"Já montou um 'móvel' desses? Conta pra gente aqui nos comentários!\" com #shibari #shibaribrasil #waxplay. Sem produto, sem linha de cashback. A Ana aprovou a primeira versão da legenda; a escolhida pelo Hugo é outra e não passou por ela. Âncora: P52. Sem aviso de segurança por decisão do Hugo, como no post de 12/10. Vídeo ocupa um slot normal (decisão pontual do Hugo: a regra era vídeo só como extra).",
+      "assunto": "fornifilia (humor de dentro do meio) com vela",
+      "assunto_alerta": "Wax play em três posts em sete dias: carrossel de fotos (04/11), guia C-026 (06/11) e este vídeo com vela e #waxplay (10/11). Ler em 72 h antes de dar outro post de wax play.",
+      "agendamento": {
+        "status": "agendado",
+        "status_txt": "Agendado no mLabs",
+        "data": "2026-11-10",
+        "dia_semana": "ter",
+        "hora": "08:20",
+        "media_id": null,
+        "permalink": null,
+        "liberado": false,
+        "erro": null,
+        "capa": null
+      },
+      "arte": "G:\\Meu Drive\\SB Audiovisual\\03_CONTEUDO\\instagram-videos\\vídeo-castical-trend\\capa.jpg"
+    },
+    {
+      "id": "P20",
+      "data": "2026-11-13",
+      "formato_marca": "foto_produto",
+      "arco": null,
+      "passo": "Produto direto (foto de produto)",
+      "categoria": "Produto",
+      "formato": "Foto de produto",
+      "titulo": "Kit Shibari para Estudo",
+      "fundo": null,
+      "fundo_nota": "foto",
+      "metrica": "Visitas ao perfil, cliques na bio e pedidos orgânicos do Instagram; envio",
       "producao": "a_produzir",
       "prazo": "2026-11-12",
-      "responsavel": "Julia, Ana, Bia",
-      "proximo": "Ângulo escolhido pelo Hugo em 28/10: a visão da kinbakutoday.com (o hojojutsu não é origem direta nem tradição contínua do shibari; foi uma influência entre várias, reaproveitada no erotismo do pós-guerra, com o grau de influência debatido). Julia consolida o briefing até 04/11; texto, Ana e Bia até 12/11. O livro Essence of Shibari entra como a versão que muita gente aprendeu, citada com a fonte; o termo é explicado em português simples na primeira vez",
-      "obs": "Entra no lugar da C-003 (post de produto) por pedido do Hugo em 28/10. O Hugo gostou da visão da kinbakutoday e já tinha lido sobre. Âncora: P49 (o livro foi o primeiro contato do Hugo; aqui a marca mostra o que o livro diz e o que a leitura mais recente questiona). Sem produto e sem cashback.",
-      "assunto": "hojojutsu: influência, não origem direta (visão da kinbakutoday)",
-      "assunto_alerta": "Shibari educativo; o C-080 (shibari, kinbaku e bondage) foi ao ar em 28/09, com vocabulário próximo."
-    },
-    {
-      "id": "X2",
-      "data": "2026-11-14",
-      "extra": true,
-      "formato_marca": "casual",
-      "arco": null,
-      "passo": "Extra casual (segundo teste)",
-      "categoria": "Casual",
-      "formato": "Post casual (ideia do Hugo)",
-      "titulo": "Extra casual 2 · ideia que o Hugo trouxer, com mudança de um fator em relação ao primeiro",
-      "fundo": null,
-      "fundo_nota": "a definir com a ideia",
-      "metrica": "Envio ≥ 1,0% e ≥ 20 repostagens (barra de teste)",
-      "producao": "a_produzir",
-      "prazo": "2026-11-13",
-      "responsavel": "Hugo traz a ideia; Julia/Bia produzem",
-      "proximo": "Hugo traz a ideia até 11/11; produzir até 13/11",
-      "obs": "Segundo teste, depois da leitura do primeiro (72 h e 7 dias). O terceiro fica para dezembro.",
-      "assunto": "a definir com a ideia do Hugo",
-      "assunto_alerta": ""
-    },
-    {
-      "id": "P12",
-      "data": "2026-11-16",
-      "formato_marca": "carrossel_livre",
-      "arco": null,
-      "passo": "Conteúdo avulso (segurança)",
-      "categoria": "Educativo",
-      "formato": "Carrossel livre",
-      "titulo": "C-062 · ser submissa me faz menos feminista? o equívoco que precisa ser desfeito",
-      "fundo": "Deep Plum",
-      "fundo_nota": "Sugestão: Deep Plum ainda não foi usado nos últimos posts; a Bia confirma o contraste.",
-      "metrica": "Envio ≥ 1,2% e compartilhamento (assunto de identidade)",
-      "producao": "a_produzir",
-      "prazo": "2026-11-13",
-      "responsavel": "Julia, Ana, Bia",
-      "proximo": "Julia consolida o ângulo até 04/11; texto, Ana e Bia até 13/11; Ana revisa o tom com atenção",
-      "obs": "Entra no lugar da C-086 (que subiu para 21/10). Alternativa do banco: C-046 (o que o fetiche revela sobre você) ou C-068 (sub drop e Dom drop, perto de aftercare).",
-      "assunto": "submissão e feminismo",
-      "assunto_alerta": ""
-    },
-    {
-      "id": "P13",
-      "data": "2026-11-18",
-      "formato_marca": "carrossel_livre",
-      "arco": 1,
-      "passo": "Produto direto (conteúdo explicativo)",
-      "categoria": "Educativo",
-      "formato": "Carrossel livre (explicativo de produto)",
-      "titulo": "Qual kit para cada momento: Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda",
-      "fundo": "Warm Light",
-      "fundo_nota": "",
-      "metrica": "Envio e salvamento (guia de escolha); visitas ao perfil e cliques na bio",
-      "producao": "a_produzir",
-      "prazo": "2026-11-17",
-      "responsavel": "Julia, Ana, Bia",
-      "proximo": "Ângulo até 04/11; a Julia confirma com o Hugo a composição de cada kit; depende da definição da Black Friday",
-      "obs": "Produto direto (3º de novembro) e preparação para a Black Friday; legenda leva a linha do cashback.",
-      "assunto": "qual kit escolher (produto)",
-      "assunto_alerta": "Pode mudar conforme a oferta da Black Friday (conversa separada).",
+      "responsavel": "Fotógrafo (tratamento), Julia, Ana, Bia",
+      "proximo": "PROPOSTA, não aprovada: o fotógrafo trata as 7 fotos brutas do kit (IMG_3211 a 3217); Julia escreve a legenda com dados do Notion; confirmar a reposição da juta 8m",
+      "obs": "Produto de alto impacto no fim da semana (P105). Escolha do Hugo em 08/11/2026. Kit de ticket mais alto: 11 unidades e R$ 3.094 em 90 dias, margem de contribuição cerca de 63% (dossiê de 06/11). Legenda leva a linha do cashback. Fato de produto só do Catálogo — Produtos (Notion).",
+      "assunto": "Kit Shibari para Estudo (produto)",
+      "assunto_alerta": "Risco de estoque: o kit herda a juta 8m, com cobertura de cerca de 7 dias no dossiê de 06/11. Confirmar a reposição antes de dar destaque.",
       "produto_direto": true
+    },
+    {
+      "id": "P21",
+      "data": "2026-11-16",
+      "formato_marca": "por_tras",
+      "arco": null,
+      "passo": "Conteúdo avulso (desejo)",
+      "categoria": "Educativo",
+      "formato": "Por trás do desejo (5 páginas, layout dicionário)",
+      "titulo": "Por trás do desejo · controle do orgasmo (edging)",
+      "fundo": "Warm Light",
+      "fundo_nota": "Sugestão do Leo: Warm Light (claro). O último post com fundo foi a frase de 07/11 em Carbon Black (escuro), e entre os dois só saem o vídeo e a foto de produto, sem fundo; Deep Plum fica de fora porque o pet play (03/11) acabou de usá-lo. Alternativa: Skin Nude (claro; usado em 06/11). A Bia confere o contraste e o checador de cores.",
+      "metrica": "Envio ≥ 1,6% (mediana do formato) e seguidores por mil views",
+      "producao": "a_produzir",
+      "prazo": "2026-11-13",
+      "responsavel": "Hugo (posição), Leo, Julia, Ana, Bia",
+      "proximo": "PROPOSTA, não aprovada e sem briefing: falta a posição do Hugo sobre por que a espera aumenta o desejo e sobre o nome (controle do orgasmo no título, edging como termo no texto)",
+      "obs": "Escolha do Hugo em 08/11/2026 entre três opções (as outras: masoquismo e sadismo; humilhação erótica). Fontes da biblioteca, todas de comunidade ou loja em inglês: Veaux (S-3170), Sunny Megatron no Kinkly (S-8864), Kinkly (S-7065, S-9638), Bad Girls Bible (S-3955), Submissive Guide (S-245, S-503). As fontes divergem sobre edging × denial; o post não afirma uma definição única. Sem dispositivo de castidade. Ângulo sugerido: o desejo que cresce quando o final é adiado, com o combinado antes como fronteira. Sem posição do Hugo, o tema vira pergunta, não briefing.",
+      "assunto": "controle do orgasmo (edging)",
+      "assunto_alerta": "Termo sexual e explícito; o risco de alcance é só estimativa, o documento de risco não trata do termo. Perto do pet play (03/11) pela dinâmica D/s."
     },
     {
       "id": "P15",
@@ -654,6 +647,24 @@
       "o_que": "Reservar na pauta os slots de 23, 25, 27 e 30/11 para a Black Friday; abrir o planejamento de dezembro a partir de 16/11",
       "prazo": "Esta semana (reserva) e 16/11 (dezembro)",
       "obs": "Dezembro depende da Black Friday"
+    },
+    {
+      "para": "Hugo",
+      "o_que": "Decidir: posição sobre o edging de 16/11; reposição da juta 8m antes do Kit para Estudo de 13/11; se 11/11 fica livre ou ganha outra peça.",
+      "prazo": "2026-11-10",
+      "obs": "Nada disso foi aprovado: o plano v14 só confirma o vídeo agendado de 10/11."
+    },
+    {
+      "para": "Fotógrafo",
+      "o_que": "Tratar as 7 fotos brutas do Kit Shibari para Estudo (01_PRODUTOS/236067242_kit-shibari-para-estudo/foto/bruto) se o Hugo aprovar o slot de 13/11.",
+      "prazo": "2026-11-11",
+      "obs": "Só roda com o sim do Hugo para gravar no Drive."
+    },
+    {
+      "para": "Mari",
+      "o_que": "Confirmar na pauta a postagem do vídeo do castiçal (10/11 às 08:20) quando o perfil mostrar.",
+      "prazo": "2026-11-10",
+      "obs": ""
     }
   ],
   "captacao": [
@@ -910,6 +921,30 @@
       "titulo": "Foto de produto: óleo e cera de tratamento em uso (Hugo na cena, sem comando de venda)",
       "fundo": null,
       "nota": "Saiu do slot de 06/11 em 31/10 (entrou o guia de wax play); sem data. A foto sai da captação da sessão 1 (09 a 16/11)."
+    },
+    {
+      "codigo": "C-004",
+      "titulo": "hojojutsu e shibari: o que as fontes dizem",
+      "fundo": "Warm Light",
+      "nota": "Saiu do slot de 13/11 em 08/11/2026: o Hugo mandou repensar do zero tudo o que vinha depois de 07/11. Ângulo (visão da kinbakutoday) segue válido."
+    },
+    {
+      "codigo": "C-062",
+      "titulo": "ser submissa me faz menos feminista? o equívoco que precisa ser desfeito",
+      "fundo": "Deep Plum",
+      "nota": "Saiu do slot de 16/11 em 08/11/2026 (replanejamento). Tom pede atenção da Ana."
+    },
+    {
+      "codigo": "P13-guia-kits",
+      "titulo": "Qual kit para cada momento: Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda",
+      "fundo": "Warm Light",
+      "nota": "Saiu do slot de 18/11 em 08/11/2026. Depende da Black Friday e da composição dos kits."
+    },
+    {
+      "codigo": "X2",
+      "titulo": "Extra casual 2 (ideia do Hugo, mudando um fator)",
+      "fundo": null,
+      "nota": "Saiu do slot de 14/11 em 08/11/2026. O vídeo do castiçal (10/11) ocupa o lugar de extra desta quinzena."
     }
   ],
   "em_espera": [
@@ -1049,11 +1084,11 @@
       ]
     },
     {
-      "titulo": "Slots livres depois de 07/11",
-      "slots": "09, 11 e 20/11 (eram Reel C, C-026 e Reel B) e a C-046 sem data",
+      "titulo": "Slots livres: 11, 18 e 20/11",
+      "slots": "11/11 (a foto de prática foi substituída pelo vídeo de 10/11), 18/11 e 20/11 (antes da Black Friday, que reserva 23, 25, 27 e 30/11)",
       "opcoes": [
-        "Preencher 11/11 com a C-046 e deixar 09 e 20/11 sem post (3 posts por semana não são obrigatórios).",
-        "Trazer a foto de óleo e cera e a C-101 (cuidar da corda) para 09 e 20/11.",
+        "Deixar sem post (3 por semana não são obrigatórios).",
+        "Trazer um item da reserva (C-004 ou C-062) para 18/11.",
         "Outro conjunto, a seu critério (o Leo propõe com âncora no núcleo)."
       ]
     }
@@ -1128,5 +1163,6 @@
       ],
       "hoje": 0
     }
-  ]
+  ],
+  "regra_arte_no_artefato": "Regra do Hugo (09/11/2026): todo post futuro que já tiver arte pronta precisa aparecer no artefato com a arte. Preencher o campo `arte` do slot com o caminho do JPG (capa.jpg na pasta do conteúdo, no Drive). O gerador avisa \"SEM ARTE NO ARTEFATO\" quando o slot está pronto e sem arte."
 }

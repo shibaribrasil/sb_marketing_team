@@ -83,6 +83,7 @@ Quando o Hugo disser `Confirmar postagem: [título]`: mover o item para **Pronto
 | Transformar um slot aprovado em peça: ângulo, texto e legenda | Julia (agente-escritor); ela aciona a Ana |
 | Revisar um texto direto | Ana (agente-revisor) |
 | Definir o visual (texto aprovado) | Bia (agente-diretor-de-arte) |
+| Editar uma peça em vídeo (Reel, vídeo de feed, story em vídeo) com texto aprovado | Davi (agente-video), só com o `briefing-video.md` pronto (Bia, com o Hugo); sem ele, Bia primeiro |
 | Publicar uma peça pronta | Você (pacote de publicação) |
 | Anúncios pagos | Não é do marketing. Google Ads: `especialista-google` (`sb_admin_team`). Meta Ads: parado, sem dono (falar com o Hugo) |
 | Cadastrar produto ou criar descrição | Não é do marketing: cadastrador (`sb_admin_team`) |

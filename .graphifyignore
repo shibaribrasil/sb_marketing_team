@@ -21,3 +21,10 @@ estrategia/.hash-artefato
 
 # Ferramentas (não são conhecimento do projeto)
 .claude/skills/graphify/
+
+# Código de vídeo (Remotion): o código das composições entra no grafo; dependências e renders não
+video/node_modules/
+video/out/
+video/build/
+video/.remotion/
+video/package-lock.json

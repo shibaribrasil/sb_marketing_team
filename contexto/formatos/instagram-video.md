@@ -13,10 +13,11 @@
 ### Fluxo de produção
 
 1. Definir o território/técnica a ser demonstrada (a partir de um slot aprovado da fila ou pedido direto do Hugo)
-2. Produção do vídeo (gravação/edição — fora do escopo dos agentes de texto; o arquivo de vídeo é anexado à pasta do conteúdo)
-3. Julia escreve a legenda de apoio em `texto.md`
-4. Ana revisa
-5. Segue para **Pronto - Aguardando Publicação**
+2. **Briefing de vídeo** (`briefing-video.md`, modelo em `contexto/formatos/modelos/briefing-video-modelo.md`): a Bia prepara com o Hugo, depois do texto aprovado; sem ele o Davi não edita
+3. Produção do vídeo: a gravação é do Hugo; a **edição é do Davi** (`agente-video`, Remotion, em `video/`), depois do texto aprovado e do `visual-spec.md` da Bia. O Davi entrega `video.mp4` e `capa.jpg` na pasta do conteúdo, no padrão de mídia para a API, depois de o Hugo aprovar o rascunho. Vídeo já editado pelo Hugo fora do Remotion segue direto para a Mari, com a mesma checagem de mídia
+4. Julia escreve a legenda de apoio em `texto.md`
+5. Ana revisa
+6. Segue para **Pronto - Aguardando Publicação**
 
 ---
 
@@ -44,3 +45,4 @@ Texto de apoio ao vídeo.
 - [ ] Máximo 5 hashtags ao final da legenda
 - [ ] Nenhuma palavra da lista negra da hab-produtor-textual
 - [ ] Autorevisão executada
+- [ ] `briefing-video.md` pronto para o Davi (Bia) e atualizado com o que de fato foi feito (Davi)

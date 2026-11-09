@@ -62,3 +62,16 @@
 ## 03/11/2026 18:51 (fila vv13 (rascunho, não aprovado))
 - slot P10: 'C-026 · velas que podem e velas que nunca: o guia de segurança do wax play' virou 'C-026 · wax play: qual vela usar'
 
+## 09/11/2026 00:08 (fila vv14 (rascunho: vídeo de 10/11 agendado; demais propostas aguardam o Hugo))
+- entrou na fila: Castiçal (trend de fornifilia): "Já montou um móvel desses?" (10/11)
+- entrou na fila: Foto de prática com uma frase (a definir com o Hugo) (11/11)
+- entrou na fila: Kit Shibari para Estudo (13/11)
+- entrou na fila: Por trás do desejo · controle do orgasmo (edging) (16/11)
+- saiu da fila: C-004 · hojojutsu e shibari: o que as fontes dizem (13/11)
+- saiu da fila: Extra casual 2 · ideia que o Hugo trouxer, com mudança de um fator em relação ao primeiro (14/11)
+- saiu da fila: C-062 · ser submissa me faz menos feminista? o equívoco que precisa ser desfeito (16/11)
+- saiu da fila: Qual kit para cada momento: Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda (18/11)
+
+## 09/11/2026 00:14 (fila vv14 (rascunho: vídeo de 10/11 agendado no lugar da foto de quarta; demais propostas aguardam o Hugo))
+- saiu da fila: Foto de prática com uma frase (a definir com o Hugo) (11/11)
+

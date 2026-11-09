@@ -2,6 +2,19 @@
 
 > Decisões do Hugo e regras de leitura. Acrescente com data a cada nova decisão. Não repita erro já pago.
 
+## Decisão de 09/11/2026 (Hugo): arte pronta no artefato e fundo na proposta
+
+- **Arte pronta aparece no artefato, sempre.** Todo post futuro que já tiver arte pronta precisa estar com a arte no artefato da sequência. Como fazer: preencher o campo `arte` do slot em `estrategia/sequencia-instagram-plano.json` com o caminho do JPG (normalmente `capa.jpg` na pasta do conteúdo, no Drive) e republicar o artefato. O gerador avisa `SEM ARTE NO ARTEFATO` quando o slot está "pronto" e sem arte. Quem entrega a arte (Bia, Davi ou o Hugo) avisa o Leo.
+- **Proposta de conteúdo já traz o fundo.** Toda proposta de slot com fundo (carrossel, Por trás do desejo, mitos, frase) sai com o fundo sugerido e o motivo: alternar claro e escuro, não repetir cor em posts seguidos, Scarlet no máximo 1 em 9. Esquecer o fundo foi apontado pelo Hugo em 09/11/2026.
+- **Substituição de slot atualiza a sequência na hora.** Quando o Hugo adianta uma peça no lugar de outra (vídeo do castiçal no lugar da foto de quarta), a peça substituída sai do plano no mesmo passo, sem deixar duplicata.
+
+## Decisão de 08/11/2026 (Hugo): produto de alto impacto, no fim da semana (núcleo: P105)
+
+- **Produto principal do post: alta visibilidade e impacto.** Post de produto engaja pouco; por isso o produto do slot é **kit de shibari ou de BDSM** ou item de **ticket mais alto ou premium**. **Cera, óleo e itens sem apelo visual ou sem apelo de desejo de compra entre praticantes nunca são o produto principal**: aparecem associados a outros produtos (dentro do kit, em foto de prática, em conteúdo de cuidado da corda) ou em papel coadjuvante. A pausada "Foto de produto: óleo e cera" deixa de existir como slot de produto e só reabre junto de kit ou de prática.
+- **Dia da semana:** o **início da semana já vende muito bem**. Segunda e meio da semana ficam para **outro tipo de visibilidade** (conteúdo educativo, prática, identificação); **o post de produto vai para o fim da semana** (sexta; quinta quando houver), quando a venda dá uma baixada. Isso inverte a ideia de "foto rápida na segunda". Pendente: conferir por dia da semana, nos pedidos, se o início da semana vende mais (analista de dados) antes de tratar como [MEDIDO].
+- **Produto da semana de 09/11/2026: Kit Shibari para Estudo** (4 cordas de juta tratada 6mm x 8m, óleo de 60 ml e corda de 4m de brinde, com ou sem tesoura; fatos do Notion). **Risco:** o kit herda o estoque da juta 8m, que estava com cobertura de cerca de 7 dias no dossiê de 06/11; confirmar a reposição com o Hugo antes de aprovar o slot.
+- **Checklist ao escolher produto de slot** (a mesma lista está em P105): kit ou ticket alto/premium? tem apelo visual? estoque conferido (kit herda componentes)? cai no fim da semana? O mínimo de 3 posts de produto por mês e o cashback em toda peça com produto continuam valendo.
+
 ## Decisão de 31/10/2026 (Hugo): vídeo fora da sequência, só como extra
 
 - O Hugo ainda está testando e estudando vídeo. **Nenhum vídeo entra na sequência (slots de segunda, quarta e sexta) neste mês.** Se ele gravar, o vídeo é **post extra**. Saíram os Reels A (26/10), C (09/11) e B (20/11); roteiros guardados em `estrategia/material/roteiros/`.
