@@ -1,6 +1,6 @@
 {
- "versao": "v14 (rascunho: vídeo de 10/11 agendado no lugar da foto de quarta; demais propostas aguardam o Hugo)",
- "atualizado_em": "2026-11-09",
+ "versao": "v16 (edging adiantado para qua 11/11; Kit para Estudo incompleto e sem data; sexta 13/11 livre)",
+ "atualizado_em": "2026-11-10",
  "itens": {
   "P1": {
    "data": "2026-10-21",
@@ -83,20 +83,11 @@
    "assunto": "fornifilia (humor de dentro do meio) com vela",
    "arco": null
   },
-  "P20": {
-   "data": "2026-11-13",
-   "titulo": "Kit Shibari para Estudo",
-   "formato": "Foto de produto",
-   "prazo": "2026-11-12",
-   "responsavel": "Fotógrafo (tratamento), Julia, Ana, Bia",
-   "assunto": "Kit Shibari para Estudo (produto)",
-   "arco": null
-  },
   "P21": {
-   "data": "2026-11-16",
-   "titulo": "Por trás do desejo · controle do orgasmo (edging)",
+   "data": "2026-11-11",
+   "titulo": "Por trás do desejo · controle de org*smo (edging)",
    "formato": "Por trás do desejo (5 páginas, layout dicionário)",
-   "prazo": "2026-11-13",
+   "prazo": "2026-11-10",
    "responsavel": "Hugo (posição), Leo, Julia, Ana, Bia",
    "assunto": "controle do orgasmo (edging)",
    "arco": null
@@ -139,9 +130,11 @@
   }
  },
  "ultimas_mudancas": {
-  "quando": "09/11/2026 00:14",
+  "quando": "10/11/2026 10:11",
   "itens": [
-   "saiu da fila: Foto de prática com uma frase (a definir com o Hugo) (11/11)"
+   "Por trás do desejo · controle de org*smo (edging): data de postagem 13/11 -> 11/11",
+   "Por trás do desejo · controle de org*smo (edging): prazo de entrega 12/11 -> 10/11",
+   "saiu da fila: Kit Shibari para Estudo (11/11)"
   ]
  }
 }

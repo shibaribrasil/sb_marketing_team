@@ -1,6 +1,6 @@
 {
-  "versao": "v14 (rascunho: vídeo de 10/11 agendado no lugar da foto de quarta; demais propostas aguardam o Hugo)",
-  "atualizado_em": "2026-11-09",
+  "versao": "v16 (edging adiantado para qua 11/11; Kit para Estudo incompleto e sem data; sexta 13/11 livre)",
+  "atualizado_em": "2026-11-10",
   "nota": "Fonte do plano exibido no artefato. O texto narrativo e as decisões ficam em 'Sequência de Conteúdo Instagram.md'. Ao mudar a sequência, atualizar os dois e republicar o artefato (scripts/gerar_artefato_sequencia.py). Planejamento por mês de calendário; pelo menos 3 de cerca de 12 posts por mês diretamente sobre produto; arcos só para produto; assuntos próximos avaliados caso a caso com o Hugo.",
   "cashback": {
     "linha_legenda": "toda compra na Shibari Brasil gera 10% de cashback para a próxima.",
@@ -279,13 +279,13 @@
       "producao": "pronto",
       "prazo": "2026-11-09",
       "responsavel": "Hugo",
-      "proximo": "Agendado pelo Hugo no mLabs para ter 10/11 às 08:20; ler em 72 h (13/11)",
+      "proximo": "Postado no ar em 10/11 cedo (confirmado pelo Hugo); ler em 72 h (13/11) antes de dar outro post de wax play",
       "obs": "Adiantado pelo Hugo em 09/11/2026: o vídeo ocupa o lugar da foto de prática de quarta (11/11) e sai na terça. Pedido direto do Hugo, fora da fila do Leo. Pasta: 03_CONTEUDO/instagram-videos/vídeo-castical-trend (video.mp4, capa.jpg, texto.md, legenda.txt). Legenda escolhida pelo Hugo: \"Já montou um 'móvel' desses? Conta pra gente aqui nos comentários!\" com #shibari #shibaribrasil #waxplay. Sem produto, sem linha de cashback. A Ana aprovou a primeira versão da legenda; a escolhida pelo Hugo é outra e não passou por ela. Âncora: P52. Sem aviso de segurança por decisão do Hugo, como no post de 12/10. Vídeo ocupa um slot normal (decisão pontual do Hugo: a regra era vídeo só como extra).",
       "assunto": "fornifilia (humor de dentro do meio) com vela",
       "assunto_alerta": "Wax play em três posts em sete dias: carrossel de fotos (04/11), guia C-026 (06/11) e este vídeo com vela e #waxplay (10/11). Ler em 72 h antes de dar outro post de wax play.",
       "agendamento": {
-        "status": "agendado",
-        "status_txt": "Agendado no mLabs",
+        "status": "publicado",
+        "status_txt": "Publicado em 10/11 às 08:20",
         "data": "2026-11-10",
         "dia_semana": "ter",
         "hora": "08:20",
@@ -298,42 +298,21 @@
       "arte": "G:\\Meu Drive\\SB Audiovisual\\03_CONTEUDO\\instagram-videos\\vídeo-castical-trend\\capa.jpg"
     },
     {
-      "id": "P20",
-      "data": "2026-11-13",
-      "formato_marca": "foto_produto",
-      "arco": null,
-      "passo": "Produto direto (foto de produto)",
-      "categoria": "Produto",
-      "formato": "Foto de produto",
-      "titulo": "Kit Shibari para Estudo",
-      "fundo": null,
-      "fundo_nota": "foto",
-      "metrica": "Visitas ao perfil, cliques na bio e pedidos orgânicos do Instagram; envio",
-      "producao": "a_produzir",
-      "prazo": "2026-11-12",
-      "responsavel": "Fotógrafo (tratamento), Julia, Ana, Bia",
-      "proximo": "PROPOSTA, não aprovada: o fotógrafo trata as 7 fotos brutas do kit (IMG_3211 a 3217); Julia escreve a legenda com dados do Notion; confirmar a reposição da juta 8m",
-      "obs": "Produto de alto impacto no fim da semana (P105). Escolha do Hugo em 08/11/2026. Kit de ticket mais alto: 11 unidades e R$ 3.094 em 90 dias, margem de contribuição cerca de 63% (dossiê de 06/11). Legenda leva a linha do cashback. Fato de produto só do Catálogo — Produtos (Notion).",
-      "assunto": "Kit Shibari para Estudo (produto)",
-      "assunto_alerta": "Risco de estoque: o kit herda a juta 8m, com cobertura de cerca de 7 dias no dossiê de 06/11. Confirmar a reposição antes de dar destaque.",
-      "produto_direto": true
-    },
-    {
       "id": "P21",
-      "data": "2026-11-16",
+      "data": "2026-11-11",
       "formato_marca": "por_tras",
       "arco": null,
       "passo": "Conteúdo avulso (desejo)",
       "categoria": "Educativo",
       "formato": "Por trás do desejo (5 páginas, layout dicionário)",
-      "titulo": "Por trás do desejo · controle do orgasmo (edging)",
+      "titulo": "Por trás do desejo · controle de org*smo (edging)",
       "fundo": "Warm Light",
-      "fundo_nota": "Sugestão do Leo: Warm Light (claro). O último post com fundo foi a frase de 07/11 em Carbon Black (escuro), e entre os dois só saem o vídeo e a foto de produto, sem fundo; Deep Plum fica de fora porque o pet play (03/11) acabou de usá-lo. Alternativa: Skin Nude (claro; usado em 06/11). A Bia confere o contraste e o checador de cores.",
+      "fundo_nota": "Sugestão do Leo: Warm Light (claro). O último post com fundo foi a frase de 07/11 em Carbon Black (escuro); entre os dois saem o vídeo (10/11) e a foto de produto (11/11), sem fundo; Deep Plum fica de fora porque o pet play (03/11) acabou de usá-lo. Alternativa: Skin Nude (claro; usado em 06/11). A Bia confere o contraste e o checador de cores. Com a data em 11/11, o post anterior com fundo continua sendo a frase de 07/11 em Carbon (escuro): Warm Light (claro) alterna.",
       "metrica": "Envio ≥ 1,6% (mediana do formato) e seguidores por mil views",
-      "producao": "a_produzir",
-      "prazo": "2026-11-13",
+      "producao": "design",
+      "prazo": "2026-11-10",
       "responsavel": "Hugo (posição), Leo, Julia, Ana, Bia",
-      "proximo": "PROPOSTA, não aprovada e sem briefing: falta a posição do Hugo sobre por que a espera aumenta o desejo e sobre o nome (controle do orgasmo no título, edging como termo no texto)",
+      "proximo": "Adiantado pelo Hugo para quarta 11/11 (10/11/2026), no lugar do Kit para Estudo. Texto e legenda aprovados; falta o design (Bia: Canva e foto) ainda HOJE, com a arte exportada até a noite de 10/11 para o Hugo agendar. Asterisco nas palavras sensíveis (P109); legenda só com #shibaribrasil.",
       "obs": "Escolha do Hugo em 08/11/2026 entre três opções (as outras: masoquismo e sadismo; humilhação erótica). Fontes da biblioteca, todas de comunidade ou loja em inglês: Veaux (S-3170), Sunny Megatron no Kinkly (S-8864), Kinkly (S-7065, S-9638), Bad Girls Bible (S-3955), Submissive Guide (S-245, S-503). As fontes divergem sobre edging × denial; o post não afirma uma definição única. Sem dispositivo de castidade. Ângulo sugerido: o desejo que cresce quando o final é adiado, com o combinado antes como fronteira. Sem posição do Hugo, o tema vira pergunta, não briefing.",
       "assunto": "controle do orgasmo (edging)",
       "assunto_alerta": "Termo sexual e explícito; o risco de alcance é só estimativa, o documento de risco não trata do termo. Perto do pet play (03/11) pela dinâmica D/s."
@@ -650,19 +629,20 @@
     },
     {
       "para": "Hugo",
-      "o_que": "Decidir: posição sobre o edging de 16/11; reposição da juta 8m antes do Kit para Estudo de 13/11; se 11/11 fica livre ou ganha outra peça.",
+      "o_que": "Escolher o post de sexta 13/11; mandar as fotos de amarração de 3 a 4 cordas e confirmar a contagem; reposição da juta 8m antes de o Kit para Estudo sair; o que ocupa 16, 18 e 20/11.",
       "prazo": "2026-11-10",
       "obs": "Nada disso foi aprovado: o plano v14 só confirma o vídeo agendado de 10/11."
     },
     {
       "para": "Fotógrafo",
-      "o_que": "Tratar as 7 fotos brutas do Kit Shibari para Estudo (01_PRODUTOS/236067242_kit-shibari-para-estudo/foto/bruto) se o Hugo aprovar o slot de 13/11.",
+      "o_que": "Sem prazo agora: tratar as 7 fotos brutas do Kit Shibari para Estudo (01_PRODUTOS/236067242_kit-shibari-para-estudo/foto/bruto) quando o Hugo definir a data do carrossel do kit.",
       "prazo": "2026-11-11",
-      "obs": "Só roda com o sim do Hugo para gravar no Drive."
+      "obs": "Só roda com o sim do Hugo para gravar no Drive.",
+      "quando": null
     },
     {
       "para": "Mari",
-      "o_que": "Confirmar na pauta a postagem do vídeo do castiçal (10/11 às 08:20) quando o perfil mostrar.",
+      "o_que": "Confirmar na pauta a postagem do vídeo do castiçal (no ar em 10/11, conforme o Hugo) quando o perfil mostrar.",
       "prazo": "2026-11-10",
       "obs": ""
     }
@@ -967,6 +947,11 @@
       "codigo": "Reel B",
       "titulo": "Reel B · o que a gente confere antes de amarrar (tesoura em cena)",
       "nota": "Saiu da sequência em 31/10/2026 (Hugo ainda estuda vídeo): se for gravado, entra como post extra. Estava em 2026-11-20. Roteiro guardado."
+    },
+    {
+      "codigo": "P20",
+      "titulo": "Kit Shibari para Estudo · carrossel \"quer fazer amarrações como essas?\" (3 a 4 cordas)",
+      "nota": "INCOMPLETO, sem data (Hugo, 10/11/2026): não há como fotografar o kit para quarta 11/11. Nova ideia do Hugo: carrossel que abre com fotos de amarrações de 3 a 4 cordas, depois \"o que você precisa\" e por fim o kit. Briefing aberto em 03_CONTEUDO/instagram-carrossel-livre/kit-estudo-amarracoes-3-4-cordas/briefing.md, com as amarrações da biblioteca e o que falta. Pendente: fotos do Hugo, confirmar \"3 a 4 cordas\" pela prática, linha do cashback, reposição da juta 8m, fotos do kit."
     }
   ],
   "classificacao_manual": {
@@ -1084,8 +1069,8 @@
       ]
     },
     {
-      "titulo": "Slots livres: 11, 18 e 20/11",
-      "slots": "11/11 (a foto de prática foi substituída pelo vídeo de 10/11), 18/11 e 20/11 (antes da Black Friday, que reserva 23, 25, 27 e 30/11)",
+      "titulo": "Slots livres: 13, 16, 18 e 20/11",
+      "slots": "13/11 (sexta; o Hugo pediu uma ideia nova), 16/11, 18/11 e 20/11 (antes da Black Friday, que reserva 23, 25, 27 e 30/11)",
       "opcoes": [
         "Deixar sem post (3 por semana não são obrigatórios).",
         "Trazer um item da reserva (C-004 ou C-062) para 18/11.",

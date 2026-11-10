@@ -75,3 +75,17 @@
 ## 09/11/2026 00:14 (fila vv14 (rascunho: vídeo de 10/11 agendado no lugar da foto de quarta; demais propostas aguardam o Hugo))
 - saiu da fila: Foto de prática com uma frase (a definir com o Hugo) (11/11)
 
+## 09/11/2026 11:04 (fila vv15 (vídeo no ar em 10/11; Kit para Estudo na quarta 11/11; Por trás do desejo na sexta 13/11, em produção))
+- Kit Shibari para Estudo: data de postagem 13/11 -> 11/11
+- Kit Shibari para Estudo: prazo de entrega 12/11 -> 10/11
+- Por trás do desejo · controle do orgasmo (edging): data de postagem 16/11 -> 13/11
+- Por trás do desejo · controle do orgasmo (edging): prazo de entrega 13/11 -> 12/11
+
+## 09/11/2026 14:20 (fila vv15 (vídeo no ar em 10/11; Kit para Estudo na quarta 11/11; Por trás do desejo na sexta 13/11, em produção))
+- slot P21: 'Por trás do desejo · controle do orgasmo (edging)' virou 'Por trás do desejo · controle de org*smo (edging)'
+
+## 10/11/2026 10:11 (fila vv16 (edging adiantado para qua 11/11; Kit para Estudo incompleto e sem data; sexta 13/11 livre))
+- Por trás do desejo · controle de org*smo (edging): data de postagem 13/11 -> 11/11
+- Por trás do desejo · controle de org*smo (edging): prazo de entrega 12/11 -> 10/11
+- saiu da fila: Kit Shibari para Estudo (11/11)
+

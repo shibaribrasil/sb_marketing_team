@@ -8,17 +8,20 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 
 ## 🎯 Fila prioritária (sequência do Instagram)
 
-> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v14 (rascunho: vídeo de 10/11 agendado no lugar da foto de quarta; demais propostas aguardam o Hugo)**, atualizada em **2026-11-09**. Sincronizada em 09/11/2026 00:14 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
+> **Regra:** esta fila tem prioridade sobre qualquer outra produção de Instagram. Fonte: sequência do Hugo, versão **v16 (edging adiantado para qua 11/11; Kit para Estudo incompleto e sem data; sexta 13/11 livre)**, atualizada em **2026-11-10**. Sincronizada em 10/11/2026 13:24 por `scripts/sincronizar_fila.py`. Produção fora da fila só com autorização do Hugo. Arco só vale para peças de produto.
 
-**Mudanças na fila (09/11/2026 00:14):**
-- saiu da fila: Foto de prática com uma frase (a definir com o Hugo) (11/11)
+**Mudanças na fila (10/11/2026 10:11):**
+- Por trás do desejo · controle de org*smo (edging): data de postagem 13/11 -> 11/11
+- Por trás do desejo · controle de org*smo (edging): prazo de entrega 12/11 -> 10/11
+- saiu da fila: Kit Shibari para Estudo (11/11)
 
 **Atenção:**
 - 23/10: a pauta tem 'Foto de prática com uma frase [fila:P2]' no slot de 'Cinco segundos: quase uma foto'; registrar a troca na fila
 - 23/10 Cinco segundos: quase uma foto (vídeo de prática d: há post no ar nesse dia (https://www.instagram.com/reel/De1ZF0uFbkc/); confirmar a postagem na pauta
 - 23/10 Cinco segundos: quase uma foto (vídeo de prática do acervo, : entrega de 22/10 atrasada (Briefing)
+- produção fora da fila (Briefing): Kit Shibari para Estudo · carrossel "quer fazer amarrações como essas?
 
-> Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 08/11/2026 23:48. Atualizar: `python scripts/status_instagram.py`.
+> Status do Instagram (no ar e agendado) lido de `contexto/status-instagram.json`, gerado em 10/11/2026 13:24. Atualizar: `python scripts/status_instagram.py`.
 
 | Posta em | Peça | Formato | Assunto | Arco | Entrega | Quem | Status na pauta | Alerta |
 |---|---|---|---|---|---|---|---|---|
@@ -30,9 +33,8 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 | 04/11 | Wax play e shibari juntos: carrossel de 3 fotos do acervo, com o novo mix de velas e o cartão de remoção | Carrossel de 3 fotos do acervo (wax play na prática de shibari) | wax play (prática com shibari e produto) | — | 03/11 | Hugo (escolhe as fotos), Julia, Ana | Publicado |  |
 | 06/11 | C-026 · wax play: qual vela usar | Carrossel educativo (densidade do carrossel livre) | wax play (velas e segurança) | — | 05/11 | Julia, Ana, Bia | Publicado |  |
 | 07/11 (extra) | C-107 · o limite de alguém não é um desafio pra você vencer | Post de frase | limite de quem ouve um não (frase) | — | 06/11 | Hugo (texto no time), Bia | Agendado |  |
-| 10/11 | Castiçal (trend de fornifilia): "Já montou um móvel desses?" | Reel de trend (vídeo editado pelo Hugo) | fornifilia (humor de dentro do meio) com vela | — | 09/11 | Hugo | Agendado |  |
-| 13/11 | Kit Shibari para Estudo | Foto de produto | Kit Shibari para Estudo (produto) | — | 12/11 | Fotógrafo (tratamento), Julia, Ana, Bia | sem linha na pauta | abrir linha na pauta |
-| 16/11 | Por trás do desejo · controle do orgasmo (edging) | Por trás do desejo (5 páginas, layout dicionário) | controle do orgasmo (edging) | — | 13/11 | Hugo (posição), Leo, Julia, Ana, Bia | sem linha na pauta | abrir linha na pauta |
+| 10/11 | Castiçal (trend de fornifilia): "Já montou um móvel desses?" | Reel de trend (vídeo editado pelo Hugo) | fornifilia (humor de dentro do meio) com vela | — | 09/11 | Hugo | Publicado |  |
+| 11/11 | Por trás do desejo · controle de org*smo (edging) | Por trás do desejo (5 páginas, layout dicionário) | controle do orgasmo (edging) | — | 10/11 | Hugo (posição), Leo, Julia, Ana, Bia | Design em Produção |  |
 | 23/11 | Reservado: Black Friday, semana da campanha | Black Friday (conversa separada) | Black Friday | — | 20/11 | Hugo + Planejador | reservado (Black Friday) |  |
 | 25/11 | Reservado: Black Friday, semana da campanha | Black Friday (conversa separada) | Black Friday | — | 23/11 | Hugo + Planejador | reservado (Black Friday) |  |
 | 27/11 | Reservado: Black Friday (sexta, 27/11) | Black Friday (conversa separada) | Black Friday | — | 24/11 | Hugo + Planejador | reservado (Black Friday) |  |
@@ -46,9 +48,9 @@ Centro de controle da produção de conteúdo. **Ordem de leitura:** 1) Fila pri
 - **Mari** (Esta semana): Confirmar a postagem da C-105 (bingo, no ar em 10/10) e passar a fila acima como prioridade da produção
 - **Julia e Hugo** (Kits e cashback: 04/11): Confirmar com o Hugo a composição de cada kit (Kit Shibari Iniciante, Kit para Estudo e Kit Corda a Corda) e os termos do cashback. Os fatos das velas (47 °C e 65 °C) e do cartão de remoção de cera já estão no Notion (Catálogo — Produtos)
 - **Mari** (Esta semana (reserva) e 16/11 (dezembro)): Reservar na pauta os slots de 23, 25, 27 e 30/11 para a Black Friday; abrir o planejamento de dezembro a partir de 16/11
-- **Hugo** (2026-11-10): Decidir: posição sobre o edging de 16/11; reposição da juta 8m antes do Kit para Estudo de 13/11; se 11/11 fica livre ou ganha outra peça.
-- **Fotógrafo** (2026-11-11): Tratar as 7 fotos brutas do Kit Shibari para Estudo (01_PRODUTOS/236067242_kit-shibari-para-estudo/foto/bruto) se o Hugo aprovar o slot de 13/11.
-- **Mari** (2026-11-10): Confirmar na pauta a postagem do vídeo do castiçal (10/11 às 08:20) quando o perfil mostrar.
+- **Hugo** (2026-11-10): Escolher o post de sexta 13/11; mandar as fotos de amarração de 3 a 4 cordas e confirmar a contagem; reposição da juta 8m antes de o Kit para Estudo sair; o que ocupa 16, 18 e 20/11.
+- **Fotógrafo** (2026-11-11): Sem prazo agora: tratar as 7 fotos brutas do Kit Shibari para Estudo (01_PRODUTOS/236067242_kit-shibari-para-estudo/foto/bruto) quando o Hugo definir a data do carrossel do kit.
+- **Mari** (2026-11-10): Confirmar na pauta a postagem do vídeo do castiçal (no ar em 10/11, conforme o Hugo) quando o perfil mostrar.
 
 <!-- FILA-PRIORITARIA:FIM -->
 
@@ -82,6 +84,7 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 
 | Título | Tipo de Conteúdo | Arquivo do Briefing | Ângulo / Gancho |
 |---|---|---|---|
+| Kit Shibari para Estudo · carrossel "quer fazer amarrações como essas?" (3 a 4 cordas) [INCOMPLETO, sem data] (Hugo, 10/11/2026: sem fotos do kit para 11/11; ideia nova: abre com fotos de amarração, depois o que precisa, depois o kit; fundo sugerido Plum 900) | Carrossel Livre (a confirmar) | `conteudos/instagram-carrossel-livre/kit-estudo-amarracoes-3-4-cordas/briefing.md` (amarrações da biblioteca e pendências) | Incompleto: fotos do Hugo, confirmar "3 a 4 cordas" pela prática, cashback, juta 8m, fotos do kit; não vai à Julia antes disso |
 | Foto de prática com uma frase [fila:P2] (posta 23/10; escolher a foto e a frase até 22/10) | Post de Foto (Instagram) | a criar: Hugo escolhe a foto, Julia escreve a frase | Identificação; Hugo aparece, amarrado sem rosto |
 | Reel A · primeiros minutos com a corda [pausada] (saiu da sequência em 31/10/2026: o Hugo ainda estuda vídeo; se gravar, entra como post extra) | Instagram Vídeo | roteiro pronto em `estrategia/material/roteiros/roteiros-reels-fase1-2026-10-19.md` | Kit Shibari Iniciante em uso; end card do cashback |
 | Foto de produto: óleo e cera de tratamento [pausada; rebaixada em 08/11/2026 pelo Hugo (P105): óleo e cera não são produto principal de post, só coadjuvantes junto de kit, prática ou conteúdo de cuidado; não reabrir como slot de produto] (sem data desde 31/10/2026: o guia de wax play ocupou o slot de 06/11) | Post de Foto (Instagram) | a criar: Julia escreve a legenda curta com a linha do cashback | Produto direto, sem arte e sem comando de venda |
@@ -104,6 +107,7 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 
 | Título | Tipo de Conteúdo | Arquivo | Texto entregue em |
 |---|---|---|---|
+| Por trás do desejo · controle de org*smo (edging) [fila:P21] (QUARTA 11/11, adiantado pelo Hugo em 10/11 no lugar do Kit para Estudo; texto e legenda aprovados pelo Hugo em 10/11/2026, com asterisco nas palavras sensíveis, P109; fundo Warm Light, página 5 Skin Nude) | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/controle-do-orgasmo-edging/` (briefing.md, texto.md, legenda.txt) | Bia duplica o modelo no Canva e escolhe a foto (pulsos com corda, banco próprio); design URGENTE: arte exportada ainda em 10/11 para o Hugo agendar; pendente: ano do Kinkly nas referências |
 | C-082 — por que desacelerar também é progresso na prática | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/desacelerar-e-progresso/texto.md` | 12/09/2026 |
 | C-084 — você não precisa de rótulo pra ser curioso | Carrossel Livre (Instagram) | `conteudos/instagram-carrossel-livre/curiosidade-sem-rotulo/texto.md` | 12/09/2026 |
 ---
@@ -143,7 +147,6 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 | Título | Tipo de Conteúdo | Arquivo | Aprovado em | Publicação agendada |
 |---|---|---|---|---|
 | C-107 [fila:X3] — o limite de alguém não é um desafio pra você vencer (extra de sábado 07/11; texto e legenda aprovados pelo Hugo em 06/11; arte exportada em JPEG 1080×1350, Canva "C-107 — limite", DAHaKewggXI; sem produto, sem cashback; agendada pelo Hugo no mLabs) | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/limite-nao-e-desafio/` (imagem.jpg, legenda.txt, visual-spec.md) | 06/11/2026 | 07/11/2026 às 18:00 |
-| Castiçal (trend de fornifilia): "Já montou um móvel desses?" [fila:X4] (extra de vídeo) | Instagram Vídeo | `conteudos/instagram-videos/vídeo-castical-trend/` (video.mp4, capa.jpg, texto.md, legenda.txt) | 09/11/2026 (Hugo) | 10/11/2026 às 08:20 (mLabs; legenda do Hugo, sem passar pela Ana) |
 
 ---
 
@@ -153,6 +156,7 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 
 | Título | Tipo de Conteúdo | Arquivo | Publicado em |
 |---|---|---|---|
+| Castiçal (trend de fornifilia): "Já montou um móvel desses?" [fila:X4] (vídeo no lugar da foto de quarta; legenda do Hugo, sem passar pela Ana; #shibari #shibaribrasil #waxplay) | Instagram Vídeo | `conteudos/instagram-videos/vídeo-castical-trend/` (video.mp4, capa.jpg, texto.md, legenda.txt) | 10/11/2026 (no ar às 08:20, confirmado pelo Hugo; ler em 72 h, 13/11) |
 | Red flags no BDSM: como reconhecer sinais de alerta numa pessoa ou numa dinâmica (reescrita do post de blog C-060 de 26/08/2026, sequência do artigo 3 da proposta de blog de 04/11; texto v2 revisado pela Ana; P101 gravada no `sb_cerebro`) | Post para Blog | `conteudos/site-post-para-blog/red-flags-linguagem-bdsm/` | 07/11/2026 (**publicado pelo Hugo na Nuvemshop**, `https://shibaribrasil.com.br/blog/posts/red-flags-bdsm-7af58e6b77ce/`; página pública conferida: título, h1, 11 h2, capa carregada; **indexação solicitada no Search Console em 07/11/2026**; conferir indexação em 14/11/2026) |
 | Carrossel de 3 fotos: wax play e shibari juntos [fila:P8] (só legenda, sem arte; legenda aprovada pelo Hugo em 04/11) | Post de Foto (Instagram) | `conteudos/instagram-post-foto/wax-play-e-shibari/legenda.txt` | 04/11/2026 (no ar em https://www.instagram.com/p/DfUTZ51l8VI/; o plano dizia 05/11, o perfil mostra 04/11; movido pela Mari em 06/11 pelo perfil) |
 | C-110 — Por trás do desejo · pet play [fila:P5] (5 JPEG na ordem capa, o que é, termos ligados, figura, finalização; Canva https://www.canva.com/d/ST50kaSWuEQiD2R) | Post Por Trás do Desejo (Instagram) | `conteudos/instagram-post-por-tras-do-desejo/pet-play/` | 03/11/2026 às 08:30 (no ar em https://www.instagram.com/p/DfRs46DF82D/; movido pela Mari em 06/11 pelo perfil) |
