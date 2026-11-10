@@ -138,6 +138,7 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 | Título | Tipo de Conteúdo | Arquivo | Aprovado em |
 |---|---|---|---|
 | C-090 — falar também é parte do jogo, talvez a sua parte mais importante | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/conversa-antes-da-cena/` | 14/09/2026 (DESCARTADA pelo Hugo em 28/10/2026) |
+| Procura de instrutor de shibari (story, 3 telas) | Story Instagram | `conteudos/instagram-story-gerais/procura-de-instrutor/` | 10/11/2026 |
 ---
 
 ## 📅 Pronto - Agendado
