@@ -1,441 +1,549 @@
 {
   ".claude/settings.json": {
-    "mtime": 1793730691.2447557,
-    "seen": 1793737876.7808828,
-    "ast_hash": "10a9dd945bf5bdeb911d94a54baa0432",
-    "semantic_hash": "10a9dd945bf5bdeb911d94a54baa0432"
+    "mtime": 1794344206.9349248,
+    "seen": 1794409975.12174,
+    "ast_hash": "027f7b4d6a1741416f034b5b60b8adaf",
+    "semantic_hash": "027f7b4d6a1741416f034b5b60b8adaf"
   },
   ".claude/settings.local.json": {
-    "mtime": 1782839990.5194235,
-    "seen": 1793205294.0979676,
+    "mtime": 1791918728.4933002,
+    "seen": 1794409975.1217449,
     "ast_hash": "660aab9ad27b2fd7bdd8596d6a499710",
     "semantic_hash": "660aab9ad27b2fd7bdd8596d6a499710",
     "ast_empty": true
   },
   ".claude/skills/agente-estrategista/scripts/atualizar_artefato.py": {
-    "mtime": 1793235417.7528198,
-    "seen": 1793238263.8800142,
+    "mtime": 1794344206.9424608,
+    "seen": 1794409975.121749,
     "ast_hash": "389323612456f636381820b780e09ed4",
     "semantic_hash": "389323612456f636381820b780e09ed4"
   },
   ".claude/skills/agente-estrategista/scripts/gerar_artefato_sequencia.py": {
-    "mtime": 1793235456.7453463,
-    "seen": 1793238263.8800142,
-    "ast_hash": "c6a742fdaa9c0ff56bde79baf88ce08f",
-    "semantic_hash": "c6a742fdaa9c0ff56bde79baf88ce08f"
+    "mtime": 1794344206.9428072,
+    "seen": 1794409975.121752,
+    "ast_hash": "197de850a4660b2b6053182b9328956d",
+    "semantic_hash": "197de850a4660b2b6053182b9328956d"
   },
   ".claude/skills/agente-estrategista/scripts/insumos_sequencia.py": {
-    "mtime": 1793231708.5079072,
-    "seen": 1793233956.6523163,
-    "ast_hash": "4b7d070ce3a97d226d231f2743f448e2",
-    "semantic_hash": "4b7d070ce3a97d226d231f2743f448e2"
+    "mtime": 1794344206.9429903,
+    "seen": 1794409975.121753,
+    "ast_hash": "1792864b82e683940cb438e3c5ec4a4e",
+    "semantic_hash": "1792864b82e683940cb438e3c5ec4a4e"
   },
   ".claude/skills/agente-estrategista/scripts/produzido_x_postado.py": {
-    "mtime": 1793154505.871158,
-    "seen": 1793205294.0979676,
-    "ast_hash": "d85ab940d91c3fd0ceee465c18e080ca",
-    "semantic_hash": "d85ab940d91c3fd0ceee465c18e080ca"
+    "mtime": 1794344206.9432194,
+    "seen": 1794409975.121755,
+    "ast_hash": "46947bd5036de364ededbe0d2212deb6",
+    "semantic_hash": "46947bd5036de364ededbe0d2212deb6"
   },
   ".mcp.json": {
-    "mtime": 1793151537.362177,
-    "seen": 1793205294.0979676,
+    "mtime": 1794344206.9506986,
+    "seen": 1794409975.1217558,
     "ast_hash": "4f9e6edd8f32f0966237b89491fe1325",
     "semantic_hash": "4f9e6edd8f32f0966237b89491fe1325"
   },
   "scripts/sincronizar_fila.py": {
-    "mtime": 1793153812.195479,
-    "seen": 1793205294.0979676,
-    "ast_hash": "f1a2a996ad56a45cc2433516bb5afb5b",
-    "semantic_hash": "f1a2a996ad56a45cc2433516bb5afb5b"
+    "mtime": 1794344207.0404336,
+    "seen": 1794409975.12176,
+    "ast_hash": "0081ec156056f14c1e21b4a144fcf877",
+    "semantic_hash": "0081ec156056f14c1e21b4a144fcf877"
   },
   "scripts/status_instagram.py": {
-    "mtime": 1792613748.841674,
-    "seen": 1793205294.0979676,
-    "ast_hash": "d2b11c2732b678b11f797147d1c4a91f",
-    "semantic_hash": "d2b11c2732b678b11f797147d1c4a91f"
+    "mtime": 1794344207.0408785,
+    "seen": 1794409975.121762,
+    "ast_hash": "d890aa2883043aab2945a463fa041380",
+    "semantic_hash": "d890aa2883043aab2945a463fa041380"
   },
   "scripts/graphify_defasado.py": {
-    "mtime": 1793206298.9320786,
-    "seen": 1793222947.4870393,
+    "mtime": 1794344207.0398932,
+    "seen": 1794409975.121757,
     "ast_hash": "5022876254ae9b7e68cded1d439f10c4",
     "semantic_hash": "5022876254ae9b7e68cded1d439f10c4"
   },
   ".claude/CLAUDE.md": {
-    "mtime": 1793205117.0444846,
+    "mtime": 1794344206.9347029,
     "seen": 1793206293.46227,
     "ast_hash": "9b31786b637be3c13978bec4c2330752",
     "semantic_hash": "9b31786b637be3c13978bec4c2330752"
   },
   ".claude/skills/agente-coordenador/SKILL.md": {
-    "mtime": 1793737129.9639227,
-    "seen": 1793737876.7808828,
-    "ast_hash": "186fcd750601df39b8209b4ff2b6efd3",
-    "semantic_hash": "186fcd750601df39b8209b4ff2b6efd3"
+    "mtime": 1794344206.935515,
+    "seen": 1794409975.121778,
+    "ast_hash": "5402f4e60fddd23b84baa699b0f42a39",
+    "semantic_hash": "5402f4e60fddd23b84baa699b0f42a39"
   },
   ".claude/skills/agente-diretor-de-arte/SKILL.md": {
-    "mtime": 1793735498.2966669,
-    "seen": 1793737876.7808828,
-    "ast_hash": "6c87a83e8eac9bbfb38e6ec410b22f2e",
-    "semantic_hash": "6c87a83e8eac9bbfb38e6ec410b22f2e"
+    "mtime": 1794344206.936586,
+    "seen": 1794409975.12178,
+    "ast_hash": "65aa69b4f9e8f3c42ea73f4f6ed9b1fa",
+    "semantic_hash": "65aa69b4f9e8f3c42ea73f4f6ed9b1fa"
   },
   ".claude/skills/agente-escritor/SKILL.md": {
-    "mtime": 1793730738.148857,
-    "seen": 1793737876.7808828,
-    "ast_hash": "97f8e0e823d32e64104d19a9ba32530f",
-    "semantic_hash": "97f8e0e823d32e64104d19a9ba32530f"
+    "mtime": 1794344206.9371405,
+    "seen": 1794409975.121781,
+    "ast_hash": "b399a5dcef96cbceb76b2ecb1a2381bf",
+    "semantic_hash": "b399a5dcef96cbceb76b2ecb1a2381bf"
   },
   ".claude/skills/agente-estrategista/SKILL.md": {
-    "mtime": 1793231775.7358034,
-    "seen": 1793233956.6523163,
-    "ast_hash": "a3f3b2d30570329c1680c848d060931d",
-    "semantic_hash": "a3f3b2d30570329c1680c848d060931d"
+    "mtime": 1794344206.9376552,
+    "seen": 1794409975.121782,
+    "ast_hash": "db2cd42881e71f07ff1c762204203c2a",
+    "semantic_hash": "db2cd42881e71f07ff1c762204203c2a"
   },
   ".claude/skills/agente-estrategista/references/algoritmo-e-plataforma.md": {
-    "mtime": 1793153752.5607543,
+    "mtime": 1794344206.9381807,
     "seen": 1793206293.46227,
     "ast_hash": "1834d630e6113807aa01049467668782",
     "semantic_hash": "1834d630e6113807aa01049467668782"
   },
   ".claude/skills/agente-estrategista/references/atualizacao-da-pesquisa.md": {
-    "mtime": 1793153752.6135361,
+    "mtime": 1794344206.93858,
     "seen": 1793206293.46227,
     "ast_hash": "1d9499b50df39e3786c0a2d72b0565e9",
     "semantic_hash": "1d9499b50df39e3786c0a2d72b0565e9"
   },
   ".claude/skills/agente-estrategista/references/coleta-de-dados.md": {
-    "mtime": 1793153780.9694312,
+    "mtime": 1794344206.93877,
     "seen": 1793206293.46227,
     "ast_hash": "c8f3194b0169307fccb2f8e822845af1",
     "semantic_hash": "c8f3194b0169307fccb2f8e822845af1"
   },
   ".claude/skills/agente-estrategista/references/estado-atual.md": {
-    "mtime": 1793421525.0094786,
-    "seen": 1793714629.617944,
-    "ast_hash": "c478276618ec5abc33d2554fbd552277",
-    "semantic_hash": "c478276618ec5abc33d2554fbd552277"
+    "mtime": 1794344206.939304,
+    "seen": 1794409975.121784,
+    "ast_hash": "0bbe6a236116d9f7d58a970ece15bc9d",
+    "semantic_hash": "0bbe6a236116d9f7d58a970ece15bc9d"
   },
   ".claude/skills/agente-estrategista/references/fontes-externas.md": {
-    "mtime": 1793153970.3960283,
+    "mtime": 1794344206.9394934,
     "seen": 1793206293.46227,
     "ast_hash": "805f8c1b325506fb2eecdb31bf3481ff",
     "semantic_hash": "805f8c1b325506fb2eecdb31bf3481ff"
   },
   ".claude/skills/agente-estrategista/references/metricas-e-leitura.md": {
-    "mtime": 1793153752.8456318,
+    "mtime": 1794344206.9399004,
     "seen": 1793206293.46227,
     "ast_hash": "2f3ea2a68b8dc4dcf8eecd53767c7468",
     "semantic_hash": "2f3ea2a68b8dc4dcf8eecd53767c7468"
   },
   ".claude/skills/agente-estrategista/references/planejador-de-sequencia.md": {
-    "mtime": 1793235417.7528198,
-    "seen": 1793238263.8800142,
-    "ast_hash": "4d3fffbb891f8265cf7f23312127f937",
-    "semantic_hash": "4d3fffbb891f8265cf7f23312127f937"
+    "mtime": 1794344206.940138,
+    "seen": 1794409975.1217852,
+    "ast_hash": "e35b53cd8a60160f26ee4695ed54df74",
+    "semantic_hash": "e35b53cd8a60160f26ee4695ed54df74"
   },
   ".claude/skills/agente-estrategista/references/regras-e-decisoes.md": {
-    "mtime": 1793737129.9967635,
-    "seen": 1793737876.7808828,
-    "ast_hash": "ee2b5f7f8ab6a706e0a63ef59a05706d",
-    "semantic_hash": "ee2b5f7f8ab6a706e0a63ef59a05706d"
+    "mtime": 1794344206.9404216,
+    "seen": 1794409975.1217868,
+    "ast_hash": "99ee3b9fc795469788614b5c31b1dee2",
+    "semantic_hash": "99ee3b9fc795469788614b5c31b1dee2"
   },
   ".claude/skills/agente-estrategista/references/risco-de-alcance-nicho.md": {
-    "mtime": 1793153780.9694312,
+    "mtime": 1794344206.9412212,
     "seen": 1793206293.46227,
     "ast_hash": "21671b8306cddb069861e7e50a309a43",
     "semantic_hash": "21671b8306cddb069861e7e50a309a43"
   },
   ".claude/skills/agente-estrategista/references/rotinas-e-modelos.md": {
-    "mtime": 1793730726.7964897,
-    "seen": 1793737876.7808828,
-    "ast_hash": "b87635232c911532bfba4079df9764ef",
-    "semantic_hash": "b87635232c911532bfba4079df9764ef"
+    "mtime": 1794344206.9421835,
+    "seen": 1794409975.1217878,
+    "ast_hash": "c83698bf78c65553d5ca6f6e0f4a0c66",
+    "semantic_hash": "c83698bf78c65553d5ca6f6e0f4a0c66"
   },
   ".claude/skills/agente-estrategista/scripts/sequencia_artefato.template.html": {
-    "mtime": 1793235456.7453463,
-    "seen": 1793238263.8800142,
-    "ast_hash": "899adbc4290d1462926d824e7badb36a",
-    "semantic_hash": "899adbc4290d1462926d824e7badb36a"
+    "mtime": 1794344206.9434483,
+    "seen": 1794409975.121789,
+    "ast_hash": "7c00ebf170858523be53129156bd6ab7",
+    "semantic_hash": "7c00ebf170858523be53129156bd6ab7"
   },
   ".claude/skills/agente-revisor/SKILL.md": {
-    "mtime": 1793737101.53411,
-    "seen": 1793737876.7808828,
-    "ast_hash": "d5b683a6897094f12b65bb3f3893dacc",
-    "semantic_hash": "d5b683a6897094f12b65bb3f3893dacc"
+    "mtime": 1794344206.9440448,
+    "seen": 1794409975.12179,
+    "ast_hash": "16b68b4d9f338e9a3d2f8ad6231cc072",
+    "semantic_hash": "16b68b4d9f338e9a3d2f8ad6231cc072"
   },
   ".claude/skills/hab-meta-ads/SKILL.md": {
-    "mtime": 1793737129.924072,
+    "mtime": 1794344206.9486158,
     "seen": 1793737876.7808828,
     "ast_hash": "eed2317558885b20f322f5e0660044a7",
     "semantic_hash": "eed2317558885b20f322f5e0660044a7"
   },
   ".claude/skills/hab-produtor-textual/MANUAL_ORIGINAL.md": {
-    "mtime": 1781295388.8365097,
-    "seen": 1793206293.46227,
-    "ast_hash": "43efb582be8157c3f1c444f75597c772",
-    "semantic_hash": "43efb582be8157c3f1c444f75597c772"
+    "mtime": 1791918728.5080447,
+    "seen": 1794409975.1217961,
+    "ast_hash": "01e12e7caca4799410e6530ecd74be52",
+    "semantic_hash": "01e12e7caca4799410e6530ecd74be52"
   },
   ".claude/skills/hab-produtor-textual/SKILL.md": {
-    "mtime": 1793154534.9297318,
-    "seen": 1793206293.46227,
-    "ast_hash": "e9013e79f879e1eab6fbc5510d06aae3",
-    "semantic_hash": "e9013e79f879e1eab6fbc5510d06aae3"
+    "mtime": 1794344206.948996,
+    "seen": 1794409975.121797,
+    "ast_hash": "8ee05488e334fb657648ee6f923debb3",
+    "semantic_hash": "8ee05488e334fb657648ee6f923debb3"
   },
   ".claude/skills/voz-shibari/SKILL.md": {
-    "mtime": 1793151965.3422928,
+    "mtime": 1794344206.9492579,
     "seen": 1793206293.46227,
     "ast_hash": "309d99d51b598dde1ef98e9a29d6b5ea",
     "semantic_hash": "309d99d51b598dde1ef98e9a29d6b5ea"
   },
   ".claude/specs/diretrizes.md": {
-    "mtime": 1793737148.3926055,
-    "seen": 1793737876.7808828,
-    "ast_hash": "9b8d0f6a72956afddb2853cc7efaac2d",
-    "semantic_hash": "9b8d0f6a72956afddb2853cc7efaac2d"
+    "mtime": 1794344206.949774,
+    "seen": 1794409975.121799,
+    "ast_hash": "4163dfa747e102e124a6b35b12f30aad",
+    "semantic_hash": "4163dfa747e102e124a6b35b12f30aad"
   },
   ".claude/specs/fila-prioritaria.md": {
-    "mtime": 1792613749.5346694,
-    "seen": 1793206293.46227,
-    "ast_hash": "8840746e74ad3b21730e2992b0b63d62",
-    "semantic_hash": "8840746e74ad3b21730e2992b0b63d62"
+    "mtime": 1794344206.9499173,
+    "seen": 1794409975.1218,
+    "ast_hash": "d7a9a50fd654b9df768a6e9b16fd4053",
+    "semantic_hash": "d7a9a50fd654b9df768a6e9b16fd4053"
   },
   "CLAUDE.md": {
-    "mtime": 1793737129.7656076,
-    "seen": 1793737876.7808828,
-    "ast_hash": "d1516cc5ffd05b55182971e864fed484",
-    "semantic_hash": "d1516cc5ffd05b55182971e864fed484"
+    "mtime": 1794344206.951215,
+    "seen": 1794409975.121801,
+    "ast_hash": "bc6cb01014444aae6c14d0c2da1c4d82",
+    "semantic_hash": "bc6cb01014444aae6c14d0c2da1c4d82"
   },
   "assets/docs/Glossario-BDSM.md": {
-    "mtime": 1781539775.6346507,
+    "mtime": 1791918728.5705402,
     "seen": 1793206293.46227,
     "ast_hash": "ad739d3e9a9a2e15acc80735ab50b130",
     "semantic_hash": "ad739d3e9a9a2e15acc80735ab50b130"
   },
   "assets/docs/Glossario-Shibari.md": {
-    "mtime": 1793238061.731421,
+    "mtime": 1794344206.9528852,
     "seen": 1793238263.8800142,
     "ast_hash": "863d1b603052c0c00292a6c5c4052ecb",
     "semantic_hash": "863d1b603052c0c00292a6c5c4052ecb"
   },
   "assets/docs/Guia da marca - Shibari Brasil.md": {
-    "mtime": 1793150304.2599444,
-    "seen": 1793206293.46227,
-    "ast_hash": "c932b8424bcdaa7bc522c1282e106cac",
-    "semantic_hash": "c932b8424bcdaa7bc522c1282e106cac"
+    "mtime": 1794344206.9532561,
+    "seen": 1794409975.121803,
+    "ast_hash": "c638f78cb964507a54f960e7c8736649",
+    "semantic_hash": "c638f78cb964507a54f960e7c8736649"
   },
   "assets/docs/ga4_bigquery_resumo.md": {
-    "mtime": 1782744450.402186,
+    "mtime": 1791918728.5784616,
     "seen": 1793206293.46227,
     "ast_hash": "478e8c3952d4f363bc3b73e7f72d4067",
     "semantic_hash": "478e8c3952d4f363bc3b73e7f72d4067"
   },
   "assets/docs/google_ads_bigquery_resumo.md": {
-    "mtime": 1782744450.3933182,
+    "mtime": 1791918728.5786963,
     "seen": 1793206293.46227,
     "ast_hash": "5da6397e476120d3a81de6bf0610badf",
     "semantic_hash": "5da6397e476120d3a81de6bf0610badf"
   },
   "conteudos/LEIA-ME.md": {
-    "mtime": 1792617964.6813977,
-    "seen": 1793206293.46227,
-    "ast_hash": "4f0cacf223605358d064d7aca7adfda6",
-    "semantic_hash": "4f0cacf223605358d064d7aca7adfda6"
+    "mtime": 1794344206.9535089,
+    "seen": 1794409975.121804,
+    "ast_hash": "c72354825f1d4323246ca92e6a8861d3",
+    "semantic_hash": "c72354825f1d4323246ca92e6a8861d3"
   },
   "contexto/design-system.md": {
-    "mtime": 1793735498.260514,
-    "seen": 1793737876.7808828,
-    "ast_hash": "31ce958b51a52e06ffe7407725cb82ae",
-    "semantic_hash": "31ce958b51a52e06ffe7407725cb82ae"
+    "mtime": 1794344206.9544075,
+    "seen": 1794409975.121807,
+    "ast_hash": "726bde8c4af41a8e65a76378d0f77d06",
+    "semantic_hash": "726bde8c4af41a8e65a76378d0f77d06"
   },
   "contexto/formatos-conteudo.md": {
-    "mtime": 1793735498.233593,
-    "seen": 1793737876.7808828,
-    "ast_hash": "2ad6207750edd1fda28c78b1cc6cc6e7",
-    "semantic_hash": "2ad6207750edd1fda28c78b1cc6cc6e7"
+    "mtime": 1794344206.9559166,
+    "seen": 1794409975.1218078,
+    "ast_hash": "5986207707eb5f354fd5d82fa795cfb0",
+    "semantic_hash": "5986207707eb5f354fd5d82fa795cfb0"
   },
   "contexto/formatos/carrossel-livre.md": {
-    "mtime": 1793735484.9566932,
-    "seen": 1793737876.7808828,
-    "ast_hash": "2831c5bee6089218f575240dadb831df",
-    "semantic_hash": "2831c5bee6089218f575240dadb831df"
+    "mtime": 1794344206.9563181,
+    "seen": 1794409975.121809,
+    "ast_hash": "611605d914d0325267b60c7291a026d8",
+    "semantic_hash": "611605d914d0325267b60c7291a026d8"
   },
   "contexto/formatos/instagram-video.md": {
-    "mtime": 1793154534.795347,
-    "seen": 1793206293.46227,
-    "ast_hash": "3954ffcb653258a13747ef8846a2bc9e",
-    "semantic_hash": "3954ffcb653258a13747ef8846a2bc9e"
+    "mtime": 1794344206.9565663,
+    "seen": 1794409975.121811,
+    "ast_hash": "1fff88fe52cfc9774ae92ac79f92f59b",
+    "semantic_hash": "1fff88fe52cfc9774ae92ac79f92f59b"
   },
   "contexto/formatos/post-de-bingo.md": {
-    "mtime": 1791602669.274793,
+    "mtime": 1791918729.56388,
     "seen": 1793206293.46227,
     "ast_hash": "110daea07644da6083d11fe8cb0ad2ee",
     "semantic_hash": "110daea07644da6083d11fe8cb0ad2ee"
   },
   "contexto/formatos/post-de-duelo.md": {
-    "mtime": 1792809628.3646517,
-    "seen": 1793206293.46227,
-    "ast_hash": "ca1bb054ac06800f75d6ec44fe0083f9",
-    "semantic_hash": "ca1bb054ac06800f75d6ec44fe0083f9"
+    "mtime": 1794344206.95872,
+    "seen": 1794409975.1218162,
+    "ast_hash": "ea61910eea5e0947e6064e95f674c917",
+    "semantic_hash": "ea61910eea5e0947e6064e95f674c917"
   },
   "contexto/formatos/post-de-foto.md": {
-    "mtime": 1782508347.432773,
+    "mtime": 1791918729.5640404,
     "seen": 1793206293.46227,
     "ast_hash": "71babd60b7aec8154cd706ff6b381a0f",
     "semantic_hash": "71babd60b7aec8154cd706ff6b381a0f"
   },
   "contexto/formatos/post-de-frase.md": {
-    "mtime": 1793390173.5747633,
+    "mtime": 1794344206.9592087,
     "seen": 1793714629.617944,
     "ast_hash": "a68ce65356aac8520400e8897d2484cf",
     "semantic_hash": "a68ce65356aac8520400e8897d2484cf"
   },
   "contexto/formatos/post-de-produto.md": {
-    "mtime": 1793151493.3136764,
-    "seen": 1793206293.46227,
-    "ast_hash": "50cb084a060eb03fe14d3f7a510f5928",
-    "semantic_hash": "50cb084a060eb03fe14d3f7a510f5928"
+    "mtime": 1794344206.9594967,
+    "seen": 1794409975.121818,
+    "ast_hash": "efd57bc622128165e43cb52c82aed156",
+    "semantic_hash": "efd57bc622128165e43cb52c82aed156"
   },
   "contexto/formatos/post-desatando-mitos.md": {
-    "mtime": 1793673882.8216784,
+    "mtime": 1794344206.9600194,
     "seen": 1793714629.617944,
     "ast_hash": "a7f458d4573034535fdc6bdf8d95ff2a",
     "semantic_hash": "a7f458d4573034535fdc6bdf8d95ff2a"
   },
   "contexto/formatos/post-inspiracao-de-amarracao.md": {
-    "mtime": 1782508097.8131247,
+    "mtime": 1791918729.5647616,
     "seen": 1793206293.46227,
     "ast_hash": "efeac3802a1c70908c9a3c324790384d",
     "semantic_hash": "efeac3802a1c70908c9a3c324790384d"
   },
   "contexto/formatos/post-para-blog.md": {
-    "mtime": 1782507948.7361865,
-    "seen": 1793206293.46227,
-    "ast_hash": "1b2f42928d57715be1cdcadd1a085483",
-    "semantic_hash": "1b2f42928d57715be1cdcadd1a085483"
+    "mtime": 1794344206.9607916,
+    "seen": 1794409975.12182,
+    "ast_hash": "c7837a1b79b557b530871ebba8c7552c",
+    "semantic_hash": "c7837a1b79b557b530871ebba8c7552c"
   },
   "contexto/formatos/post-por-tras-do-desejo.md": {
-    "mtime": 1793713789.649788,
-    "seen": 1793714629.617944,
-    "ast_hash": "4067527a5a97e0dd1024192353fd42f5",
-    "semantic_hash": "4067527a5a97e0dd1024192353fd42f5"
+    "mtime": 1794344206.9611056,
+    "seen": 1794409975.121821,
+    "ast_hash": "25f052088e67066785e8630772bdbe58",
+    "semantic_hash": "25f052088e67066785e8630772bdbe58"
   },
   "contexto/loja.md": {
-    "mtime": 1793737148.3942542,
-    "seen": 1793737876.7808828,
-    "ast_hash": "027b9c80e56d326da2f32a414707f2e6",
-    "semantic_hash": "027b9c80e56d326da2f32a414707f2e6"
+    "mtime": 1794344206.9618986,
+    "seen": 1794409975.121823,
+    "ast_hash": "1b28b4a65d5a0f5c7738d4236055838c",
+    "semantic_hash": "1b28b4a65d5a0f5c7738d4236055838c"
   },
   "contexto/pauta.md": {
-    "mtime": 1793737148.3926055,
-    "seen": 1793737876.7808828,
-    "ast_hash": "05216dffd33b821274a97ea9c9bb2970",
-    "semantic_hash": "05216dffd33b821274a97ea9c9bb2970"
+    "mtime": 1794361938.6993368,
+    "seen": 1794409975.121824,
+    "ast_hash": "7ee9ab9bdcb3a4382794c95e0f2aa358",
+    "semantic_hash": "7ee9ab9bdcb3a4382794c95e0f2aa358"
   },
   "contexto/personas.md": {
-    "mtime": 1793737148.3947597,
-    "seen": 1793737876.7808828,
-    "ast_hash": "b186ee8a89b30339cf68557039980333",
-    "semantic_hash": "b186ee8a89b30339cf68557039980333"
+    "mtime": 1794344206.9628322,
+    "seen": 1794409975.121826,
+    "ast_hash": "3dfae1e6a7a8de83cf1a844c013cc5d1",
+    "semantic_hash": "3dfae1e6a7a8de83cf1a844c013cc5d1"
   },
   "contexto/rascunhos-voz-piloto.md": {
-    "mtime": 1793149920.0205436,
+    "mtime": 1794344206.9630582,
     "seen": 1793206293.46227,
     "ast_hash": "c0dbcc347c865e0c9a7700f9007d98a5",
     "semantic_hash": "c0dbcc347c865e0c9a7700f9007d98a5"
   },
   "contexto/referencias-posts-salvos-2026-10-09.md": {
-    "mtime": 1793152011.823936,
+    "mtime": 1794344206.9637241,
     "seen": 1793206293.46227,
     "ast_hash": "0435bb682e175dbf6a163d98ed1b3ba2",
     "semantic_hash": "0435bb682e175dbf6a163d98ed1b3ba2"
   },
   "contexto/referencias.md": {
-    "mtime": 1781894123.6871114,
+    "mtime": 1791918729.566774,
     "seen": 1793206293.46227,
     "ast_hash": "18945d9d9305f1dab0f7f96569e1ea2b",
     "semantic_hash": "18945d9d9305f1dab0f7f96569e1ea2b"
   },
-  "estrategia/Sequ\u00eancia de Conte\u00fado Instagram.md": {
-    "mtime": 1793733189.343366,
-    "seen": 1793737876.7808828,
-    "ast_hash": "dc28d8fa327d90ed62d20e0da90352ed",
-    "semantic_hash": "dc28d8fa327d90ed62d20e0da90352ed"
+  "estrategia/Sequência de Conteúdo Instagram.md": {
+    "mtime": 1794344206.9644823,
+    "seen": 1794409975.121828,
+    "ast_hash": "0703ac270cb7166582ba93336b257b27",
+    "semantic_hash": "0703ac270cb7166582ba93336b257b27"
   },
   "estrategia/historico-especialista-instagram.md": {
-    "mtime": 1793153780.978323,
-    "seen": 1793206293.46227,
-    "ast_hash": "25bc08873f25d677a93dbb8540e96f70",
-    "semantic_hash": "25bc08873f25d677a93dbb8540e96f70"
+    "mtime": 1794344206.9834998,
+    "seen": 1794409975.121831,
+    "ast_hash": "4ceba7a2264556317f1d032d973194b8",
+    "semantic_hash": "4ceba7a2264556317f1d032d973194b8"
   },
   "estrategia/material/briefing-mudancas-projeto-marketing-2026-10-19.md": {
-    "mtime": 1793153753.75532,
+    "mtime": 1794344206.983824,
     "seen": 1793206293.46227,
     "ast_hash": "2b7533885dac7f5e030b358925fdbd22",
     "semantic_hash": "2b7533885dac7f5e030b358925fdbd22"
   },
   "estrategia/material/briefing-para-mari-2026-10-07.md": {
-    "mtime": 1793153753.7655723,
+    "mtime": 1794344206.9839964,
     "seen": 1793206293.46227,
     "ast_hash": "725fb6f5e94f6009450f6b2c689f841f",
     "semantic_hash": "725fb6f5e94f6009450f6b2c689f841f"
   },
   "estrategia/material/produzido-x-postado-2026-10-07.md": {
-    "mtime": 1793153753.7719798,
+    "mtime": 1794344206.9844234,
     "seen": 1793206293.46227,
     "ast_hash": "0478e141468123888b0c7486bd4c2108",
     "semantic_hash": "0478e141468123888b0c7486bd4c2108"
   },
   "estrategia/material/referencias/briefing-posts-salvos-2026-10-09.md": {
-    "mtime": 1793153753.6862817,
+    "mtime": 1794344206.9846861,
     "seen": 1793206293.46227,
     "ast_hash": "e7572a9a5dad13c92f759074a5a3ace6",
     "semantic_hash": "e7572a9a5dad13c92f759074a5a3ace6"
   },
   "estrategia/material/referencias/salvos-conteudo-2026-10-09.md": {
-    "mtime": 1793153753.6862817,
+    "mtime": 1794344206.985019,
     "seen": 1793206293.46227,
     "ast_hash": "d2c6981f94cc6a8464fc47b590fc6651",
     "semantic_hash": "d2c6981f94cc6a8464fc47b590fc6651"
   },
   "estrategia/material/roteiros/roteiros-reels-fase1-2026-10-19.md": {
-    "mtime": 1793153753.6862817,
+    "mtime": 1794344206.9854314,
     "seen": 1793206293.46227,
     "ast_hash": "a87a74b526d18bc040ad04e3bf9e16d7",
     "semantic_hash": "a87a74b526d18bc040ad04e3bf9e16d7"
   },
   "contexto/briefings-revisao-voz.md": {
-    "mtime": 1793235405.8638575,
-    "seen": 1793238263.8800142,
-    "ast_hash": "a49cf7c9fdaee82e1c8b4ec226564515",
-    "semantic_hash": "a49cf7c9fdaee82e1c8b4ec226564515"
+    "mtime": 1794344206.9537065,
+    "seen": 1794409975.121805,
+    "ast_hash": "000b364fce16a0853360a384c7fa4d4d",
+    "semantic_hash": "000b364fce16a0853360a384c7fa4d4d"
   },
   "contexto/revisao-voz-resumo-para-cerebro.md": {
-    "mtime": 1793236354.36944,
+    "mtime": 1794344206.9641397,
     "seen": 1793238263.8800142,
     "ast_hash": "4305b34e52b2e5dd4c99a2c969241644",
     "semantic_hash": "4305b34e52b2e5dd4c99a2c969241644"
   },
   "estrategia/revisao-voz-sequencia-2026-10-28.md": {
-    "mtime": 1793226741.631582,
+    "mtime": 1794344206.9858491,
     "seen": 1793233956.6523163,
     "ast_hash": "2b5754a043dc8b2c68a699ebf874079d",
     "semantic_hash": "2b5754a043dc8b2c68a699ebf874079d"
   },
   ".claude/skills/agente-estrategista/scripts/conferir_briefings.py": {
-    "mtime": 1793235324.7173893,
-    "seen": 1793238263.8800142,
-    "ast_hash": "2cd041fecbc9e26803f4e299a0ad7c6d",
-    "semantic_hash": "2cd041fecbc9e26803f4e299a0ad7c6d"
+    "mtime": 1794344206.9425917,
+    "seen": 1794409975.12175,
+    "ast_hash": "ca757c5b17aa3561f3b8725c59e44868",
+    "semantic_hash": "ca757c5b17aa3561f3b8725c59e44868"
   },
   "contexto/formatos/post-5-motivos.md": {
-    "mtime": 1793379498.1352541,
-    "seen": 1793714629.617944,
-    "ast_hash": "59936cf94eb420339ad671a60e8bbc2b",
-    "semantic_hash": "59936cf94eb420339ad671a60e8bbc2b"
+    "mtime": 1794344206.9574955,
+    "seen": 1794409975.121815,
+    "ast_hash": "34aca14f65358cb349b24f2b6d3db38b",
+    "semantic_hash": "34aca14f65358cb349b24f2b6d3db38b"
   },
   "scripts/guarda_voz.py": {
-    "mtime": 1793730706.5170574,
-    "seen": 1793737876.7808828,
+    "mtime": 1794344207.0401013,
+    "seen": 1794409975.121759,
     "ast_hash": "dfcfbb317596a395748c7db696cc09a1",
     "semantic_hash": "dfcfbb317596a395748c7db696cc09a1"
+  },
+  "video/eslint.config.mjs": {
+    "mtime": 1794344207.0417032,
+    "seen": 1794409975.121763,
+    "ast_hash": "e20d59bb6b64567da14d80c3da2c6b15",
+    "semantic_hash": "e20d59bb6b64567da14d80c3da2c6b15"
+  },
+  "video/package.json": {
+    "mtime": 1794344207.042276,
+    "seen": 1794409975.1217651,
+    "ast_hash": "a15a89b7b1e0f83df75f948f30443177",
+    "semantic_hash": "a15a89b7b1e0f83df75f948f30443177"
+  },
+  "video/remotion.config.ts": {
+    "mtime": 1794344207.0424294,
+    "seen": 1794409975.1217659,
+    "ast_hash": "6338a93bfb160c9897d382735436172e",
+    "semantic_hash": "6338a93bfb160c9897d382735436172e"
+  },
+  "video/src/Composition.tsx": {
+    "mtime": 1794344207.042905,
+    "seen": 1794409975.121768,
+    "ast_hash": "cc05c1cf455cf7ddc59eb6070e942f82",
+    "semantic_hash": "cc05c1cf455cf7ddc59eb6070e942f82"
+  },
+  "video/src/Root.tsx": {
+    "mtime": 1794344207.0430477,
+    "seen": 1794409975.121769,
+    "ast_hash": "0e6a1d8f937273d16493bfd07bb9584d",
+    "semantic_hash": "0e6a1d8f937273d16493bfd07bb9584d"
+  },
+  "video/src/TesteLuzDeVelas.tsx": {
+    "mtime": 1794344207.0432017,
+    "seen": 1794409975.12177,
+    "ast_hash": "da071342890a1d5b51661f8058e1e415",
+    "semantic_hash": "da071342890a1d5b51661f8058e1e415"
+  },
+  "video/src/efeitos/Escurecer.tsx": {
+    "mtime": 1794344207.0434744,
+    "seen": 1794409975.121771,
+    "ast_hash": "bb95a46e3bf65ae4ff63ab6a521c6023",
+    "semantic_hash": "bb95a46e3bf65ae4ff63ab6a521c6023"
+  },
+  "video/src/efeitos/TextoEsfera.tsx": {
+    "mtime": 1794344207.0439878,
+    "seen": 1794409975.121773,
+    "ast_hash": "93970a2fa620128784e53996e92d50ab",
+    "semantic_hash": "93970a2fa620128784e53996e92d50ab"
+  },
+  "video/src/efeitos/index.ts": {
+    "mtime": 1794344207.0441582,
+    "seen": 1794409975.1217742,
+    "ast_hash": "8c86f90494318410657090b10d2f3d61",
+    "semantic_hash": "8c86f90494318410657090b10d2f3d61"
+  },
+  "video/src/index.ts": {
+    "mtime": 1794344207.044293,
+    "seen": 1794409975.1217752,
+    "ast_hash": "d92d9dee1ab16aa44a75ae7fbfb843ca",
+    "semantic_hash": "d92d9dee1ab16aa44a75ae7fbfb843ca"
+  },
+  "video/tsconfig.json": {
+    "mtime": 1794344207.0444262,
+    "seen": 1794409975.1217768,
+    "ast_hash": "3f9d94814358aa5e8a039f53ae3eee99",
+    "semantic_hash": "3f9d94814358aa5e8a039f53ae3eee99"
+  },
+  ".claude/skills/agente-video/SKILL.md": {
+    "mtime": 1794344206.9443593,
+    "seen": 1794409975.121792,
+    "ast_hash": "abb96aa51517f65ffbaf7fce9c759f8d",
+    "semantic_hash": "abb96aa51517f65ffbaf7fce9c759f8d"
+  },
+  ".claude/skills/agente-video/references/pacotes-remotion.md": {
+    "mtime": 1794344206.944864,
+    "seen": 1794409975.121793,
+    "ast_hash": "01ed52cf4814e6408cad95717d5547c5",
+    "semantic_hash": "01ed52cf4814e6408cad95717d5547c5"
+  },
+  "contexto/formatos/modelos/briefing-video-modelo.md": {
+    "mtime": 1794344206.95683,
+    "seen": 1794409975.1218119,
+    "ast_hash": "f275c05f8a324e020db77c0906f8cc8b",
+    "semantic_hash": "f275c05f8a324e020db77c0906f8cc8b"
+  },
+  "contexto/formatos/modelos/post-para-blog-modelo.html": {
+    "mtime": 1794344206.957074,
+    "seen": 1794409975.121813,
+    "ast_hash": "5cb1bcc862e42aecec65b5a207f2f23c",
+    "semantic_hash": "5cb1bcc862e42aecec65b5a207f2f23c"
+  },
+  "contexto/formatos/post-para-blog-html.md": {
+    "mtime": 1794344206.9603813,
+    "seen": 1794409975.1218188,
+    "ast_hash": "3104c869a71abf71ad93a23ac0d40e25",
+    "semantic_hash": "3104c869a71abf71ad93a23ac0d40e25"
+  },
+  "estrategia/blog-proposta-2026-11-04.md": {
+    "mtime": 1794344206.9646711,
+    "seen": 1794409975.121829,
+    "ast_hash": "13bd58ab13ec28b667f8051ef7947327",
+    "semantic_hash": "13bd58ab13ec28b667f8051ef7947327"
+  },
+  "video/README.md": {
+    "mtime": 1794344207.041543,
+    "seen": 1794409975.121832,
+    "ast_hash": "fcdfe1e0c3220831519fdbf617e6d7ae",
+    "semantic_hash": "fcdfe1e0c3220831519fdbf617e6d7ae"
   }
 }
