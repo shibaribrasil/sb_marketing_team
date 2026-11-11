@@ -138,7 +138,6 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 | Título | Tipo de Conteúdo | Arquivo | Aprovado em |
 |---|---|---|---|
 | C-090 — falar também é parte do jogo, talvez a sua parte mais importante | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/conversa-antes-da-cena/` | 14/09/2026 (DESCARTADA pelo Hugo em 28/10/2026) |
-| Procura de instrutor de shibari (story, 3 telas) | Story Instagram | `conteudos/instagram-story-gerais/procura-de-instrutor/` | 10/11/2026 |
 ---
 
 ## 📅 Pronto - Agendado
@@ -157,6 +156,7 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 
 | Título | Tipo de Conteúdo | Arquivo | Publicado em |
 |---|---|---|---|
+| Procura de instrutor de shibari (story, 3 telas; fora da fila, pedido direto do Hugo; repostar em alguns dias se não houver retorno) | Story Instagram | `conteudos/instagram-story-gerais/procura-de-instrutor/` | 10/11/2026 |
 | Castiçal (trend de fornifilia): "Já montou um móvel desses?" [fila:X4] (vídeo no lugar da foto de quarta; legenda do Hugo, sem passar pela Ana; #shibari #shibaribrasil #waxplay) | Instagram Vídeo | `conteudos/instagram-videos/vídeo-castical-trend/` (video.mp4, capa.jpg, texto.md, legenda.txt) | 10/11/2026 (no ar às 08:20, confirmado pelo Hugo; ler em 72 h, 13/11) |
 | Red flags no BDSM: como reconhecer sinais de alerta numa pessoa ou numa dinâmica (reescrita do post de blog C-060 de 26/08/2026, sequência do artigo 3 da proposta de blog de 04/11; texto v2 revisado pela Ana; P101 gravada no `sb_cerebro`) | Post para Blog | `conteudos/site-post-para-blog/red-flags-linguagem-bdsm/` | 07/11/2026 (**publicado pelo Hugo na Nuvemshop**, `https://shibaribrasil.com.br/blog/posts/red-flags-bdsm-7af58e6b77ce/`; página pública conferida: título, h1, 11 h2, capa carregada; **indexação solicitada no Search Console em 07/11/2026**; conferir indexação em 14/11/2026) |
 | Carrossel de 3 fotos: wax play e shibari juntos [fila:P8] (só legenda, sem arte; legenda aprovada pelo Hugo em 04/11) | Post de Foto (Instagram) | `conteudos/instagram-post-foto/wax-play-e-shibari/legenda.txt` | 04/11/2026 (no ar em https://www.instagram.com/p/DfUTZ51l8VI/; o plano dizia 05/11, o perfil mostra 04/11; movido pela Mari em 06/11 pelo perfil) |
