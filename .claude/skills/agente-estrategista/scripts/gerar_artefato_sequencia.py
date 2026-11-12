@@ -105,6 +105,27 @@ def arte_do_slot(caminho):
     return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
 
 
+PASTA_CONTEUDO = Path(r"G:\Meu Drive\SB Audiovisual\03_CONTEUDO")
+
+
+def arte_pela_pauta(id_slot):
+    """Acha a arte de um slot sem o campo `arte`: lê a linha da pauta com `[fila:ID]`, pega o caminho `conteudos/tipo/titulo/`
+    (que equivale a 03_CONTEUDO no Drive) e devolve o primeiro arquivo que existir: imagem-p1.jpg, imagem.jpg, capa.jpg."""
+    try:
+        pauta = (RAIZ / "contexto" / "pauta.md").read_text(encoding="utf-8")
+    except OSError:
+        return None
+    for linha in pauta.splitlines():
+        if f"[fila:{id_slot}]" not in linha:
+            continue
+        for m in re.finditer(r"`conteudos/([^`]+?)/?(?:`|\s\()", linha):
+            pasta = PASTA_CONTEUDO / Path(m.group(1))
+            for nome in ("imagem-p1.jpg", "imagem.jpg", "capa.jpg"):
+                if (pasta / nome).exists():
+                    return str(pasta / nome)
+    return None
+
+
 def agendamentos():
     """Itens da fila de publicação do sb_data_pipeline (`raw_instagram.fila_publicacao`), por id do plano (P1, P2...).
     Somente leitura. Sem a tabela (ainda não criada) ou sem acesso: devolve {} e o artefato sai como antes."""
@@ -350,6 +371,11 @@ def main():
     # arte pronta: o slot mostra a arte (campo `arte`); slot marcado "pronto" sem arte é cobrado no fim da execução
     sem_arte = []
     for sl in plano["plano"]:
+        # automático (Hugo, 10/11/2026): slot pronto ou agendado sem `arte` busca a capa na pasta do conteúdo registrada na pauta
+        if not sl.get("arte") and (sl.get("producao") == "pronto" or sl.get("agendamento")):
+            achada = arte_pela_pauta(sl["id"])
+            if achada:
+                sl["arte"] = achada
         if sl.get("arte"):
             sl["capa_arte"] = arte_do_slot(sl["arte"])
         if sl.get("producao") == "pronto" and sl["data"] >= date.today().isoformat() and not sl.get("capa_arte") \

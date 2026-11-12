@@ -89,3 +89,9 @@
 - Por trás do desejo · controle de org*smo (edging): prazo de entrega 12/11 -> 10/11
 - saiu da fila: Kit Shibari para Estudo (11/11)
 
+## 10/11/2026 13:29 (fila vv16 (edging adiantado para qua 11/11; Kit para Estudo incompleto e sem data; sexta 13/11 livre))
+- Castiçal (trend de fornifilia): "Já montou um móvel desses?": data de postagem 10/11 -> 09/11
+
+## 10/11/2026 15:50 (fila vv17 (edging agendado 11/11 08:00; novidade de cordas de juta tingidas na sexta 13/11; Kit para Estudo incompleto e sem data))
+- entrou na fila: Novidade: cordas de juta tratadas e tingidas (13/11)
+

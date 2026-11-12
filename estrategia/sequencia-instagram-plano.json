@@ -1,5 +1,5 @@
 {
-  "versao": "v16 (edging adiantado para qua 11/11; Kit para Estudo incompleto e sem data; sexta 13/11 livre)",
+  "versao": "v17 (edging agendado 11/11 08:00; novidade de cordas de juta tingidas na sexta 13/11; Kit para Estudo incompleto e sem data)",
   "atualizado_em": "2026-11-10",
   "nota": "Fonte do plano exibido no artefato. O texto narrativo e as decisões ficam em 'Sequência de Conteúdo Instagram.md'. Ao mudar a sequência, atualizar os dois e republicar o artefato (scripts/gerar_artefato_sequencia.py). Planejamento por mês de calendário; pelo menos 3 de cerca de 12 posts por mês diretamente sobre produto; arcos só para produto; assuntos próximos avaliados caso a caso com o Hugo.",
   "cashback": {
@@ -265,7 +265,7 @@
     },
     {
       "id": "X4",
-      "data": "2026-11-10",
+      "data": "2026-11-09",
       "extra": false,
       "formato_marca": "video",
       "arco": null,
@@ -279,15 +279,15 @@
       "producao": "pronto",
       "prazo": "2026-11-09",
       "responsavel": "Hugo",
-      "proximo": "Postado no ar em 10/11 cedo (confirmado pelo Hugo); ler em 72 h (13/11) antes de dar outro post de wax play",
+      "proximo": "No ar (o perfil registra 09/11; o Hugo tinha dito 10/11 cedo, vale o perfil). Ler em 72 h (12/11) antes de dar outro post de wax play",
       "obs": "Adiantado pelo Hugo em 09/11/2026: o vídeo ocupa o lugar da foto de prática de quarta (11/11) e sai na terça. Pedido direto do Hugo, fora da fila do Leo. Pasta: 03_CONTEUDO/instagram-videos/vídeo-castical-trend (video.mp4, capa.jpg, texto.md, legenda.txt). Legenda escolhida pelo Hugo: \"Já montou um 'móvel' desses? Conta pra gente aqui nos comentários!\" com #shibari #shibaribrasil #waxplay. Sem produto, sem linha de cashback. A Ana aprovou a primeira versão da legenda; a escolhida pelo Hugo é outra e não passou por ela. Âncora: P52. Sem aviso de segurança por decisão do Hugo, como no post de 12/10. Vídeo ocupa um slot normal (decisão pontual do Hugo: a regra era vídeo só como extra).",
       "assunto": "fornifilia (humor de dentro do meio) com vela",
       "assunto_alerta": "Wax play em três posts em sete dias: carrossel de fotos (04/11), guia C-026 (06/11) e este vídeo com vela e #waxplay (10/11). Ler em 72 h antes de dar outro post de wax play.",
       "agendamento": {
         "status": "publicado",
-        "status_txt": "Publicado em 10/11 às 08:20",
-        "data": "2026-11-10",
-        "dia_semana": "ter",
+        "status_txt": "Publicado em 09/11 (data do perfil)",
+        "data": "2026-11-09",
+        "dia_semana": "seg",
         "hora": "08:20",
         "media_id": null,
         "permalink": null,
@@ -309,13 +309,46 @@
       "fundo": "Warm Light",
       "fundo_nota": "Sugestão do Leo: Warm Light (claro). O último post com fundo foi a frase de 07/11 em Carbon Black (escuro); entre os dois saem o vídeo (10/11) e a foto de produto (11/11), sem fundo; Deep Plum fica de fora porque o pet play (03/11) acabou de usá-lo. Alternativa: Skin Nude (claro; usado em 06/11). A Bia confere o contraste e o checador de cores. Com a data em 11/11, o post anterior com fundo continua sendo a frase de 07/11 em Carbon (escuro): Warm Light (claro) alterna.",
       "metrica": "Envio ≥ 1,6% (mediana do formato) e seguidores por mil views",
-      "producao": "design",
+      "producao": "pronto",
       "prazo": "2026-11-10",
       "responsavel": "Hugo (posição), Leo, Julia, Ana, Bia",
-      "proximo": "Adiantado pelo Hugo para quarta 11/11 (10/11/2026), no lugar do Kit para Estudo. Texto e legenda aprovados; falta o design (Bia: Canva e foto) ainda HOJE, com a arte exportada até a noite de 10/11 para o Hugo agendar. Asterisco nas palavras sensíveis (P109); legenda só com #shibaribrasil.",
+      "proximo": "Agendado pelo Hugo no mLabs para qua 11/11 às 08:00 (arte aprovada e exportada em 10/11, 5 JPEG 1080x1350). Ler em 72 h (14/11). Pendente: ano do Kinkly nas referências e direito de uso da foto de castidade da página 4.",
       "obs": "Escolha do Hugo em 08/11/2026 entre três opções (as outras: masoquismo e sadismo; humilhação erótica). Fontes da biblioteca, todas de comunidade ou loja em inglês: Veaux (S-3170), Sunny Megatron no Kinkly (S-8864), Kinkly (S-7065, S-9638), Bad Girls Bible (S-3955), Submissive Guide (S-245, S-503). As fontes divergem sobre edging × denial; o post não afirma uma definição única. Sem dispositivo de castidade. Ângulo sugerido: o desejo que cresce quando o final é adiado, com o combinado antes como fronteira. Sem posição do Hugo, o tema vira pergunta, não briefing.",
       "assunto": "controle do orgasmo (edging)",
-      "assunto_alerta": "Termo sexual e explícito; o risco de alcance é só estimativa, o documento de risco não trata do termo. Perto do pet play (03/11) pela dinâmica D/s."
+      "assunto_alerta": "Termo sexual e explícito; o risco de alcance é só estimativa, o documento de risco não trata do termo. Perto do pet play (03/11) pela dinâmica D/s.",
+      "agendamento": {
+        "status": "agendado",
+        "status_txt": "Agendado no mLabs",
+        "data": "2026-11-11",
+        "dia_semana": "qua",
+        "hora": "08:00",
+        "media_id": null,
+        "permalink": null,
+        "liberado": false,
+        "erro": null,
+        "capa": null
+      }
+    },
+    {
+      "id": "P22",
+      "data": "2026-11-13",
+      "formato_marca": "foto_carrossel",
+      "arco": null,
+      "passo": "Produto direto (novidade de produto)",
+      "categoria": "Produto",
+      "formato": "Post de novidade de produto (formato a definir pelas fotos do Hugo)",
+      "titulo": "Novidade: cordas de juta tratadas e tingidas",
+      "fundo": null,
+      "fundo_nota": "A definir quando o formato fechar. Se houver arte: o último post com fundo é o edging em Warm Light (claro, 11/11); Skin Nude ou Warm Light para produto, a Bia confere a alternância.",
+      "metrica": "Salvamento, envio, visitas ao perfil e cliques na bio; pedidos da corda tingida no mês",
+      "producao": "a_produzir",
+      "prazo": "2026-11-12",
+      "responsavel": "Hugo (fotos), Leo, Julia, Ana, Bia",
+      "proximo": "Hugo prepara as fotos das cordas de juta tratadas e tingidas; depois o Leo fecha o ângulo (ancorado em posição do Hugo e nos dados do Notion), a Julia escreve texto e legenda e a Ana revisa. Sem briefing ainda: o título é só a descrição do assunto, não é gancho.",
+      "obs": "Pedido do Hugo em 10/11/2026 para a sexta 13/11. Produto no fim da semana, como na P105. Fatos do produto (cores, tratamento, medidas, preço) só do Notion (Catálogo - Produtos) ou do Hugo; nada se inventa. Confirmar estoque e linha do cashback antes da legenda. Fotos pendentes: sem elas não há peça.",
+      "assunto": "cordas de juta tratadas e tingidas (novidade de produto)",
+      "assunto_alerta": "Atenção ao prazo: fotos, texto e arte em dois dias. Se as fotos não chegarem a tempo, o slot volta a ficar livre e o Hugo decide.",
+      "produto_direto": true
     },
     {
       "id": "P15",
@@ -629,9 +662,10 @@
     },
     {
       "para": "Hugo",
-      "o_que": "Escolher o post de sexta 13/11; mandar as fotos de amarração de 3 a 4 cordas e confirmar a contagem; reposição da juta 8m antes de o Kit para Estudo sair; o que ocupa 16, 18 e 20/11.",
+      "o_que": "Fotos das cordas de juta tratadas e tingidas para a sexta 13/11; mandar as fotos de amarração de 3 a 4 cordas (carrossel do Kit para Estudo, sem data); reposição da juta 8m antes de o Kit para Estudo sair; o que ocupa 16, 18 e 20/11.",
       "prazo": "2026-11-10",
-      "obs": "Nada disso foi aprovado: o plano v14 só confirma o vídeo agendado de 10/11."
+      "obs": "Nada disso foi aprovado: o plano v14 só confirma o vídeo agendado de 10/11.",
+      "quando": "2026-11-12"
     },
     {
       "para": "Fotógrafo",
@@ -642,7 +676,7 @@
     },
     {
       "para": "Mari",
-      "o_que": "Confirmar na pauta a postagem do vídeo do castiçal (no ar em 10/11, conforme o Hugo) quando o perfil mostrar.",
+      "o_que": "Confirmar na pauta a postagem do vídeo do castiçal (o perfil mostra no ar em 09/11) se ainda faltar.",
       "prazo": "2026-11-10",
       "obs": ""
     }
@@ -1069,8 +1103,8 @@
       ]
     },
     {
-      "titulo": "Slots livres: 13, 16, 18 e 20/11",
-      "slots": "13/11 (sexta; o Hugo pediu uma ideia nova), 16/11, 18/11 e 20/11 (antes da Black Friday, que reserva 23, 25, 27 e 30/11)",
+      "titulo": "Slots livres: 16, 18 e 20/11",
+      "slots": "16/11, 18/11 e 20/11 (antes da Black Friday, que reserva 23, 25, 27 e 30/11); a sexta 13/11 já tem a novidade de cordas tingidas",
       "opcoes": [
         "Deixar sem post (3 por semana não são obrigatórios).",
         "Trazer um item da reserva (C-004 ou C-062) para 18/11.",

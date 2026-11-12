@@ -1,5 +1,5 @@
 {
- "versao": "v16 (edging adiantado para qua 11/11; Kit para Estudo incompleto e sem data; sexta 13/11 livre)",
+ "versao": "v17 (edging agendado 11/11 08:00; novidade de cordas de juta tingidas na sexta 13/11; Kit para Estudo incompleto e sem data)",
  "atualizado_em": "2026-11-10",
  "itens": {
   "P1": {
@@ -75,7 +75,7 @@
    "arco": null
   },
   "X4": {
-   "data": "2026-11-10",
+   "data": "2026-11-09",
    "titulo": "Castiçal (trend de fornifilia): \"Já montou um móvel desses?\"",
    "formato": "Reel de trend (vídeo editado pelo Hugo)",
    "prazo": "2026-11-09",
@@ -90,6 +90,15 @@
    "prazo": "2026-11-10",
    "responsavel": "Hugo (posição), Leo, Julia, Ana, Bia",
    "assunto": "controle do orgasmo (edging)",
+   "arco": null
+  },
+  "P22": {
+   "data": "2026-11-13",
+   "titulo": "Novidade: cordas de juta tratadas e tingidas",
+   "formato": "Post de novidade de produto (formato a definir pelas fotos do Hugo)",
+   "prazo": "2026-11-12",
+   "responsavel": "Hugo (fotos), Leo, Julia, Ana, Bia",
+   "assunto": "cordas de juta tratadas e tingidas (novidade de produto)",
    "arco": null
   },
   "P15": {
@@ -130,11 +139,9 @@
   }
  },
  "ultimas_mudancas": {
-  "quando": "10/11/2026 10:11",
+  "quando": "10/11/2026 15:50",
   "itens": [
-   "Por trás do desejo · controle de org*smo (edging): data de postagem 13/11 -> 11/11",
-   "Por trás do desejo · controle de org*smo (edging): prazo de entrega 12/11 -> 10/11",
-   "saiu da fila: Kit Shibari para Estudo (11/11)"
+   "entrou na fila: Novidade: cordas de juta tratadas e tingidas (13/11)"
   ]
  }
 }
