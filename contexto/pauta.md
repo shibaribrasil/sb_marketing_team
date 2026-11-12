@@ -137,6 +137,7 @@ Leo (fila) → Julia (texto, com a Ana) → Bia → Mari (publicação) → stat
 
 | Título | Tipo de Conteúdo | Arquivo | Aprovado em |
 |---|---|---|---|
+| Indicação de instrutor de shibari (story, 3 telas; fora da fila, pedido direto do Hugo; variação do story de 10/11) | Story Instagram | `conteudos/instagram-story-gerais/indicacao-de-instrutor/` | 12/11/2026 |
 | C-090 — falar também é parte do jogo, talvez a sua parte mais importante | Post de Frase (Instagram) | `conteudos/instagram-post-de-frase/conversa-antes-da-cena/` | 14/09/2026 (DESCARTADA pelo Hugo em 28/10/2026) |
 ---
 
